@@ -26,7 +26,27 @@ def estimate_revised_verses_progress(df):
     revised_verses_count = len(df) - df['verse'].str.count(':').sum()
     print(f'- [{revised_verses_count}] или [{round(revised_verses_count*100/len(df), 2)}%] от [{len(df)}] стиха в kjb-bg/Библия.txt вече са напълно ревизирани.')
 
-print('Прогрес:')
-df = load_translated_Bible()
-estimate_letter_progress(df)
-estimate_revised_verses_progress(df)
+def compile_bg_books(df):
+    df = df.loc[~df['verse'].str.split(' ', expand=True)[0].str.contains(':')]
+    books = list(df['verse'].str.split(' ', expand=True)[0].unique())
+    for book in books:
+        save_file = f'kjb-bg/compiled_text_by_books/{book}.txt'
+        print(f'- компилиране на [{book}] във файл [{save_file}]...')
+        book_df = df.loc[df['verse'].str.split(' ', expand=True)[0]==book].copy()
+        book_df['verse'] = book_df['verse'].str.split(n=1).str[1].astype(str)
+        book_df.to_csv(save_file, index=False, header=False, sep='>')
+    print('готово!')
+
+
+
+if __name__=='__main__':
+    # Print the progress:
+    print('Прогрес:')
+    df = load_translated_Bible()
+    estimate_letter_progress(df)
+    estimate_revised_verses_progress(df)
+
+    # Compile the books:
+    print()
+    print('Компилиране на книгите с преведен поне един стих:')
+    compile_bg_books(df)
