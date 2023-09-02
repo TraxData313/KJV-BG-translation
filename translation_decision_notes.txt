@@ -2,12 +2,12 @@
 
 under 300: под
 beneath 50: отдолу
-underneath 3: ?????
+underneath 3: +не е под:под или отдолу:отдолу, може би поддолу?+ още не съм решил
 
 over 1008: над 
 above 223: отгоре
  
-called 624 : *зов* 623 - 1 missing fixed
+called 624 : *зов* 623 - 1 missing -> found and fixed
 
 together:заедно
 along:надлъж
