@@ -14,7 +14,7 @@ under 300: под
 beneath 50: отдолу
 underneath 3: +не е под:под или отдолу:отдолу, може би поддолу?+ още не съм решил
 
-over 1008: над 
+over 1008: над/пре (overlaid, overcome... ??????? except cover, covered,  discover, recover, come over, governors, covered over, gave their life over to the pestilence, lovers)
 above 223: отгоре
  
 called 624 : *зов* 623 - 1 missing -> found and fixed
