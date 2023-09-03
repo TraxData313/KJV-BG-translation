@@ -1,9 +1,6 @@
 import pandas as pd
+import functions as f
 
-def load_translated_Bible():
-    df = pd.read_csv('kjb-bg/Библия.txt', sep='<', header=None)
-    df.columns = ['verse']
-    return df
 
 def estimate_letter_progress(df):
     df = df.copy()
@@ -42,7 +39,7 @@ def compile_bg_books(df):
 if __name__=='__main__':
     # Print the progress:
     print('Прогрес:')
-    df = load_translated_Bible()
+    df = f.load_translated_Bible()
     estimate_letter_progress(df)
     estimate_revised_verses_progress(df)
 

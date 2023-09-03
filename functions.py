@@ -7,6 +7,11 @@ def load_original_Bible():
     df.columns = ['verse']
     return df
 
+def load_translated_Bible():
+    df = pd.read_csv('kjb-bg/Библия.txt', sep='<', header=None)
+    df.columns = ['verse']
+    return df
+
 def get_original_words(original_df):
     # Get all the words:
     words = []
@@ -56,7 +61,7 @@ def get_word_info_by_nltk(words_df):
     return words_df
 
 def get_word_dict():
-    cache = 'речник.csv'
+    cache = 'речник.txt'
     csv_sep = ':'
     if os.path.exists(cache):
         df = pd.read_csv(cache, sep=csv_sep)
