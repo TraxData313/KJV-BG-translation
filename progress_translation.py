@@ -25,19 +25,32 @@ def estimate_revised_verses_progress(df):
 
 def compile_bg_books(df):
     df = df.loc[~df['verse'].str.split(' ', expand=True)[0].str.contains(':')]
-    books = list(df['verse'].str.split(' ', expand=True)[0].unique())
-    for book in books:
-        save_file = f'kjb-bg/compiled_text_by_books/{book}.txt'
-        print(f'- компилиране на [{book}] във файл [{save_file}]...')
-        book_df = df.loc[df['verse'].str.split(' ', expand=True)[0]==book].copy()
-        book_df['verse'] = book_df['verse'].str.split(n=1).str[1].astype(str)
-        book_df.to_csv(save_file, index=False, header=False, sep='>')
-    print('готово!')
+    if len(df)>0:
+        books = list(df['verse'].str.split(' ', expand=True)[0].unique())
+        for book in books:
+            save_file = f'kjb-bg/compiled_text_by_books/{book}.txt'
+            print(f'- компилиране на [{book}] във файл [{save_file}]...')
+            book_df = df.loc[df['verse'].str.split(' ', expand=True)[0]==book].copy()
+            book_df['verse'] = book_df['verse'].str.split(n=1).str[1].astype(str)
+            book_df.to_csv(save_file, index=False, header=False, sep='>')
+        print('- готово!')
+    else:
+        print('- все още няма!')
+
 
 
 
 if __name__=='__main__':
-    # Print the progress:
+    # Translate the words:
+    print()
+    print()
+    print('Преведени думи:')
+    changes_df = f.translate_df(save=True)
+    print(changes_df)
+
+    # Print the progress:.
+    print()
+    print()
     print('Прогрес:')
     df = f.load_translated_Bible()
     estimate_letter_progress(df)
@@ -45,5 +58,6 @@ if __name__=='__main__':
 
     # Compile the books:
     print()
-    print('Компилиране на книгите с преведен поне един стих:')
+    print()
+    print('Компилирани на книги с преведен поне един стих:')
     compile_bg_books(df)

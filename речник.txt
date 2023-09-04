@@ -29,6 +29,7 @@ bottomless:бездъннен
 foot:крак
 foots:крака
 footstool:кракоподложка
+simple:обикновен
 base:прост
 bases:проставки
 baser:по-прост
