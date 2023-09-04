@@ -41,6 +41,24 @@ appearance: проявление (Abstain from all appearance of evil.)
 
 
 
+beginning:започването
+begin:започвам
+beginnings:започвания
+beginnest:започнеш
+
+
+create:създава
+created:създаде
+creature:създание
+creator:създадел
+creation:създание
+establish:установя
+establisheth:установявам
+established:установен
+
+
+
+
 
 
 
@@ -50,6 +68,17 @@ appearance: проявление (Abstain from all appearance of evil.)
 
 
 Невъведени:
+
+make:правя
+maketh 
+do:върша
+doeth:вършейки
+doth:вършеше
+done:свърши
+doest:вършиш
+dost:свърши
+form:форма
+build:строя
 
 over 1008: над/пре (overlaid, overcome... ??????? except cover, covered,  discover, recover, come over, governors, covered over, gave their life over to the pestilence, lovers)
 above 223: отгоре
@@ -61,3 +90,5 @@ along:надлъж
 
 place: място
 space: разстояние
+
+down

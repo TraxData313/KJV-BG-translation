@@ -8,7 +8,12 @@ def load_original_Bible():
     return df
 
 def load_translated_Bible():
-    df = pd.read_csv('kjb-bg/Библия.txt', sep='<', header=None)
+    file = 'kjb-bg/Библия.txt'
+    if os.path.exists(file):
+        df = pd.read_csv(file, sep='<', header=None)
+    else:
+        df = pd.read_csv('kjb-en/Bible.txt', sep='<', header=None)
+        df.to_csv(file, sep='<', header=None)
     df.columns = ['verse']
     return df
 
