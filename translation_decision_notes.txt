@@ -85,12 +85,18 @@ building:строене/сграда
 builder:строител
 builders:строители
 
-
+void:пуст
+empty:празен
 
 
 
 Невъведени:
 
+dark:тъмен
+darken:потъмня
+darkened:потъмни
+darkness:тъмнина
+darkeneth:потъмнява
 
 
 

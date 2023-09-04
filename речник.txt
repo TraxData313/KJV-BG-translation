@@ -80,3 +80,10 @@ yours:ваш
 mine:мой
 ours:наш
 theirs:техен
+void:пуст
+empty:празен
+dark:тъмен
+darken:потъмня
+darkened:потъмни
+darkness:тъмнина
+darkeneth:потъмнява
