@@ -94,7 +94,7 @@ darkened:потъмни
 darkness:тъмнина
 darkeneth:потъмнява
 
-
+grace:благодат
 
 
 
@@ -103,6 +103,15 @@ darkeneth:потъмнява
 
 
 Невъведени:
+
+
+all:всички
+every:всеки
+everything:всичко
+
+
+
+disgrace:опозорявам
 
 
 

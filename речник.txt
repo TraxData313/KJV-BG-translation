@@ -87,3 +87,10 @@ darken:потъмня
 darkened:потъмни
 darkness:тъмнина
 darkeneth:потъмнява
+grace:благодат
+jesus:исус
+christ:христос
+amen:амин
+all:всички
+every:всеки
+everything:всичко
