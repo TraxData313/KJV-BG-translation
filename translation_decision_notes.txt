@@ -99,15 +99,27 @@ grace:благодат
 
 
 
+upon:над
+above:отгоре
+
+face:лице
+faces:лица
+
+water:вода
+waters:води
+
+deep:дълбина
+deeper:по-дълбоко
+deeps:дълбини
+deeply:дълбоко
+
+move:движа
+moved:придвижи
+moveth:движи
+moveable:подвижен
+mover:двигател
 
 
-
-Невъведени:
-
-
-all:всички
-every:всеки
-everything:всичко
 
 
 
@@ -127,7 +139,7 @@ dost:свърши
 
 
 over 1008: над/пре (overlaid, overcome... ??????? except cover, covered,  discover, recover, come over, governors, covered over, gave their life over to the pestilence, lovers)
-above 223: отгоре
+
 
 called 624 : *зов* 623 - 1 missing -> found and fixed
 
