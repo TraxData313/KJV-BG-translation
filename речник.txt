@@ -129,3 +129,11 @@ lights:светлини
 lighted:светна
 lightest:светваш
 enlightened:просветлен
+saw:видя
+see:виждам
+seeing:виждайки
+good:добро
+divide:разделя
+divideth:разделяш
+divided:раздели
+from:от
