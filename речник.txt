@@ -37,7 +37,7 @@ pillar:колона
 pillars:колони
 dry:сух
 appear:яви
-appeareth:явява
+appeareth:яви
 appeared:явих
 appearance:проявление
 beginning:започване
@@ -50,7 +50,7 @@ creature:създание
 creator:създадел
 creation:създание
 establish:установя
-establisheth:установявам
+establisheth:установи
 established:установен
 heaven:небе
 heavens:небеса
@@ -137,3 +137,16 @@ divide:разделя
 divideth:разделяш
 divided:раздели
 from:от
+call:на/призова
+called:на/призова
+calleth:на/призова
+day:ден
+days:дни
+night:нощ
+nights:нощи
+morning:утро
+mornings:утини
+evening:вечер
+evenings:вечери
+he:той
+first:първи
