@@ -123,3 +123,9 @@ telleth:обяснява
 answer:отговор
 answereth:отговаря
 answered:отговори
+let:нека
+light:светлина
+lights:светлини
+lighted:светна
+lightest:светваш
+enlightened:просветлен
