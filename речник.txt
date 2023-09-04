@@ -109,3 +109,17 @@ moved:придвижи
 moveth:движи
 moveable:подвижен
 mover:двигател
+say:казвам
+said:каза
+saying:казвайки
+speak:говоря
+speaking:говорейки
+speaketh:говори
+speech:реч
+speeches:речи
+spake:изговори
+tell:обясни
+telleth:обяснява
+answer:отговор
+answereth:отговаря
+answered:отговори
