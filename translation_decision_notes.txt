@@ -57,11 +57,33 @@ establisheth:установявам
 established:установен
 
 
+heaven:небе
+heavens:небеса
+heavenly:небесен
+paradise:рай
 
+was:беше
+were:беше
 
+with:с
+without:без
 
-
-
+you:вие
+thou:ти
+thee:теб
+thy:твое
+thine:твои
+form:форма
+formed:сформиран
+formeth:сформирайки
+build:построя
+buildeth:строя
+buildest:построиш
+buildedst:построиш
+builded:строил
+building:строене/сграда
+builder:строител
+builders:строители
 
 
 
@@ -69,7 +91,14 @@ established:установен
 
 Невъведени:
 
+
+
+
+
+
+
 make:правя
+maker:направител
 maketh 
 do:върша
 doeth:вършейки
@@ -77,8 +106,7 @@ doth:вършеше
 done:свърши
 doest:вършиш
 dost:свърши
-form:форма
-build:строя
+
 
 over 1008: над/пре (overlaid, overcome... ??????? except cover, covered,  discover, recover, come over, governors, covered over, gave their life over to the pestilence, lovers)
 above 223: отгоре
