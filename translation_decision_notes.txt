@@ -229,9 +229,31 @@ kind:вид
 
 yield:добивам
 yielding:добиващ
-
-after
-
+after:след
 itself:себе си
 
 
+
+
+
+--------------
+
+season:сезон
+seasons:сезони
+year:година
+years:години
+
+sign:знамение/знак
+signs:знамения/знаци
+signifying:показващ
+	This he said, signifying what death he should die.
+signify:значи
+signification
+
+mean:предвид
+	What mean these seven ewe lambs...
+	What mean these stones?
+meaneth:
+meaning:смисъл
+
+means:средства
