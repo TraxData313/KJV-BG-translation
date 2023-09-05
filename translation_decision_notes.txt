@@ -243,17 +243,20 @@ seasons:сезони
 year:година
 years:години
 
-sign:знамение/знак
-signs:знамения/знаци
-signifying:показващ
-	This he said, signifying what death he should die.
-signify:значи
-signification
+sign:посока
+signs:посоки
+signifying:посочва
+signify:посоча
+signification:насока
 
-mean:предвид
+mean:значи
 	What mean these seven ewe lambs...
 	What mean these stones?
-meaneth:
-meaning:смисъл
-
+meaneth:значиш
+meaning:значение
 means:средства
+
+direction(1): указание
+
+guide:напътства guide me
+guided:напътства

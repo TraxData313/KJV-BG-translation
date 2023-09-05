@@ -202,3 +202,19 @@ itself:себе си
 whose:чийто
 according:според
 brought forth:изкара(ръчен превод)
+season:сезон
+seasons:сезони
+year:година
+years:години
+sign:посока
+signs:посоки
+signifying:посочва
+signify:посоча
+signification:насока
+mean:значи
+meaneth:значиш
+meaning:значение
+means:средства
+direction:указание
+guide:напътства
+guided:напътства
