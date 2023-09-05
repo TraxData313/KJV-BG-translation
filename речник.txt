@@ -185,3 +185,19 @@ drawn:издърпах
 carry:нося
 wear:обличам
 drive:гоня
+grass:трева
+herb:билка
+herbs:билки
+seed:семе
+seeds:семена
+fruit:плод
+fruits:плодове
+tree:дърво
+trees:дърва
+kind:вид
+yield:добивам
+yielding:добиващ
+after:след
+itself:себе си
+whose:чийто
+according:според
