@@ -94,7 +94,7 @@ def load_the_transl_dict():
     df = pd.read_csv('речник.txt', sep=':')
     transl_dict = {}
     for index, row in df.iterrows():
-        transl_dict[row['word'].replace(' ', '')] = row['word_bg'].replace(' ', '') #making sure there are no white spaces
+        transl_dict[row['word']] = row['word_bg']
     return transl_dict
 
 def translate_word(word, transl_dict):

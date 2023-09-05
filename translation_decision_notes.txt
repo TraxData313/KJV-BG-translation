@@ -157,11 +157,12 @@ disgrace:опозорявам
 
 
 make:правя
+maketh:правя
 maker:направител
-maketh 
+made:направи
 do:върша
 doeth:вършейки
-doth:вършеше
+doth:върша
 done:свърши
 doest:вършиш
 dost:свърши
@@ -172,10 +173,54 @@ over 1008: над/пре (overlaid, overcome... ??????? except cover, covered,  
 
 called 624 : *зов* 623 - 1 missing -> found and fixed
 
-together:заедно
-along:надлъж
+
 
 place: място
 space: разстояние
 
 down
+
+
+gather:събирам
+gathered:събрани
+gathering:събиране
+gathereth:събираш
+together:заедно
+along:надлъж
+
+
+unto:към (Let the waters under the heaven be gathered together unto one place, said unto the serpent, return unto the ground, crieth unto me). 
+one:едно
+place:място
+
+
+sea:море
+seas:морета
+lake:езеро
+ocean - nqma
+
+bring forth: изкарвам
+	Let the earth bring forth grass - да изкара трева
+	And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein - изкарайте изобилно
+	the river shall bring forth frogs - изкара
+	Bring forth him that - изкарайте, 
+	bring forth your strong reasons - изкарайте
+	And he brought them forth vestments - изкарайте
+
+
+bring: донасям или изкарвам?
+forth: на показ
+
+draw: издърпвам
+draweth
+drawn
+
+carry:нося
+wear:обличам
+drive:гоня
+
+
+
+
+
+
