@@ -177,4 +177,11 @@ place:място
 sea:море
 seas:морета
 lake:езеро
-bring forth:изкарвам
+bring forth:изкарвам(ръчен превод)
+bring:докарвам
+draw:издърпвам
+draweth:издърпвам
+drawn:издърпах
+carry:нося
+wear:обличам
+drive:гоня

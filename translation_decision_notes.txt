@@ -208,19 +208,30 @@ bring forth: изкарвам
 	And he brought them forth vestments - изкарайте
 
 
-bring: донасям или изкарвам?
-forth: на показ
-
-draw: издърпвам
-draweth
-drawn
-
+bring:докарвам
+draw:издърпвам
+draweth:издърпвам
+drawn:издърпах
 carry:нося
 wear:обличам
 drive:гоня
 
+grass:трева
+herb:билка
+herbs:билки
+seed:семе
+seeds:семена
+fruit:плод
+fruits:плодове
+tree:дърво
+trees:дърва
+kind:вид
 
+yield
+yielding
 
+after
 
+itself:себе си
 
 
