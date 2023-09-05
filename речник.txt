@@ -201,3 +201,4 @@ after:след
 itself:себе си
 whose:чийто
 according:според
+brought forth:изкара(ръчен превод)
