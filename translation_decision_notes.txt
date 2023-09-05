@@ -260,3 +260,19 @@ direction(1): указание
 
 guide:напътства guide me
 guided:напътства
+
+
+give:дава
+given:даде
+provide:снабдявам  
+provided:снабди
+provideth:снабдиш
+	Who provideth for the raven his food?
+supply:запас
+	But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality
+	But my God shall supply all your need
+	the supply of the Spirit of Jesus Christ
+	not regarding his life, to supply your lack of service toward me.
+	
+replace: няма
+substitute: няма

@@ -218,3 +218,11 @@ means:средства
 direction:указание
 guide:напътства
 guided:напътства
+give:дава
+giveth:даваш
+gave:даде
+given:даде
+provide:снабдявам  
+provided:снабди
+provideth:снабдиш
+supply:запас
