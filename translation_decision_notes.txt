@@ -276,3 +276,71 @@ supply:запас
 	
 replace: няма
 substitute: няма
+
+
+book
+generation:поколение
+	offspring:потомство
+	descent:произход
+son
+David
+Abraham
+
+begat:роди
+born:роден
+isaac:исаак
+jacob:яков
+judas:юда
+Judah:юда <- друго име използвано за Юда
+Judaea:юдеа
+brethren:братя
+brother:брат
+
+phares:фарес
+zara:зара
+zarah:зара <- същият от Genesis 46:12, който в Матей 1:3 се нарича Zara
+zerah:зара <- също познат и с това име (напр в 1 Chronicles 2:4 отново е от същата майка => същия човек е)
+thamar:тамар
+tamar:тамар <- същата Тамар
+esrom:есром
+aram:арам
+
+aminadab:аминадав
+naasson:наасон <- син на Аминадав
+Nahshon:наасон <- други име за същия човек, Numbers 1:7 "Of Judah; Nahshon the son of Amminadab."
+salmon:салмон
+booz:вооз
+Boaz:вооз <- така се изпизва името в книгата Рут, но е същият
+rachab:рахав
+rahab:рахав
+obed:овид
+ruth:рут
+jesse:есей
+solomon:соломон
+
+Тези още не са проверени и въведени:
+wife:съпруга
+Urias:Уриевата
+Uriah:Урий
+Roboam:ровоам
+Rehoboam:ровоам (друго име, същият, напр 1 Kings 11:43)
+Jeroboam=Rehoboam ???
+Abia:Авий
+Abiah:Авий
+Abijah:авий <- ??? 1 Kings 14:1 "At that time Abijah the son of Jeroboam fell sick."
+Abiathar:Авиатар
+Asa:Аса
+Josaphat:Йосафат
+Joram:Йорам
+Ozias:Озий
+Joatham:Йотанам
+Achaz:Ахаз
+Ezekias:Езекий
+Manasseh:Манасий
+Manasses:Манасий
+Amon
+Josias
+Jechonias
+Babylon:вавилон
+Babylonish:вавилонски
+Babylonians:вавилоняните
