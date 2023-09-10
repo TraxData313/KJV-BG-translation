@@ -226,3 +226,10 @@ provide:снабдявам
 provided:снабди
 provideth:снабдиш
 supply:запас
+book:книга
+generation:поколение
+offspring:потомство
+son:син
+abram:аврам
+abraham:авраам
+david:давид
