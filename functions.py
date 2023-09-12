@@ -141,11 +141,7 @@ def translate_df(save=True):
     new_verses = []
     changed_words = []
     for verse in df['verse']:
-        try:
-            new_verse, changed_words_part = translate_verse(verse, transl_dict)
-        except Exception as e:
-            print(f"ERROR: Could not transpate verse [{verse}] due to [{e}]. Breaking!")
-            1/0
+        new_verse, changed_words_part = translate_verse(verse, transl_dict)
         changed_words += changed_words_part
         new_verses.append(new_verse)
     new_df = pd.DataFrame({'verse': new_verses})
