@@ -333,10 +333,44 @@ endureth
 enduring
 endureth
 
-away
-...
-
 нося:bear / bring
 държа
 карам:bring -> carry
 търпя/трая:endure
+
+
+	
+
+
+
+...
+away:away_помощна_за_глагол
+to:да/на/в
+
+away - използва се само като помощна дума за глаголи
+	sent him away : от-пращам
+	drove them away : от-тласкам
+	pass not away : от-минавам
+	turn away : 
+
+to: да(глагол)/на(обръщение)/в(за място)
+	to water the garden : да свърша нещо
+	gave names to all cattle: на всички
+	pleasant to the eyes: приятен на очите
+	and to his offering: на
+	And to Seth, to him also there was born a son
+	And God spake unto Noah, and to his sons with him, saying, : unto=to
+	according to thy word: според на
+	good to you : добро на теб
+	and to what are they like?: на какво причличат
+	
+	and came to Nazareth
+	carried away to Babylon : 
+	they went up to Jerusalem :
+	
+unto 
+
+in : в(за място)
+into
+by
+at
