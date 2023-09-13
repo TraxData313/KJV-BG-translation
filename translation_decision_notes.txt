@@ -412,4 +412,24 @@ husbandry:нива, земеделие?
 	
 
 whom:когото
-who:кой
+who:кой 
+is:е
+
+are:са
+fourteen:четиринадесет
+until:докато
+
+
+now:сега
+wise:мъдър/начин
+when:когато
+mother:майка
+espoused:сгодена
+before:преди/пред (hunter before the LORD)
+came:дойде
+come
+she
+found
+child
+Holy
+Ghost
