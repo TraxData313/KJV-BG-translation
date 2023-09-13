@@ -177,8 +177,6 @@ place:място
 sea:море
 seas:морета
 lake:езеро
-bring forth:изкарвам(ръчен превод)
-bring:докарвам
 draw:издърпвам
 draweth:издърпвам
 drawn:издърпах
@@ -300,3 +298,23 @@ david:давид
 abram:аврам
 abraham:авраам
 son:син
+about:около
+time:време
+times:времена
+they:те
+carried:карах
+carrying:каращ
+carrieth:кара
+carry:карам
+carriage:карета
+carriages:карети
+bring:изнася
+bear:нося
+bearest:носиш
+bearing:носейки
+beareth:носиш
+barren:неплодоносещ
+barrenness:неплодоносие
+endure:търпя
+endureth:търпи
+enduring:търпейки

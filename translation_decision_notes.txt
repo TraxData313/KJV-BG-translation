@@ -279,3 +279,64 @@ substitute: няма
 
 
 въвеждам всичките имена от Матей 1, така че когато на различни места в Библията на английски е използвано различно име и в превода на български имената да са различни (Zara:Зара / Zarah:Зарах / Zaras:Заря), дори виждайки, че даден човек (същия, от същите родители) в стария завед е написан като Zarah, а в новия като Zarah, е преведен с различните имена - или е за да подчертае различното звучене от иврид на гръцки или може да отбелязва промяна в човека, като Аврам->Авраам
+
+
+about:около
+	about the time; About midnight : около
+	round about them : около
+	he is about to do : тъкмо щеше / беше около да
+	Why go ye about to kill me : тъкмо щеше
+	trade hath been about cattle : около/за
+	the service of the sons... about the most holy things : около/за
+time:време
+times:времена или пъти -> времена, дори да звучи странно запазва значението и е напълно разбираемо от контекста
+	seven times seven years
+	nor observe times
+they:те
+
+carried:карах
+carrying:каращ
+carrieth:кара
+carry:карам
+carriage:карета
+carriages:карети
+
+bring:докарвам (вече е фиксирано) -> донасям = bring forth
+bear:търпя
+	greater than I can bear:търпя/понасям
+	then let me bear the blame for ever:търпя/понасям
+	
+	thy wife shall bear thee a son:раждам/изнасям
+	herb bearing seed:раждам/изнасям
+	When Leah saw that she had left bearing:спря да ражда/изнася
+	and bear fruit upward
+	
+	to bear the ark: издържа на тежестта
+	the staves to bear the table: да държат тежестта
+	
+	And seven priests shall bear before the ark seven trumpets: просто нося
+	Thou shalt not bear tidings this day
+	men able to bear buckler and sword
+	Thou bearest record of thyself: нося нематериално нещо
+	
+	and indeed bear with me: потърпете
+	
+bearest:носиш
+bearing
+	herb bearing seed
+barren:безплодна
+beareth
+beard:брада (не е свързано)
+
+endure:търпя
+endureth
+enduring
+endureth
+
+away
+...
+
+нося:bear / bring
+държа
+карам:bring -> carry
+търпя/трая:endure
