@@ -287,3 +287,16 @@ matthan:матхан
 jacob:яков
 joseph:йосиф
 mary:мария
+book:книга
+generation:поколение
+offspring:потомство
+descent:произход
+begat:роди
+born:роден
+brethren:братя
+brother:брат
+wife:съпруга
+david:давид
+abram:аврам
+abraham:авраам
+son:син
