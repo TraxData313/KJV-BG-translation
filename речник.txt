@@ -244,7 +244,7 @@ aminadab:аминадав
 naasson:наасон
 nahshon:нахшон
 salmon:салмон
-booz:воок
+booz:вооз
 boaz:воаз
 rachab:рачав
 rahab:рахав
