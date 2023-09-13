@@ -310,6 +310,7 @@ carriage:карета
 carriages:карети
 bring:изнася
 bear:нося
+brought:донесен
 bearest:носиш
 bearing:носейки
 beareth:носиш
@@ -318,3 +319,10 @@ barrenness:неплодоносие
 endure:търпя
 endureth:търпи
 enduring:търпейки
+far:далеч
+conceived:зачена
+bare:износи
+husband:съпруг
+husbands:съпрузи
+husbandman:земеделец
+husbandry:земеделие

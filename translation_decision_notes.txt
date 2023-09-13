@@ -352,6 +352,20 @@ away - използва се само като помощна дума за гл
 	drove them away : от-тласкам
 	pass not away : от-минавам
 	turn away : 
+	Jacob hath taken away all that was our father's
+	he sold away his... ако няма нужда да специфицирам например на кого, а само че го е продал е от значение, като he sold his book to his friend. на български няма нужда от тазу помощна дума и пак се запзва значението напълно
+
+far: далеч
+
+and they carry them away captives unto a land far off or near
+
+far away
+	only ye shall not go very far away
+	If iniquity be in thine hand, put it far away
+
+away far
+	the Levites that are gone away far from me
+
 
 to: да(глагол)/на(обръщение)/в(за място)
 	to water the garden : да свърша нещо
@@ -368,9 +382,16 @@ to: да(глагол)/на(обръщение)/в(за място)
 	carried away to Babylon : 
 	they went up to Jerusalem :
 	
-unto 
+unto:към
+	LORD said unto him
+	took unto him two wives
+	There went in two and two unto Noah into the ark
+	builded an altar unto the LORD
 
 in : в(за място)
 into
 by
+	to thee by sevens
 at
+
+все още тези помощни думи ще превеждам ръчно според контекста
