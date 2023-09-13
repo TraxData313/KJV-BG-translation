@@ -287,10 +287,12 @@ joseph:йосиф
 mary:мария
 book:книга
 generation:поколение
+generations:поколения
 offspring:потомство
 descent:произход
 begat:роди
 born:роден
+birth:раждане
 brethren:братя
 brother:брат
 wife:съпруга
@@ -326,3 +328,9 @@ husband:съпруг
 husbands:съпрузи
 husbandman:земеделец
 husbandry:земеделие
+whom:когото
+who:кой
+is:е
+are:са
+fourteen:четиринадесет
+until:докато

@@ -395,3 +395,21 @@ by
 at
 
 все още тези помощни думи ще превеждам ръчно според контекста
+
+
+conceived:зачена
+born:реден
+begat:роди
+bare:износи
+	and she conceived, and bare Cain
+	
+husband:съпруг
+husbands:съпрузи
+husbandman:земеделец
+	And Noah began to be an husbandman, and he planted a vineyard:
+husbandry:нива, земеделие?
+	1 Corinthians 3:9 For we are labourers together with God: ye are God's husbandry, ye are God's building.
+	
+
+whom:когото
+who:кой
