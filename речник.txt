@@ -334,3 +334,10 @@ is:е
 are:са
 fourteen:четиринадесет
 until:докато
+ghost:обитание
+presence:присъствие
+spiritual:духовен
+soul:душа
+souls:души
+heart:сърце
+hearts:сърца

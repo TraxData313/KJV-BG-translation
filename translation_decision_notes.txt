@@ -434,10 +434,26 @@ found:намери
 find:намира
 child:дете
 holy
-ghost:дух
-	gave up the ghost and died
+ghost:път,смисъл? присъствие/обитание (защото ние се потапяме в Неговото Обитание)
+	използва се по 2 начина
+	gave up the ghost and died - отказа се от обитанието
 	Holy Ghost
-spirit:духовно създание / непроменлив характер -> ум? същество?
+	But the Comforter, which is the Holy Ghost
+	he breathed on them, and saith unto them, Receive ye the Holy Ghost
+	full of the Holy Ghost and wisdom
+	that thou mightest receive thy sight, and be filled with the Holy Ghost
+	and in the comfort of the Holy Ghost, were multiplied. (Paus loses his sight when he sees Jesus, understands that he is wrong and his path/way of live is wrong, then trusts what God says to him and receives back his sight and the Holy Ghost)
+	on the Gentiles also was poured out the gift of the Holy Ghost
+	the Holy Ghost fell on them
+	John indeed baptized with water; but ye shall be baptized with the Holy Ghost, departed...
+	the Holy Ghost said ... So they, being sent forth by the Holy Ghost
+	For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
+	that ye may abound in hope, through the power of the Holy Ghost.
+	What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?
+	and the communion of the Holy Ghost, be with you all. Amen.
+	That good thing which was committed unto thee keep by the Holy Ghost which dwelleth in us.
+presence:присъствие
+spirit:духовно създание / непроменлив характер -> ум? същество? -> остава си дух
 	And the Spirit of God moved upon the face of the waters.
 	filled with the spirit of wisdom
 	But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
@@ -448,8 +464,11 @@ spirit:духовно създание / непроменлив характер
 	Then there came out a spirit, and stood before the LORD, and said, I will entice him.
 	the LORD hath put a lying spirit in the mouth of these thy prophets
 	humble in spirit
+spiritual:духовен
 mind:ум/мисъл
 	Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+thought:мисъл
+thoughts:мисли
 soul:душа
 breath:дъх
 breathed
@@ -465,3 +484,7 @@ understanding:разбиране
 being:не се използва като същество
 mind-spirit:
 	And be renewed in the spirit of your mind; / и да се подновявате в духа на вашия ум,
+struggle
+wrestle
+
+
