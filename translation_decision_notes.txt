@@ -488,3 +488,51 @@ struggle
 wrestle
 
 
+now:сега
+wise:мъдър/начин
+wisely:мъдро
+wiser:по-мъдър
+	Now the birth of Jesus Christ was on this wise
+	let us deal wisely with them
+	For he was wiser than all men
+	any wise: If thou afflict them in any wise
+	any wise: Thou shalt in any wise set him king over thee, whom the LORD thy God shall choose
+	any wise: ye do in any wise go back
+	On this wise ye shall bless the children of Israel, saying unto them
+	And every wise hearted man
+reason:причина
+reasonable:разумен
+order:ред
+orderly:подредено
+smart(1): умен, но се използва като глагол
+	He that is surety for a stranger shall smart for it: and he that hateth suretiship is sure.
+
+practise:практикува
+
+manner:поведение? разновидност
+	For all manner of trespass
+	In like manner thou shalt deal with thy vineyard
+	Ye shall do no manner of work
+
+
+when:кога/когато
+mother:майка
+before:преди/пред 
+came:дойде
+she:тя
+found:намери
+find:намирам
+child:дете
+children:деца
+
+
+...
+espoused:взета
+espousals
+	which I espoused to me for an hundred foreskins
+betrothed:
+marry:женя
+marrying:женейки
+married:оженил
+
+holly:свет
