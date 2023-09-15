@@ -624,7 +624,17 @@ fixed:се ползва за фиксиран
 
 exact е за изискване/изисквам
 
-man:човек?
+man:човек
+	So God created man in his own image, in the image of God created he him; male and female created he them.
+male:мъжки
+female:женски
+woman:жена
+women:жени
+people:народ
+peoples:народи
+nation:нация
+nations:нации
+
 willing: искайки/воля?
 publick:публичен?
 example:пример?

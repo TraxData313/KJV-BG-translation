@@ -420,3 +420,12 @@ correction:корекция
 correcteth:коригира
 repair:ремонтирам
 repaired:ремонтираше
+man:човек
+male:мъжки
+female:женски
+woman:жена
+women:жени
+people:народ
+peoples:народи
+nation:нация
+nations:нации
