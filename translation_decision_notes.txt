@@ -635,7 +635,48 @@ peoples:народи
 nation:нация
 nations:нации
 
-willing: искайки/воля?
+willing:искащ
+	not willing to make her a publick example - желаейки / имайки волята да / искайки
+	The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work / доброжелателно - желаещи / самоволни - да имат волята да / искайки - искащи
+will - ползва се само като "ще"
+willingly:доброжелателно
+
+ask:питам
+asketh:пита
+asking:питайки
+asked:попита
+
+wish:желаяние?
+wishing:желае
+wished:пожела
+
+desire: увлечение / привличане 
+	a tree to be desired to make one wise : ... да привлича да ...
+	neither shall any man desire thy land : да бъде привлечен от
+	and thy desire shall be to thy husband : 
+	Whatsoever thy soul desireth, I will even do it for thee. : привлечена към
+	Neither shalt thou desire thy neighbour's wife
+	thou shalt not desire the silver or gold : увлечен по/привлечен към
+desired
+desireth
+desiredst
+attract(0)
+fascination(0)
+
+appetite:апетит
+	
+lust:похот
+	
+want:нужда
+	for want of a shelter.
+	The LORD is my shepherd; I shall not want. : в нужда
+wanteth:нуждае
+wanting:нуждае
+	that nothing be wanting unto them. : от нищо няма да се нуждаят
+
+passion:страст (добро)
+passions:страсти
+
 publick:публичен?
 example:пример?
 minded:намислил?
