@@ -527,12 +527,36 @@ children:деца
 
 
 ...
-espoused:взета
-espousals
+espoused:обручена
 	which I espoused to me for an hundred foreskins
-betrothed:
+espousals:обручения
+betrothed:сгодена
 marry:женя
 marrying:женейки
 married:оженил
+
+agree:съглася
+agreed:съгласен
+agreement:съгласие
+covenant:договор
+covenanted:договорих
+testament:завещание
+testator:завещател
+concord:споразумение
+	And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?
+
+vow:клетва/заклевам  /обет?
+vowest:заклеваш
+vowed:закле
+vows:клетви
+promise:обещание
+promised:обеща
+pledge:залог
+pledges:залози
+
+
+contract(0)
+treaty(0)
+pact(0)
 
 holly:свет
