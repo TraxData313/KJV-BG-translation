@@ -563,11 +563,73 @@ as
 light:светлина
 
 holy:свещен
-unholy:
-	And that ye may put difference between holy and unholy, and between unclean and clean;
+hallow:освещавам
+hallowed:освети
 
 saint:светия
-saints
+saints:светии
 
 world:свят
 worlds:святове
+
+unholy:несвещен
+	And that ye may put difference between holy and unholy, and between unclean and clean;
+profane:осквернявам
+profaned:оскверни
+wicked:лукав
+wickedly:лукаво
+wickedness:лукавщина
+
+as: като/както/колкото-толкова/веднага-щом
+	as gods : като
+	as God had commanded him : както
+	according as his work shall be
+	as soon as
+	as good as...
+ще я превеждам ръчно според контекста
+
+then:тогава
+being:бидейки
+just:справедлив
+unjust:несправедлив
+justify:осправедли
+justifieth:осправедляваш
+justified:осправедливен
+justification:осправедливение
+
+honour:чест/почитай
+honours:почести
+honourable:почтен
+honoureth:почита
+honoured:почетен
+dishonour:безчестие
+
+right:прав
+	his right finger; the right shoulder; their right ear;
+	но също: The daughters of Zelophehad speak right
+	which was right in the eyes of the LORD
+rightly:правилно
+righteous:праведен
+righteousness:праведност
+upright:изправен
+	I was also upright before him, and have kept myself from mine iniquity.
+iniquity:беззаконие? 
+correct:коригирам
+correction:корекция
+correcteth:коригира
+repair:ремонтирам
+repaired:ремонтираше
+
+fixed:се ползва за фиксиран
+
+exact е за изискване/изисквам
+
+man:човек?
+willing: искайки/воля?
+publick:публичен?
+example:пример?
+minded:намислил?
+privily:лично?
+
+put
+put away
