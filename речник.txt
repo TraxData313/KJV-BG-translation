@@ -383,3 +383,16 @@ promise:обещание
 promised:обеща
 pledge:залог
 pledges:залози
+holy:свещен
+hallow:освещавам
+hallowed:освети
+saint:светия
+saints:светии
+world:свят
+worlds:святове
+unholy:несвещен
+profane:осквернявам
+profaned:оскверни
+wicked:лукав
+wickedly:лукаво
+wickedness:лукавщина

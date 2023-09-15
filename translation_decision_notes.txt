@@ -554,9 +554,20 @@ promised:обеща
 pledge:залог
 pledges:залози
 
-
 contract(0)
 treaty(0)
 pact(0)
 
-holly:свет
+as
+
+light:светлина
+
+holy:свещен
+unholy:
+	And that ye may put difference between holy and unholy, and between unclean and clean;
+
+saint:светия
+saints
+
+world:свят
+worlds:святове
