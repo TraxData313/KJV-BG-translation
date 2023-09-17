@@ -562,17 +562,17 @@ as
 
 light:светлина
 
-holy:свещен
-hallow:освещавам
-hallowed:освети
+holy:свещен / свет
+hallow:освещавам / осветявам
+hallowed:освети /освети
 
-saint:светия
-saints:светии
+saint:светия / свещенник
+saints:светии / свещенници
 
 world:свят
 worlds:святове
 
-unholy:несвещен
+unholy:несвещен / несвет
 	And that ye may put difference between holy and unholy, and between unclean and clean;
 profane:осквернявам
 profaned:оскверни
@@ -635,33 +635,33 @@ peoples:народи
 nation:нация
 nations:нации
 
-willing:искащ
+willing:имамволя
 	not willing to make her a publick example - желаейки / имайки волята да / искайки
-	The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work / доброжелателно - желаещи / самоволни - да имат волята да / искайки - искащи
+	The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work / доброволни ... имайки волята да
 will - ползва се само като "ще"
-willingly:доброжелателно
+willingly:своеволно
 
-ask:питам
-asketh:пита
-asking:питайки
-asked:попита
+wish:искане
+wishing:искайки
+wished:поиска
 
-wish:желаяние?
-wishing:желае
-wished:пожела
-
-desire: увлечение / привличане 
+desire:желание
 	a tree to be desired to make one wise : ... да привлича да ...
 	neither shall any man desire thy land : да бъде привлечен от
 	and thy desire shall be to thy husband : 
 	Whatsoever thy soul desireth, I will even do it for thee. : привлечена към
 	Neither shalt thou desire thy neighbour's wife
 	thou shalt not desire the silver or gold : увлечен по/привлечен към
-desired
-desireth
-desiredst
-attract(0)
-fascination(0)
+desired:пожела
+desireth:желаеш
+desiredst:пожела
+
+ask:питам
+asketh:пита
+asking:питайки
+asked:попита
+
+draw(вече преведено като):издърпвам
 
 appetite:апетит
 	
@@ -677,10 +677,79 @@ wanting:нуждае
 passion:страст (добро)
 passions:страсти
 
-publick:публичен?
-example:пример?
-minded:намислил?
-privily:лично?
+publick:публичен
+publickly:публично
+example:пример
+examples:примери
+mind:ум
+minded:наумен
+	mind:ум
+	A double minded man is unstable in all his ways.
+	
+	
+privy:лично - това е корена, формите зависят от мястото в текста, но значението е това за всичките форми - лично
+	privy member cut off
+	all the wickedness which thine heart is privy to
+	And kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles' feet.
+private:лично
+	any private interpretation
+privately:лично
+privily:лично
+secretly:скришно  vs openly:открито
+mystery:мистерия
+
+mind:ум/мисъл
+	Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.
+thought:мисъл
+thoughts:мисли
+
+hide:крия
+hideth:крие
+hidest:криеш
+hidden:скрит
 
 put
-put away
+put away : оставям
+
+
+but:но
+while:докато
+these:тези
+thing:нещо
+things:неща
+angel:ангел
+angels:ангели
+see:виждам(вече преведено)
+behold:съзри
+lo:ето
+	For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations.
+unto:на/помощна
+him:него
+dream:сън
+fear:страхува
+take:взимам
+thy:твоя
+that:това
+her:нея
+on:върху/на/помощна
+
+a:крЧл
+the:пълЧл
+
+for:за/защото
+of:от/за
+
+shall:ще
+shalt:ще
+his:негов
+name:име
+names:имена
+save:запазвам >>
+	спаси/запази: he shall save his people from their sins.
+	освен: He that sacrificeth unto any god, save unto the LORD only, he shall be utterly destroyed. - не жертващ на който и да е бог, ОСВЕН на ГОСПОДА само, той ще бъде набълно унищожен -> ще унищожи всички, запазвайки тези които жертват само на ГОСПОДА
+	освен: Save Caleb the son of Jephunneh the Kenezite - но се говори как другите ще пострадат, ОСВЕН Халев...
+store:съхранявам >>
+rescue:освободи?
+their:техните
+sin:грях
+sins:грехове
