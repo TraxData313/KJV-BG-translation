@@ -739,17 +739,78 @@ the:пълЧл
 for:за/защото
 of:от/за
 
+
+
 shall:ще
 shalt:ще
 his:негов
 name:име
 names:имена
-save:запазвам >>
+
+save:запазвам?
 	спаси/запази: he shall save his people from their sins.
 	освен: He that sacrificeth unto any god, save unto the LORD only, he shall be utterly destroyed. - не жертващ на който и да е бог, ОСВЕН на ГОСПОДА само, той ще бъде набълно унищожен -> ще унищожи всички, запазвайки тези които жертват само на ГОСПОДА
 	освен: Save Caleb the son of Jephunneh the Kenezite - но се говори как другите ще пострадат, ОСВЕН Халев...
-store:съхранявам >>
-rescue:освободи?
+salvation:запазване
+saving:запазвайки
+
+rescue:спасявам?
+rescueth:спасяваш
+rescued:спаси
+
+keep:пазя
+	keep my covenant
+	to keep seed alive
+keeper:пазач
+	keeper of sheep
+guard:охрана/охранявам
+protect(0)
+protection:защита?
+defence:защита?
+defenced
+gruard(0)
+preserve:съхрани
+
+redeem:изкупи
+redeemed:изкупи
+redeemer:изкупител
+redeemeth:изкупва
+redeeming:изкупвайки
+redemption:изкупление
+
+atonement:умилостивение
+atonements:умилостивения
+
+mercy:милост
+mercies:милости
+merciful:милостив
+grace:благодат <<
+gracious:благодатен
+
+forgive:прости
+forgiving:прощавайки
+forgiveth:прощава
+forgave:прости
+forgavest:прости
+forgiven:прости
+forgiveness:прошка
+
+pledge:залог <<
+justify:осправедли <<
+
+sanctify
+wholly
+
+store:запас
 their:техните
 sin:грях
 sins:грехове
+
+
+free:свободен
+freely:свободно
+freed:освободи
+freedom:свобода
+
+deliver:доставям/избавям (to&from)? ще ми се да са с един и същ корен - ще го помисля пак като се натъкна отново
+delivered:достави/избави? 
