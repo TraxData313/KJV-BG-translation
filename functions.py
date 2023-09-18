@@ -20,7 +20,7 @@ def load_translated_Bible():
 def get_original_words(original_df):
     # Get all the words:
     words = []
-    chars_to_remove = [',', '.', ';', ')', '(', '?', "'s", "'", ' ']
+    chars_to_remove = [',', '.', ';', ')', '(', '?', "'s", "'", ' ', '!']
     for index, row in original_df.iterrows():
         for word in [word for word in row['verse'].split(' ') if ':' not in word]:
             word = word.lower()
@@ -165,3 +165,12 @@ def translate_df(save=True):
         else:
             changes_df.to_csv(word_change_log_file, index=False, header=True)
     return changes_df
+
+def print_translated_word_stats():
+    df = get_words_df(use_cache=True)
+    total_words = df['word_use_count'].sum()
+    translated_words = df.loc[df['word_bg'].fillna(0)!=0]['word_use_count'].sum()
+    unique_words = len(df)
+    unique_translated_words = len(df.loc[df['word_bg'].fillna(0)!=0])
+    print(f'- [{translated_words}] или [{round(translated_words*100/total_words,2)}%] от [{total_words}] думи са преведени')
+    print(f'- [{unique_translated_words}] или [{round(unique_translated_words*100/unique_words,2)}%] от [{unique_words}] уникални думи са преведени')
