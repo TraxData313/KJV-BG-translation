@@ -812,6 +812,43 @@ freedom:свобода
 deliver:доставям/избавям (to&from)? ще ми се да са с един и същ корен - ще го помисля пак като се натъкна отново
 delivered:достави/избави? 
 
-
 sanctify
 wholly
+
+
+come:дойди
+	дошъл: The end of all flesh is come before me
+	додеш: and thou shalt come into the ark
+	дойди: Come thou and all thy house into the ark
+came:дойде <<
+went:дойде
+we:ние
+your:ваш
+also:също
+an:крЧл
+against:срещу
+men:хора
+if:ако/дали
+at:на/в
+go:отивам
+going:отивайки
+goeth:отива
+
+
+hand:ръка
+even:дори
+evenly(0)
+us:ние
+saith:каза
+therefore:затова
+because:защото/заради
+our:наш
+or:или
+down:долу
+sons:синове
+father:баща
+fathers:бащи
+hast:имаше/минвр
+o:о
+may:може
+did:свърши
