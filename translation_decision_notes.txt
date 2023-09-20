@@ -897,3 +897,30 @@ saint:светия
 saints:светии
 priest ???
 wholy ???
+
+
+might:мога
+mighty:могъщ
+mightier:по-могъщ
+fulfill:изпълвам
+fulfilled:изпълни
+
+perform:представя
+performing:представящ
+performance:представяне
+do:върша<<
+make:правя<<
+execute:осъществяви
+	judgment, vengeance, service
+executed:осъществи
+executedst:осъществяваш
+executeth:осъществява
+
+spoken:говорено
+prophet:пророк
+prophets:пророци
+prophesy:пророчество
+prophesied:пророкува
+prophesying:пророкувайки
+prophetess:пророчица
+prophesieth:пророкува
