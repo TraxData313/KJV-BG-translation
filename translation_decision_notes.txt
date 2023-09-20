@@ -977,10 +977,10 @@ endure -> издържам
 handle:справям (права ръка)
 handmaid: държана-домакиня -> ръкодомакиня
 
-holy:свещен
-hallow:освещавам
+holy:свещен -> свят
+hallow:освещавам -> 
 hallowed:освети
 saint:светия
 saints:светии
-priest ???
-wholy ???
+priest -> свещенник/жрец
+wholly:изцяло (няма използвана дума wholy)
