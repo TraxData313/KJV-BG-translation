@@ -965,3 +965,22 @@ interpreted:тулкувам
 interpret:тулкува
 interpretation:тълкувание
 interpreter:тълкувател
+
+
+
+
+За обмисляне:
+
+bring:изнася -> нося/износи?
+bear:нося -> търпя
+endure -> издържам
+handle:справям (права ръка)
+handmaid: държана-домакиня -> ръкодомакиня
+
+holy:свещен
+hallow:освещавам
+hallowed:освети
+saint:светия
+saints:светии
+priest ???
+wholy ???
