@@ -924,3 +924,44 @@ prophesied:пророкува
 prophesying:пророкувайки
 prophetess:пророчица
 prophesieth:пророкува
+
+
+девойка девица девственица?
+
+virgin:девствена/девица
+virgins:девици
+virginity:девственост
+
+maid:слугиня -> домакиня?
+maids:слугини
+maiden:прислужница -> подомашница/подомашена
+maidens:прислужници
+	And Laban gave unto his daughter Leah Zilpah his maid for an handmaid.
+	Beside their servants and their maids
+handmaid: държана-домакиня
+	hand:ръка<<
+	handleth/handle:дръжка/хват/държа
+maidservant:домашнослугиня
+maidservants:домашнослугини
+	servant:служител
+	slave:роб
+
+girl:момиче
+girls:момичета
+
+damsel:мома
+damsels:моми
+
+concubine:наложница
+concubines:наложници
+
+espousals:обручения<<
+betrothed:сгодена<<
+marry:женя<<
+
+emmanuel:емануил
+
+interpreted:тулкувам
+interpret:тулкува
+interpretation:тълкувание
+interpreter:тълкувател
