@@ -709,3 +709,7 @@ tillest:ореш
 tillage:оране
 tiller:орач
 firstborn:първороден
+bethlehem:витлеем
+herod:ирод
+east:изток
+eastward:източно

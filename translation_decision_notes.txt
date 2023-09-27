@@ -1045,3 +1045,8 @@ tillest:ореш
 tillage:оране
 tiller:орач
 firstborn:първороден
+
+Bethlehem:витлеем
+Herod:ирод
+east:изток
+eastward:източно
