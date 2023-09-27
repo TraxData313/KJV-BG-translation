@@ -984,3 +984,46 @@ saint:светия
 saints:светии
 priest -> свещенник/жрец
 wholly:изцяло (няма използвана дума wholy)
+
+
+
+raised:въздигна
+	marry her, and raise up seed to thy brother.
+	the LORD raised up a deliverer to the children of Israel
+	And in very deed for this cause have I raised thee up
+	Thou shalt not raise a false report
+raise:въздига
+	Moreover the LORD shall raise him up a king over Israel
+raiseth:въздига
+raise up/raiseth up:up се използва само за помощна, но значението е същото
+sleep:сън/спя
+sleeping:спейки
+sleepest:спиш
+sleepeth:спи
+
+bidden:възвестен
+	bidden to the wedding
+	as the angel of the Lord had bidden him, and took unto him his wife
+bid:възвести
+	And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout.
+	Bid the servant pass on before us
+	preach unto it the preaching that I bid thee
+	All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not.
+biddeth:възвестява
+bidding:възвестение
+
+invite(0)
+invited(3):покани
+	and Absalom invited all the king's sons.
+	
+command:заповядва
+commanded:заповяда
+	And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat
+commandment:заповед
+commandments:заповеди
+commanding:заповядвайки
+commandeth:заповядва
+commandest:заповядваш
+
+new:нов
+news(1):новости
