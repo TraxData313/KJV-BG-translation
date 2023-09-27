@@ -1029,7 +1029,19 @@ new:нов
 news(1):новости
 
 
--TODO: number the compiled texts
-	- get all the unique books in order and find their proper name in https://en.wikipedia.org/wiki/List_of_books_of_the_King_James_Version
-	- compile the EN versions
-	- translate the titles to BG and compile the BG versions
+- DONE: number the compiled texts (XX_OT/NT)
+	
+
+know:знае
+knowing:знаейки
+knew:позна
+knewest:познаеш
+known:позна
+till:докато/до/ора
+	till thou return unto the ground
+	Let no man leave of it till the morning.
+	Thou therefore, and thy sons, and thy servants, shall till the land for him
+tillest:ореш
+tillage:оране
+tiller:орач
+firstborn:първороден

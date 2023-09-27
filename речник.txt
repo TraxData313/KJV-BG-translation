@@ -699,3 +699,13 @@ commandeth:заповядва
 commandest:заповядваш
 new:нов
 news:новости
+know:знае
+knowing:знаейки
+knew:позна
+knewest:познаеш
+known:позна
+till:докато/до/ора
+tillest:ореш
+tillage:оране
+tiller:орач
+firstborn:първороден
