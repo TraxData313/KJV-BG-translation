@@ -1,6 +1,76 @@
 import pandas as pd
+import numpy as np
 import nltk
 import os
+
+books_short_to_full_name_dict = {
+        'Ge': '01OT Genesis',
+        'Exo': '02OT Exodus',
+        'Lev': '03OT Leviticus',
+        'Num': '04OT Numbers',
+        'Deu': '05OT Deuteronomy',
+        'Josh': '06OT Joshua',
+        'Jdgs': '07OT Judges',
+        'Ruth': '08OT Ruth',
+        '1 Sm': '09OT 1 Samuel',
+        '2 Sm': '10OT 2 Samuel',
+        '1 Ki': '11OT 1 Kings',
+        '2 Ki': '12OT 2 Kings',
+        '1 Chr': '13OT 1 Chronicles',
+        '2 Chr': '14OT 2 Chronicles',
+        'Ezra': '15OT Ezra',
+        'Neh': '16OT Nehemiah',
+        'Est': '17OT Esther',
+        'Job': '18OT Job',
+        'Psa': '19OT Psalms',
+        'Prv': '20OT Proverbs',
+        'Eccl': '21OT Ecclesiastes',
+        'SSol': '22OT Song of Solomon',
+        'Isa': '23OT Isaiah',
+        'Jer': '24OT Jeremiah',
+        'Lam': '25OT Lamentations',
+        'Eze': '26OT Ezekiel',
+        'Dan': '27OT Daniel',
+        'Hos': '28OT Hosea',
+        'Joel': '29OT Joel',
+        'Amos': '30OT Amos',
+        'Obad': '31OT Obadiah',
+        'Jonah': '32OT Jonah',
+        'Mic': '33OT Micah',
+        'Nahum': '34OT Nahum',
+        'Hab': '35OT Habakkuk',
+        'Zep': '36OT Zephaniah',
+        'Hag': '37OT Haggai',
+        'Zec': '38OT Zechariah',
+        'Mal': '39OT Malachi',
+        'Mat': '40NT Matthew',
+        'Mark': '41NT Mark',
+        'Luke': '42NT Luke',
+        'John': '43NT John',
+        'Acts': '44NT The Acts',
+        'Rom': '45NT Romans',
+        '1 Cor': '46NT 1 Corinthians',
+        '2 Cor': '47NT 2 Corinthians',
+        'Gal': '48NT Galatians',
+        'Eph': '49NT Ephesians',
+        'Phi': '50NT Philippians',
+        'Col': '51NT Colossians',
+        '1 Th': '52NT 1 Thessalonians',
+        '2 Th': '53NT 2 Thessalonians',
+        '1 Tim': '54NT 1 Timothy',
+        '2 Tim': '55NT 2 Timothy',
+        'Titus': '56NT Titus',
+        'Phmn': '57NT Philemon',
+        'Heb': '58NT Hebrews',
+        'Jas': '59NT James',
+        '1 Pet': '60NT 1 Peter',
+        '2 Pet': '61NT 2 Peter',
+        'Jn': '62NT 1 John',
+        '2 Jn': '63NT 2 John',
+        '3 Jn': '64NT 3 John',
+        'Jude': '65NT Jude',
+        'Rev': '66NT Revelation'
+    }
 
 def load_original_Bible():
     df = pd.read_csv('kjb-en/Bible.txt', sep='<', header=None)
@@ -174,3 +244,58 @@ def print_translated_word_stats():
     unique_translated_words = len(df.loc[df['word_bg'].fillna(0)!=0])
     print(f'- [{translated_words}] или [{round(translated_words*100/total_words,2)}%] от [{total_words}] думи са преведени')
     print(f'- [{unique_translated_words}] или [{round(unique_translated_words*100/unique_words,2)}%] от [{unique_words}] уникални думи са преведени')
+
+def estimate_letter_progress(df):
+    df = df.copy()
+    df['verse'] = df['verse'].str.lower()
+    lat_ltrs = {ltr: '<' for ltr in 'abcdefghijklmnopqrstuvwxyz'}
+    cyr_ltrs = {ltr: '>' for ltr in 'абвгдежзийклмнопрстуфхцчшщъьюя'}
+    for key in lat_ltrs:
+        df['verse'] = df['verse'].str.replace(key, lat_ltrs[key])
+    for key in cyr_ltrs:
+        df['verse'] = df['verse'].str.replace(key, cyr_ltrs[key])
+    # Statistics:
+    lat_count = df['verse'].str.count('<').sum()
+    cyr_count = df['verse'].str.count('>').sum()
+    translated_letters_ratio = cyr_count/lat_count
+    print(f'- [{cyr_count}] или [{round(translated_letters_ratio*100, 1)}%] от общо [{lat_count+cyr_count}] букви в kjb-bg/Библия.txt вече са на български.')
+    
+def estimate_revised_verses_progress(df):
+    df = df.copy()
+    df['verse'] = df['verse'].str.split(' ', expand=True)[0]
+    revised_verses_count = len(df) - df['verse'].str.count(':').sum()
+    print(f'- [{revised_verses_count}] или [{round(revised_verses_count*100/len(df), 2)}%] от [{len(df)}] стиха в kjb-bg/Библия.txt вече са напълно ревизирани.')
+
+def compile_bg_books(df):
+    df = df.loc[~df['verse'].str.split(' ', expand=True)[0].str.contains(':')]
+    if len(df)>0:
+        books = list(df['verse'].str.split(' ', expand=True)[0].unique())
+        for book in books:
+            save_file = f'kjb-bg/compiled_text_by_books/{book}.txt'
+            print(f'- компилиране на [{book}] във файл [{save_file}]...')
+            book_df = df.loc[df['verse'].str.split(' ', expand=True)[0]==book].copy()
+            book_df['verse'] = book_df['verse'].str.split(n=1).str[1].astype(str)
+            book_df.to_csv(save_file, index=False, header=False, sep='>')
+        print('- готово!')
+    else:
+        print('- все още няма!')
+
+def compile_en_books():
+    df = load_original_Bible()
+    # Get the book:
+    df['book'] = df['verse'].str.split(' ', expand=True)[0].str.replace('\d+', '').str.replace(':', '')
+    df['book'] = np.where(df['verse'].str[0].isin(['1','2','3']), df['verse'].str[0].astype(str) + ' ' + df['book'].astype(str), df['book'])
+    df['book'] = df['book'].map(books_short_to_full_name_dict)
+    # Remove the book from the verse:
+    #df['verse'] = df['verse'].str.split(n=1).str[1].astype(str)
+    df['verse_start'] = df['verse'].str.split(n=1).str[0].str.lower()
+    for letter in 'abcdefghijklmnopqrstuvwxyz':
+        df['verse_start'] = df['verse_start'].str.replace(letter, '')
+    df['verse'] = df['verse_start'].astype(str) + ' ' + df['verse'].str.split(n=1).str[1]
+    # Save the books:
+    books = list(df['book'].unique())
+    for book in books:
+        save_file = f'kjb-en/compiled_text_by_books/{book}.txt'
+        book_df = df.loc[df['book']==book].copy()
+        book_df.to_csv(save_file, index=False, header=False, sep='>')
+    print('- готово!')
