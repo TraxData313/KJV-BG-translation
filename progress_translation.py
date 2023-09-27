@@ -23,4 +23,4 @@ if __name__=='__main__':
     print('(Пре)Компилиранe на английските текстове в книги от [kjb-en/Bible.txt] в [kjb-en/compiled_text_by_books]...')
     f.compile_en_books()
     print('Компилирани на книги с преведен поне един стих:')
-    f.compile_bg_books(df)
+    f.compile_bg_books()
