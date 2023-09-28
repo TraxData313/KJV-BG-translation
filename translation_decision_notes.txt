@@ -1079,12 +1079,26 @@ until:докато<<
 while:докато<<
 till:докато/до/ора<<
 any: койтоидае/някакъв -> някой/някое
-jew:еврей
-jews:евреи
+jew:юдей
+jews:юдеи
+hebrew:евреин/иврит
+hebrews:евреи
+hebrewess:еврейка
 seen:видя
 star:звезда
 stars:звезди
-worship
+worship:боготвори (Old English weordhscipe meaning worthiness)
+	https://dwellcc.org/learning/essays/what-worship#:~:text='Worship'%20is%20an%20Inadequate%20Translation,God%20the%20recognition%20He%20deserves.
+	https://www.etymonline.com/word/worship
+worshipped:боготвореше
+worshipping:боготворейки
+worshippeth:боготвори
+worshipper:боготворител
+praise
+pilgrimage
+pilgrims
+adoration
+bowed down
 
 ! in/into and on/unto recheck
 
