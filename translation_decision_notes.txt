@@ -1071,11 +1071,22 @@ wheresoever:къдетоида
 soever:кое*_и_Х_да (винаги има where/wherewith след което е "и да", напри: "което и да е")
 	what things soever the law saith: които и неща да казва законът
 	And what saddle soever he rideth upon: и КОЕТО И седло ДА язди
-whereas
-Jews
-seen
-star
+whereas:докъдето ???
+	къдетокато след като? Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? 
+	докато: For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?
+	I know not: one thing I know, that, whereas I was blind, now I see.
+until:докато<<
+while:докато<<
+till:докато/до/ора<<
+any: койтоидае/някакъв -> някой/някое
+jew:еврей
+jews:евреи
+seen:видя
+star:звезда
+stars:звезди
 worship
+
+! in/into and on/unto recheck
 
 
 
