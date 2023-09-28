@@ -1050,3 +1050,34 @@ Bethlehem:витлеем
 Herod:ирод
 east:изток
 eastward:източно
+
+
+
+...
+where:къде/където
+wherein:вкъдето/вкойто
+whereinto:вкъдето/вкойто
+wherefore:закоито/закаквото
+why:защо
+whereby:откои/откаквото
+	And Saul cast a javelin at him to smite him: whereby Jonathan knew that it was determined of his father to slay David.
+	ще спра роптанията от които роптаят: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.
+	от който: Thou, O God, didst send a plentiful rain, whereby thou didst confirm thine inheritance, when it was weary.
+how:как
+wherewith:скоито/скаквото
+whereon:върхукоито/върхукаквото
+whereunto:накоито/накаквото
+wheresoever:къдетоида
+soever:кое*_и_Х_да (винаги има where/wherewith след което е "и да", напри: "което и да е")
+	what things soever the law saith: които и неща да казва законът
+	And what saddle soever he rideth upon: и КОЕТО И седло ДА язди
+whereas
+Jews
+seen
+star
+worship
+
+
+
+-TODO: testimony
+-TODO: simplify the Readme.md
