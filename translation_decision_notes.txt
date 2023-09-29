@@ -1053,7 +1053,6 @@ eastward:източно
 
 
 
-...
 where:къде/където
 wherein:вкъдето/вкойто
 whereinto:вкъдето/вкойто
@@ -1126,6 +1125,12 @@ priesthood:
 
 
 
+
+...
+heard
+	hear
+	heart
+troubled
 
 
 
