@@ -1134,7 +1134,9 @@ troubled
 
 
 
+- DONE: simplify the Readme.md
+- DONE: scipt -> auto update the process stats in the readme.md
+
 
 
 -TODO: testimony
--TODO: simplify the Readme.md

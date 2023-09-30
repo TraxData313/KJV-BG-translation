@@ -14,8 +14,10 @@ if __name__=='__main__':
     print('Прогрес:')
     df = f.load_translated_Bible()
     #estimate_letter_progress(df)
-    f.print_translated_word_stats()
-    f.estimate_revised_verses_progress(df)
+    progr_mes = f.print_translated_word_stats()
+    progr_mes += f.estimate_revised_verses_progress(df)
+    print(progr_mes)
+    f.update_progress_in_the_readme_md(progr_mes)
 
     # Compile the books:
     print()

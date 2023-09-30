@@ -242,8 +242,9 @@ def print_translated_word_stats():
     translated_words = df.loc[df['word_bg'].fillna(0)!=0]['word_use_count'].sum()
     unique_words = len(df)
     unique_translated_words = len(df.loc[df['word_bg'].fillna(0)!=0])
-    print(f'- [{translated_words}] или [{round(translated_words*100/total_words,2)}%] от [{total_words}] думи са преведени')
-    print(f'- [{unique_translated_words}] или [{round(unique_translated_words*100/unique_words,2)}%] от [{unique_words}] уникални думи са преведени')
+    progr_mes = f'- [{unique_translated_words}] или [{round(unique_translated_words*100/unique_words,2)}%] от [{unique_words}] уникални думи са преведени\n'
+    progr_mes += f'- [{translated_words}] или [{round(translated_words*100/total_words,2)}%] от общо [{total_words}] думи са преведени\n'
+    return progr_mes
 
 def estimate_letter_progress(df):
     df = df.copy()
@@ -264,7 +265,8 @@ def estimate_revised_verses_progress(df):
     df = df.copy()
     df['verse'] = df['verse'].str.split(' ', expand=True)[0]
     revised_verses_count = len(df) - df['verse'].str.count(':').sum()
-    print(f'- [{revised_verses_count}] или [{round(revised_verses_count*100/len(df), 2)}%] от [{len(df)}] стиха в kjb-bg/Библия.txt вече са напълно ревизирани.')
+    progr_mes = f'- [{revised_verses_count}] или [{round(revised_verses_count*100/len(df), 2)}%] от общо [{len(df)}] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books)\n'
+    return progr_mes
 
 def compile_bg_books():
     df = load_translated_Bible()
@@ -302,3 +304,13 @@ def compile_en_books():
         book_df = df.loc[df['book']==book].copy()
         book_df.to_csv(save_file, index=False, header=False, sep='>')
     print('- готово!')
+
+def update_progress_in_the_readme_md(progr_mes):
+    fileName = 'README.md'
+    readMe = open(fileName, 'r', encoding='utf-8').readlines()
+    readMe = readMe[:-3]
+    readMe += [f"{mes}\n" for mes in progr_mes.split('\n')[:-1]]
+    saveFile = open(fileName, 'w', encoding='utf-8')
+    for line in readMe:
+        saveFile.write(line)
+    saveFile.close()

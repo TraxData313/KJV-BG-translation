@@ -1,7 +1,7 @@
 # Български превод на Святата Библия
 Верен превод от Английското издание на Святата Библия от 1611 г, направено под ръководството на крал Джеймс, известно под името Knig James Version (KJV)
 
-# Съдържание
+## Съдържание:
 - [Bible.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-en/Bible.txt) - KJV, оригинален текст, взет от [o-bible.com](https://www.o-bible.com/download/kjv.txt)
 - [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) - целия текст, частично на български в процес на превод
 - [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) - готови, напълно преведени стихове, компилирани по книги
@@ -11,3 +11,8 @@
 - [progress_translation.py](https://github.com/TraxData313/KJV-BG-translation/blob/main/progress_translation.py) - скрипт - компилира, намира грешки, вади статистика
 - [functions.py](https://github.com/TraxData313/KJV-BG-translation/blob/main/functions.py) - помощни функции
 - [data](https://github.com/TraxData313/KJV-BG-translation/tree/main/data) - папка с данни, използвани по време на превода и кеш файлове
+
+## Прогрес:
+- [744] или [6.02%] от [12365] уникални думи са преведени
+- [601780] или [77.28%] от общо [778689] думи са преведени
+- [43] или [0.14%] от общо [31102] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books)
