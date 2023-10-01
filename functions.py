@@ -302,6 +302,9 @@ def compile_en_books():
     for book in books:
         save_file = f'kjb-en/compiled_text_by_books/{book}.txt'
         book_df = df.loc[df['book']==book]['verse'].copy()
+        if book_df.values[0][0:2] in ['11', '21', '31']:
+            # this happens for the numbered books (like 1 Peter) - adds 1 to the start (1:12 -> 11:12), so this line fixes this issue:
+            book_df = book_df.str[1:]
         book_df.to_csv(save_file, index=False, header=False, sep='>')
     print('- готово!')
 

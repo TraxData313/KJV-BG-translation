@@ -1230,7 +1230,8 @@ demanded
 
 -TODO: testimony
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
--TODO: BUG EN compiled end on ">02OT Exodus>1:13"
+- DONE: BUG EN compiled end on ">02OT Exodus>1:13"
+- DONE: BUG EN compiled numbered books (like 1 Peter) add 1 to the start (1:12 -> 11:12)
 
 
 Translation Flow:
