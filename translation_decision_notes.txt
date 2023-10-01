@@ -1126,17 +1126,99 @@ priesthood:
 
 
 
-...
-heard
-	hear
-	heart
-troubled
-
-
 
 - DONE: simplify the Readme.md
 - DONE: scipt -> auto update the process stats in the readme.md
 
 
+...
+heard:слуша
+hear:слуши
+heareth:слуша
+hearest:слушай
+hearken:вслушай
+hearkeneth:вслушва
+hearkened:вслушал
+
+listen(1):чуй
+
+trouble:тревога
+troubles:тревоги
+troubled:разтревожен
+troubleth:тревожи
+troublest:тревожи
+troubler:тревожителят
+troubling:тревожно
+
+concern(2):засяга
+concerning:засягащ
+
+​interest, fascination(0)
+
+care:грижа
+careth:грижи
+carest:грижиш
+cared:погрижи
+careful:грижовен
+carefully:грижовно
+careless:безгрижен
+carelessly:безгрижно
+
+distress:притеснява/притеснение
+	Then Jacob was greatly afraid and distressed
+distressed:притеснен
+
+sad:тъжен
+sadness:тъга
+
+alarm:възклицание/възклицателно (така е било и в стария царигратски превод)
+
+grief:скръб
+griefs:скърби
+sorrow:мъка
+	I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children
+	and sorrow is turned into joy before him.
+sorrowful:мъчен
+sorrowed:измъчи
+sorrows:мъки
+	Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.
+sorry:измъчен
+	And the king was sorry: nevertheless for the oath's sake
+pain:болка
+pains:болки
+pained:поболян
+painful:болезнено
+painfulness:болезненост
+suffer:страдам -> допускам - да оставиш/изтърпиш нещо което не трябва да търпиш
+	Thou shalt not suffer a witch to live.
+	And Samson said unto the lad that held him by the hand, Suffer me that I may feel the pillars whereupon the house standeth - Самсон е пленник и момчето е трябвало да го държи, а той го моли да го "остави"/потърпи за малко
+suffered:допусна
+	And he humbled thee, and suffered thee to hunger, and fed thee with manna
+suffereth:допуска
+sufferest:допускаш
+allow:позволявам
+allowance:позволение
+alloweth:позволява
+allowed:позволи
+permit:разреши
+permitted:разрешено
+permission:разрешение
+approve:одобрявам
+endure:търпя<<
+bear:нося<<
+
+
+невъведени все още:
+alert(0)
+misfortune(0)
+disaster(0)
+worry(0)
+nuisance(0)
+concerned(0)
+disturb(0)
+disturbed(0)
+labored(0)
+
 
 -TODO: testimony
+-TODO: new duplicate words in the dict warnings
