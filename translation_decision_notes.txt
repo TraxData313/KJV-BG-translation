@@ -1131,7 +1131,6 @@ priesthood:
 - DONE: scipt -> auto update the process stats in the readme.md
 
 
-...
 heard:слуша
 hear:слуши
 heareth:слуша
@@ -1220,5 +1219,24 @@ disturbed(0)
 labored(0)
 
 
+
+...
+chief
+priests
+scribes
+demanded
+
+
+
 -TODO: testimony
--TODO: new duplicate words in the dict warnings
+-TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
+-TODO: BUG EN compiled end on ">02OT Exodus>1:13"
+
+
+Translation Flow:
+- pick an untranslated verse (manual in Библия.txt)
+- translate the untranslated words and add them to the dict (manual in translation_decision_notes.txt)
+- check for word conflicts (check_words_dict_for_conflicts.py)
+- auto translate words (translate_untranslated_words_in_words_dict.py)
+- fix the word format and put together the verse (manual in Библия.txt)
+- recompile the books to add the newly translated verse (recompile_books.py)

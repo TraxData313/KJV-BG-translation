@@ -65,7 +65,7 @@ books_short_to_full_name_dict = {
         'Jas': '59NT James',
         '1 Pet': '60NT 1 Peter',
         '2 Pet': '61NT 2 Peter',
-        'Jn': '62NT 1 John',
+        '1 Jn': '62NT 1 John',
         '2 Jn': '63NT 2 John',
         '3 Jn': '64NT 3 John',
         'Jude': '65NT Jude',
@@ -301,7 +301,7 @@ def compile_en_books():
     books = list(df['book'].unique())
     for book in books:
         save_file = f'kjb-en/compiled_text_by_books/{book}.txt'
-        book_df = df.loc[df['book']==book].copy()
+        book_df = df.loc[df['book']==book]['verse'].copy()
         book_df.to_csv(save_file, index=False, header=False, sep='>')
     print('- готово!')
 
