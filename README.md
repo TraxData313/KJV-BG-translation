@@ -1,5 +1,5 @@
 # Български превод на Святата Библия
-Верен превод от Английското издание на Святата Библия от 1611 г, направено под ръководството на крал Джеймс, известно под името Knig James Version (KJV)
+Превод с вяра от Английското издание на Святата Библия от 1611 г, направено под ръководството на крал Джеймс, известно под името Knig James Version (KJV)
 
 ## Съдържание:
 - [Bible.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-en/Bible.txt) - KJV, оригинален текст, взет от [o-bible.com](https://www.o-bible.com/download/kjv.txt)
