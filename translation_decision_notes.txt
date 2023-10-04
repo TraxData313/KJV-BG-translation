@@ -1230,14 +1230,75 @@ hearkened:послушал->вслушал
 
 
 ...
-chief
-priests
+chief:начален/началник
+	Christ Jesus came into the world to save sinners; of whom I am chief.
+chiefly:начално
+	най-вече: All the saints salute you, chiefly they that are of Caesar's household.
+	най-първо: Much every way: chiefly, because that unto them were committed the oracles of God.
+chiefest:най-начален
+	My beloved is white and ruddy, the chiefest among ten thousand.
+	And whosoever of you will be the chiefest, shall be servant of all.
+	For I suppose I was not a whit behind the very chiefest apostles.
+govern:управлявам/управление
+governor:управител
+governors:управители
+rule:владея
+ruleth:владее
+rulest:владееш
+ruler:владетел
+wield(0)
+possess:притежавам
+dispossess:разпритежавам?
+control(0)
+king:цар<<
+kingdom:царство
+lead:водя
+leadeth:води
+leadest:водиш
+leader:водач
+leaders:водачи
+guide:напътства<<
+major(0)
+general:генерал/генерален
+	the general of the king's army was Joab.
+	To the general assembly and church of the firstborn
+generally:генерално
+priest:жрец
+priests:жреци
+priesthood:жречество
+scribe
+	scribes; Jehoshaphat the son of Ahilud, the recorder.
 scribes
+scripture
+	scrip: мешец (тоболец)
+scriptures
+	But I will shew thee that which is noted in the scripture of truth
+	Ye do err, not knowing the scriptures, nor the power of God
+	how then shall the scriptures be fulfilled
+law:закон?
+prophecy:предречение
+prophet:пророк<<
+scholar:ученик?
+record:запис?
+recorder:записвач?
+chronicles:хроники
+book:книга
+manuscript(0)
+scroll(2):свитък
+write:пиша
+	Write this for a memorial in a book
+writing:писание
+	and the writing was the writing of God, graven upon the tables.
+writings:писания
+note:бележка?
+noted:бележа?
+	Now this is the copy of the letter that
 demanded
 
 
 -TODO: testimony
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
+-TODO: add translation flow to the readme
 
 
 Translation Flow:
