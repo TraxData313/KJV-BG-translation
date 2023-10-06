@@ -1229,7 +1229,6 @@ hearkened:послушал->вслушал
 
 
 
-...
 chief:начален/началник
 	Christ Jesus came into the world to save sinners; of whom I am chief.
 chiefly:начално
@@ -1294,29 +1293,66 @@ writing:писание
 	and the writing was the writing of God, graven upon the tables.
 writings:писания
 document(0)
-testify:свидетелствам
-testimony:свидетелство
 rope:въже
 ropes:въжета
 connect, link(0)
-
-?...
+bond:крепя/крепост
+	or swear an oath to bind his soul with a bond : закрепи със закрепка
+	and every bond wherewith she hath bound her soul shall stand
+bind:закрепен
+	Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.
+---
+bound:закрепен
+binding:закрепявайки
+bondage:крепостничество
+bondman:крепостенчовек
+bondmen:крепостнихора
+bondwoman:крепостнажена
+bondservant:крепостенслужител
+bondmaids:крепостнадомакиня -> няма да ги въвеждам за сега а ще продължа да ги изучавам, защото имам още отворени въпроси
+---
+border:граница
+borders:граници
 cord:връзка
+	връв-предмет: she let them down by a cord through the window
+	връв-абстрактно:and be holden in cords of affliction;
 cords:връзки
-record:обвържа
+record:свръзка
 	and call heaven and earth to record against them
-records:обвързвания
-recorded:обвърза
-recorder:свидетелствовед записовед
-
-
+	Wherefore I take you to record this day, that I am pure from the blood of all men.
+	Who bare record of the word of God
+	For I bear him record, that he hath a great zeal for you : като свидетелстване 
+	For God is my record : свидетел
+	yea, and we also bear record; and ye know that our record is true
+records:свръзки
+recorded:свързани
+recorder:свързовед
+bear:нося<<
+connect(0)
+memory:памет
+	that he may cut off the memory of them from the earth.
+memorial:паметник
+remember:спомням
+rememberest:спомниш
+remembereth:спомни
+remembered:спомних
+chain:верига
+chains:вериги
+testimony:показание
+testify:показателствам
+witness:свидетел/свидетелствам
+witnesseth:свидетелстваш
+witnessed:свидетелства
+witnesses:свидетели
+witnessest(0)
 chronicles:хроники
-book:книга
+book:книга<<
+books:книги
 letter:писмо
 letters:мисма
 manuscript(0)
-note:бележка?
-noted:бележа?
+note:бележка
+noted:бележа
 	Now this is the copy of the letter that
 demand:настоявам
 demanded:настоя
@@ -1325,26 +1361,62 @@ asketh:пита<<
 asking:питайки<<
 asked:попита<<
 quest(0):
-request:изисквам?
-question:въпрос/поставям_въпрос/препядствие пред вяра в нещо
+request:изисквам/изискване
+requested:изиска
+question:въпрос/въпросирам
 	and began to question with him
 	ask him any question at all
 	Mark 9: 
 		Jesus: What question ye with them?
 		A man: and I spake to thy disciples that they should cast him out; and they could not.
 		Jesus: O faithless generation, how long shall I be with you?
-questions
+questions:въпроси
 	but doting about questions and strifes of words
-questioning:поставяйки_въпроси/разискваха
+questioning:въпросирайки
 	questioning one with another
-questioned:постави_въпрос
+questioned:въпросира
 wish:искане<<
 wishing:искайки<<
 wished:поиска<<
 
 
+
+...
+Не въведени и не докрай проверени:
+- Трябва да се преведат сега защото са свързани:
+age:?
+bond:крепя/крепост
+bind:закрепен
+bound:закрепен
+binding:закрепявайки
+bondage:крепостничество
+bondman:крепостенчовек
+bondmen:крепостнихора
+bondwoman:крепостнажена
+bondwomen:крепостнижени
+bondservant:крепостенслужител
+bondmaids:крепостнадомакиня
+fort
+fortress
+writer(4)
+	my tongue is the pen of a ready writer
+	writer's inkhorn
+- Могат да се преведат, когато стигна до тях:
+border:граница
+borders:граници
+limit...
+
+possess:притежавам
+dispossess:разпритежавам
+bond:крепя/крепост<<
+
+
+
+
 -TODO: testimony
+-TODO: investigate [801] или [6.48%] от [12365] уникални думи са преведени -> [879] или [7.11%] от [12366] (+1!?) уникални думи са преведени
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
+-TODO: add word translation eta estimation
 -TODO: add translation flow to the readme
 
 
