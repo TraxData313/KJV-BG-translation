@@ -1384,7 +1384,17 @@ wished:поиска<<
 ...
 Не въведени и не докрай проверени:
 - Трябва да се преведат сега защото са свързани:
-age:?
+age:възраст / век
+ages:възрасти? /векове
+	Even the mystery which hath been hid from ages and from generations
+aged:възрастен
+time:време
+moment:момент
+everlasting:вечен
+everlast(0)
+old:стар?
+generations:поколения
+
 bond:крепя/крепост
 bind:закрепен
 bound:закрепен
@@ -1396,8 +1406,37 @@ bondwoman:крепостнажена
 bondwomen:крепостнижени
 bondservant:крепостенслужител
 bondmaids:крепостнадомакиня
+
 fort
+	And the fortress of the high fort of thy walls shall he bring down
 fortress
+strong:як
+sturdy,robust,tough(0)
+hold:хват/хвани или държа/държание
+	And while he lingered, the men laid hold upon his hand
+held:хвана - държа/задържа
+	Moses held up his hand
+	the lad that held him by the hand
+catch:улавям
+caught:улови
+force:сила/насилвам
+forced:насили
+hand:ръка<<
+handmaid:държанодомакиня<< -> ръкодомакиня
+behold:съзрете<< -> обхванете?
+firm:твърд<<
+firmament:твърд<<
+mighty:могъщ<<
+hard:трудно
+	трудно - Is any thing too hard for the LORD
+	здраво/усилено/отрудно? - Nevertheless the men rowed hard to bring it to the land
+	This is an hard saying; who can hear it?
+	жесток/строг? - I knew thee that thou art an hard man
+	труден език - people of a strange speech and of an hard language, whose words thou canst not understand
+strong hold:яко държание? (ще се преведе от 2те думи)
+walls:стени
+castle:замък
+tower:кула
 writer(4)
 	my tongue is the pen of a ready writer
 	writer's inkhorn
