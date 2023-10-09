@@ -1383,19 +1383,18 @@ wished:поиска<<
 
 ...
 Не въведени и не докрай проверени:
-- Трябва да се преведат сега защото са свързани:
-age:възраст / век
-ages:възрасти? /векове
-	Even the mystery which hath been hid from ages and from generations
-aged:възрастен
-time:време
-moment:момент
-everlasting:вечен
-everlast(0)
-old:стар?
-generations:поколения
+- само проверявани, но не въведени:
+	age:възраст
+	ages:възрасти
+		Even the mystery which hath been hid from ages and from generations
+	aged:възрастен
+	moment:момент
+	everlasting:вечен
+	everlast(0)
+	old:стар
+	generations:поколения
 
-bond:крепя/крепост
+bond:крепя/скрепня
 bind:закрепен
 bound:закрепен
 binding:закрепявайки
@@ -1407,9 +1406,6 @@ bondwomen:крепостнижени
 bondservant:крепостенслужител
 bondmaids:крепостнадомакиня
 
-fort
-	And the fortress of the high fort of thy walls shall he bring down
-fortress
 strong:як
 sturdy,robust,tough(0)
 hold:хват/хвани или държа/държание
@@ -1417,6 +1413,8 @@ hold:хват/хвани или държа/държание
 held:хвана - държа/задържа
 	Moses held up his hand
 	the lad that held him by the hand
+handle:хват
+handles:хватове
 catch:улавям
 caught:улови
 force:сила/насилвам
@@ -1437,10 +1435,16 @@ strong hold:яко държание? (ще се преведе от 2те дум
 walls:стени
 castle:замък
 tower:кула
-writer(4)
+writer(4):писец
 	my tongue is the pen of a ready writer
 	writer's inkhorn
-- Могат да се преведат, когато стигна до тях:
+	
+- Ще ги оставя за като стигна до тях:
+
+
+fort
+	And the fortress of the high fort of thy walls shall he bring down
+fortress
 border:граница
 borders:граници
 limit...
@@ -1448,6 +1452,8 @@ limit...
 possess:притежавам
 dispossess:разпритежавам
 bond:крепя/крепост<<
+
+
 
 
 
