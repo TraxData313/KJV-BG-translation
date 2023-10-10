@@ -1464,8 +1464,47 @@ princesses:принцеси
 
 
 ...
-enquired
-diligently
+ask:питам<<
+question:въпрос/въпросирам<<
+enquire:про[иск]ам
+enquired:происках
+	происка от него: enquired of him
+	и происка усърдно: and enquired diligently, and, behold, it be true
+	проискаха: Of which salvation the prophets have enquired and searched diligently
+	Проискай: Enquire, I pray thee, at the word of the LORD to day
+	.
+	[en]lightened:[про]светлен<<
+	искаю от руски - търся
+acquire(0)
+inquired - в стария правопис е използвано на 5 места, но в новия е заменено с enquired
+require:из[иск]ам?
+request:изисквам/изискване<< -> заявя/заявка?
+learn:уча
+understand:разбирам
+comprehend:проумея
+pray:моля
+beg:прося
+begged:проси
+beggar:просяк
+search?
+learned:научи?
+diligently:усърдно?
+
+в старата версия от 1611 се използва inquire на няколко места, вместо enquire:
+	Deuteronomy 17:4 | Read whole chapter
+	And it be told thee, and thou hast heard of it, and inquired diligently, and behold, it be true, and the thing certaine, that such abomination is wrought in Israel:
+
+	Psalms 78:34 | Read whole chapter
+	When hee slew them, then they sought him: and they returned, and inquired early after God.
+
+	Ezekiel 20:31 | Read whole chapter
+	For when yee offer your gifts, when yee make your sonnes to passe through the fire, ye pollute your selues with all your idoles euen vnto this day: and shall I be inquired of by you, O house of Israel? As I liue, saith the Lord God, I will not be inquired of by you.
+
+	John 4:52 | Read whole chapter
+	Then inquired hee of them the houre when he began to amend: and they said vnto him, Yesterday at the seuenth houre the feuer left him.
+
+	1 Peter 1:10 | Read whole chapter
+	Of which saluation the Prophets haue inquired, and searched diligently, who prophesied of the grace that should come vnto you,
 
 
 
