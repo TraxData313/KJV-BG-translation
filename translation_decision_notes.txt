@@ -1464,8 +1464,6 @@ princesses:принцеси
 
 
 ...
-ask:питам<<
-question:въпрос/въпросирам<<
 enquire:про[иск]ам
 enquired:происках
 	происка от него: enquired of him
@@ -1478,16 +1476,26 @@ enquired:происках
 acquire(0)
 inquired - в стария правопис е използвано на 5 места, но в новия е заменено с enquired
 require:из[иск]ам?
-request:изисквам/изискване<< -> заявя/заявка?
+ask:питам<< -> моля ?
+question:въ[прос]/въпросирам<< -> 
+request:изисквам/изискване<< -> заявя/заявка -> запрос/запрося?
+pray:моля/прося?
+prayers:молитва
+beg:скъдня
+	old = begge
+	Let his children be continually vagabonds, and beg (скъднят)
+	therefore shall he beg in harvest, and have nothing (проси в жетва -> скъдни в жетва)
+begged:просеше/поиска? -> скъдни?
+	Is not this he that sat and begged? (седя и скъднеше)
+beggar:просяк/сиромах/ -> скъдник
+beggarly:скъдни?
+	слаби и скъдни: how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?
+poor:беден/сиромах?
+search:търся?
+learned:научи?
 learn:уча
 understand:разбирам
 comprehend:проумея
-pray:моля
-beg:прося
-begged:проси
-beggar:просяк
-search?
-learned:научи?
 diligently:усърдно?
 
 в старата версия от 1611 се използва inquire на няколко места, вместо enquire:
