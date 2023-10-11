@@ -475,7 +475,7 @@ thing:нещо
 things:неща
 angel:ангел
 angels:ангели
-behold:съзрете
+behold:обхванете
 lo:ето
 unto:на/помощна
 him:него
@@ -664,7 +664,7 @@ maid:домакиня
 maids:домакини
 maiden:подомашена
 maidens:подомашени
-handmaid:държанодомакиня
+handmaid:ръкодомакиня
 maidservant:домашницослугиня
 maidservants:домашницослугини
 girl:момиче
