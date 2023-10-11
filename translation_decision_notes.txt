@@ -1491,13 +1491,10 @@ begged:скъдни
 beggar:скъдник
 beggarly:скъднешки
 	слаби и скъднешки: how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?
-poor:беден/сиромах?
-search:търся?
-learned:научи?
-learn:уча
-understand:разбирам
-comprehend:проумея
-diligently:усърдно?
+
+diligently:усърдно
+diligent:усърден
+	or Tychicus, be diligent to come unto me to Nicopolis
 
 
 
