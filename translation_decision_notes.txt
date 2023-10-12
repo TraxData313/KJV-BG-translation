@@ -1462,8 +1462,6 @@ princess:принцеса
 princesses:принцеси
 
 
-
-...
 enquire:про[иск]ам
 enquired:происках
 	происка от него: enquired of him
@@ -1496,6 +1494,31 @@ diligently:усърдно
 diligent:усърден
 	or Tychicus, be diligent to come unto me to Nicopolis
 
+
+
+...
+search:търся
+searching:търсейки
+searched:претърси
+seek:диря -> стремя се към/търся?
+seeketh:дири
+seeking:дирейки
+strive:споря?
+	And the LORD said, My spirit shall not always strive with man
+	If men strive, and hurt a woman with child
+argue(0)
+dispute:спор?
+disputed
+disputer
+conflict(2):
+	подвиг?: For I would that ye knew what great conflict I have for you
+feat(0)
+fight:бия
+wrestle:боря?
+wrestled
+wrestlings
+young:млад?
+again:отново?
 
 
 
