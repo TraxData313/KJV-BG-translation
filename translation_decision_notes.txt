@@ -1496,29 +1496,53 @@ diligent:усърден
 
 
 
-...
-search:търся
-searching:търсейки
-searched:претърси
-seek:диря -> стремя се към/търся?
-seeketh:дири
-seeking:дирейки
-strive:споря?
+search:издирвам
+searchest:издирваш
+searcheth:издирва
+searching:издирвайки
+searched:издирих
+seek:търся
+seekest:търсиш
+seeketh:търси
+seeking:търсейки
+sought:търсеше
+strive:боря
 	And the LORD said, My spirit shall not always strive with man
-	If men strive, and hurt a woman with child
+	If men strive, and hurt a woman with child - тук трябва да има физически конфликт, за да могат да наранят жената
+	And if men strive together, and one smite another with a stone
+	Yea, so have I strived to preach the gospel
+	And every man that striveth for the mastery is temperate in all things
+striveth:бориш
+strived:преборих
+carry:карам<<
 argue(0)
-dispute:спор?
-disputed
-disputer
-conflict(2):
+contend:съпернича
+contendest:съперничиш
+contendeth:съперничи
+contended:съперничих
+dispute:спор / караница/кавга
+disputed:оспорвах
+disputer:оспорвач
+conflict(2):подвиг
 	подвиг?: For I would that ye knew what great conflict I have for you
 feat(0)
-fight:бия
-wrestle:боря?
-wrestled
-wrestlings
-young:млад?
-again:отново?
+fight:бия/бой
+fighteth:биеш
+fought:бих
+wrestle:боричкам
+	With great wrestlings have I wrestled with my sister
+	For we wrestle not against flesh and blood
+wrestled:боричках
+wrestlings:боричкания
+young:млад
+younger:по-млад
+youngest:най-млад
+again:пак
+renewed:поднови
+
+
+
+...
 
 
 

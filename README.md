@@ -1,4 +1,4 @@
-# Български превод на Свещенната Библия
+# Български превод на Библията от King James Version
 Правен с вяра от Английското издание от 1611 г, направено под ръководството на крал Джеймс, известно под името King James Version (KJV).
 
 ## Съдържание:
@@ -13,6 +13,6 @@
 - [data](https://github.com/TraxData313/KJV-BG-translation/tree/main/data) - папка с данни, използвани по време на превода и кеш файлове
 
 ## Прогрес:
-- [923] или [7.46%] от [12366] уникални думи са преведени
-- [610168] или [78.31%] от общо [779190] думи са преведени
-- [48] или [0.15%] от общо [31102] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books)
+- [955] или [7.72%] от [12366] уникални думи са преведени
+- [611915] или [78.53%] от общо [779190] думи са преведени
+- [49] или [0.16%] от общо [31102] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books)
