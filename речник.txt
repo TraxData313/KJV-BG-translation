@@ -973,3 +973,17 @@ stay:стоя
 stayeth:стои
 stayed:престоя
 stood:престоя
+joy:радост
+joyed:зарадвахме
+joyful:радостен
+joyfulness:радостност
+joyous:радостно
+rejoice:възрадвам
+rejoicest:възрадваш
+rejoiceth:възрадва
+rejoiced:възрадвах
+rejoicing:възрадване
+exceed:превишавам
+exceeded:превиши
+exceeding:превишаващо
+exceedingly:превишаващо

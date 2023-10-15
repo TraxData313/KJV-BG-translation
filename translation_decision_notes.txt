@@ -1562,8 +1562,28 @@ goeth:отива??
 
 
 
-...
 
+rejoice:възрадвам
+rejoicest:възрадваш
+rejoiceth:възрадва
+rejoiced:възрадвах
+rejoicing:възрадване
+exceed:превишавам
+	Forty stripes he may give him, and not exceed: lest, if he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee
+exceeded:превиши
+exceeding:превишаващо
+exceedingly:превишаващо
+joy:радост
+joyed:зарадвахме
+	Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.
+joyful:радостен
+joyfulness:радостност
+joyous:радостно
+
+
+
+
+...
 
 
 
