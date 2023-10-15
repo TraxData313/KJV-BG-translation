@@ -1542,7 +1542,32 @@ renewed:поднови
 
 
 
+
+depart:заминавам
+departeth:заминава
+departed:замина
+leave:напускам
+leaveth:напуска
+left:напусна/ляво
+leaving:напускам
+stay:стоя
+stayeth:стои
+stayed:престоя
+stood:престоя
+
+went:дойде -> отиде (came също е дойде)
+go:отивам
+going:отивайки
+goeth:отива??
+
+
+
 ...
+
+
+
+
+
 
 
 

@@ -555,7 +555,7 @@ into:в
 house:къща
 home:дом
 come:дойди
-went:дойде
+went:отиде
 we:ние
 your:ваш
 also:също
@@ -962,3 +962,14 @@ younger:по-млад
 youngest:най-млад
 again:пак
 renewed:поднови
+depart:заминавам
+departeth:заминава
+departed:замина
+leave:напускам
+leaveth:напуска
+left:напусна/ляво
+leaving:напускам
+stay:стоя
+stayeth:стои
+stayed:престоя
+stood:престоя
