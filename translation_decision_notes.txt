@@ -1584,10 +1584,33 @@ joyous:радостно
 
 
 ...
-
-
-
-
+fall:падал
+fallest:падаш
+falleth:пада
+falling:изпадащ
+fell:падна
+fallen:падна
+open:отворен
+openest:отвориш
+openeth:отвори
+opened:отворих
+treasure:съкровище
+treasures:съкровища
+sent:прати<<
+send:пращам<<
+sending:пращане
+present:предпрати/предпращане / пратка?
+	And the priest that maketh him clean shall present the man that is to be made clean
+	then receive my present at my hand
+presents:предпра
+presented:предпратиха
+presently
+perform:представя<<
+gift:дар
+gifts:дарове
+gold
+frankincense
+myrrh
 
 
 
