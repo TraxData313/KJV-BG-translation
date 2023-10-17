@@ -1608,9 +1608,40 @@ presently:предпратено
 perform:представя<<
 gift:дар
 gifts:дарове
-gold
-frankincense
+gold:злато
+golden:златен
+goldsmith:златоковач
+smith:ковач
+smiths:ковачи
+
+anger:гняв/ярост?
+angered(1):разгневен/разярен?
+wrath:гняв/ярост?
+rage:гняв/ярост??
+
+cense(0):тамян? кадило? руски->курение=пушене -> пушек
+censer:пушило? 
+	with every man his censer in his hand; and a thick cloud of incense went up.
+incense:впушило?
+	One golden spoon of ten shekels, full of incense
+	And he burnt sweet incense thereon
+incensed:впушили?
+	Behold, all they that were incensed against thee shall be ashamed and confounded
+frank(0):ливан? (sincere:искрен?)
+frankly(1):искрено? ливанно???
+	And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?
+frankincense:?ливан-о-впушило
+free/freely -?> frank??
+
+scent:аромат
+smoke:дим/пушек?
+smell:помирисвам?
+resin(0)
+sincere:искрен?
+sincerely:искрено?
+
 myrrh
+
 
 
 
