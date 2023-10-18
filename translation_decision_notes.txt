@@ -1613,34 +1613,27 @@ golden:златен
 goldsmith:златоковач
 smith:ковач
 smiths:ковачи
-
-anger:гняв/ярост?
-angered(1):разгневен/разярен?
-wrath:гняв/ярост?
-rage:гняв/ярост??
-
-cense(0):тамян? кадило? руски->курение=пушене -> пушек
-censer:пушило? 
+cense(0):пушек
+censer:пушило
 	with every man his censer in his hand; and a thick cloud of incense went up.
-incense:впушило?
+censers:пушила
+incense:впушило
 	One golden spoon of ten shekels, full of incense
 	And he burnt sweet incense thereon
-incensed:впушили?
+incensed:впушили
 	Behold, all they that were incensed against thee shall be ashamed and confounded
-frank(0):ливан? (sincere:искрен?)
-frankly(1):искрено? ливанно???
+frank(0):ливан
+frankly(1):искрено? ливанно??? - остава за когато стигна, защото може да не се окаже свързано
 	And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?
-frankincense:?ливан-о-впушило
-free/freely -?> frank??
-
+frankincense:ливановпушило
 scent:аромат
-smoke:дим/пушек?
-smell:помирисвам?
+smoke:дим
+smell:помирисвам/миризма
+smelleth:помириса
+smelled:помирисах
+smelling:миришещ
 resin(0)
-sincere:искрен?
-sincerely:искрено?
-
-myrrh
+myrrh:смирна
 
 
 

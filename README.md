@@ -13,6 +13,6 @@
 - [data](https://github.com/TraxData313/KJV-BG-translation/tree/main/data) - папка с данни, използвани по време на превода и кеш файлове
 
 ## Прогрес:
-- [980] или [7.92%] от [12366] уникални думи са преведени
-- [613683] или [78.76%] от общо [779190] думи са преведени
-- [51] или [0.16%] от общо [31102] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books)
+- [1016] или [8.22%] от [12366] уникални думи са преведени
+- [615621] или [79.01%] от общо [779190] думи са преведени
+- [52] или [0.17%] от общо [31102] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books)
