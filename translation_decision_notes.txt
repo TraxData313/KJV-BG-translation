@@ -1641,13 +1641,36 @@ myrrh:смирна
 
 
 
+warn:предупреждавам
+warned:предупреден
+warning:предупреждение
+return:връщам
+returneth:връща
+returned:върнах
+returning:връщане/връщайки
+own:собствен
+owneth:собственува
+owner:собственик
+owners:собственици
+possess:притежавам
+possessest:притежаваш
+possesseth:притежава
+possession:притежание
+possessions:притежания
+possessor:притежател
+dispossess:разпритежавам
+possessed:притежавах
+rule:владея<<
+country:държава
+countries:държави
+way:път
+ways:пътища
+away:далеч -> пътьом
+
+
+
 
 ...
-warned
-return
-own
-country
-way
 
 
 
