@@ -180,7 +180,6 @@ lake:езеро
 draw:издърпвам
 draweth:издърпвам
 drawn:издърпах
-carry:нося
 wear:обличам
 drive:гоня
 grass:трева
@@ -310,8 +309,9 @@ carrieth:кара
 carry:карам
 carriage:карета
 carriages:карети
-bring:изнася
+bring:изнася/износи/донасям
 bear:нося
+bare:износи
 brought:донесен
 bearest:носиш
 bearing:носейки
@@ -323,7 +323,6 @@ endureth:търпи
 enduring:търпейки
 far:далеч
 conceived:зачена
-bare:износи
 husband:съпруг
 husbands:съпрузи
 husbandman:земеделец
