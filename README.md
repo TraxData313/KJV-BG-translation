@@ -7,10 +7,8 @@
 - [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) - готови, напълно преведени стихове, компилирани по книги
 - [Книги EN](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-en/compiled_text_by_books) - оригиналия KJV текст, компилиран по книги
 - [бележки](https://github.com/TraxData313/KJV-BG-translation/blob/main/translation_decision_notes.txt) - бележки, водени по време на превода
-- [речник](https://github.com/TraxData313/KJV-BG-translation/blob/main/%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA.txt) - речник (използва се и в скриптовете за автоматичен превод и проверки)
 - [progress_translation.py](https://github.com/TraxData313/KJV-BG-translation/blob/main/progress_translation.py) - скрипт - компилира, намира грешки, вади статистика
-- [functions.py](https://github.com/TraxData313/KJV-BG-translation/blob/main/functions.py) - помощни функции
-- [data](https://github.com/TraxData313/KJV-BG-translation/tree/main/data) - папка с данни, използвани по време на превода и кеш файлове
+- [речник](https://github.com/TraxData313/KJV-BG-translation/blob/main/%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA.txt) - речник (използва се и в скриптовете за автоматичен превод и проверки)
 
 ## Прогрес:
 - [1016] или [8.22%] от [12366] уникални думи са преведени
