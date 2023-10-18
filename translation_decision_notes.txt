@@ -1583,7 +1583,7 @@ joyous:радостно
 
 
 
-...
+
 fall:падал
 fallest:падаш
 falleth:пада
@@ -1637,6 +1637,14 @@ myrrh:смирна
 
 
 
+- DONE: investigate [801] или [6.48%] от [12365] уникални думи са преведени -> [879] или [7.11%] от [12366] (+1!?) уникални думи са преведени - left a duplicate carry
+
+
+
+
+...
+warned
+return
 
 
 
@@ -1645,16 +1653,6 @@ myrrh:смирна
 
 
 -TODO: testimony
--TODO: investigate [801] или [6.48%] от [12365] уникални думи са преведени -> [879] или [7.11%] от [12366] (+1!?) уникални думи са преведени
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
 -TODO: add word translation eta estimation
 -TODO: add translation flow to the readme
-
-
-Translation Flow:
-- pick an untranslated verse (manual in Библия.txt)
-- translate the untranslated words and add them to the dict (manual in translation_decision_notes.txt)
-- check for word conflicts (check_words_dict_for_conflicts.py)
-- auto translate words (translate_untranslated_words_in_words_dict.py)
-- fix the word format and put together the verse (manual in Библия.txt)
-- recompile the books to add the newly translated verse (recompile_books.py)
