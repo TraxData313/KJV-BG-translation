@@ -1645,6 +1645,9 @@ myrrh:смирна
 ...
 warned
 return
+own
+country
+way
 
 
 
