@@ -1670,7 +1670,63 @@ away:далеч -> пътьом
 
 
 
+
+raised:въздигна<<
+raise:въздига<<
+rose:вдигам
+arose:въздигам
+	And when the morning arose
+	he perceived not when she lay down, nor when she arose
+	And there arose not a prophet since in Israel like unto Moses
+	For if we believe that Jesus died and rose again
+	her smoke rose up for ever and ever.
+lift:повишавам
+	And he lift up his eyes and looked
+	повиших: I lifted up my voice and cried
+liftest:повишаваш
+lifteth:повишава
+lifting:повишавайки
+lifted:повиших
+stand:стоя
+stayed:стоях
+stood:стоях
+standing:стоящ
+standard:стояние
+standards:стояния
+banner:знаме
+banners:знамена
+
+
+
+
+
+
+
+arise:въздигам
+flee:бягам
+fleeth:бягаш
+fled:избягах
+run:тичам
+ran:изтичах
+running:тичащ
+destroy:унищожавам/изтребвам -> разрушавам
+	The word "destroy" has its origins in Middle English, derived from the Old French word "destruire," which came from the Latin word "destruere." In Latin, "destruere" is a combination of the prefix "de-" (meaning "down from" or "completely") and "struere" (meaning "to build" or "to pile up"). Therefore, "destroy" originally meant to tear down, demolish, or break apart completely.
+destroyest:разрушаваш
+destroyeth:разрушава
+destroyed:разрушавих
+destroying:разрушащ
+destroyer:разрушител
+destroyers:разрушители
+
+
+
+
+
 ...
+death
+kill
+
+
 
 
 
