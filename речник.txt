@@ -1074,3 +1074,17 @@ destroyed:разрушавих
 destroying:разрушащ
 destroyer:разрушител
 destroyers:разрушители
+death:смърт
+deaths:смърти
+die:умира
+diest:умираш
+dieth:умира
+died:умря
+dead:мъртъв
+dying:умиране/умиращ
+kill:убива
+killing:убивайки
+killest:убиваш
+killeth:убива
+killed:уби
+killedst:уби
