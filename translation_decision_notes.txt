@@ -1742,7 +1742,15 @@ killedst:уби
 
 
 
-...
+Then Herod, 
+when he saw that he was mocked of the wise men, 
+was exceeding wroth, 
+and sent forth, 
+and slew all the children that were in Bethlehem, 
+брегове оттам? and in all the coasts thereof, 
+from two years old and under, 
+according to the time which he had diligently enquired of the wise men.
+
 mock:подигравам
 mocked:подиграх
 laugh:смея
@@ -1754,9 +1762,7 @@ wroth:разгневен
 rage:ярост
 rageth:яриш
 raged:разярен
-	Why did the heathen rage, and the people imagine vain things
-	яростта на гнева: Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him.
-	A wise man feareth, and departeth from evil: but the fool rageth, and is confident.
+
 angry:раздразнен
 anger:дразнение
 fury:яд
@@ -1791,13 +1797,31 @@ smiteth:поразява
 smote:поразих
 smotest:порази
 smitten:поразен
+coast:бряг
+coasts:брегове
+thereof:тамот
+	But flesh with the life thereof, which is the blood thereof, shall ye not eat. : Но плът със живота й <тамот>, който е в кръвтта <тамот>, не ще ядете \ Месо обаче с живота му, кръвта му, да не ядете.
+old:стар
+	And Noah was five hundred years old
+	the same became mighty men which were of old, men of renown
+	young and old
+	Remember the days of old
+elder:по-стар
+elders:по-стари (по-старите)
+eldest:най-стар
+age:възраст
+aged:възрастен
+ages:възрасти
+	thou shalt be buried in a good old age
+	because he was the son of his old age
+	Barzillai was a very aged man
+	and was delivered of a child when she was past age
 
 
-coasts
-thereof
-old
 
 
+
+...
 
 
 
