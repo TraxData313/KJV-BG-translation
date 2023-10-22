@@ -1133,3 +1133,5 @@ eldest:най-стар
 age:възраст
 aged:възрастен
 ages:възрасти
+jeremiah:еремиях
+jeremy:еремия

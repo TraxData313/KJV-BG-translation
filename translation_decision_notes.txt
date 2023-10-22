@@ -1822,7 +1822,10 @@ ages:възрасти
 
 
 ...
-
+Then was fulfilled that which was spoken by Jeremy the prophet, saying,
+Jeremiah:Еремиях
+Jeremy:Еремия
+Jeremiah->Jeremy
 
 
 
