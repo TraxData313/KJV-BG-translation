@@ -1831,9 +1831,128 @@ Jeremiah->Jeremy
 
 
 ...
+All the while my breath is in me, and the spirit of God is in my nostrils;
+ghost:обитание<< -> дух
+
+spirit:дух<< -> дихание от историята на думата, която е свързана с дишането и места на използване като "the spirit of God is in my nostrils"
+spirits:дихания
+spiritual:духовен<< -> дихоносен
+spiritually:диховно
+
+breath:дъх
+
+*hol*?
+whole:цял
+holy:свещен -> из-цял-о
+hallow:освещавам -> 
+hallowed:освети ->
+saint:светия
+saints:светии
+
+
+
+
+
+
+
+
+
 В Rama беше там крчл глас слуши, lamentation, и weeping, и велик mourning, Rachel weeping за/защото нея деца, и would не бъда comforted, защото/заради те са не.
 In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.
 
+<<
+grief:скръб
+sad:тъжен
+sadness:тъга
+sorrow:мъка
+sorrowful:мъчен
+sorrowed:измъчи
+sorrows:мъки
+sorry:измъчен
+<<
+
+
+
+lament:плача/оплаквам
+lamented:оплаках
+lamentation:оплакване
+lamentations:оплаквания
+lamentable:оплаквателен
+wail:стеная/стенае/стенаят (от стенание)
+wailing:изстена
+wailed:стенах
+sobbing,moan(0)
+sigh:охкам
+sighest:охкаш
+sigheth:охка
+sighed:изохках
+weep:ридая
+weepest:ридаеш
+weepeth:ридае
+wept:ридах
+weeping:ридание
+mourn:жалея
+mourneth:жалее
+mourned:жалееше
+mourning:жалеене
+bemoan:обжали
+cry:рев
+cried:изревах
+rachel:рахил
+would:бих/би/биха
+comfort:утеша/утеха
+comforteth:утешава
+comforted:утеших
+comforter:утешител
+comforters:утешители
+rama:рама
+ramah:рамах
+
+
+
+
+
+...
+Mat2:19 Но кога/когато Ирод беше мъртъв, обхванете, крчл ангел от/за пълчл Господ явява в крчл сън до/на/към Йосиф в Египет,
+Mat2:20 Казвайки, Въздигам, и взимам пълчл млад дете и негов майка, и отивам в пълчл територия от/за Израел: за/защото те са мъртъв което търсеше пълчл млад дете's живот.
+Mat2:21 И той въздигна, и взе пълчл млад дете и негов майка, и дойде в пълчл територия от/за Израел.
+-
+Mat2:19 But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,
+Mat2:20 Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child's life.
+Mat2:21 And he arose, and took the young child and his mother, and came into the land of Israel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...to think more...
+All the while my breath is in me, and the spirit of God is in my nostrils;
+ghost:обитание<< -> дух
+
+spirit:дух<< -> дихание от историята на думата, която е свързана с дишането и места на използване като "the spirit of God is in my nostrils"
+spirits:дихания
+spiritual:духовен<< -> дихоносен
+spiritually:диховно
+
+breath:дъх
+
+*hol*?
+whole:цял
+holy:свещен -> из-цял-о
+hallow:освещавам -> 
+hallowed:освети ->
+saint:светия
+saints:светии
 
 
 
