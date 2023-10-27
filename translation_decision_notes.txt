@@ -1912,7 +1912,7 @@ ramah:рамах
 
 
 
-...
+
 Mat2:19 Но кога/когато Ирод беше мъртъв, обхванете, крчл ангел от/за пълчл Господ явява в крчл сън до/на/към Йосиф в Египет,
 Mat2:20 Казвайки, Въздигам, и взимам пълчл млад дете и негов майка, и отивам в пълчл територия от/за Израел: за/защото те са мъртъв което търсеше пълчл млад дете's живот.
 Mat2:21 И той въздигна, и взе пълчл млад дете и негов майка, и дойде в пълчл територия от/за Израел.
@@ -1924,6 +1924,22 @@ Mat2:21 And he arose, and took the young child and his mother, and came into the
 
 
 
+
+
+...
+Mat2:22 Но кога/когато той слуши това Archelaus свърши reign в Юдеа в пълчл room от/за негов баща Ирод, той беше afraid до/на/към отивам thither: notwithstanding, бидейки предупреден от/за Бог в крчл сън, той turned aside в пълчл parts от/за Galilee:
+-
+Mat2:22 But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:
+Archelaus
+reign
+room
+afraid
+thither
+notwithstanding
+turned
+aside
+parts
+Galilee
 
 
 
