@@ -1166,3 +1166,5 @@ comforteth:утешава
 comforted:утеших
 comforter:утешител
 comforters:утешители
+rama:рама
+ramah:рамах
