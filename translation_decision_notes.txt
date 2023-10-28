@@ -1938,11 +1938,12 @@ ruled:владя<<
 ruler:владетел<<
 rulers:владетели (да се попълни)
 lead:водя<<
-reign:властвам
-reignest:властваш
-reigneth:властва
-reigned:властвах
-foreigner:чуждестранец<< -> чуждевластец?
+reign:царувам (идва от френското règne=царувам)
+reignest:царуваш
+reigneth:царува
+reigned:царувах
+foreigner:чуждестранец<< -> другоцарственик
+foreigners:чуждестранци<< -> другоцарственици
 
 Място?
 place:място<<
@@ -1958,7 +1959,7 @@ space:разстояние
 
 ghost:обитание<< -> призрак
 
-spirit:дух<< от историята на думата, която е свързана с дишането и места на използване като "the spirit of God is in my nostrils"
+spirit:дух<< остава така, от историята на думата, която е свързана с дишането и места на използване като "the spirit of God is in my nostrils"
 spirits:духове
 spiritual:духовен
 spiritually:духовно
@@ -1968,9 +1969,33 @@ breatheth:дишаш
 breathed:вдишах
 breath:дихание (по-добре от дъх заради точния корен)
 
+fear:плаша/уплах
+fearest:плаши
+feareth:плаши
+feared:плашех
+fearfulness:плахота
+afraid:уплашен?
+affright:разплаши(1)?
+affrighted:разплашен?
 
-afraid
-thither
+terror:страх
+terrors:страхове
+terrible:страшен
+awe:страхопочитание
+dread:ужас
+dreadful:ужасен
+horror:смразяване
+
+
+tremble:трепет/треперя
+trembleth:трепериш
+trembled:разтрепери
+trembling:треперене
+
+
+
+
+thither:натам?
 notwithstanding
 turned
 aside
