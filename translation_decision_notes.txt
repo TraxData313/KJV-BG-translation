@@ -1926,7 +1926,7 @@ Mat2:21 And he arose, and took the young child and his mother, and came into the
 
 
 
-...
+
 Mat2:22 Но кога/когато той слуши това Archelaus свърши reign в Юдеа в пълчл room от/за негов баща Ирод, той беше afraid до/на/към отивам thither: notwithstanding, бидейки предупреден от/за Бог в крчл сън, той turned aside в пълчл parts от/за Galilee:
 -
 Mat2:22 But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:
@@ -2002,6 +2002,16 @@ parts:дялове
 parted:отделен
 parties:поделници
 galilee:галилея
+
+
+
+
+...
+Mat2:23 И той дойде и dwelt в крчл град на/призова Nazareth: това то мога бъда изпълни което беше говорено до/от/по пълчл пророци, Той ще бъда на/призова крчл Nazarene.
+-
+Mat2:23 And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.
+
+
 
 
 
