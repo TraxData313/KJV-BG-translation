@@ -333,7 +333,7 @@ is:е
 are:са
 fourteen:четиринадесет
 until:докато
-ghost:обитание
+ghost:призрак
 presence:присъствие
 spiritual:духовен
 soul:душа
@@ -743,8 +743,8 @@ pilgrims:пришелци
 alien:чужденец
 aliens:чужденци
 alienated:очужди
-foreigner:чуждестранец
-foreigners:чуждестранци
+foreigner:другоцарственик
+foreigners:другоцарственици
 strange:странни
 stranger:странник
 odd:нечетно

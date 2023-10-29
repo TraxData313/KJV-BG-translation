@@ -1176,7 +1176,7 @@ grief:скръб
 griefs:скърби
 sorrow:мъка
 	I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children
-	and sorrow is turned into joy before him.
+	and sorrow is свърнахto joy before him.
 sorrowful:мъчен
 sorrowed:измъчи
 sorrows:мъки
@@ -1942,10 +1942,8 @@ reign:царувам (идва от френското règne=царувам)
 reignest:царуваш
 reigneth:царува
 reigned:царувах
-foreigner:чуждестранец<< -> другоцарственик
-foreigners:чуждестранци<< -> другоцарственици
-
-Място?
+foreigner:чуждестранец<< -> другоцарственик (готово)
+foreigners:чуждестранци<< -> другоцарственици (готово)
 place:място<<
 places:места
 placed:поместих
@@ -1956,55 +1954,54 @@ room:обиталище
 	в обиталището на: Archelaus did reign in Judaea in the room of his father Herod
 rooms:обиталища
 space:разстояние
-
-ghost:обитание<< -> призрак
-
+ghost:обитание<< -> призрак (готово)
 spirit:дух<< остава така, от историята на думата, която е свързана с дишането и места на използване като "the spirit of God is in my nostrils"
 spirits:духове
 spiritual:духовен
 spiritually:духовно
-
 breathe:дишам
 breatheth:дишаш
 breathed:вдишах
 breath:дихание (по-добре от дъх заради точния корен)
-
-fear:плаша/уплах
-fearest:плаши
-feareth:плаши
-feared:плашех
-fearfulness:плахота
-afraid:уплашен?
-affright:разплаши(1)?
-affrighted:разплашен?
-
+fear:боя се/боязън
+fearest:боиш
+feareth:бои
+feared:боих
+fearfulness:боязливост
+affright:уплаши
+affrighted:уплашен
+afraid:уплашен
 terror:страх
 terrors:страхове
 terrible:страшен
-awe:страхопочитание
 dread:ужас
 dreadful:ужасен
 horror:смразяване
-
-
 tremble:трепет/треперя
 trembleth:трепериш
 trembled:разтрепери
 trembling:треперене
-
-
-
-
-thither:натам?
-notwithstanding
-turned
-aside
-parts
-Galilee
-
-
-
-
+thither:таму
+stand:стоя<<
+withstand:устоявам
+withstood:устоях
+notwithstanding:неустоявайки
+turn:обръщам
+turnest:обръщаш
+turneth:обръща
+turned:обърнах/обръщах
+turn in:свърна (ръчен превод) >> (готово)
+turned in:свърнах (ръчен превод) >> (готово)
+return:връщам<<
+aside:встрани
+side:страна<<
+sides:страни
+part:дял/разделям
+parteth:разделя
+parts:дялове
+parted:отделен
+parties:поделници
+galilee:галилея
 
 
 
@@ -2014,6 +2011,8 @@ Galilee
 
 ...to think more...
 All the while my breath is in me, and the spirit of God is in my nostrils;
+gave up (даде на/горе):отдаде (ръчен превод)
+give up(1G дава на/горе):отдава (ръчен превод)
 
 *hol*?
 whole:цял
@@ -2023,6 +2022,7 @@ hallowed:освети ->
 saint:светия
 saints:светии
 
+awe:страхопочитание (да помисля/като стигна)
 
 
 
