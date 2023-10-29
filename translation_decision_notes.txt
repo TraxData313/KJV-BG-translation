@@ -2075,7 +2075,7 @@ saints:светии
 
 awe:страхопочитание (да помисля/като стигна)
 
-
+територия?
 
 -TODO: testimony
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
