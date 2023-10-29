@@ -2050,6 +2050,14 @@ nazarene:назарей
 
 
 ...on the back of my mind...
+територия?
+world:свят
+earth:земя
+land:територия
+lands:територии
+ground:основа
+grounded:заземен
+
 God: Of every tree of the garden thou mayest freely eat
 Serpent: Yea, hath God said, Ye shall not eat of every tree of the garden?
 shall/will (трябва?/ще)
@@ -2074,8 +2082,6 @@ saint:светия
 saints:светии
 
 awe:страхопочитание (да помисля/като стигна)
-
-територия?
 
 -TODO: testimony
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)

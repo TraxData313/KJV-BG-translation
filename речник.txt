@@ -21,7 +21,7 @@ grounded:заземен
 dust:прах
 soil:почва
 floor:под
-floor:подове
+floors:подове
 bottom:дъно
 bottoms:дъна
 bottomless:бездъннен
