@@ -2006,10 +2006,37 @@ galilee:галилея
 
 
 
-...
+
 Mat2:23 И той дойде и dwelt в крчл град на/призова Nazareth: това то мога бъда изпълни което беше говорено до/от/по пълчл пророци, Той ще бъда на/призова крчл Nazarene.
 -
 Mat2:23 And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.
+
+room:обиталище<<
+dwell:пребивавам
+dwellest:пребиваваш
+dwelleth:пребивава
+dwelled:пребивавах
+dwelt:пребивавах
+dwelling:пребивалище
+dwellings:пребивалища
+dwellingplace:мястопребивалище
+place:място<<
+house:къща<<
+houses:къщи (добавено под къща в речника)
+home:дом<<
+nazareth:назарет
+nazarene:назарей
+
+
+
+
+
+...
+
+
+
+
+
 
 
 
@@ -2020,7 +2047,9 @@ Mat2:23 And he came and dwelt in a city called Nazareth: that it might be fulfil
 
 
 ...to think more...
-All the while my breath is in me, and the spirit of God is in my nostrils;
+shall/will (трябва?/ще)
+
+
 gave up (даде на/горе):отдаде (ръчен превод)
 give up(1G дава на/горе):отдава (ръчен превод)
 

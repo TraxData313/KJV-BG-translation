@@ -552,6 +552,7 @@ hath:имаше/минвр
 had:имаше/минвр
 into:в
 house:къща
+houses:къщи
 home:дом
 come:дойди
 went:отиде
@@ -1222,3 +1223,14 @@ parts:дялове
 parted:отделен
 parties:поделници
 galilee:галилея
+dwell:пребивавам
+dwellest:пребиваваш
+dwelleth:пребивава
+dwelled:пребивавах
+dwelt:пребивавах
+dwelling:пребивалище
+dwellings:пребивалища
+dwellingplace:мястопребивалище
+houses:къщи
+nazareth:назарет
+nazarene:назарей
