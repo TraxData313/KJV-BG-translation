@@ -2027,12 +2027,7 @@ home:дом<<
 nazareth:назарет
 nazarene:назарей
 
-
-
-
-
-...
-
+-> 40NT_Матей 2:23 И той дойде и пребивава в град назован Назарет: за да може да се изпълни което беше говорено от пророците, Той ще бъде назован Назарей.
 
 
 
@@ -2040,18 +2035,35 @@ nazarene:назарей
 
 
 
+...thinking/working on now...
 
 
 
 
 
 
-...to think more...
+
+
+
+
+
+
+
+...on the back of my mind...
+God: Of every tree of the garden thou mayest freely eat
+Serpent: Yea, hath God said, Ye shall not eat of every tree of the garden?
 shall/will (трябва?/ще)
+will:ще/воля<<  "to wish," "to desire," or "to want."
+shall:ще<< -> трябва? obligation, necessity, or future events
+shalt:ще<< -> трябва?
+must:трябва? -> длъжен? necessity or obligation
+duty:обяжение/призвание?
+duties:
+may:може<<
+Yea:дали?
 
-
-gave up (даде на/горе):отдаде (ръчен превод)
-give up(1G дава на/горе):отдава (ръчен превод)
+gave up (даде на/горе):отдаде (ръчен превод)?
+give up(1G дава на/горе):отдава (ръчен превод)?
 
 *hol*?
 whole:цял
