@@ -1234,3 +1234,15 @@ dwellingplace:мястопребивалище
 houses:къщи
 nazareth:назарет
 nazarene:назарей
+those:тези
+john:йоан
+baptize:кръстя
+baptist:кръстител
+baptism:кръщение
+baptized:кръстен
+preaching:проповядвайки
+wild:див
+wilderness:подивнина
+repent:покайвам
+repented:покая
+repentance:покаяние

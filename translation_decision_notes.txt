@@ -2035,10 +2035,34 @@ nazarene:назарей
 
 
 
+
+Mat3:1 В those дни дойде John пълчл Baptist, preaching в пълчл wilderness от/за Юдеа,
+Mat3:2 И казвайки, Repent вий: за/защото пълчл царство от/за небе е на/в ръка.
+-
+Mat3:1 In those days came John the Baptist, preaching in the wilderness of Judaea,
+Mat3:2 And saying, Repent ye: for the kingdom of heaven is at hand.
+
+those:тези
+john:йоан
+baptize:кръстя
+baptist:кръстител
+baptism:кръщение
+baptized:кръстен
+preaching:проповядвайки
+wild:див
+wilderness:подивнина (wild-er-ness пустощ, но ще използвам корена wild и *er=по-* за да сгобя новата дума, която разбирам от раз в контекстовете и ми напомня от къде идва и как е построена)
+repent:покайвам
+repented:покая
+repentance:покаяние
+
+-> 40NT_Матей 3:1 В тези дни дойде Йоан Кръстителят, проповядвайки в подивнината на Юдеа,
+40NT_Матей 3:2 И казвайки, Покайвате се вий: защото царството на небето е на ръка.
+
+
+
+
+
 ...thinking/working on now...
-
-
-
 
 
 
@@ -2057,6 +2081,11 @@ land:територия
 lands:територии
 ground:основа
 grounded:заземен
+dust:прах
+soil:почва
+floor:под
+floor:подове
+bottom:дъно
 
 God: Of every tree of the garden thou mayest freely eat
 Serpent: Yea, hath God said, Ye shall not eat of every tree of the garden?
