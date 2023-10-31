@@ -2063,9 +2063,31 @@ repentance:покаяние
 
 
 ...thinking/working on now...
+Mat3:3 За/защото това/този е той това беше говорено от/за до/от/по пълчл пророк Esaias, казвайки, Пълчл глас от/за едно crying в пълчл подивнина, Prepare вий пълчл път от/за пълчл Господ, правя негов paths straight.
 
 
 
+Esaias:Исаия (Isaiah -> Esaias / царигратският превод също отразява промяната Исаия -> Исая )
+Isaiah:Исая
+cry:рев<<
+cried:изревах<<
+cry:вик/викам?
+crying:викане/викайки?
+criest:викаш?
+crieth:вика?
+cried:извиках?
+cries(1)?
+roar:рев?
+shout:крещя?
+yell:рикаят
+yelled:зарикаха
+Prepare
+paths:път/дорога/следа?
+way:път<<
+ways:пътища<<
+trace,track(0)
+course:otred/otdelenie?
+straight
 
 
 

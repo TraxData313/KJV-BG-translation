@@ -1158,8 +1158,6 @@ mourneth:жалее
 mourned:жалееше
 mourning:жалеене
 bemoan:обжали
-cry:рев
-cried:изревах
 rachel:рахил
 would:бих/би/биха
 comfort:утеша/утеха
