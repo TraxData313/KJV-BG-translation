@@ -2065,29 +2065,54 @@ repentance:покаяние
 ...thinking/working on now...
 Mat3:3 За/защото това/този е той това беше говорено от/за до/от/по пълчл пророк Esaias, казвайки, Пълчл глас от/за едно crying в пълчл подивнина, Prepare вий пълчл път от/за пълчл Господ, правя негов paths straight.
 
-
-
-Esaias:Исаия (Isaiah -> Esaias / царигратският превод също отразява промяната Исаия -> Исая )
-Isaiah:Исая
-cry:рев<<
-cried:изревах<<
-cry:вик/викам?
-crying:викане/викайки?
-criest:викаш?
-crieth:вика?
-cried:извиках?
-cries(1)?
-roar:рев?
-shout:крещя?
+esaias:исаия (Isaiah -> Esaias / царигратският превод също отразява промяната Исаия -> Исая )
+isaiah:исая
+cry:вик/викам
+crying:викане/викайки
+criest:викаш
+crieth:вика
+cried:извиках
+cries:викове
+roar:рева
+roareth:реве
+roared:изрева
+roaring:рев
+roarings:ревове
+shout:възгласявам
+shouteth:възгласяваш
+shouted:възгласих
+shouting:възгласяване
+shoutings:възгласявания
 yell:рикаят
-yelled:зарикаха
-Prepare
-paths:път/дорога/следа?
-way:път<<
+yelled:рикаха
+pare(1):приготви 
+	Then thou shalt bring her home to thine house, and she shall shave her head, and pare her nails
+prepare:предготвям
+cook:кулинар
+cooks:кулинари
+lawyer:законовед<<
+give:дава<<
+lawgiver:законодател
+path:пътека
+	използва се за вече проходена пътека, докато way се използва за път като житейски и като посока на вървене
+	ходя/ход - вървя?, ходя подхожда на walk, затова от "вървя" -> върволица?
+	ne, пътека е добре, въпреки същия корен винаги ще е различна дума
+paths:пътеки
+way:път<< -> 
+	начин/начинание? не става заради wise и заради flaming sword which turned every way
+	посока?
 ways:пътища<<
+away:пътьом<<
+walk:ходя
+walkest:ходиш
+walketh:ходи
+walked:ходих
+walking:ходейки
+wise:мъдър/начин<<
+road(1):набег/нападение? raid->road, точния превод ще направя като стигна
 trace,track(0)
-course:otred/otdelenie?
-straight
+straight:прям
+straightway:прямопътно
 
 
 
@@ -2096,6 +2121,25 @@ straight
 
 
 ...on the back of my mind...
+sign:посока<< -> знак?
+guide:напътства<<
+lead:водя<<
+direction(1):указание<<
+	by the direction of the lawgiver
+direct:насочвам /направлявам? соча? точа?
+	to direct his face unto Goshen
+	I direct my prayer unto thee
+directed:насочени?
+	O that my ways were directed to keep thy statutes!
+directly:насочен / право пред / точно пред?
+	and sprinkle of her blood directly before the tabernacle of the congregation seven times
+	even the way directly before the wall toward the east
+напътствам/навигирам/направлявам - право/точно пред
+course:отред/отделение?
+
+over:над<<
+upon:над -> връз?
+
 територия?
 world:свят
 earth:земя
