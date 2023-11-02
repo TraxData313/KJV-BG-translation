@@ -2062,7 +2062,9 @@ repentance:покаяние
 
 
 
-...thinking/working on now...
+
+Mat3:3 For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
+-
 Mat3:3 За/защото това/този е той това беше говорено от/за до/от/по пълчл пророк Esaias, казвайки, Пълчл глас от/за едно crying в пълчл подивнина, Prepare вий пълчл път от/за пълчл Господ, правя негов paths straight.
 
 esaias:исаия (Isaiah -> Esaias / царигратският превод също отразява промяната Исаия -> Исая )
@@ -2113,6 +2115,33 @@ road(1):набег/нападение? raid->road, точния превод щ�
 trace,track(0)
 straight:прям
 straightway:прямопътно
+
+-> 40NT_Матей 3:3 Защото това е той за когото беше говорено от пророка Исаия, казвайки, Гласът на един викащ в подивнината, Предгответе вий пътя за Господа, направете пътеки му прями. [Исая 40:3]
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat3:4 And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.
+-
+Mat3:4 И пълчл same Йоан имаше/минвр негов raiment от/за camel's hair, и крчл leathern girdle около негов loins; и негов meat беше locusts и див honey.
+
+same
+raiment
+camel
+hair
+leathern
+girdle
+loins
+meat
+locusts
+honey
+
+
+
 
 
 
@@ -2178,6 +2207,7 @@ saints:светии
 
 awe:страхопочитание (да помисля/като стигна)
 
+-TODO: lowering the notes like [исая 40:3]
 -TODO: testimony
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
 -TODO: add word translation eta estimation
