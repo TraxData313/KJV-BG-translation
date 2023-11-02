@@ -2123,6 +2123,11 @@ straightway:прямопътно
 
 
 
+- DONE: lowering the notes like [исая 40:3]
+
+
+
+
 
 ...thinking/working on now...
 Mat3:4 And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.
@@ -2207,7 +2212,6 @@ saints:светии
 
 awe:страхопочитание (да помисля/като стигна)
 
--TODO: lowering the notes like [исая 40:3]
 -TODO: testimony
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
 -TODO: add word translation eta estimation

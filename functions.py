@@ -176,6 +176,7 @@ def translate_word(word, transl_dict):
     else:
         is_all_CAPS = False
     # Replace cond:
+    orig_word = word
     word = word.lower()
     pruned_word = word
     for char in chars_to_remove:
@@ -189,6 +190,9 @@ def translate_word(word, transl_dict):
         word = word.capitalize()
     if is_all_CAPS:
         word = word.upper()
+    # leave comments like [Исая 40:3] with cap letter or if not for this line it would become [исая 40:3]:
+    if orig_word.startswith('[') and len(orig_word) > 2 and orig_word[1].isupper():
+        word = '[' + word[1].upper() + word[2:]
     return word, pruned_word
 
 def translate_verse(verse, transl_dict):
