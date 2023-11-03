@@ -2134,16 +2134,70 @@ Mat3:4 And the same John had his raiment of camel's hair, and a leathern girdle 
 -
 Mat3:4 И пълчл same Йоан имаше/минвр негов raiment от/за camel's hair, и крчл leathern girdle около негов loins; и негов meat беше locusts и див honey.
 
-same
-raiment
-camel
-hair
-leathern
-girdle
+same:същи
+raiment:облекло
+cloth:премяна
+	a clean linen cloth
+clothes:премяни
+clothe:пременям
+	and ye clothe you with the wool
+clotheth(0)
+clothest:пременяш
+clothed:пременен/пременям
+	My flesh is clothed with worms and clods of dust
+	They that hate thee shall be clothed with shame
+clad:премени
+clothing:пременяне
+	If I have seen any perish for want of clothing, or any poor without covering;
+sack:чувал
+sacks:чували
+sackcloth:чувалопремяна
+garment:палто
+garments:палта
+	took a garment, and laid it upon both their shoulders, and went backward - може лесно да се покрие човек с него
+	she caught him by his garment...and he left his garment in her hand - може да се съблече когато го хванат
+	And many spread their garments in the way
+coat:дреха
+coats:дрехи
+	the LORD God make coats of skins, and clothed them
+cloak:покривало
+	And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.
+	but now they have no cloak for their sin.
+vail:воал
+vails:воали
+mantle:мантия
+mantles:мантии
+robe:роба
+robes:роби
+rags:дрипи
+camel:камила
+camels:камили
+hair:коса
+hairs:коси
+hairy:космат
+skin:кожа
+skins:кожи
+tanning(0):дъбене (защото дъбът може да се използвал като агент за предпазване на кожата в част от процеса на обработката, a tann=стара дума за дъб, но сега е tan)
+oak:дъб
+oaks:дъбове
+tanner:дъббар (ще го оставя така, но с двойно б за да знам от къде идва думата)
+leather:дъббенокожа
+leathern:дъббенокожени
+	използвана е само от Йоан - той е първия в Библията, който е използвал дъбена кожа, след което се появява думата tanner:дъббар в Acts (като че да го е измислил), всъщност Йоан изглежда като много практичен човек
+
+
+gird:опашесвам?
+girdest:опашесваш
+girdeth:опашесва
+girded:опашесвах
+girdle:пояс
+girdles:пояси?
 loins
 meat
 locusts
 honey
+
+
 
 
 
