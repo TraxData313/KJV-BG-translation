@@ -2128,8 +2128,6 @@ straightway:прямопътно
 
 
 
-
-...thinking/working on now...
 Mat3:4 And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.
 -
 Mat3:4 И пълчл same Йоан имаше/минвр негов raiment от/за camel's hair, и крчл leathern girdle около негов loins; и негов meat беше locusts и див honey.
@@ -2184,24 +2182,55 @@ tanner:дъббар (ще го оставя така, но с двойно б з
 leather:дъббенокожа
 leathern:дъббенокожени
 	използвана е само от Йоан - той е първия в Библията, който е използвал дъбена кожа, след което се появява думата tanner:дъббар в Acts (като че да го е измислил), всъщност Йоан изглежда като много практичен човек
-
-
-gird:опашесвам?
-girdest:опашесваш
-girdeth:опашесва
-girded:опашесвах
+gird:опасвам
+girdest:опашеш
+girdeth:опаше
+girded:опасвах
 girdle:пояс
-girdles:пояси?
-loins
-meat
-locusts
-honey
+girdles:пояси
+loins:чресла
+meat:ядивно
+meats:ядивни
+eat:ям
+eatest:ядеш
+eateth:яде
+ate:ядох
+eaten:ядох
+food:храна
+feed:храня
+feedest:храниш
+feedeth:храни
+fed:храних
+feeding:хранейки
+feedingplace:храненемясто
+locust:акрида
+locusts:акриди
+grasshopper:скакалец
+grasshoppers:скакалци
+honey:мед
+honeycomb:меденапита
 
 
 
 
 
 
+
+
+
+
+
+
+...thinking/working on now...
+Mat3:5 Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,
+-
+Mat3:5 Тогава дойде от/вън до/на/към него Йерусалим, и всички Юдеа, и всички пълчл region round около Jordan,
+
+region:регион?
+round:вкръг?
+jordan:иордан
+
+Mat3:5 Тогава дойде вън при него Йерусалим, и цяла Юдеа, и целият регион вкръг около Иордан,
 
 
 
