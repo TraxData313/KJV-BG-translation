@@ -1359,3 +1359,6 @@ viper:усойница
 vipers:усойници
 serpent:змия
 serpents:змии
+meet:срещам/срещащ
+met:срещнах
+meeting:посрещане
