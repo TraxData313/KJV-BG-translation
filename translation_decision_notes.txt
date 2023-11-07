@@ -2258,8 +2258,44 @@ confession:признание
 
 
 
-...thinking/working on now...
+
 Mat3:7 Но кога/когато той видя много от/за пълчл Pharisees и Sadducees дойди до/на/към негов кръщение, той каза на/помощна те, О поколение от/за vipers, кой имаше/минвр предупреден вие до/на/към бягам от пълчл гняв до/на/към дойди?
+-
+Mat3:7 But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?
+
+pharisee:фарисей
+pharisees:Фарисеи
+sadducees:садукеи
+viper:усойница
+vipers:усойници
+snake(0)
+serpent:змия
+serpents:змии
+over:над<<
+upon:над -> връз
+go:отивам<<
+come:дойди -> идвам/дойдох
+camest:идваш
+cometh:идва
+came:дойдох
+coming:идвайки
+
+-> 40NT_Матей 3:7 Но като видя много от Фарисеите и Садукеите дошли на кръщението му, той каза връз тях, О поколение на усойници, кой предупреди ви да бягате от гневът да дойде?
+
+
+
+
+
+...thinking/working on now...
+Mat3:8 изнасям затова плодове meet за/защото покаяние:
+-
+Mat3:8 Bring forth therefore fruits meet for repentance:
+
+meet
+
+
+
+
 
 
 
@@ -2283,8 +2319,7 @@ directly:насочен / право пред / точно пред?
 напътствам/навигирам/направлявам - право/точно пред
 course:отред/отделение?
 
-over:над<<
-upon:над -> връз?
+
 
 територия?
 world:свят

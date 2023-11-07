@@ -94,7 +94,7 @@ amen:амин
 all:всички
 every:всеки
 everything:всичко
-upon:над
+upon:връз
 face:лице
 faces:лица
 water:вода
@@ -554,7 +554,7 @@ into:в
 house:къща
 houses:къщи
 home:дом
-come:дойди
+come:дойди/идвам/дойде
 went:отиде
 we:ние
 your:ваш
@@ -1352,3 +1352,10 @@ confesseth:признаваш
 confessed:признах
 confessing:признавайки
 confession:признание
+pharisee:фарисей
+pharisees:Фарисеи
+sadducees:садукеи
+viper:усойница
+vipers:усойници
+serpent:змия
+serpents:змии
