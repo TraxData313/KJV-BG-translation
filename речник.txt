@@ -1347,7 +1347,7 @@ region:регион
 regions:региони
 round:кръгло
 jordan:иордан
-confess:признавам 
+confess:признавам
 confesseth:признаваш
 confessed:признах
 confessing:признавайки
