@@ -2221,16 +2221,32 @@ honeycomb:меденапита
 
 
 
-...thinking/working on now...
+
 Mat3:5 Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,
 -
 Mat3:5 Тогава дойде от/вън до/на/към него Йерусалим, и всички Юдеа, и всички пълчл region round около Jordan,
 
-region:регион?
-round:вкръг?
+region:регион
+regions:региони
+round:вкръг -> кръгло
+	there lay a small round thing
+circle(1)
 jordan:иордан
 
-Mat3:5 Тогава дойде вън при него Йерусалим, и цяла Юдеа, и целият регион вкръг около Иордан,
+Mat3:5 Тогава дойде вън при него Йерусалим, и цяла Юдеа, и целият регион кръгло около Иордан,
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat3:6 И беше кръстен от/за него в Иордан, confessing техните грехове.
+-
+Mat3:6 And were baptized of him in Jordan, confessing their sins.
+
+confessing
 
 
 

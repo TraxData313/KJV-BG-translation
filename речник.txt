@@ -1280,8 +1280,6 @@ walked:ходих
 walking:ходейки
 straight:прям
 straightway:прямопътно
-
-
 same:същи
 raiment:облекло
 cloth:премяна/пременям
@@ -1345,3 +1343,7 @@ grasshopper:скакалец
 grasshoppers:скакалци
 honey:мед
 honeycomb:меденапита
+region:регион
+regions:региони
+round:кръгло
+jordan:иордан
