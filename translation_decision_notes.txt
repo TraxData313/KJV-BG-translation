@@ -2331,8 +2331,12 @@ side:страна<<
 inside(1):вътрешност
 yourselves:себеСи
 
-able
-stones
+able:способен
+stone:камък/камня
+stones:камъни
+stoned:камех
+stoning:камнене
+	the people spake of stoning him
 
 
 Mat3:9 И мислете не да кажете within yourselves, Ние имам/минвр Авраам до/на/към наш баща: за/защото аз казвам на/помощна вие, това Бог е able от/за тези stones до/на/към въздига на/горе деца на/помощна Авраам.
