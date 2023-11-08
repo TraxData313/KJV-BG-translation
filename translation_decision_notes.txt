@@ -2321,7 +2321,6 @@ think:мисля
 thinkest:мислиш
 thinketh:мисли
 thinking:мислейки
-
 with:с<<
 without:извън -> свън 
 in:в
@@ -2330,18 +2329,23 @@ within:свътре
 side:страна<<
 inside(1):вътрешност
 yourselves:себеСи
-
 able:способен
-stone:камък/камня
+stone:камък/камненувам
 stones:камъни
 stoned:камех
-stoning:камнене
-	the people spake of stoning him
-
+stoning(1):камненуване
 
 Mat3:9 И мислете не да кажете within yourselves, Ние имам/минвр Авраам до/на/към наш баща: за/защото аз казвам на/помощна вие, това Бог е able от/за тези stones до/на/към въздига на/горе деца на/помощна Авраам.
 
 
+
+
+
+
+
+
+...thinking/working on now...
+Mat3:10 И сега също пълчл axe е laid на/помощна пълчл root от/за пълчл дърва: затова всеки дърво което bringeth не напред/изясняваша добро плод е hewn долу, и cast в пълчл огън.
 
 
 

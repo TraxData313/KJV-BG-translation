@@ -1362,3 +1362,15 @@ serpents:змии
 meet:срещам/срещащ
 met:срещнах
 meeting:посрещане
+think:мисля
+thinkest:мислиш
+thinketh:мисли
+thinking:мислейки
+within:свътре
+inside:вътрешност
+yourselves:себеСи
+able:способен
+stone:камък/камненувам
+stones:камъни
+stoned:камех
+stoning:камненуване
