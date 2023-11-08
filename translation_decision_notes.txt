@@ -2323,10 +2323,10 @@ thinketh:мисли
 thinking:мислейки
 
 with:с<<
-without:без<< -> свън -> извън
+without:извън -> свън 
 in:в
 out:от/вън
-within:свътре -> извътре
+within:свътре
 side:страна<<
 inside(1):вътрешност
 yourselves:себеСи
