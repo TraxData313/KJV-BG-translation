@@ -59,7 +59,7 @@ paradise:рай
 was:беше
 were:беше
 with:с
-without:без
+without:извън
 form:форма
 formed:сформиран
 formeth:сформирайки
