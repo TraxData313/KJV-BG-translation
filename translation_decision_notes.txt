@@ -2431,7 +2431,36 @@ holy:свещен -> свят (готово)
 
 ...thinking/working on now...
 Mat3:12 Чийто fan е в негов ръка, и той ще throughly purge негов подове, и събирам негов wheat в пълчл garner; но той ще burn на/горе пълчл chaff с unquenchable огън.
+-
+Mat3:12 Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.
 
+fan:отвея/веяло?
+fanners:веячи
+
+through:през/чрез/открай-докрай/из-за?
+	чрез: for the earth is filled with violence through them
+	walk through the land
+throughout?
+throughly:открай-докрайно?
+thoroughly:старателно/съвършено/съвсем?
+	and shall cause him to be thoroughly healed.
+	
+purge:?
+purify?
+clean:чист?
+cleanse:почистя?
+refine?
+
+wheat:пшеница/жито?
+garner:житница/хамбар
+gather:събирам<<
+burn:горя?
+chaff:плява/слама?
+quench:гася?
+	the wild asses quench their thirst
+	the fire was quenched
+unquenchable
+extinguish(0)
 
 
 
