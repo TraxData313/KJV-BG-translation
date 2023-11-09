@@ -2342,10 +2342,72 @@ Mat3:9 И мислете не да кажете within yourselves, Ние има
 
 
 
+Mat3:10 И сега също пълчл axe е laid на/помощна пълчл root от/за пълчл дърва: затова всеки дърво което bringeth не напред/изясняваша добро плод е hewn долу, и cast в пълчл огън.
+-
+Mat3:10 And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.
+
+
+axe:брадва
+axes:брадви
+hew:сека
+heweth:сече
+hewed:изсякох
+hewn:отсечен
+hewer:секач
+hewers:секачи
+chop(1):накълцват
+	and they break their bones, and chop them in pieces
+root:корен
+roots:корени
+rooted:вкоренен
+rooted up:изкоренен (ръчен превод) (на/горе) готово
+rooted out:откоренен (ръчен превод) (от/вън) готово
+rooted them out:откоренен те (ръчен превод) готово
+bearest:носиш<<
+bringeth:носи
+put:постави<<
+"Lay" requires an object (you lay something down), while "lie" does not (something lies somewhere).
+lay:слагам/полагамСе
+	преди да си легнат: But before they lay down
+	and the firstborn went in, and lay with her father; and he perceived not when she lay down
+layest:полагаш
+	that thou layest the burden of all this people upon me
+layeth:полага
+laid:положен
+lain:положен
+laying:полагане
+lie:лежа/лъжа
+	ще легнем с него: let us make our father drink wine, and we will lie with him
+	and go thou in, and lie with him
+liest:лежиш
+	the land whereon thou liest
+lieth:лежи
+lied:лъжех (във всички случаи се използва като лъжех)
+lien:лежах (във всички случаи се използва като лежах)
+cast:запращам/запратих
+	is hewn down, and cast into the fire
+	And he said, Cast it on the ground. And he cast it on the ground
+castest:запращаш
+casteth:запраща
+castedst:запратиш
+casting:запращайки/заправка
+	
+
+
+Mat3:10 И сега също брадвата е легнала на корена на дървата: затова всяко дърво което не изнася добър плод е отсечено, и cast в пълчл огън.
+
+
+
+
+
 
 
 ...thinking/working on now...
-Mat3:10 И сега също пълчл axe е laid на/помощна пълчл root от/за пълчл дърва: затова всеки дърво което bringeth не напред/изясняваша добро плод е hewn долу, и cast в пълчл огън.
+Mat3:11 аз indeed кръстя вие с вода на/помощна покаяние: но той това cometh след мен е по-могъщ than Аз, чийто shoes аз съм не worthy до/на/към нося: той ще кръстя вие с пълчл Свещен Призрак, и с огън:
+
+
+
+
 
 
 

@@ -1374,3 +1374,35 @@ stone:камък/камненувам
 stones:камъни
 stoned:камех
 stoning:камненуване
+axe:брадва
+axes:брадви
+hew:сека
+heweth:сече
+hewed:изсякох
+hewn:отсечен
+hewer:секач
+hewers:секачи
+chop:накълцват
+root:корен
+roots:корени
+rooted:вкоренен
+rooted up:изкоренен (ръчен превод)
+rooted out:откоренен (ръчен превод)
+rooted them out:откоренен те (ръчен превод)
+bringeth:носи
+lay:слагам/полагамСе
+layest:полагаш
+layeth:полага
+laid:положен
+lain:положен
+laying:полагане
+lie:лежа/лъжа
+liest:лежиш/лъжеш
+lieth:лежи/лъже
+lied:лъжех
+lien:лежах
+cast:запращам/запратих
+castest:запращаш
+casteth:запраща
+castedst:запратиш
+casting:запращайки/заправка
