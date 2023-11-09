@@ -1406,3 +1406,15 @@ castest:запращаш
 casteth:запраща
 castedst:запратиш
 casting:запращайки/заправка
+lies:лъжи
+deed:деяние
+deeds:деяния
+indeed:вдеяние
+comest:идваш
+cometh:идва
+coming:идване/идвайки
+than:от
+shoe:обувка
+shoes:обувки
+worth:сойност/наСтойност
+worthy:достоен
