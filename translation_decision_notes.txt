@@ -2437,19 +2437,34 @@ Mat3:12 Whose fan is in his hand, and he will throughly purge his floor, and gat
 fan:отвея/веяло?
 fanners:веячи
 
-through:през/чрез/открай-докрай/из-за?
+through:през/чрез/открай-докрай/из-за/отдо?
 	чрез: for the earth is filled with violence through them
 	walk through the land
-throughout?
+throughout? -вънка
+	throughout all the land of Egypt
+	throughout the land of Egypt
+	before the LORD throughout your generations
+	from gate to gate throughout the camp
+	throughout all their journeys
+	през пасва на всички
+out:от/вън<<
+	without : свънка
+
 throughly:открай-докрайно?
+	will throughly purge his floor
 thoroughly:старателно/съвършено/съвсем?
 	and shall cause him to be thoroughly healed.
 	
-purge:?
-purify?
+
+purge
+purged
+purgeth
+purging
+
+purify
 clean:чист?
 cleanse:почистя?
-refine?
+refine? премахване на примеси
 
 wheat:пшеница/жито?
 garner:житница/хамбар
