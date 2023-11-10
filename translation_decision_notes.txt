@@ -2434,37 +2434,65 @@ Mat3:12 Чийто fan е в негов ръка, и той ще throughly purge
 -
 Mat3:12 Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.
 
-fan:отвея/веяло?
+fan:отвея/веяло
 fanners:веячи
-
-through:през/чрез/открай-докрай/из-за/отдо?
+through:из (462 uses) като му се сложи -вън става като през, като стане прилагателно става като изцяло/напълно
 	чрез: for the earth is filled with violence through them
 	walk through the land
-throughout? -вънка
+	but if ye through the Spirit
+throughout:извне (162 uses) като през но с думата вън?
 	throughout all the land of Egypt
 	throughout the land of Egypt
 	before the LORD throughout your generations
 	from gate to gate throughout the camp
 	throughout all their journeys
 	през пасва на всички
-out:от/вън<<
-	without : свънка
-
-throughly:открай-докрайно?
-	will throughly purge his floor
-thoroughly:старателно/съвършено/съвсем?
-	and shall cause him to be thoroughly healed.
+throughly:издо(11 uses) като напълно/изцяло от-до
+	he will throughly purge his floor
+	that my grief were throughly weighed
+	Wash me throughly from mine iniquity
+	For if ye throughly amend your ways and your doings; if ye throughly execute judgment between a man and his neighbour
+	That the man of God may be perfect, throughly furnished unto all good works.
+via(0)
 	
+away:пътьом<<
+purge:изтривам/изтърквам/обирам/отбирам/стирать/изстривам? (15 uses) използва се за очистване
+	Purge me with hyssop, and I shall be clean
+	purge away our sins
+	And I will purge out from among you the rebels
+	And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver
+purged:изтрих (13 uses)
+purgeth (1 uses)
+	and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.
+purging (1 uses)
+	очиствайки храната: it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats?
+подбирам пасва най-добре но не се връзва със случая "Purge me with hyssop, and I shall be clean"...
 
-purge
-purged
-purgeth
-purging
+кастрене?
+prune (2 uses)
+pruned (1 uses)
+pruning (1 uses)
+pruninghooks (1 uses)
+sprung (8 uses)
 
-purify
-clean:чист?
-cleanse:почистя?
-refine? премахване на примеси
+Чистота/чистене?
+clean (119 uses)
+cleanness (5 uses)
+cleanse (33 uses)
+cleansed (37 uses)
+cleanseth (3 uses)
+cleansing (9 uses)
+unclean (179 uses)
+uncleanness (39 uses)
+
+Миене?
+unwashen (3 uses)
+wash (88 uses)
+washed (44 uses)
+washest (1 uses)
+washing (10 uses)
+washings (1 uses)
+washpot (2 uses)
 
 wheat:пшеница/жито?
 garner:житница/хамбар
@@ -2478,6 +2506,17 @@ unquenchable
 extinguish(0)
 
 
+
+
+Не за сега:
+true (76 uses)
+truly (41 uses)
+truth:истина (217 uses)?
+verified (3 uses)
+verily:наистина (140 uses)
+verity:вярно? (2 uses)
+thoroughly:старателно/съвършено/съвсем?
+	and shall cause him to be thoroughly healed.
 
 
 

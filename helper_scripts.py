@@ -6,12 +6,17 @@ def find_unique_words_with_a_string():
     print('Find all the unique words containing a string')
     print('- please enter the searched string:')
     string = input('>>> ').lower()
-    df = pd.read_csv('data/words_df.csv', sep=':')[['word']]
-    words = list(df.loc[df['word'].str.contains(string)].sort_values('word')['word'])
+    df = pd.read_csv('data/words_df.csv', sep=':')
+    print(df.head(1))
+    df = df.loc[df['word'].str.contains(string)].sort_values('word')
+    words = list(df['word'])
+    uses = list(df['word_use_count'])
     print()
     print(f'- showing the [{len(words)}] words containing [{string}]:')
-    for word in words:
-        print(word)
+    for i, word in enumerate(words):
+        print(f"{word} ({uses[i]} uses)")
+    find_unique_words_with_a_string()
+
 
 
 def chose_script():
