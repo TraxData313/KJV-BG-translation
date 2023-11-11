@@ -2429,7 +2429,7 @@ holy:свещен -> свят (готово)
 
 
 
-...thinking/working on now...
+
 Mat3:12 Чийто fan е в негов ръка, и той ще throughly purge негов подове, и събирам негов wheat в пълчл garner; но той ще burn на/горе пълчл chaff с unquenchable огън.
 -
 Mat3:12 Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.
@@ -2454,58 +2454,64 @@ throughly:издо(11 uses) като напълно/изцяло от-до
 	For if ye throughly amend your ways and your doings; if ye throughly execute judgment between a man and his neighbour
 	That the man of God may be perfect, throughly furnished unto all good works.
 via(0)
-	
 away:пътьом<<
-purge:изтривам/изтърквам/обирам/отбирам/стирать/изстривам? (15 uses) използва се за очистване
+purge:изтъркам   
+	изтривам/изтърквам/обирам/отбирам/стирать (15 uses) използва се за очистване
 	Purge me with hyssop, and I shall be clean
 	purge away our sins
 	And I will purge out from among you the rebels
 	And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver
-purged:изтрих (13 uses)
-purgeth (1 uses)
+purged:изтърках (13 uses)
+purgeth:изтърка (1 uses)
 	and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.
-purging (1 uses)
+purging:изтърквайки (1 uses)
 	очиствайки храната: it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats?
 подбирам пасва най-добре но не се връзва със случая "Purge me with hyssop, and I shall be clean"...
-
-кастрене?
-prune (2 uses)
-pruned (1 uses)
-pruning (1 uses)
-pruninghooks (1 uses)
-sprung (8 uses)
-
-Чистота/чистене?
-clean (119 uses)
-cleanness (5 uses)
-cleanse (33 uses)
-cleansed (37 uses)
-cleanseth (3 uses)
-cleansing (9 uses)
-unclean (179 uses)
-uncleanness (39 uses)
-
-Миене?
-unwashen (3 uses)
-wash (88 uses)
-washed (44 uses)
-washest (1 uses)
-washing (10 uses)
-washings (1 uses)
-washpot (2 uses)
-
-wheat:пшеница/жито?
-garner:житница/хамбар
+prune:подкастряш (2 uses)
+pruned:подкастряно (1 uses)
+pruning:кастрещи (1 uses)
+pruninghooks:кастрещикуки (1 uses)
+hook:кука (5 uses)
+hooks:куки (17 uses)
+clean:чист (119 uses)
+cleanness:чистота (5 uses)
+cleanse:чистя (33 uses)
+cleansed:очистен/чистих (37 uses)
+cleanseth:чисти (3 uses)
+cleansing:очистване (9 uses)
+unclean:нечист (179 uses)
+uncleanness:нечистота (39 uses)
+wash:умивам (88 uses)
+washed:умих (44 uses)
+washest:умиваш (1 uses)
+washing:умиване/умивайки (10 uses)
+washings:умивания (1 uses)
+unwashen:неумити (3 uses)
+wheat:пшеница (48 uses)
+wheaten:пшенично (1 uses)
+garner:житница (2 uses)
+garners:житници (2 uses)
 gather:събирам<<
-burn:горя?
-chaff:плява/слама?
-quench:гася?
-	the wild asses quench their thirst
-	the fire was quenched
-unquenchable
+gathered:събрани<<
+gathering:събиране<<
+gathereth:събира<<
+gatherer:събирач (1 uses)
+gatherest:събираш (1 uses)
+gatherings:събирания (1 uses)
+grapegatherer (1 uses)
+grapegatherers (2 uses)
+ingathering:вбиране (2 uses)
+burn:горя (136 uses)
+burned:изхориш (97 uses)
+burneth:гори (17 uses)
+burning:изгаряне/горящ (58 uses)
+burnings:изгаряния (3 uses)
+burnt:горено (364 uses)
+chaff:плява
+quench:угасям (11 uses)
+quenched:угасен (15 uses)
+unquenchable:неугасим (2 uses)
 extinguish(0)
-
-
 
 
 Не за сега:
@@ -2517,6 +2523,29 @@ verily:наистина (140 uses)
 verity:вярно? (2 uses)
 thoroughly:старателно/съвършено/съвсем?
 	and shall cause him to be thoroughly healed.
+
+-> 40NT_Матей 3:12 Чийто веяло е в ръката му, и той издо ще изтърка пода си, и ще събере пшеницата си в житницата; но ще изгори плявата с неугасим огън.
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat3:14 Но Йоан forbad него, казвайки, аз имам/минвр need до/на/към бъда кръстен от/за теб, и идваш ти до/на/към мен?
+-
+Mat3:14 But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?
+
+forbad
+need
+
+
+
+
+
+
 
 
 
