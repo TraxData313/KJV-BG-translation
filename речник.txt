@@ -1465,3 +1465,15 @@ chaff:плява
 quench:угасям
 quenched:угасен
 unquenchable:неугасим
+forbad:забраних
+forbid:забранявам
+forbidden:забранен/забрани
+forbiddeth:забраниш
+forbidding:забранявайки
+need:нужда/нуждая
+needed:нуждаех
+needest:нуждаеш
+needeth:нуждае
+needful:нужно
+needs:нужда
+needy:нуждаещ

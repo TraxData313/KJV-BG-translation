@@ -2538,8 +2538,18 @@ Mat3:14 Но Йоан forbad него, казвайки, аз имам/минв�
 -
 Mat3:14 But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?
 
-forbad
-need
+forbad:забраних (5 uses)
+forbid:забранявам (31 uses)
+forbidden:забранен/забрани (3 uses)
+forbiddeth:забраниш (1 uses)
+forbidding:забранявайки (4 uses)
+need:нужда/нуждая (47 uses)
+needed:нуждаех (2 uses)
+needest:нуждаеш (1 uses)
+needeth:нуждае (6 uses)
+needful:нужно (5 uses)
+needs:нужда (16 uses)
+needy:нуждаещ (35 uses)
 
 
 
