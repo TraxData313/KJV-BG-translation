@@ -2533,7 +2533,6 @@ thoroughly:старателно/съвършено/съвсем?
 
 
 
-...thinking/working on now...
 Mat3:14 Но Йоан forbad него, казвайки, аз имам/минвр need до/на/към бъда кръстен от/за теб, и идваш ти до/на/към мен?
 -
 Mat3:14 But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?
@@ -2551,8 +2550,58 @@ needful:нужно (5 uses)
 needs:нужда (16 uses)
 needy:нуждаещ (35 uses)
 
+-> 40NT_Матей 3:14 Но Йоан му забрани, казвайки, аз имам нужда да бъда кръстен от теб, а идваш ти при мен?
 
 
+
+
+
+
+
+
+
+
+Mat3:15 И Исус answering каза на/помощна него, Допускам то до/на/към бъда така сега: за/защото така то becometh ние до/на/към fulfil всички праведност. Тогава той допусна него.
+-
+Mat3:15 And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him.
+
+answer:отговор<<
+answereth:отговаря<<
+answered:отговорих<<
+answering:отговаряйки (31 uses)
+answerable:отговаряща (1 uses)
+answeredst:отговари (2 uses)
+answerest:отговаряш (6 uses)
+answers:отговори (3 uses)
+come:дойди/идвам/дойде<<
+went:отиде<<
+be:бъда<<
+becometh (15 uses) идвадабъде
+become (135 uses) идвадабъда/дойдедабъде
+became (106 uses) дойдедабъде
+becamest (2 uses) дойдедабъдеш
+fulfil (24 uses) изпълня
+fulfilled (79 uses) изпълних
+fulfilling (3 uses) изпълнявайки/изпълнение
+
+-> 40NT_Матей 3:15 И Исус отговаряйки му каза, Допусни да бъде така сега: защото така ни идвадабъде да изпълним всичката праведност. Тогава той го допусна.
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat3:16 И Исус, кога/когато той беше кръстен, дойде на/горе прямопътно от/вън от/за пълчл вода: и, ето, пълчл небеса беше отворих на/помощна него, и той видя пълчл Дух от/за Бог descending подобно крчл dove, и lighting над/ъпнвръз него:
+-
+Mat3:16 And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:
+
+
+
+descending
+dove
+lighting
 
 
 

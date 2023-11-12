@@ -123,6 +123,11 @@ telleth:обяснява
 answer:отговор
 answereth:отговаря
 answered:отговорих
+answering:отговаряйки
+answerable:отговаряща
+answeredst:отговари
+answerest:отговаряш
+answers:отговори
 let:нека
 light:светлина
 lights:светлини
@@ -556,6 +561,10 @@ houses:къщи
 home:дом
 come:дойди/идвам/дойде
 went:отиде
+becometh:идвадабъде
+become:идвадабъда/дойдедабъде
+became:дойдедабъде
+becamest:дойдедабъдеш
 we:ние
 your:ваш
 also:също
@@ -1477,3 +1486,6 @@ needeth:нуждае
 needful:нужно
 needs:нужда
 needy:нуждаещ
+fulfil:изпълня
+fulfilled:изпълних
+fulfilling:изпълнявайки/изпълнение
