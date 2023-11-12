@@ -122,7 +122,7 @@ tell:обясни
 telleth:обяснява
 answer:отговор
 answereth:отговаря
-answered:отговори
+answered:отговорих
 let:нека
 light:светлина
 lights:светлини
