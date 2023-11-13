@@ -2714,7 +2714,28 @@ Mat4:2 И кога/когато той имаше/минвр fasted forty дни
 Mat4:2 And when he had fasted forty days and forty nights, he was afterward an hungred.
 
 
+корен:стя - изумително е как пасва, когато намериш правилния корен, все повече се убеждавам в истинността на превода под крал Джеймс...
+fast:постя/пост/стегнато (84 uses)
+	For the LORD had fast closed up all the wombs
+fasted:постих (15 uses)
+fasten:стягам (5 uses)
+fastened:стегнах (18 uses)
+fastening:стягайки (1 uses)
+fastest:постиш (1 uses)
+fasting (16 uses) ...
+fastings (4 uses)
+stedfast (11 uses)
+stedfastly (10 uses)
+stedfastness (2 uses)
+bond:крепя/скрепня<<
+bind:закрепен<<
 
+
+forty
+
+afterward
+
+hungred
 
 
 
