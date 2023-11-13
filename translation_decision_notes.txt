@@ -2638,6 +2638,38 @@ Mat3:17 И ето крчл глас от небе, казвайки, Това/т
 Mat3:17 And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
 
 
+beloved:възлюбен (112 uses)
+love:любя/любов (308 uses)
+lovest:любиш (12 uses)
+loveth:люби (61 uses)
+loved:възлюбих (98 uses)
+lovedst:възлюби (2 uses)
+loves:любови (2 uses)
+lover:любящ (4 uses)
+lovers:любящи (23 uses)
+lovely:любителен (4 uses)
+well:добре/кладенец (250 uses)
+well-beloved:добре-възлюбен (2 uses)
+wellbeloved:добревъзлюбен (4 uses)
+wells:кладенци (9 uses)
+pleased:доволен/задоволен (60 uses)
+	and thou wast pleased with me.
+please:задоволявам (39 uses)
+pleaseth:задоволява (6 uses)
+pleasing:задоволяващ (6 uses)
+wellpleasing:добрезадоволяващ (2 uses)
+pleasure:удоволствие (57 uses)
+pleasures:удоволствия (8 uses)
+displease:онедоволява (5 uses)
+displeased:онедоволи (25 uses)
+displeasure:онедоволство (5 uses)
+menpleasers:човекозадоволители (2 uses)
+pleasant:доволствен (56 uses)
+pleasantness:доволственост (1 uses)
+
+
+
+
 
 
 
