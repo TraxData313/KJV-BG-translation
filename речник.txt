@@ -1489,3 +1489,24 @@ needy:нуждаещ
 fulfil:изпълня
 fulfilled:изпълних
 fulfilling:изпълнявайки/изпълнение
+descending:слизайки/слизащ
+ascend:възлизам
+ascended:възлезнах
+ascendeth:визлизаш
+ascending:визлизайки/визлизащ
+descend:слизам
+descended:слезнах
+descendeth:слизаш
+condescend:прислизайте
+dove:гълъб
+doves:гълъби
+turtledove:гургулица
+turtledoves:гургулици
+pigeon:гълъбче
+pigeons:гълъбчета
+hen:кокошка
+Hen:хен (име за ръчен превод)
+chickens:пилета
+lighting:светкавица
+enlighten:просветля
+enlightening:просветляващ

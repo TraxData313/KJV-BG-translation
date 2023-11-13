@@ -2599,56 +2599,43 @@ Mat3:16 And Jesus, when he was baptized, went up straightway out of the water: a
 
 
 
-descending (8 uses)
-ascend (13 uses) : възкачам
-ascended (19 uses)
-ascendeth (2 uses)
-ascending (5 uses)
-condescend (1 uses)
-descend (10 uses) : слизам
-descended (19 uses)
-descendeth (1 uses)
-
-dove (18 uses) гълъб
-doves (11 uses)
-turtledove (3 uses) gurgulica
-turtledoves (7 uses)
-pigeon (2 uses) винаги се използва като young pigeon -> гълъбче?
-pigeons (10 uses)
-hen (2) кокошка
-Hen the son of Zephaniah (1) да се преведе ръчно
-chickens (1) пилета
+descending:слизайки/слизащ (8 uses)
+ascend:възлизам (13 uses)
+ascended:възлезнах (19 uses)
+ascendeth:визлизаш (2 uses)
+ascending:визлизайки/визлизащ (5 uses)
+descend:слизам (10 uses)
+descended:слезнах (19 uses)
+descendeth:слизаш (1 uses)
+condescend:прислизайте (1 uses)
+dove:гълъб (18 uses)
+doves:бълъби (11 uses)
+turtledove:гургулица (3 uses)
+turtledoves:гургулици (7 uses)
+pigeon:гълъбче (2 uses) винаги се използва като young pigeon -> гълъбче
+pigeons:гълъбчета (10 uses)
+Hen the son of Zephaniah (1) да се преведе ръчно (готово)
+hen:кокошка (2) 
+chickens:пилета (1) 
 	even as a hen gathereth her chickens
-
-lighting
+lighting:светкавица
 light:светлина<< (261 uses)
 lights:светлини<< (9 uses)
 lighted:светна<< (13 uses)
 lightest:светваш<< (1 uses)
 enlightened:просветлен<< (6 uses)
-delight (51 uses)
-delighted (12 uses)
-delightest (1 uses)
-delighteth (14 uses)
-delights (6 uses)
-delightsome (1 uses)
-enlighten (1 uses)
-enlightening (1 uses)
-flight (6 uses)
-lighten (7 uses)
-lightened (4 uses)
-lighteneth (2 uses)
-lighter (5 uses)
-lighteth (3 uses)
-lighting (2 uses)
-lightly (7 uses)
-lightness (3 uses)
-lightning (12 uses)
-lightnings (14 uses)
-slightly (2 uses)
-twilight (8 uses)
+enlighten:просветля (1 uses)
+enlightening:просветляващ (1 uses)
 
 
+
+
+
+
+...thinking/working on now...
+Mat3:17 И ето крчл глас от небе, казвайки, Това/този е мой beloved Син, в когото аз съм well pleased.
+-
+Mat3:17 And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
 
 
 
