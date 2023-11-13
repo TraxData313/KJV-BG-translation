@@ -2632,7 +2632,7 @@ enlightening:просветляващ (1 uses)
 
 
 
-...thinking/working on now...
+
 Mat3:17 И ето крчл глас от небе, казвайки, Това/този е мой beloved Син, в когото аз съм well pleased.
 -
 Mat3:17 And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
@@ -2666,6 +2666,52 @@ displeasure:онедоволство (5 uses)
 menpleasers:човекозадоволители (2 uses)
 pleasant:доволствен (56 uses)
 pleasantness:доволственост (1 uses)
+
+
+
+
+
+
+
+
+Mat4:1 Тогава беше Исус led на/горе от/за пълчл Дух в пълчл подивнина до/на/към бъда tempted от/за пълчл devil.
+-
+Mat4:1 Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.
+
+led:изведох (68 uses)
+leddest:изведе (5 uses)
+lead:водя<<
+leadeth:води<<
+leadest:водиш<<
+leader:водач<<
+leaders:водачи<<
+tempted:изкуси (25 uses)
+tempt:изкушавам (14 uses)
+temptation:изкушение (14 uses)
+temptations:изкушения (7 uses)
+tempter:изкусителя (2 uses)
+tempteth:изкушава (1 uses)
+tempting:изкушаващ/изкушавайки (7 uses)
+seduce:съблазнявам? (3 uses)
+seduced:съблазних (3 uses)
+seducers:съблазнители (1 uses)
+seduceth:съблазняваш (1 uses)
+devil:дявол (59 uses)
+devilish:дяволско (1 uses)
+devils:дяволи (51 uses)
+
+-> 40NT_Матей 4:1 Тогава беше Исус извден нагоре от Духа в подивнината да бъде изкушаван от дявола.
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat4:2 И кога/когато той имаше/минвр fasted forty дни и forty нощи, той беше afterward крчл hungred.
+-
+Mat4:2 And when he had fasted forty days and forty nights, he was afterward an hungred.
 
 
 
