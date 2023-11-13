@@ -195,7 +195,7 @@ seeds:семена
 fruit:плод
 fruits:плодове
 tree:дърво
-trees:дърва
+trees:дървета
 kind:вид
 yield:добивам
 yielding:добиващ
