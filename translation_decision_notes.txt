@@ -2722,20 +2722,22 @@ fasten:стягам (5 uses)
 fastened:стегнах (18 uses)
 fastening:стягайки (1 uses)
 fastest:постиш (1 uses)
-fasting (16 uses) ...
-fastings (4 uses)
-stedfast (11 uses)
-stedfastly (10 uses)
-stedfastness (2 uses)
-bond:крепя/скрепня<<
-bind:закрепен<<
+fasting:постене/постейки (16 uses)
+fastings:постения (4 uses)
+forty:четиридесет (158 uses)
+afterward:впоследствие
+west:запад (69 uses)
+western:западен (1 uses)
+westward:западно (24 uses)
+keep:пазя<<
+guard:охрана<<
+hungry:гладен (27 uses)
+hungred:огладнял (9 uses)
+hunger:глад (22 uses)
+hungered:огладня (2 uses)
 
 
-forty
 
-afterward
-
-hungred
 
 
 
