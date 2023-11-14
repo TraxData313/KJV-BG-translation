@@ -1570,3 +1570,4 @@ hungry:гладен
 hungred:огладнял
 hunger:глад
 hungered:огладня
+bread:хляб

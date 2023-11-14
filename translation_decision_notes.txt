@@ -2708,7 +2708,7 @@ devils:дяволи (51 uses)
 
 
 
-...thinking/working on now...
+
 Mat4:2 И кога/когато той имаше/минвр fasted forty дни и forty нощи, той беше afterward крчл hungred.
 -
 Mat4:2 And when he had fasted forty days and forty nights, he was afterward an hungred.
@@ -2735,6 +2735,36 @@ hungry:гладен (27 uses)
 hungred:огладнял (9 uses)
 hunger:глад (22 uses)
 hungered:огладня (2 uses)
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat4:3 И кога/когато пълчл изкусителя дойде до/на/към него, той каза, Ако/дали ти бъда пълчл Син от/за Бог, заповядва това тези камъни бъда направи bread.
+-
+Mat4:3 And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.
+
+bread:хляб
+
+
+
+
+
+
+...thinking/working on now...
+Mat4:4 Но той отговорих и каза, То е написано, Човек ще не live до/от/по хляб alone, но до/от/по всеки дума това proceedeth от/вън от/за пълчл уста от/за Бог.
+-
+Mat4:4 But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
+
+
+live
+
+alone
+
+proceedeth
 
 
 
