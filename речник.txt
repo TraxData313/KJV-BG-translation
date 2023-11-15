@@ -1579,7 +1579,7 @@ livest:живееш
 liveth:живее
 alive:жив
 outlived:надживяха
-overlived:презживяха
+overlived:преживяха
 life:живот
 lifetime:животовреме
 alone:сам

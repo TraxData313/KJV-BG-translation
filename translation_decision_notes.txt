@@ -2754,7 +2754,7 @@ bread:хляб
 
 
 
-...thinking/working on now...
+
 Mat4:4 Но той отговорих и каза, То е написано, Човек ще не live до/от/по хляб alone, но до/от/по всеки дума това proceedeth от/вън от/за пълчл уста от/за Бог.
 -
 Mat4:4 But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
@@ -2768,7 +2768,7 @@ livest:живееш (4 uses)
 liveth:живее (94 uses)
 alive:жив (84 uses)
 outlived:надживяха (1 uses)
-overlived:презживяха (1 uses)
+overlived:преживяха (1 uses)
 life:живот (412 uses)
 lifetime:животовреме (3 uses)
 time:време<<
@@ -2780,6 +2780,44 @@ proceeded:продължих (9 uses)
 proceedeth:продължава (11 uses)
 proceeding:продължаваща (1 uses)
 
+
+
+Второзаконие 8:3
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat4:5 Тогава пълчл дявол taketh него на/горе в пълчл свят град, и setteth него върху/на/помощна крчл pinnacle от/за пълчл temple,
+-
+Mat4:5 Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,
+
+take:взимам<<
+taketh
+overtake (17 uses)
+overtaken (2 uses)
+overtaketh (1 uses)
+partaker (9 uses)
+partakers (22 uses)
+partakest (1 uses)
+stakes (2 uses)
+take (872 uses)
+taken (327 uses)
+taker (1 uses)
+takest (9 uses)
+taketh (74 uses)
+undertake (1 uses)
+untaken (1 uses)
+
+setteth
+
+pinnacle
+
+temple
 
 
 
