@@ -2760,11 +2760,25 @@ Mat4:4 Но той отговорих и каза, То е написано, Ч�
 Mat4:4 But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
 
 
-live
-
-alone
-
-proceedeth
+live:живея (226 uses)
+lived:живя (58 uses)
+lively:жизнен (5 uses)
+lives:животи (26 uses)
+livest:живееш (4 uses)
+liveth:живее (94 uses)
+alive:жив (84 uses)
+outlived:надживяха (1 uses)
+overlived:презживяха (1 uses)
+life:живот (412 uses)
+lifetime:животовреме (3 uses)
+time:време<<
+alone:сам
+proceed:продължавам (15 uses) не произлизам защото се използва ясно и за:
+	Elihu also proceeded, and said,
+	But they shall proceed no further
+proceeded:продължих (9 uses)
+proceedeth:продължава (11 uses)
+proceeding:продължаваща (1 uses)
 
 
 
