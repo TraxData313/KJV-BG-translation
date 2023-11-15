@@ -2796,28 +2796,38 @@ Mat4:5 Тогава пълчл дявол taketh него на/горе в пъ�
 -
 Mat4:5 Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple,
 
-take:взимам<<
-taketh
-overtake (17 uses)
-overtaken (2 uses)
-overtaketh (1 uses)
-partaker (9 uses)
-partakers (22 uses)
-partakest (1 uses)
-stakes (2 uses)
-take (872 uses)
-taken (327 uses)
-taker (1 uses)
-takest (9 uses)
-taketh (74 uses)
-undertake (1 uses)
-untaken (1 uses)
-
-setteth
-
-pinnacle
-
-temple
+take:взимам<< (872 uses)
+took:взех (751 uses)
+taken:взет (327 uses)
+taker:вземащ (1 uses)
+takest:взимаш (9 uses)
+tookest:взе (2 uses)
+taketh:взима (74 uses)
+under:под<<
+undertake:подвземи (1 uses)
+undertook:подвзеха (1 uses)
+untaken:подвзет (1 uses)
+overtake:превземам (17 uses)
+overtook:превзех (10 uses)
+overtaken:превзет (2 uses)
+overtaketh:превзема (1 uses)
+part:дял/разделям<<
+partaker:дяловземащ (9 uses)
+partakers:дяловземащи (22 uses)
+partakest:дяловземате (1 uses)
+setteth:слага (22 uses)
+set:сложи<< (695 uses)
+setter:слагащ (1 uses)
+settest:слагаш (7 uses)
+setting:сложение/слагайки/слягаше (3 uses)
+settings:сложения (1 uses)
+settle:подслонявам/подслонника ? (10 uses)
+settled:подслоних (7 uses)
+settlest:подслоняваш (1 uses)
+establish:установя<<
+pinnacle:перон (2 uses)
+temple:храм (190 uses)
+temples:храмове (9 uses)
 
 
 
