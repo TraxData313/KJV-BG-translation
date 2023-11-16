@@ -2842,13 +2842,20 @@ Mat4:6 И каза на/помощна него, Ако/дали ти бъда �
 Mat4:6 And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
 
 
-thyself:се? (206 uses)
+thyself:се (206 uses)
 
-charge (102 uses)
+charge:поръчение? задължение? обвинение? нареждане? (102 uses)
+	заръка Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.
+	предупреди And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death.
+	поръчение and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughers of Canaan
+	като обвинение/на сметката Who shall lay any thing to the charge of God's elect? It is God that justifieth.
+	безплатно I may make the gospel of Christ without charge
 chargeable (5 uses)
 charged (51 uses)
+	and Jesus straitly charged them, saying, See that no man know it.
 chargedst (1 uses)
 charger (17 uses)
+	блюдо/тепсия? Give me here John Baptist's head in a charger.
 chargers (3 uses)
 charges (6 uses)
 chargest (1 uses)
@@ -2857,7 +2864,11 @@ discharged (1 uses)
 overcharge (1 uses)
 overcharged (1 uses)
 
-lest:да не би? (240 uses)
+debt:дълг?
+guilt:вина?
+
+
+lest:да не би/иначе ще? / чтобы=да се/за да не   (240 uses)
 
 dash:блъскам? (7 uses)
 dashed (5 uses)
