@@ -2843,37 +2843,66 @@ Mat4:6 And saith unto him, If thou be the Son of God, cast thyself down: for it 
 
 
 thyself:се (206 uses)
+debt:дълг (7 uses)
+debts:дългове (2 uses)
+debtor:длъжник (4 uses)
+debtors:длъжници (4 uses)
+indebted:задлъжнял (1 uses)
 
-charge:поръчение? задължение? обвинение? нареждане? (102 uses)
-	заръка Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.
-	предупреди And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death.
-	поръчение and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughers of Canaan
-	като обвинение/на сметката Who shall lay any thing to the charge of God's elect? It is God that justifieth.
-	безплатно I may make the gospel of Christ without charge
-chargeable (5 uses)
-charged (51 uses)
+charge:задължение
+	- заръка Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.
+	- предупреди And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death.
+	- поръчение and that as he blessed him he gave him a charge, saying, Thou shalt not take a wife of the daughers of Canaan
+	- като обвинение/на сметката Who shall lay any thing to the charge of God's elect? It is God that justifieth.
+	- безплатно I may make the gospel of Christ without charge
+charged:задължих (51 uses)
 	and Jesus straitly charged them, saying, See that no man know it.
-chargedst (1 uses)
-charger (17 uses)
-	блюдо/тепсия? Give me here John Baptist's head in a charger.
-chargers (3 uses)
-charges (6 uses)
-chargest (1 uses)
-discharge (1 uses)
-discharged (1 uses)
-overcharge (1 uses)
-overcharged (1 uses)
+chargedst:задължи (1 uses)
+charges:задължения (6 uses)
+chargest:задължаваш (1 uses)
+	that thou chargest me to day with a fault concerning this woman?
+chargeable:подлъжнен (5 uses)
+discharge:раздължи (1 uses)
+discharged:раздължени (1 uses)
+overcharge:презадължа (1 uses)
+overcharged:презадължих (1 uses)
 
-debt:дълг?
-guilt:вина?
+charger:подължник (17 uses)
+	- блюдо/тепсия? Give me here John Baptist's head in a charger.
+	- не, защото е пълно с брашно And his offering was one silver charger, the weight thereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering
+chargers:подължнци (3 uses) използват се за 
+
 
 
 lest:да не би/иначе ще? / чтобы=да се/за да не   (240 uses)
 
-dash:блъскам? (7 uses)
+-- dash in pieces / dash agains stone/each other --
+dash:блъскам/сека /посичам/раздирам/ разсичам /всичам /хвърля/разхвърлям / блъскам /замах /деля/цепя? (7 uses)
+	- dash to pieces
+	dash thy foot against a stone
+	- ще ги всека/врежа? като сблъсък: And I will dash them one against another
 dashed (5 uses)
+	- all 5 = dashed in pieces
 dasheth (2 uses)
+	- срещу - dasheth-against-stones: Happy shall he be, that taketh and dasheth thy little ones against the stones.
+	He that dasheth in pieces is come up before thy face
 
+tear:раздирам?
+	Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
+rip (1): закъсат?
+	and their young men wilt thou slay with the sword, and wilt dash their children, and rip up their women with child
+
+
+cut:режа? -> сека/отсичам?
+chop:накълцват<<
+<<
+hew:сека -> цепя
+heweth:сече -> цепи
+hewed:изсякох -> 
+hewn:отсечен
+hewer:секач
+hewers:секачи
+<<
 
 
 
