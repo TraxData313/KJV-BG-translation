@@ -2848,7 +2848,6 @@ debts:дългове (2 uses)
 debtor:длъжник (4 uses)
 debtors:длъжници (4 uses)
 indebted:задлъжнял (1 uses)
-
 charge:задължение
 	- заръка Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.
 	- предупреди And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death.
@@ -2866,46 +2865,33 @@ discharge:раздължи (1 uses)
 discharged:раздължени (1 uses)
 overcharge:презадължа (1 uses)
 overcharged:презадължих (1 uses)
-
-charger:подължник (17 uses)
-	- блюдо/тепсия? Give me here John Baptist's head in a charger.
+charger:поднос (17 uses)
+	- in, не on: блюдо/тепсия? Give me here John Baptist's head in a charger.
 	- не, защото е пълно с брашно And his offering was one silver charger, the weight thereof was an hundred and thirty shekels, one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them were full of fine flour mingled with oil for a meat offering
-chargers:подължнци (3 uses) използват се за 
-
-
-
-lest:да не би/иначе ще? / чтобы=да се/за да не   (240 uses)
-
+chargers:подноси (3 uses) използват се за 
+platter:блюдо
+lest:задане    //да не би/иначе ще? / чтобы=да се/задане   (240 uses)
 -- dash in pieces / dash agains stone/each other --
-dash:блъскам/сека /посичам/раздирам/ разсичам /всичам /хвърля/разхвърлям / блъскам /замах /деля/цепя? (7 uses)
+-- блъскам/сека /посичам/раздирам/ разсичам /всичам /хвърля/разхвърлям / блъскам /замах /деля/цепя? --
+dash:врязвам/разрязвам (7 uses)
 	- dash to pieces
 	dash thy foot against a stone
 	- ще ги всека/врежа? като сблъсък: And I will dash them one against another
-dashed (5 uses)
+dashed:разрязвах (5 uses)
 	- all 5 = dashed in pieces
-dasheth (2 uses)
+dasheth:разрязва (2 uses)
 	- срещу - dasheth-against-stones: Happy shall he be, that taketh and dasheth thy little ones against the stones.
 	He that dasheth in pieces is come up before thy face
-
-tear:раздирам?
-	Now consider this, ye that forget God, lest I tear you in pieces, and there be none to deliver.
-rip (1): закъсат?
+impel(0)
+tear:разкъсвам (13 uses)
+teareth:разкъсва (6 uses)
+tears:сълзи (32 uses)
+rip(1):разпориш
 	and their young men wilt thou slay with the sword, and wilt dash their children, and rip up their women with child
 
 
-cut:режа? -> сека/отсичам?
-chop:накълцват<<
-<<
-hew:сека -> цепя
-heweth:сече -> цепи
-hewed:изсякох -> 
-hewn:отсечен
-hewer:секач
-hewers:секачи
-<<
 
-
-
+debt-charge-charger & tear-tears
 
 
 

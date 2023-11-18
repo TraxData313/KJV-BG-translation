@@ -1,5 +1,5 @@
 # Български превод на Библията от KJV
-Правен с вяра в запазеното слово в [Knig James Version (KJV) от 1611 г.](https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BB_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81), запазвайки оригиналната пунктуация, главни/малки букви, словоред и покоренов мапинг на непомощните думи.  
+Правен с вяра в запазеното слово в [Knig James Version (KJV) от 1611 г.](https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BB_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81), запазвайки оригиналната пунктуация, главни/малки букви, словоред и в повечето случаи, покоренов мапинг на думите.
 
 ## Съдържание
 - [Bible.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-en/Bible.txt) - KJV, оригиналният текст, взет от [o-bible.com](https://www.o-bible.com/download/kjv.txt), от който превеждам
