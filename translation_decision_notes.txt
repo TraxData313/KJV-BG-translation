@@ -2917,7 +2917,7 @@ Mat4:7 Jesus said unto him, It is written again, Thou shalt not tempt the Lord t
 
 
 
-...thinking/working on now...
+
 Mat4:8 Пак, пълчл дявол взима него на/горе в крчл превишаващо high mountain, и sheweth него всички пълчл kingdoms от/за пълчл свят, и пълчл glory от/за те;
 Mat4:9 И каза на/помощна него, Всички тези неща ще аз дава теб, ако/дали ти wilt падам долу и поклонение мен.
 -
@@ -2941,7 +2941,7 @@ hills:хълмове (63 uses)
 --- планина/връх/гора/възвишение? (гора е планина на руски и идва от правилния корен гор-е)?
 mount:възвишение (258 uses)
 mounts:възвишения (3 uses)
-mountain:възвишенина (128 uses)
+mountain:възвишенина (128 uses) - така хем ми напомня за планина, хем виждам кой е коренът
 mountains:възвишенини (167 uses)
 mounted:издигнаха/възвисиха (1 uses)
 mounting:възвишават (1 uses)
@@ -2959,19 +2959,41 @@ shewing:показвайки/показване (15 uses)
 shewbread:показенхляб (18 uses)
 kingdom:царство<<
 kingdoms:царства
+glory:слава (379 uses)
+glorying:славене (4 uses)
+fame:знатност (24 uses) 
+defamed:обезнатчавани (1 uses)
+wilt:тище
 
-glory:слава? (379 uses)
-glorying (4 uses)
-vainglory (1 uses)
 
-fame:мълва? (24 uses) трябва да има позитивност
-defamed:размълвени? (1 uses)
-	and I will get them praise and fame in every land where they have been put to shame.
-renown:известност?
-praise:хвала?
-rumor,gossip(0)
 
-wilt
+
+
+
+
+
+...thinking/working on now...
+Mat4:10 Тогава каза Исус на/помощна него, Get теб hence, Satan: за/защото то е написано, Ти ще поклонение пълчл Господ твоя Бог, и него only ще ти serve.
+Mat4:11 Тогава пълчл дявол напуска него, и, обхванете, ангели дойде и ministered на/помощна него.
+-
+Mat4:10 Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+Mat4:11 Then the devil leaveth him, and, behold, angels came and ministered unto him.
+
+
+get
+hence
+satan
+only
+serve
+ministered
+
+
+
+
+
+
+
+
 
 
 
