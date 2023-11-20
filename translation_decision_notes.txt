@@ -2924,7 +2924,54 @@ Mat4:9 И каза на/помощна него, Всички тези неща 
 Mat4:8 Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;
 Mat4:9 And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.
 
+path:пътека<<
+way:път<<
+mind:ум<<
+minded:наумен<<
+high:висок (406 uses)
+higher:по-висок (20 uses)
+highest:най-висок (15 uses)
+highly:високо (6 uses)
+highminded:високонаумен (3 uses)
+highness:висота (2 uses)
+highway:високопът (16 uses)
+highways:високопътища (10 uses)
+hill:хълм (74 uses)
+hills:хълмове (63 uses)
+--- планина/връх/гора/възвишение? (гора е планина на руски и идва от правилния корен гор-е)?
+mount:възвишение (258 uses)
+mounts:възвишения (3 uses)
+mountain:възвишенина (128 uses)
+mountains:възвишенини (167 uses)
+mounted:издигнаха/възвисиха (1 uses)
+mounting:възвишават (1 uses)
+	Ephraim=mount=mountain And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah.
+	And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them.
+	и в Цариградски превод гора=планина
+say:казвам<<
+bread:хляб<<
+shew:показвам (227 uses)
+shewest:показваш (5 uses)
+sheweth:показва (20 uses)
+shewed:показах/показано (135 uses)
+shewedst:показа (2 uses)
+shewing:показвайки/показване (15 uses)
+shewbread:показенхляб (18 uses)
+kingdom:царство<<
+kingdoms:царства
 
+glory:слава? (379 uses)
+glorying (4 uses)
+vainglory (1 uses)
+
+fame:мълва? (24 uses) трябва да има позитивност
+defamed:размълвени? (1 uses)
+	and I will get them praise and fame in every land where they have been put to shame.
+renown:известност?
+praise:хвала?
+rumor,gossip(0)
+
+wilt
 
 
 
