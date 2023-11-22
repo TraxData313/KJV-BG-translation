@@ -321,3 +321,123 @@ def update_progress_in_the_readme_md(progr_mes):
     for line in readMe:
         saveFile.write(line)
     saveFile.close()
+
+
+#####################################################
+# Generate the complexes
+#####################################################
+from collections import Counter
+from itertools import tee, zip_longest
+import time, os
+
+def get_en_book_lines_for_complex_compilation():
+    df = load_original_Bible()
+    # Get the book:
+    df['book'] = df['verse'].str.split(' ', expand=True)[0].str.replace('\d+', '').str.replace(':', '')
+    df['book'] = np.where(df['verse'].str[0].isin(['1','2','3']), df['verse'].str[0].astype(str) + ' ' + df['book'].astype(str), df['book'])
+    df['book'] = df['book'].map(books_short_to_full_name_dict)
+    # Remove the book from the verse:
+    #df['verse'] = df['verse'].str.split(n=1).str[1].astype(str)
+    df['verse_start'] = df['verse'].str.split(n=1).str[0].str.lower()
+    for letter in 'abcdefghijklmnopqrstuvwxyz':
+        df['verse_start'] = df['verse_start'].str.replace(letter, '')
+    df['verse'] = df['verse_start'].astype(str) + ' ' + df['verse'].str.split(n=1).str[1]
+    # Save the books:
+    books = list(df['book'].unique())
+    texts = []
+    dfs = []
+    for book in books:
+        save_file = f'kjb-en/compiled_text_by_books/{book}.txt'
+        book_df = df.loc[df['book']==book]['verse'].copy()
+        if book_df.values[0][0:2] in ['11', '21', '31']:
+            # this happens for the numbered books (like 1 Peter) - adds 1 to the start (1:12 -> 11:12), so this line fixes this issue:
+            book_df = book_df.str[1:]
+        book_df = pd.DataFrame({'line': book_df, 'book': book})
+        book_df['line'] = book_df['line'].str.split(' ', 1).str[1]
+        book_df['line'] = book_df['line'].str.replace("'", '') #make "wife's" -> "wifes"
+        book_df['line'] = book_df['line'].str.replace('[^a-zA-Z]', ' ').str.lower() #remove all non letter chars and make lowercase
+        book_df['line'] = book_df['line'].str.replace('  ', ' ')
+        #text = ' '.join(book_df['line']).replace('  ', ' ')
+        #texts.append(text)
+        book_df['word_count'] = book_df['line'].str.count(' ') #df['line'].apply(lambda x: len(x.split()))
+        dfs.append(book_df)
+    #df = pd.DataFrame({'text': texts, 'book': books})
+    df = pd.concat(dfs)
+    return df
+
+def generate_permutations(text, permutation_size):
+    """
+from collections import Counter
+from itertools import tee, zip_longest
+
+# Example usage:
+text = 'in the beginning god created the heaven and the earth and the earth was without form and void'
+permutation_size = 19
+
+result_df = generate_permutations(text, permutation_size=3)
+result_df
+    """
+    # Split the text into words
+    words = text.split()
+
+    # Generate all word permutations of the specified size
+    word_permutations = [' '.join(words[i:i+permutation_size]) for i in range(len(words)-permutation_size+1)]
+
+    # Count the occurrences of each permutation
+    permutation_counts = Counter(word_permutations)
+
+    # Create a DataFrame from the counts
+    df = pd.DataFrame(list(permutation_counts.items()), columns=['permutation', 'permutation_count'])
+    df['permutation_size'] = permutation_size
+
+    # Sort the DataFrame by permutation_count in descending order
+    df = df.sort_values(by='permutation_count', ascending=False).reset_index(drop=True)
+    return df
+
+# Function to format seconds into HH:MM:SS
+def format_time(seconds):
+    m, s = divmod(seconds, 60)
+    h, m = divmod(m, 60)
+    return f"{int(h):02d}:{int(m):02d}:{int(s):02d}"
+
+def get_the_complexes_df(use_cache=True):
+    cache = 'data/complexes_data.csv'
+    if use_cache and os.path.exists(cache):
+        res = pd.read_csv(cache)
+    else:
+        print(f'Calculating the complexes and saving the result to [{cache}]...')
+        df = get_en_book_lines_for_complex_compilation()
+        # Get the start time
+        start_time = time.time()
+        min_len = df['word_count'].min()
+        max_len = df['word_count'].max()
+        res = None
+        for word_count in range(max_len, min_len-1, -1):
+            tdf = df.loc[df['word_count']>=word_count] #take only the lines with enough words
+            len_tdf = len(tdf)
+            data = []
+            for j, line in enumerate(tdf['line']):
+                if j%25 == 0:
+                    # Calculate elapsed time
+                    elapsed_time = time.time() - start_time
+                    formatted_elapsed_time = format_time(elapsed_time)
+                    print(f'- Elapsed Time: {formatted_elapsed_time}. Doing complex length [{word_count}/{max_len}]. Parsing Bible line [{j}/{len_tdf}]...       ', end='\r', flush=True)
+                ttdf = generate_permutations(line, permutation_size=word_count)
+                data.append(ttdf)
+            tdf = pd.concat(data)
+            tdf = tdf.groupby('permutation').agg({'permutation_count': 'sum', 'permutation_size': 'max'})
+            tdf = tdf.loc[tdf['permutation_count']>1].reset_index()
+            if res is None:
+                res = tdf
+            else:
+                def has_longer_version(current_permutation):
+                    other_permutations = res[res['permutation'] != current_permutation]['permutation']
+                    return 1 if any(current_permutation in other_permutation for other_permutation in other_permutations) else 0
+                tdf = tdf.loc[tdf['permutation'].apply(has_longer_version)==0]
+                res = pd.concat([res, tdf])
+        res = res.sort_values(['permutation_size', 'permutation_count'], ascending=False).reset_index(drop=True)
+        res.to_csv(cache, index=False)
+    return res
+#####################################################
+# END Generate the complexes
+#####################################################
