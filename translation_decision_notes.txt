@@ -3035,32 +3035,73 @@ satan:сатана (52 uses)
 
 only (249 uses):единствено (thine only son Isaac)
 
---- serve:служа? ---
-serve (207 uses)
+--- serv:слугж/зерв? ---
+serve:служа (207 uses) слугозервираш?
 served (73 uses)
 servedst (1 uses)
 servest (2 uses)
 serveth (9 uses)
 
-deserve (1 uses)
-deserveth (1 uses)
+deserve:заслужа/зазервираш? (1 uses)
+deserveth:заслужава (1 uses)
 
-observe (55 uses)
+observe:обслужвам/съблюдавам/обзервирам? (55 uses)
 observed (11 uses)
 observer (1 uses)
 observers (1 uses)
 observest (1 uses)
 observeth (1 uses)
 
-preserve (30 uses) съхрани<< -> предслужим?
+preserve (30 uses) съхрани<< -> предслужим/презервирам?
 preserved (16 uses)
 preserver (1 uses)
 preservest (2 uses)
 preserveth (8 uses)
 
+reserve:реслужи? (3 uses) резервирам
+reserved (16 uses)
+reserveth (2 uses)
+
+- showing the [39] words containing [serv]:
+bondservice (1 uses)
+deserve (1 uses)
+deserveth (1 uses)
+deserving (1 uses)
+eyeservice (2 uses)
+fellowservant (6 uses)
+fellowservants (4 uses)
+maidservant (17 uses)
+maidservants (10 uses)
+manservant (13 uses)
+manservants (1 uses)
+menservants (10 uses)
+observe (55 uses)
+observed (11 uses)
+observer (1 uses)
+observers (1 uses)
+observest (1 uses)
+observeth (1 uses)
+preserve (30 uses)
+preserved (16 uses)
+preserver (1 uses)
+preservest (2 uses)
+preserveth (8 uses)
 reserve (3 uses)
 reserved (16 uses)
 reserveth (2 uses)
+servant (476 uses)
+servants (460 uses)
+serve (207 uses)
+served (73 uses)
+servedst (1 uses)
+servest (2 uses)
+serveth (9 uses)
+service (126 uses)
+servile (12 uses)
+serving (7 uses)
+servitor (1 uses)
+servitude (1 uses)
+womenservants (2 uses)
 
 -- свещенник/свещенодействам/помагам/наместник/намесвам/вмешавам? --
 	- And Moses rose up, and his minister Joshua
