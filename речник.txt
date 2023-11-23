@@ -294,7 +294,6 @@ generation:поколение
 generations:поколения
 offspring:потомство
 descent:произход
-begat:роди
 born:роден
 birth:раждане
 brethren:братя
@@ -551,7 +550,7 @@ this:това/този
 out:от/вън
 by:до/от/по
 israel:израел
-up:на/горе
+up:на/горе/въз
 there:там
 hath:имаше/минвр
 had:имаше/минвр

@@ -2982,12 +2982,12 @@ Mat4:11 Then the devil leaveth him, and, behold, angels came and ministered unto
 
 --- get ---
 	примери:
-	- 1: Get thee out of thy country
-	- 2: and get you possessions therein
-	- 3: And if he be poor, and cannot get so much; then he shall take one lamb
-	- 4: Arise therefore, and get thee down, and go with them
+	- 1: Get thee out of thy country - изведи се
+	- 2: and get you possessions therein - приведи
+	- 3: And if he be poor, and cannot get so much; then he shall take one lamb - приведат
+	- 4: Arise therefore, and get thee down, and go with them - приведи се долу
 	
-	възможности: махам/взимам/ставам/хващам/попадам/получавам/набави/придобивам
+	възможности: вед? махам/взимам/ставам/хващам/попадам/получавам/набави/придобивам
 	- махам: не може заради "And if he be poor, and cannot get so much; then..."
 	- взимам: не може заради take:взимам<<
 	- ставам: не може заради "and get you possessions therein" и stay:стоя<<
@@ -2996,40 +2996,103 @@ Mat4:11 Then the devil leaveth him, and, behold, angels came and ministered unto
 	
 	остават: получавам/набави/придобивам
 	
-get (117 uses)
+get:веда (117 uses)
+getteth:веде (9 uses)
+getting:ведене (3 uses)
+got:ведох (7 uses)
+gotten:веден (25 uses)
+gat:ведох (20 uses)
+	- възведе: And Abraham gat up early in the morning to the place where he stood before the LORD:
 
-gether (2 uses)
-getteth (9 uses)
-getting (3 uses)
+forget:забведам (53 uses)
+forgettest:забведаш (2 uses)
+forgetteth:забведаш (4 uses)
+forgat:забведох (8 uses)
+forgot:забведох (1 uses)
+forgetful:забведвен (2 uses)
+forgetfulness:забведение (1 uses) (тук виждам, че всичко щраква като пъзел)
+forgetting:забведайки (1 uses)
+forgotten:забведен (44 uses)
 
-got (7 uses)
-gotten (25 uses)
-forgot (1 uses)
-forgotten (44 uses)
-
-begotten (23 uses)
-firstbegotten (1 uses)
-
-gat (20 uses)
-begat (225 uses)
-forgat (8 uses)
+beget:бъдведа (10 uses)
+begettest:бъдведеш (2 uses)
+begetteth:бъдведе (3 uses)
+begotten:бъдведен (23 uses)
+begat:бъдведе (225 uses)роди<< -> бъдведе (ръчно да се оправи - готово)
 	And Abraham gat up early in the morning
-	And Moses gat him into the camp
+	And Moses gat him into the camp	
+firstbegotten:първобъдведен (1 uses)
 
-
---- hence:оттук? ---
-hence (27 uses)
-henceforth (32 uses)
+--- hence:оттук ---
+hence:оттук (27 uses)
+henceforth:оттукнапред (32 uses)
 henceforward (2 uses)
-thence:оттам/оттогава? (140 uses)
-thenceforth (4 uses)
-whence:откъде? (72 uses)
+thence:оттогава (140 uses)
+thenceforth:оттогаванапред (4 uses)
+whence:откъде (72 uses)
 
-satan
-only
-serve
-ministered
+satan:сатана (52 uses)
 
+only (249 uses):единствено (thine only son Isaac)
+
+--- serve:служа? ---
+serve (207 uses)
+served (73 uses)
+servedst (1 uses)
+servest (2 uses)
+serveth (9 uses)
+
+deserve (1 uses)
+deserveth (1 uses)
+
+observe (55 uses)
+observed (11 uses)
+observer (1 uses)
+observers (1 uses)
+observest (1 uses)
+observeth (1 uses)
+
+preserve (30 uses) съхрани<< -> предслужим?
+preserved (16 uses)
+preserver (1 uses)
+preservest (2 uses)
+preserveth (8 uses)
+
+reserve (3 uses)
+reserved (16 uses)
+reserveth (2 uses)
+
+-- свещенник/свещенодействам/помагам/наместник/намесвам/вмешавам? --
+	- And Moses rose up, and his minister Joshua
+	- that he may minister unto me in the priest's office (да ми замества)
+minister (98 uses) заместник/замествам?
+ministered (37 uses) -
+ministereth (2 uses)
+ministering:заместване/замествайки (8 uses)
+ministers (26 uses)
+administered:вместен? (2 uses)
+	And Moses rose up, and his minister Joshua
+	that he may minister unto me in the priest's office
+
+
+charge:задължение<<
+duty (8 uses):дълг
+duties (1 uses):дългове
+
+
+help (123 uses) помагам?
+helped (23 uses)
+helper (8 uses)
+helpers (7 uses)
+helpeth (4 uses)
+helping (3 uses)
+helps (2 uses)
+fellowhelper (1 uses)
+fellowhelpers (1 uses)
+
+assist (1 uses) ?
+
+aided(1): подкрепих?
 
 
 
