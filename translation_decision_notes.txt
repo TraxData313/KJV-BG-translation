@@ -2972,7 +2972,7 @@ wilt:тище
 
 
 
-...thinking/working on now...
+
 Mat4:10 Тогава каза Исус на/помощна него, Get теб hence, Satan: за/защото то е написано, Ти ще поклонение пълчл Господ твоя Бог, и него only ще ти serve.
 Mat4:11 Тогава пълчл дявол напуска него, и, обхванете, ангели дойде и ministered на/помощна него.
 -
@@ -3036,104 +3036,89 @@ satan:сатана (52 uses)
 only (249 uses):единствено (thine only son Isaac)
 
 --- serv:слугж/зерв? ---
-serve:служа (207 uses) слугозервираш?
-served (73 uses)
-servedst (1 uses)
-servest (2 uses)
-serveth (9 uses)
-
-deserve:заслужа/зазервираш? (1 uses)
+serve:служа (207 uses)
+servest:служиш (2 uses)
+serveth:служи (9 uses)
+served:служих (73 uses)
+servedst:служеше (1 uses)
+servant:служител (476 uses)
+servants:служители (460 uses)
+service:служба (126 uses)
+servile:служителски (12 uses)
+serving:служейки (7 uses)
+servitor (1 uses) ще го оставя като стигна до него
+servitude:служение (1 uses)
+bondservice:крепостенослужение (1 uses)
+eyeservice:служенезапредочи (2 uses)
+manservant:мъжослужител (13 uses)
+manservants:мъжослужители (1 uses)
+menservants:мъжеслужители (10 uses)
+womenservants:женислужители (2 uses)
+eye:око
+bondservant:крепостенослужител<<
+maidservant:домашницослугиня<<
+maidservants:домашницослугини<<
+deserve:заслужа (1 uses)
 deserveth:заслужава (1 uses)
-
-observe:обслужвам/съблюдавам/обзервирам? (55 uses)
-observed (11 uses)
-observer (1 uses)
-observers (1 uses)
-observest (1 uses)
-observeth (1 uses)
-
-preserve (30 uses) съхрани<< -> предслужим/презервирам?
-preserved (16 uses)
-preserver (1 uses)
-preservest (2 uses)
-preserveth (8 uses)
-
-reserve:реслужи? (3 uses) резервирам
-reserved (16 uses)
-reserveth (2 uses)
-
-- showing the [39] words containing [serv]:
-bondservice (1 uses)
-deserve (1 uses)
-deserveth (1 uses)
-deserving (1 uses)
-eyeservice (2 uses)
-fellowservant (6 uses)
-fellowservants (4 uses)
-maidservant (17 uses)
-maidservants (10 uses)
-manservant (13 uses)
-manservants (1 uses)
-menservants (10 uses)
-observe (55 uses)
-observed (11 uses)
-observer (1 uses)
-observers (1 uses)
-observest (1 uses)
-observeth (1 uses)
-preserve (30 uses)
-preserved (16 uses)
-preserver (1 uses)
-preservest (2 uses)
-preserveth (8 uses)
-reserve (3 uses)
-reserved (16 uses)
-reserveth (2 uses)
-servant (476 uses)
-servants (460 uses)
-serve (207 uses)
-served (73 uses)
-servedst (1 uses)
-servest (2 uses)
-serveth (9 uses)
-service (126 uses)
-servile (12 uses)
-serving (7 uses)
-servitor (1 uses)
-servitude (1 uses)
-womenservants (2 uses)
+deserving:заслуженото (1 uses)
+observe:съблюдавам (55 uses)
+observest:съблюдаваш (1 uses)
+observeth:съблюдава (1 uses)
+observed:съблюдах (11 uses)
+observer:съблюдател (1 uses)
+observers:съблюдатели (1 uses)
+preserve:съхрани (30 uses)
+preservest:съхраниш (2 uses)
+preserveth:съхрани (8 uses)
+preserved:съхраних (16 uses)
+preserver:съхранител (1 uses)
+reserve:схранявам (3 uses)
+reserveth:схранява (2 uses)
+reserved:схраниh (16 uses)
 
 -- свещенник/свещенодействам/помагам/наместник/намесвам/вмешавам? --
 	- And Moses rose up, and his minister Joshua
 	- that he may minister unto me in the priest's office (да ми замества)
-minister (98 uses) заместник/замествам?
-ministered (37 uses) -
-ministereth (2 uses)
+minister:заместник/замествам (98 uses) 
+ministered:замествах (37 uses) -
+ministereth:заместваш (2 uses)
 ministering:заместване/замествайки (8 uses)
-ministers (26 uses)
-administered:вместен? (2 uses)
+ministers:заместници (26 uses)
+administered:вместен (2 uses)
 	And Moses rose up, and his minister Joshua
 	that he may minister unto me in the priest's office
-
 
 charge:задължение<<
 duty (8 uses):дълг
 duties (1 uses):дългове
+help:помагам (123 uses)
+helpeth:помага (4 uses)
+helped:помогнах (23 uses)
+helper:помощник (8 uses)
+helpers:помощници (7 uses)
+helping:помагайки/помагане (3 uses)
+helps:помагания (2 uses)
+aided(1):подкрепих
 
 
-help (123 uses) помагам?
-helped (23 uses)
-helper (8 uses)
-helpers (7 uses)
-helpeth (4 uses)
-helping (3 uses)
-helps (2 uses)
-fellowhelper (1 uses)
-fellowhelpers (1 uses)
 
-assist (1 uses) ?
 
-aided(1): подкрепих?
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat4:12 Сега кога/когато Исус имаше/минвр слуши това Йоан беше запращам/запратих в prison, той замина в Галилея;
+-
+Mat4:12 Now when Jesus had heard that John was cast into prison, he departed into Galilee;
+
+
+prison
+
 
 
 
