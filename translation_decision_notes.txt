@@ -3214,12 +3214,21 @@ Mat4:17 От това време Исус began до/на/към preach, и до
 Mat4:17 From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.
 
 
-began
+began:започнах
+beginning:започване<<
+begin:започвам<<
+beginnings:започвания<<
+beginnest:започнеш<<
+preach:проповядвам
+preachest:проповядваш
+preacheth:проповядва
+preached:проповядвах
+preacher:проповедник
+preaching:проповядвайки/проповядващ/проповядване
 
-preach
 
 
-
+пълчл царство от/за небе -> царството на небето (ръчно преведени на всички 30+ места)
 
 
 

@@ -1786,3 +1786,10 @@ water:вода
 watersprings:водоизвори
 wellspring:кладенецоизвор
 dayspring:деноизвор
+began:започнах
+preach:проповядвам
+preachest:проповядваш
+preacheth:проповядва
+preached:проповядвах
+preacher:проповедник
+preaching:проповядвайки/проповядващ/проповядване
