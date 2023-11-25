@@ -3117,9 +3117,39 @@ Mat4:12 Сега кога/когато Исус имаше/минвр слуши
 Mat4:12 Now when Jesus had heard that John was cast into prison, he departed into Galilee;
 
 
-prison
+
+prison:затвор
+prisons:затвори
+prisoner:затворник
+prisoners:затворници
+imprisoned:затворен
+imprisonment:затворничество
+imprisonments:затворничества
 
 
+
+
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat4:13 И напускам Назарет, той дойде и пребивавах в Capernaum, което е над/ъпнвръз пълчл море бряг, в пълчл borders от/за Zabulon и Nephthalim:
+Mat4:14 Това то мога бъда изпълни което беше говорено до/от/по Исаия пълчл пророк, казвайки,
+-
+Mat4:13 And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:
+Mat4:14 That it might be fulfilled which was spoken by Esaias the prophet, saying,
+
+
+Capernaum
+borders
+Zabulon
+Nephthalim
 
 
 

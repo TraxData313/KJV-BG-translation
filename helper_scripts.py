@@ -14,7 +14,8 @@ def find_unique_words_with_a_string():
     print()
     print(f'- showing the [{len(words)}] words containing [{string}]:')
     for i, word in enumerate(words):
-        print(f"{word} ({uses[i]} uses)")
+        #print(f"{word} ({uses[i]} uses)")
+        print(f"{word}")
     find_unique_words_with_a_string()
 
 

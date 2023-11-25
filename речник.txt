@@ -1749,3 +1749,10 @@ helpers:помощници
 helping:помагайки/помагане
 helps:помагания
 aided:подкрепих
+prison:затвор
+prisons:затвори
+prisoner:затворник
+prisoners:затворници
+imprisoned:затворен
+imprisonment:затворничество
+imprisonments:затворничества
