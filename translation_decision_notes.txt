@@ -3264,7 +3264,7 @@ hook:кука<<
 
 
 
-...thinking/working on now...
+
 Mat4:19 И той каза на/помощна те, Follow мен, и аз ще правя вие рибари от/за хора.
 Mat4:20 И те прямопътно напусна/ляво техните мрежи, и followed него.
 -
@@ -3281,6 +3281,17 @@ followers:последователи
 following:следвайки/следващ
 
 
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat4:21 И отивайки върху/на/помощна от оттогава, той видя друг две братя, James пълчл син от/за Zebedee, и Йоан негов брат, в крчл ship с Zebedee техните баща, mending техните мрежи; и той на/призова те.
+-
+Mat1:21 And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.
 
 
 
