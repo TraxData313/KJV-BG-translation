@@ -3168,50 +3168,55 @@ gentiles:езичници
 
 
 
-...thinking/working on now...
+
 Mat4:16 Пълчл народ което sat в тъмнина видя велик светлина; и до/на/към те което sat в пълчл регион и shadow от/за смърт светлина е sprung на/горе/въз.
 -
 Mat4:16 The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.
 
-[Исая 9:1]
-
 sit:седя
-sitnah
-sittest
-sitteth
-sitting
-situate
-situation
-
-sat
-satest
-satiate
-satiated
-satisfaction
-satisfied
-satisfiest
-satisfieth
-satisfy
-satisfying
-satyr
-satyrs
-unsatiable
-
+sittest:седиш
+sitteth:седи
+sitting:седейки/седящ
+sat:седях
+satest:седнал
+situate:разположен
+situation:разположение
 shadow:сянка
-shadows
-shadowing
-overshadow
-overshadowed
-
+shadows:сенки
+shadowing:засенчващ/сенчещ
+overshadow:засенчи
+overshadowed:засенчи (минало време)
+over:над<<
 sprung:извря (sprung up:извря вън)
-spring:извор/извира
-springeth
-springing
-springs
-watersprings
-wellspring
-dayspring
+spring:извор/извирам
+springeth:извира
+springing:извиращ/извирайки
+springs:извори
+water:вода
+watersprings:водоизвори
+well:добре/кладенец<<
+wellspring:кладенецоизвор
+day:ден<<
+dayspring:деноизвор
 offspring:потомство<<
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat4:17 От това време Исус began до/на/към preach, и до/на/към казвам, Покайвам: за/защото пълчл царство от/за небе е на ръка.
+-
+Mat4:17 From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.
+
+
+began
+
+preach
 
 
 
