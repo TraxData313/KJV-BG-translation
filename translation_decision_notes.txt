@@ -3208,7 +3208,7 @@ offspring:потомство<<
 
 
 
-...thinking/working on now...
+
 Mat4:17 От това време Исус began до/на/към preach, и до/на/към казвам, Покайвам: за/защото пълчл царство от/за небе е на ръка.
 -
 Mat4:17 From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.
@@ -3229,6 +3229,64 @@ preaching:проповядвайки/проповядващ/проповядва
 
 
 пълчл царство от/за небе -> царството на небето (ръчно преведени на всички 30+ места)
+
+
+
+
+
+
+
+
+
+Mat4:18 И Исус, ходейки до/от/по пълчл море от/за Галилея, видя две братя, Simon на/призова Peter, и Andrew негов брат, запращайки/заправка крчл net в пълчл море: за/защото те беше fishers.
+-
+Mat4:18 And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
+
+
+simon:симон
+peter:петър
+andrew:андрей
+net:мрежа
+nets:мрежи
+fishers:рибари
+fish:риба
+fisher:рибар
+fishermen:рибарохора
+fishes:риби
+fishing:риболов
+fishhooks:рибокука
+hook:кука<<
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat4:19 И той каза на/помощна те, Follow мен, и аз ще правя вие рибари от/за хора.
+Mat4:20 И те прямопътно напусна/ляво техните мрежи, и followed него.
+-
+Mat4:19 And he saith unto them, Follow me, and I will make you fishers of men.
+Mat4:20 And they straightway left their nets, and followed him.
+
+
+
+follow:следвам
+followeth:следва
+followed:последвах
+followedst:следваше
+followers:последователи
+following:следвайки/следващ
+
+
+
+
+
+
+
+
 
 
 
