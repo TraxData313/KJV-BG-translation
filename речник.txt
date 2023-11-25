@@ -1756,3 +1756,11 @@ prisoners:затворници
 imprisoned:затворен
 imprisonment:затворничество
 imprisonments:затворничества
+capernaum:капернаум
+border:граница
+borders:граници
+zabulon:завулон
+nephthalim:нефталим
+beyond:отвъд
+gentile:езичник
+gentiles:езичници

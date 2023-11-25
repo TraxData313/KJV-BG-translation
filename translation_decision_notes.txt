@@ -3141,15 +3141,20 @@ imprisonments:затворничества
 ...thinking/working on now...
 Mat4:13 И напускам Назарет, той дойде и пребивавах в Capernaum, което е над/ъпнвръз пълчл море бряг, в пълчл borders от/за Zabulon и Nephthalim:
 Mat4:14 Това то мога бъда изпълни което беше говорено до/от/по Исаия пълчл пророк, казвайки,
+Mat4:15 Пълчл територия от/за Zabulon, и пълчл територия от/за Nephthalim, до/от/по пълчл път от/за пълчл море, beyond Иордан, Галилея от/за пълчл Gentiles;
 -
 Mat4:13 And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:
 Mat4:14 That it might be fulfilled which was spoken by Esaias the prophet, saying,
+Mat4:15 The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
+
 
 
 Capernaum
 borders
 Zabulon
 Nephthalim
+beyond
+Gentiles
 
 
 
