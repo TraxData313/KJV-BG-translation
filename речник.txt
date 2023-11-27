@@ -1811,3 +1811,11 @@ followed:последвах
 followedst:следваше
 followers:последователи
 following:следвайки/следващ
+james:яков
+zebedee:заведей
+ship:кораб
+ships:кораби
+shipmen:корабници
+shipwreck:корабокрушение
+mend:поправям
+mending:поправящи/покравяйки
