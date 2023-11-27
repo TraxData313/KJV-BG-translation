@@ -3333,27 +3333,70 @@ taught:преподадох
 teacher:преподавател
 teachers:преподаватели
 teaching:преподавайки/преподаващ
-
 learn:уча
 learned:учих
 learning:учейки/учещ
 unlearned:ненаучен
-
 synagogue:синагога
 synagogues:синагоги
-
 gospel:благовестие
+heal:оздравявам
+healeth:оздравяваш
+healed:оздрави
+healer:оздравител
+healing:оздравяване
+healings:оздравявания
+health:здраве
+cure:лек/лекувам
+cured:изкелувах
+cures:лекове
+doctor:учен
+doctors:учени
+doctrine:учение
+doctrines:учения
 
-heal:оздравявам/лекува?
-healeth
-healed:оздрави?
-healer
-healing
-healings
-health:здраве?
+	- and it ceased to be with Sarah after the manner of women
+	- That be far from thee to do after this manner
+	- and two manner of people shall be separated from thy bowels
+	- and in all manner of service in the field
+	- Be not deceived: evil communications corrupt good manners.
+	- поведение/начин/обикновенното/маниер/държание/вид/определение/деление/различие/категория/тип
+	- държа/ведасе/постъпвам
+manner:поведение
+manners:поведения
 
-manner
-manners
+be:бъда<<
+have:имам/минвр<<
+hold:държа/държание<<
+behave:държасе
+behaveth:държиш
+behaved:ветох
+behaviour:поведение
+
+behold
+beholdest
+beholdeth
+beholding
+hold
+holden
+holdest
+holdeth
+holding
+holds
+household
+householder
+households
+threshold
+thresholds
+uphold
+upholden
+upholdest
+upholdeth
+upholding
+withhold
+withholden
+withholdeth
+
 
 sick
 sickle
