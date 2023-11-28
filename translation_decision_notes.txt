@@ -3315,7 +3315,7 @@ hence:оттук
 
 
 
-...thinking/working on now...
+
 Mat4:22 И те immediately напусна/ляво пълчл кораб и техните баща, и последвах него.
 Mat4:23 И Исус дойде около всички Галилея, teaching в техните synagogues, и проповядвайки пълчл gospel от/за пълчл царство, и healing всички manner от/за sickness и всички manner от/за disease между пълчл народ.
 -
@@ -3372,6 +3372,70 @@ diseased:заразен
 diseases:зарази
 
 дойде около -> обиколи
+
+
+
+
+
+
+
+
+
+
+Mat4:24 И негов знатност дойде извне всички Syria: и те донесен на/помощна него всички болен народ това беше взет с divers зарази и torments, и тези което беше притежавах с дяволи, и тези което беше lunatick, и тези това имаше/минвр пълчл palsy; и той оздрави те.
+Mat4:25 И там последвах него велик multitudes от/за народ от Галилея, и от Decapolis, и от Йерусалим, и от Юдеа, и от отвъд Иордан.
+-
+Mat4:24 And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
+Mat4:25 And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.
+
+
+syria:сирия
+decapolis:декапол
+divers:разнообразни
+diversities:разнообразия
+diverse:различни
+divide:разделя<<
+divided:раздели<<
+divider:разделител
+divideth:разделяш<<
+dividing:разделяйки/разделяне
+division:разделение
+divisions:разделения
+divorce:развод
+divorced:разведен
+divorcement:развеждане
+torment:изтезавам/изтезание
+tormented:изтезавах/изтезан
+torments:изтезания
+tormentors:изтезатели
+lunatick:лунатик
+palsy:парализа
+palsies:парализи
+multitude:множество
+multitudes:множества
+
+
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:1 И виждайки пълчл множества, той дойде на/горе/въз в крчл възвишенина: и кога/когато той беше сложи, негов disciples дойде на/помощна него:
+Mat5:2 И той отворих негов уста, и преподадох те, казвайки,
+-
+Mat5:1 And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
+Mat5:2 And he opened his mouth, and taught them, saying,
+
+
+
+
+
+
 
 
 
