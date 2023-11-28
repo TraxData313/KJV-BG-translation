@@ -3354,7 +3354,6 @@ doctor:учен
 doctors:учени
 doctrine:учение
 doctrines:учения
-
 	- and it ceased to be with Sarah after the manner of women
 	- That be far from thee to do after this manner
 	- and two manner of people shall be separated from thy bowels
@@ -3364,51 +3363,15 @@ doctrines:учения
 	- държа/ведасе/постъпвам
 manner:поведение
 manners:поведения
+sick:болен
+sickly:болнав
+sickness:болест
+sicknesses:болести
+disease:зараза
+diseased:заразен
+diseases:зарази
 
-be:бъда<<
-have:имам/минвр<<
-hold:държа/държание<<
-behave:държасе
-behaveth:държиш
-behaved:ветох
-behaviour:поведение
-
-behold
-beholdest
-beholdeth
-beholding
-hold
-holden
-holdest
-holdeth
-holding
-holds
-household
-householder
-households
-threshold
-thresholds
-uphold
-upholden
-upholdest
-upholdeth
-upholding
-withhold
-withholden
-withholdeth
-
-
-sick
-sickle
-sickly
-sickness
-sicknesses
-
-disease
-diseased
-diseases
-
-
+дойде около -> обиколи
 
 
 
@@ -3475,6 +3438,10 @@ saint:светия
 saints:светии
 
 awe:страхопочитание (да помисля/като стигна)
+
+on
+unto
+...
 
 -TODO: complexes checker
 -TODO: testimony
