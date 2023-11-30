@@ -3475,12 +3475,66 @@ poorest:най-беден
 
 
 
-...thinking/working on now...
+
 Mat5:5 Благословен са пълчл meek: за/защото те ще inherit пълчл земя.
 Mat5:6 Благословен са те което върша глад и thirst след праведност: за/защото те ще бъда filled.
 -
 Mat5:5 Blessed are the meek: for they shall inherit the earth.
 Mat5:6 Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
+
+
+meek:кротък
+meekness:кроткост
+inherit:наследя
+inheriteth:наследиш
+inheritance:наследство
+inheritances:наследства
+inherited:наследих
+inheritor:наследник
+thirst:жажда/жадувам
+thirsteth:жадува
+thirsted:жадуваха
+thirsty:жаден
+athirst:ожаднял
+bloodthirsty:кръвожаден
+fill:пълня
+fillest:пълниш
+filleth:пълни
+filled:напълнен
+filledst:напълнил
+filling:пълнейки
+fulfil:изпълня<< но да се подредят с тези да са на едно място
+fulfilled:изпълних<<
+fulfill:изпълвам<<
+fulfilled:изпълни<<
+fulfilling:изпълнявайки/изпълнение<<
+
+
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:7 Благословени са пълчл милостив: за/защото те ще obtain милост.
+Mat5:8 Благословени са пълчл pure в сърце: за/защото те ще виждам Бог.
+-
+Mat5:7 Blessed are the merciful: for they shall obtain mercy.
+Mat5:8 Blessed are the pure in heart: for they shall see God.
+
+
+obtain:придобивам
+obtaineth:придобиваш
+obtained:придобих
+obtaining:придобиването
+pure:нямащпримеси
+clean:чист<<
+wash:умивам<<
+
 
 
 
