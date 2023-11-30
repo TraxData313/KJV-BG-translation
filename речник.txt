@@ -577,7 +577,6 @@ even:дори
 us:ние
 saith:каза
 therefore:затова
-because:защото/заради
 our:наш
 or:или
 down:долу
@@ -638,7 +637,6 @@ blood:кръв
 side:страна
 life:живот
 saul:савел
-peace:мир
 mouth:уста
 might:мога
 mighty:могъщ
