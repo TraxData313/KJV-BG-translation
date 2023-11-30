@@ -3519,7 +3519,7 @@ fulfilling:изпълнявайки/изпълнение<<
 
 
 
-...thinking/working on now...
+
 Mat5:7 Благословени са пълчл милостив: за/защото те ще obtain милост.
 Mat5:8 Благословени са пълчл pure в сърце: за/защото те ще виждам Бог.
 -
@@ -3537,6 +3537,33 @@ wash:умивам<<
 
 
 
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:9 Благословени са пълчл peacemakers: за/защото те ще бъда на/призова пълчл деца от/за Бог.
+Mat5:10 Благословени са те което са persecuted за/защото праведност' sake: за/защото техен е царството на небето.
+-
+Mat5:9 Blessed are the peacemakers: for they shall be called the children of God.
+Mat5:10 Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.
+
+
+pure:нямащпримеси<< -> безпримесен
+purer:по-безпримесен
+purely:безпримесено
+pureness:безпримесеност
+
+
+peacemakers
+
+persecuted
+
+sake
 
 
 
