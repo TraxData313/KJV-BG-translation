@@ -1881,3 +1881,13 @@ disciple:ученик
 disciples:ученици
 discipline:поучение
 set:сложи/сядам
+bless:благославям
+blessest:благославяш
+blesseth:благославя
+blessed:благословен
+blessing:благословение
+blessings:благословения
+blessedness:благословенност
+poor:беден
+poorer:по-беден
+poorest:най-беден

@@ -3433,10 +3433,56 @@ Mat5:2 And he opened his mouth, and taught them, saying,
 
 
 
-disciple
-disciples
-discipline
+disciple:ученик
+disciples:ученици
+discipline:поучение
 student(0)
+
+set:сложи -> сложи/сядам
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:3 Blessed са пълчл poor в дух: за/защото техен е царството на небето.
+Mat5:4 Blessed са те това жалея: за/защото те ще бъда утеших.
+-
+Mat5:3 Blessed are the poor in spirit: for theirs is the kingdom of heaven.
+Mat5:4 Blessed are they that mourn: for they shall be comforted.
+
+
+bless:благославям
+blessest:благославяш
+blesseth:благославя
+blessed:благословен
+blessing:благословение
+blessings:благословения
+blessedness:благословенност
+poor:беден
+poorer:по-беден
+poorest:най-беден
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:5 Благословен са пълчл meek: за/защото те ще inherit пълчл земя.
+Mat5:6 Благословен са те което върша глад и thirst след праведност: за/защото те ще бъда filled.
+-
+Mat5:5 Blessed are the meek: for they shall inherit the earth.
+Mat5:6 Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
+
+
 
 
 
