@@ -608,7 +608,6 @@ nor:нито
 jerusalem:йерусалим
 took:взе
 thus:така
-set:сложи
 sent:прати
 send:пращам
 word:дума
@@ -1878,3 +1877,7 @@ palsy:парализа
 palsies:парализи
 multitude:множество
 multitudes:множества
+disciple:ученик
+disciples:ученици
+discipline:поучение
+set:сложи/сядам
