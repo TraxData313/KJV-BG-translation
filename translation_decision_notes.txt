@@ -3544,8 +3544,6 @@ wash:умивам<<
 
 
 
-
-...thinking/working on now...
 Mat5:9 Благословени са пълчл peacemakers: за/защото те ще бъда на/призова пълчл деца от/за Бог.
 Mat5:10 Благословени са те което са persecuted за/защото праведност' sake: за/защото техен е царството на небето.
 -
@@ -3566,7 +3564,7 @@ peacemakers:мироправители
 persecuted:преследван/преследвах
 persecute:преследвам
 persecutest:преследваш
-persecuting:преследвайки/преследващ?
+persecuting:преследвайки/преследващ
 persecution:преследване
 persecutions:преследвания
 persecutor:преследвач
@@ -3578,15 +3576,30 @@ caused:причиних
 causeless:безпричинно
 causes:причини
 causeway:причинопът
-because:порадипричинатаче 
+because:порадипричинатаче
+sake:заради
+sakes:зарадимнч
 
-sake:заради?
-	and they will slay me for my wife's sake
-sakes
 
-forsake:изоставям??
-forsaken
-forsaketh
+
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:11 Благословени са вий, кога/когато хора ще revile вие, и преследвам вие, и ще казвам всички поведение от/за evil срещу вие falsely, за/защото мой заради.
+-
+Mat5:11 Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
+
+
+
+
+
 
 
 
