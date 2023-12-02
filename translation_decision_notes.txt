@@ -3609,45 +3609,67 @@ Mat5:11 Blessed are ye, when men shall revile you, and persecute you, and shall 
 - reviled като ирония? And they that passed by reviled him, wagging their heads, ... And saying, Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross.
 
 sin:грях<<
-
-vile:позоря   подъл/отвратителен/подигравам/хуля/позорен?
+vile:позоря
 vilest:позориш
 vilely:позорно
-viler:хулител
+viler:позорител
 .revile:опозорявам
 revilest:опозоряваш
 reviled:опозорен/опозорявах
-revilers
-villany:позор     подлост? хулност?
-
-crime:престъпление?
-crimes
+revilers:опозорители
+villany:позор
 
 right:прав<<
-rightly:правилно<<
+rightly:правилно<< -> праведно?
 righteous:праведен<<
 righteousness:праведност<<
-upright
-uprightly
-uprightness
-unrighteous
-unrighteously
-unrighteousness
+upright:изправен
+uprightly:изправено
+uprightness:изправедност
+unrighteous:неправеден
+unrighteously:неправедно
+unrighteousness:неправедност
 
-wicked:нечестив/порочен?
-wickedly
-wickedness
+law:закон<<
+laws:закони<<
+lawyer:законовед<<
+lawyers:законоведи<<
+lawgiver:законодател<<
+lawful:законен
+lawfully:законно
+lawless:беззаконен
+unlawful:незаконен
 
-iniquities
-iniquity:неправда?
-quit:невинен/оправдан /ureden?
-	Watch ye, stand fast in the faith, quit you like men, be strong.
-quite
-requite
-requited
-requiting
+crime:престъпление
+crimes:престъпления
 
-defiled:осквернен?
+quit:оравноправен
+iniquity:онеравноправение
+iniquities:онеравноправения
+
+corrupt:поквара
+corrupted
+corrupters
+corrupteth
+corruptible
+corrupting
+corruption
+corruptly
+incorruptible
+incorruption
+uncorruptible
+uncorruptness
+
+fornication:разврат?
+
+pervert:перверзия?
+perverted
+perverteth
+perverting
+
+wicked:извратен
+wickedly:извратено
+wickedness:извращение
 
 
 
