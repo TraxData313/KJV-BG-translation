@@ -3620,7 +3620,7 @@ revilers:опозорители
 villany:позор
 
 right:прав<<
-rightly:правилно<< -> праведно?
+rightly:правилно<<
 righteous:праведен<<
 righteousness:праведност<<
 upright:изправен
@@ -3643,45 +3643,68 @@ unlawful:незаконен
 crime:престъпление
 crimes:престъпления
 
-quit:оравноправен
-iniquity:онеравноправение
-iniquities:онеравноправения
+equal:равен/равнява
+equality:равенство
+equally:равно
+equals:равни
+unequal:неравен
+unequally:неравно
 
-corrupt:поквара
-corrupted
-corrupters
-corrupteth
-corruptible
-corrupting
-corruption
-corruptly
-incorruptible
-incorruption
-uncorruptible
-uncorruptness
+conduct:съпровеждам
+conducted:съпроведох
 
-fornication:разврат?
+guilt:вина
+guilty:виновен
+guiltiness:виновност
+guiltless:безвинен
 
-pervert:перверзия?
-perverted
-perverteth
-perverting
+right:прав<<
+rightly:правилно<<
+righteous:праведен<<
+righteousness:праведност<<
+make:правя<<
+just:справедлив<<
 
-wicked:извратен
-wickedly:извратено
-wickedness:извращение
+quit:оправдан (невинен=държасе(като)=освободенот), правда=не става
+acquit:оправдавам
+	- оправдан: ще бъде невинен: then shall he that smote him be quit
+	- оправдете се: държете се като мъже: Be strong and quit yourselves like men
+	- оправдан от: освободен от клетва: And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear.
+iniquity:неправда
+iniquities:неправди
+	- judgment!=wickedness & righteousness!=iniquity And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.
 
+corrupt:поквара/покварвам
+corrupteth:покварваш
+corrupted:покварих
+corrupters:покварители
+corruptible:покварим
+corrupting:покварявайки
+corruption:поквареност
+corruptly:покварно
+incorruptible:непокварим
+incorruption:непоквареност
+uncorruptible:непокварим
+uncorruptness:непокваримост
 
+fornication:блудство
+fornications:блудства
+fornicator:блудник
+fornicators:блудници
 
+pervert:извращавам
+perverteth:извращаваш
+perverted:извратен/извратих
+perverting:извращавайки
 
+wicked:покварен
+wickedly:покварено
+wickedness:покварение
 
-.evil:зло?
-evils
-evildoer
-evildoers
-evilmerodach
-merodach
-merodachbaladan
+.evil:зло
+evils:злини
+evildoer:злодеятел
+evildoers:злодеятели
 
 false
 falsehood
