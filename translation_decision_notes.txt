@@ -3728,9 +3728,19 @@ Mat5:12 Възрадвам, и бъда превишаващо glad: за/защ
 -
 Mat5:12 Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
 
-glad
+joy:радост<<
+glad:щастлив/доволен/весел/удовлетворен?
+gladly:судоволствие?
+gladness
 
-reward
+happy:щастлив
+
+satisfied:доволен?
+
+merry:весел?
+
+
+reward:награда?
 
 
 
