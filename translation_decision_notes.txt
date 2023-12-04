@@ -3591,7 +3591,6 @@ sakes:зарадимнч
 
 
 
-...thinking/working on now...
 Mat5:11 Благословени са вий, кога/когато хора ще revile вие, и преследвам вие, и ще казвам всички поведение от/за evil срещу вие falsely, за/защото мой заради.
 -
 Mat5:11 Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
@@ -3674,8 +3673,8 @@ iniquity:неправда
 iniquities:неправди
 	- judgment!=wickedness & righteousness!=iniquity And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.
 
-corrupt:поквара/покварвам
-corrupteth:покварваш
+corrupt:поквара/покварявам
+corrupteth:покваряваш
 corrupted:покварих
 corrupters:покварители
 corruptible:покварим
@@ -3697,18 +3696,43 @@ perverteth:извращаваш
 perverted:извратен/извратих
 perverting:извращавайки
 
-wicked:покварен
-wickedly:покварено
-wickedness:покварение
-
 .evil:зло
 evils:злини
 evildoer:злодеятел
 evildoers:злодеятели
 
-false
-falsehood
-.falsely
+truth:истина
+
+false:неистина
+.falsely:неистинно
+falsehood:неистинност
+
+wicked:лукав<< вече съм го въвел
+wickedly:лукаво<<
+wickedness:лукавство<<
+
+
+
+
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:12 Възрадвам, и бъда превишаващо glad: за/защото велик е ваш reward в небе: за/защото така преследван/преследвах те пълчл пророци което беше преди/пред вие.
+-
+Mat5:12 Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
+
+glad
+
+reward
+
+
 
 
 
