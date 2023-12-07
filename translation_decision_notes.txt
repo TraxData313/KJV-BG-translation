@@ -3723,28 +3723,56 @@ wickedness:лукавство<<
 
 
 
-...thinking/working on now...
+
 Mat5:12 Възрадвам, и бъда превишаващо glad: за/защото велик е ваш reward в небе: за/защото така преследван/преследвах те пълчл пророци което беше преди/пред вие.
 -
 Mat5:12 Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.
 
 joy:радост<<
-glad:щастлив/доволен/весел/удовлетворен?
-gladly:судоволствие?
-gladness
+pleased:доволен/задоволен<<
+glad:удовлетворен
+gladly:судоволствие
+gladness:удовлетвореност
 
-happy:щастлив
+reward:награда/награждавам
+rewards:награди
+rewardeth:награждава
+rewarded:наградих
+rewarder:наградител
 
-satisfied:доволен?
-
-merry:весел?
-
-
-reward:награда?
+ward:стража
+wards:стражи
+rereward:заднастража
 
 
 
 
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:13 Вий са пълчл salt от/за пълчл земя: но ако/дали пълчл salt имам/минвр lost негов savour, скоито/скаквото ще то бъда salted? то е оттогаванапред добро за/защото nothing, но до/на/към бъда запращам/запратих от/вън, и до/на/към бъда trodden под крак от/за хора.
+-
+Mat5:13 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
+
+
+
+salt
+salted
+
+lost
+
+savour
+
+nothing
+
+trodden
 
 
 

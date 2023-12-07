@@ -2005,3 +2005,14 @@ false:неистина
 falsely:неистинно
 falsehood:неистинност
 truth:истина
+glad:удовлетворен
+gladly:судоволствие
+gladness:удовлетвореност
+reward:награда/награждавам
+rewards:награди
+rewardeth:награждава
+rewarded:наградих
+rewarder:наградител
+ward:стража
+wards:стражи
+rereward:заднастража
