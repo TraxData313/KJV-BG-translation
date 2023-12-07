@@ -3763,8 +3763,10 @@ Mat5:13 Ye are the salt of the earth: but if the salt have lost his savour, wher
 
 
 
-salt
-salted
+salt:сол
+salted:осолен?
+saltness:соленост
+saltpits:?
 
 lost
 
