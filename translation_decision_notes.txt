@@ -3802,8 +3802,20 @@ Mat5:14 Ye are the light of the world. A city that is set on an hill cannot be h
 
 
 
+not:не<<
+might:мога<< -> бимогъл
+can:мога
+canst:можеш
+could:можех
+couldest:можеше
+cannot:неможеш
 
-
+hid
+hide
+hidest
+hideth
+hidden
+hiding
 
 
 
@@ -3818,68 +3830,6 @@ Mat5:14 Ye are the light of the world. A city that is set on an hill cannot be h
 
 
 ...on the back of my mind...
-sign:посока<< -> знак?
-guide:напътства<<
-lead:водя<<
-direction(1):указание<<
-	by the direction of the lawgiver
-direct:насочвам /направлявам? соча? точа?
-	to direct his face unto Goshen
-	I direct my prayer unto thee
-directed:насочени?
-	O that my ways were directed to keep thy statutes!
-directly:насочен / право пред / точно пред?
-	and sprinkle of her blood directly before the tabernacle of the congregation seven times
-	even the way directly before the wall toward the east
-напътствам/навигирам/направлявам - право/точно пред
-course:отред/отделение?
 
-
-
-територия?
-world:свят
-earth:земя
-land:територия
-lands:територии
-ground:основа
-grounded:заземен
-dust:прах
-soil:почва
-floor:под
-floor:подове
-bottom:дъно
-
-God: Of every tree of the garden thou mayest freely eat
-Serpent: Yea, hath God said, Ye shall not eat of every tree of the garden?
-shall/will (трябва?/ще)
-will:ще/воля<<  "to wish," "to desire," or "to want."
-shall:ще<< -> трябва? obligation, necessity, or future events
-shalt:ще<< -> трябва?
-must:трябва? -> длъжен? necessity or obligation
-duty:обяжение/призвание?
-duties:
-may:може<<
-Yea:дали?
-
-gave up (даде на/горе):отдаде (ръчен превод)?
-give up(1G дава на/горе):отдава (ръчен превод)?
-
-*hol*?
-whole:цял
-holy:свещен -> из-цял-о
-hallow:освещавам -> 
-hallowed:освети ->
-saint:светия
-saints:светии
-
-awe:страхопочитание (да помисля/като стигна)
-
-on
-unto
-...
-
--TODO: complexes checker
--TODO: testimony
+-TODO: unpack the words (оттогаванапред -> от тогава напред)?
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
--TODO: add word translation eta estimation
--TODO: add translation flow to the readme
