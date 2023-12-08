@@ -3756,7 +3756,7 @@ rereward:заднастража
 
 
 
-...thinking/working on now...
+
 Mat5:13 Вий са пълчл salt от/за пълчл земя: но ако/дали пълчл salt имам/минвр lost негов savour, скоито/скаквото ще то бъда salted? то е оттогаванапред добро за/защото nothing, но до/на/към бъда запращам/запратих от/вън, и до/на/към бъда trodden под крак от/за хора.
 -
 Mat5:13 Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.
@@ -3764,17 +3764,46 @@ Mat5:13 Ye are the salt of the earth: but if the salt have lost his savour, wher
 
 
 salt:сол
-salted:осолен?
+salted:осолен
 saltness:соленост
-saltpits:?
+lose:губя
+loseth:губиш
+lost:изгубен
+loss:загуба
+savour:вкус/вкусвам
+savourest:вкусваш
+savours:вкусове
+savoury:вкусен
+unsavoury:невкусен
+nothing:нищо
+tread:стъпвам
+treadeth:стъпваш
+treader:стъпквач
+treaders:стъпквачи
+treading:стъпчвайки
+trode:стъпках
+trodden:стъпкан
 
-lost
 
-savour
 
-nothing
 
-trodden
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:14 Вий са пълчл светлина от/за пълчл свят. Крчл град това е сложи/сядам върху/на/помощна крчл хълм cannot бъда hid.
+-
+Mat5:14 Ye are the light of the world. A city that is set on an hill cannot be hid.
+
+
+
+
+
 
 
 
