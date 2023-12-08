@@ -3810,12 +3810,12 @@ could:можех
 couldest:можеше
 cannot:неможеш
 
-hid
-hide
-hidest
-hideth
-hidden
-hiding
+hide:крия
+hideth:крие
+hidest:криеш
+hidden:скрит
+hid:криех
+hiding:криене/криещ
 
 
 

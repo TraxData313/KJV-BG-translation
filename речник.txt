@@ -463,6 +463,8 @@ hide:крия
 hideth:крие
 hidest:криеш
 hidden:скрит
+hid:криех
+hiding:криене/криещ
 put away:оставям(ръчен превод)
 but:но
 while:докато
@@ -2036,3 +2038,8 @@ treaders:стъпквачи
 treading:стъпчвайки
 trode:стъпках
 trodden:стъпкан
+can:мога
+canst:можеш
+could:можех
+couldest:можеше
+cannot:неможеш
