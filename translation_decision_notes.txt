@@ -3864,17 +3864,64 @@ bushel:шиник
 
 
 
-...thinking/working on now...
+
 Mat5:16 Нека ваш светлина така shine преди/пред хора, това те може виждам ваш добро works, и glorify ваш Баща което е в небе.
 -
 Mat5:16 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
 
 
-shine
+shine:осиявам
+shineth:осиява
+shined:осиях
+shining:осиявайки/сияние/сияещ
+shone:сияеше
 
-works
+work:работа/работя
+works:работи (за съществително ползваме дело/деля, но за глагол ползваме работя... на руски е дело/делаеш)
+worketh:работи
+worker:работещ
+workers:работещи
+	- работещи с: Moreover the workers with familiar spirits
+working:работейки/изработвайки/изработващ/работене
+workman:работник
+workmen:работници
+workmanship:изработка
 
-glorify
+glory:слава<<
+glorying:славене<<
+gloriest:славиш
+glorieth:слави
+glorify:прославям
+glorifieth:прославя
+glorified:прославих
+glorifying:прославяйки/прославящ
+glorious:славен
+gloriously:славно
+
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:17 Мисля не това аз съм идвам/дойдох до/на/към разрушавам пълчл закон, или пълчл пророци: аз съм не идвам/дойдох до/на/към разрушавам, но до/на/към изпълня.
+Mat5:18 За/защото verily аз казвам на/помощна вие, Докато/до/ора небе и земя минавам, едно jot или едно tittle ще в няма мъдър/начин минавам от пълчл закон, докато/до/ора всички бъда изпълни.
+-
+Mat5:17 Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
+Mat5:18 For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.
+
+
+
+verily: (потвърждаващо)?
+
+jot
+
+tittle
+
 
 
 
