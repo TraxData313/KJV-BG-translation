@@ -2043,3 +2043,11 @@ canst:можеш
 could:можех
 couldest:можеше
 cannot:неможеш
+candle:свещ
+candles:свещи
+stick:пръчка/прилепям
+sticketh:прилепя
+sticks:пръчки
+candlestick:свещник
+candlesticks:свещници
+bushel:шиник

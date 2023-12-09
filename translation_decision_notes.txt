@@ -3795,7 +3795,7 @@ trodden:стъпкан
 
 
 
-...thinking/working on now...
+
 Mat5:14 Вий са пълчл светлина от/за пълчл свят. Крчл град това е сложи/сядам върху/на/помощна крчл хълм cannot бъда hid.
 -
 Mat5:14 Ye are the light of the world. A city that is set on an hill cannot be hid.
@@ -3816,6 +3816,66 @@ hidest:криеш
 hidden:скрит
 hid:криех
 hiding:криене/криещ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat5:15 Нито върша хора светлина крчл candle, и постави то под крчл bushel, но върху/на/помощна крчл candlestick; и то даваш светлина на/помощна всички това са в пълчл къща.
+-
+Mat5:15 Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.
+
+
+candle:свещ
+candles:свещи
+stick:пръчка/прилепям
+	- пръчка /жезъл/тояга/прът/палка/бастук/съчка/
+	- лепя /бода/стърча
+sticketh:прилепя
+sticks:пръчки
+	пръчки:
+	- gathered sticks upon the sabbath day 
+	- And he cut down a stick, and cast it in thither
+	
+	- стърчат: and his bones that were not seen stick out
+	- стоят заедно: they stick together, that they cannot be sundered.
+	- стоя по-близо от: and there is a friend that sticketh closer than a brother
+	- залепя: I will cause the fish of thy rivers to stick unto thy scales
+candlestick:свещник
+candlesticks:свещници
+bushel:шиник
+
+
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:16 Нека ваш светлина така shine преди/пред хора, това те може виждам ваш добро works, и glorify ваш Баща което е в небе.
+-
+Mat5:16 Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
+
+
+shine
+
+works
+
+glorify
+
 
 
 
