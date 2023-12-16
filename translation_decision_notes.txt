@@ -3949,8 +3949,10 @@ dot(0)
 
 
 
-...thinking/working on now...
+
 Mat5:19 Whosoever затова ще break едно от/за тези най-малък заповеди, и ще преподавам хора така, той ще бъда на/призова пълчл най-малък в царството на небето: но whosoever ще върша и преподавам те, пълчл същи ще бъда на/призова велик в царството на небето.
+-
+Mat5:19 Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach them, the same shall be called great in the kingdom of heaven.
 
 who:кой<<
 so:така<<
@@ -3958,14 +3960,40 @@ wheresoever:къдетоида<<
 soever:кое*_и_Х_да<<
 whosoever:койтоида
 
-break:чупя/разбивам/руша(наруши)?
-breaker:нарушител?
-breakest
-breaketh
-breaking
-breakings
-covenantbreakers
-trucebreakers
+destroy:разрушавам<<
+destroyest:разрушаваш<<
+destroyeth:разрушава<<
+destroyed:разрушавих<<
+destroying:разрушащ<<
+destroyer:разрушител<<
+destroyers:разрушители<<
+
+break:чупя
+breaker:чупач
+breakest:чупиш
+breaketh:чупи
+breaking:чупене/чупейки
+breakings:чупения
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:20 За/защото аз казвам на/помощна вие, Това except ваш праведност ще превишавам пълчл праведност от/за пълчл постанововеди и Фарисеи, вий ще в няма case enter в царството на небето.
+-
+Mat5:20 For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.
+
 
 
 

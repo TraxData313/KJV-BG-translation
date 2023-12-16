@@ -2086,3 +2086,10 @@ unfaithful:невярен
 unfaithfully:невярно
 jot:йота
 tittle:точка
+whosoever:койтоида
+break:чупя
+breaker:чупач
+breakest:чупиш
+breaketh:чупи
+breaking:чупене/чупейки
+breakings:чупения
