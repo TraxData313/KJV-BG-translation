@@ -4058,13 +4058,36 @@ Mat5:22 But I say unto you, That whosoever is angry with his brother without a c
 
 
 
-Raca
+raca:рака
 
-council
+council:съвет/съвещание?
+councils
 
-fool
+counsel:съвет/консултация?
+counselled?
+counsellor?
+counsellors?
+counsels?
+	and shine upon the counsel of the wicked
 
-hell
+advice:препоръка?
+advise:?
+suggest(0)
+
+commend/recommended(2)??
+
+offer:предлагам<<
+offering:предложение<<
+
+opinion:мнение?
+
+fool:глупак?
+foolish
+foolishly
+foolishness
+fools
+
+hell:ад?
 
 
 
