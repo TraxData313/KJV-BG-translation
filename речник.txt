@@ -2100,3 +2100,15 @@ enter:влизам
 entereth:влиза
 entered:влезнах
 entering:влизайки/влизане
+danger:опасност
+dangerous:опасен
+endanger:заплашвам
+endangered:заплашен
+judge:съдия/съдя
+judged:осъдих
+judges:съдии
+judgest:съдиш
+judgeth:съди
+judging:съдейки/съдещ
+judgment:отсъждение
+judgments:отсъждения
