@@ -3989,16 +3989,41 @@ breakings:чупения
 
 
 
-...thinking/working on now...
-Mat5:20 За/защото аз казвам на/помощна вие, Това except ваш праведност ще превишавам пълчл праведност от/за пълчл постанововеди и Фарисеи, вий ще в няма case enter в царството на небето.
+
+Mat5:20 Защото ви казвам, Че except вашата праведност ще превишавам пълчл праведност от/за пълчл постанововеди и Фарисеи, вий ще в няма case enter в царството на небето.
 -
 Mat5:20 For I say unto you, That except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven.
 
-except:освен?
+except:освен/изключая
+excepted:изключено
+situate:разположен<<
+situation:разположение<<
+case:случай
+	положение: they were in evil case
+	правилото: And this is the case of the slayer
+	непременно: thou shalt in any case bring them again unto thy brother
+enter:влизам
+entereth:влиза
+entered:взезнах
+entering:влизайки/влизане
 
-case:случай?
 
-enter:влизам?
+
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:21 Вий имам/минвр слуши това то беше каза до/от/по те от/за стар време, Ти ще не убива; и койтоида ще убива ще бъда в danger от/за пълчл judgment:
+-
+Mat5:21 Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
+
+
 
 
 

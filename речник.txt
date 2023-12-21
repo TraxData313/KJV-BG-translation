@@ -2093,3 +2093,10 @@ breakest:чупиш
 breaketh:чупи
 breaking:чупене/чупейки
 breakings:чупения
+except:освен/изключая
+excepted:изключено
+case:случай
+enter:влизам
+entereth:влиза
+entered:влезнах
+entering:влизайки/влизане
