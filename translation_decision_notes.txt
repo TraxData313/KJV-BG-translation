@@ -4050,8 +4050,6 @@ judgments:отсъждения
 
 
 
-
-...thinking/working on now...
 Mat5:22 Но аз казвам на/помощна вие, Това койтоида е раздразнен с негов брат свън крчл причина/причиня ще бъда в опасност от/за пълчл отсъждение: и койтоида ще казвам до/на/към негов брат, Raca, ще бъда в опасност от/за пълчл council: но койтоида ще казвам, Ти fool, ще бъда в опасност от/за hell огън.
 -
 Mat5:22 But I say unto you, That whosoever is angry with his brother without a cause shall be in danger of the judgment: and whosoever shall say to his brother, Raca, shall be in danger of the council: but whosoever shall say, Thou fool, shall be in danger of hell fire.
@@ -4060,37 +4058,79 @@ Mat5:22 But I say unto you, That whosoever is angry with his brother without a c
 
 raca:рака
 
-council:съвет/съвещание?
-councils
+council:синедрион
+councils:синедриони
 
-counsel:съвет/консултация?
-counselled?
-counsellor?
-counsellors?
-counsels?
+counsel:съвет
+counselled:посъветвах
+counsellor:съветник
+counsellors:съветници
+counsels:съвети
 	and shine upon the counsel of the wicked
 
-advice:препоръка?
-advise:?
+guide:напътства<<
+guided:напътства<<
+
+advice:насока (съществително)
+advise:насочвам (глагол)
+advised:насочих
+advisement:насочение
 suggest(0)
 
-commend/recommended(2)??
+mend:поправям<<
+command:заповядва<<
+
+commend:препоръчвам
+commendeth:препоръчваш
+commended:препоръчах
+commending:препоръчвайки
+commendation:препоръка
+	- and commended her before Pharaoh
+	- A man shall be commended according to his wisdom
+	- into thy hands I commend my spirit
+	- връчи: But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
+	- Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?
+	- For not he that commendeth himself is approved, but whom the Lord commendeth.
+recommended:пакпрепоръчан
+	23 And when they had ordained them elders in every church, and had prayed with fasting, they [commended] them to the Lord, on whom they believed.
+	24 And after they had passed throughout Pisidia, they came to Pamphylia.
+	25 And when they had preached the word in Perga, they went down into Attalia:
+	26 And thence sailed to Antioch, from whence they had been [recommended] to the grace of God for the work which they fulfilled.
+
 
 offer:предлагам<<
 offering:предложение<<
 
-opinion:мнение?
+opinion:мнение
+opinions:мнения
 
-fool:глупак?
-foolish
-foolishly
-foolishness
-fools
+fool:глупак
+foolish:глупав
+foolishly:глупаво
+foolishness:глупост
+fools:глупаци
+stupid(0)
 
-hell:ад?
+hell:ад
 
 
 
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:23 Затова ако/дали ти изнася твоя дар до/на/към пълчл altar, и там спомниш това твоя брат имаше/минвр ought срещу теб;
+-
+Mat5:23 Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
+
+altar
+
+ought
 
 
 
