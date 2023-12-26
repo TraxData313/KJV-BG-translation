@@ -4128,9 +4128,12 @@ Mat5:23 Затова ако/дали ти изнася твоя дар до/на
 -
 Mat5:23 Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 
-altar
+altar:олтар?
+altars:олтари
 
-ought
+charge:задължение<<
+ought:би трябвало/трябва/задължение/обязанность/требвуване/требвува/задача? 
+oughtest
 
 
 
