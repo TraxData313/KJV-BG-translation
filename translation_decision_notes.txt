@@ -4160,17 +4160,41 @@ necessities:необходимости
 
 
 
-...thinking/working on now...
 Mat5:24 Напускам там твоя дар преди/пред пълчл олтар, и отивам твоя път; първи бъда reconciled до/на/към твоя брат, и тогава идвам/дойдох и предлагам твоя дар.
 -
 Mat5:24 Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.
 
-reconcile
-reconciled
-reconciliation
-reconciling
+reconcile:помирявам
+reconciled:помирен
+reconciliation:помирение
+reconciling:помиряване/помирявайки
 
 
+
+
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:25 Съглася с твое adversary quickly, whiles ти си в пълчл път с него; задане на/в някой/някое време пълчл adversary deliver теб до/на/към пълчл съдия/съдя, и пълчл съдия/съдя deliver теб до/на/към пълчл officer, и ти бъда запращам/запратих в затвор.
+-
+Mat5:25 Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
+
+adversary
+
+quickly
+
+whiles
+
+deliver
+
+officer
 
 
 

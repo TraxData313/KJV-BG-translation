@@ -2145,3 +2145,7 @@ oughtest:тиепотребно
 necessary:необходимо
 necessity:необходимост
 necessities:необходимости
+reconcile:помирявам
+reconciled:помирен
+reconciliation:помирение
+reconciling:помиряване/помирявайки
