@@ -4123,17 +4123,54 @@ hell:ад
 
 
 
-...thinking/working on now...
+
 Mat5:23 Затова ако/дали ти изнася твоя дар до/на/към пълчл altar, и там спомниш това твоя брат имаше/минвр ought срещу теб;
 -
 Mat5:23 Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 
-altar:олтар?
+altar:олтар
 altars:олтари
-
 charge:задължение<<
-ought:би трябвало/трябва/задължение/обязанность/требвуване/требвува/задача? 
-oughtest
+should:трябва<<
+thing:нещо<<
+part:дял/разделям<<
+debt:дълг<<
+charge:задължение<<
+ought:потребно/потребност
+	би трябвало/нещо? принуда? заем? / обязаност / разпореждане
+	би трябвало/трябва/задължение/обязанность/требвуване/требвува/задача?
+	заръка
+	нещо/частица/дял?
+	- би трябвало: thou hast done deeds unto me that ought not to be done.
+	- би трябва?: and he knew not ought he had
+	- ye shall not diminish ought thereof
+	- thou shalt not carry forth ought of the flesh abroad out of the house
+	- these ought ye to have done, and not to leave the other undone.
+oughtest:ти_е_потребно
+want:нужда<<
+necessary:необходимо
+necessity:необходимост
+necessities:необходимости
+
+
+
+
+
+
+
+
+
+...thinking/working on now...
+Mat5:24 Напускам там твоя дар преди/пред пълчл олтар, и отивам твоя път; първи бъда reconciled до/на/към твоя брат, и тогава идвам/дойдох и предлагам твоя дар.
+-
+Mat5:24 Leave there thy gift before the altar, and go thy way; first be reconciled to thy brother, and then come and offer thy gift.
+
+reconcile
+reconciled
+reconciliation
+reconciling
+
+
 
 
 

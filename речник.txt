@@ -2138,3 +2138,10 @@ foolishly:глупаво
 foolishness:глупост
 fools:глупаци
 hell:ад
+altar:олтар
+altars:олтари
+ought:потребно/потребност
+oughtest:тиепотребно
+necessary:необходимо
+necessity:необходимост
+necessities:необходимости
