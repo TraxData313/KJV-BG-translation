@@ -4186,16 +4186,62 @@ Mat5:25 Съглася с твое adversary quickly, whiles ти си в пъл
 -
 Mat5:25 Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
 
-adversary
+contend:съпернича<<
+.adversary:противник
+adversaries:противници
+adversity:противничество
+adversities:противничества
+opponent(0)
 
-quickly
+enemy:враг
+enemies:врагове
 
-whiles
+live:живея<<
+alive:жив<<
+quick:жив
+	- живо месо: quick raw flesh
+	- бързо: go down quick into the pit;
+.quickly:живо
+quicken:съживявам
+quickeneth:съживява
+quickened:съживен
+quickening:съживяващ
+sand:пясък
+quicksands:живитепясъци
 
-deliver
+as soon as:веднага щом (ръчен превод todo...)
+soon:скоро
+sooner:по-скоро
 
-officer
+while:докато<<
+whiles:докато
 
+.deliver:доставям/избавям
+deliverest:доставяш/избавяш
+delivereth:достявя/избавя
+delivered:доставих/избавих
+deliveredst:достави/избави
+delivering:доставяйки/избавяйки
+deliverer:избавител
+delivery:доставяне
+deliverance:избавление
+deliverances:избавления
+
+
+govern:управлявам/управление<<
+service:служба<<
+servant:служител<<
+leader:водач<<
+
+office:чин
+offices:чинове
+.officer:чиновник
+officers:чиновници
+	- often in a military or administrative capacity
+	- the taskmasters of the people, and their officers
+	- the priest's office
+	- officers ... they shall make captains of the armies to lead the people
+position, role(0)
 
 
 
