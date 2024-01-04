@@ -4181,7 +4181,6 @@ reconciling:помиряване/помирявайки
 
 
 
-...thinking/working on now...
 Mat5:25 Съглася с твое adversary quickly, whiles ти си в пълчл път с него; задане на/в някой/някое време пълчл adversary deliver теб до/на/към пълчл съдия/съдя, и пълчл съдия/съдя deliver теб до/на/към пълчл officer, и ти бъда запращам/запратих в затвор.
 -
 Mat5:25 Agree with thine adversary quickly, whiles thou art in the way with him; lest at any time the adversary deliver thee to the judge, and the judge deliver thee to the officer, and thou be cast into prison.
@@ -4209,7 +4208,7 @@ quickening:съживяващ
 sand:пясък
 quicksands:живитепясъци
 
-as soon as:веднага щом (ръчен превод todo...)
+as soon as:веднага щом (ръчен превод DONE)
 soon:скоро
 sooner:по-скоро
 
@@ -4242,6 +4241,23 @@ officers:чиновници
 	- the priest's office
 	- officers ... they shall make captains of the armies to lead the people
 position, role(0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat5:26 Верно аз казвам на/помощна теб, Ти ще до/от/по няма средства идвам/дойдох от/вън оттогава, докато/до/ора ти имаше/минвр paid пълчл uttermost farthing.
+-
+Mat5:26 Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
+
 
 
 
