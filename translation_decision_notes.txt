@@ -4339,14 +4339,45 @@ Mat5:28 Но аз казвам на/помощна вие, Това койтои
 -
 Mat5:28 But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
 
+see:виждам<<
+look:гледам
+lookest:гледаш
+looketh:гледа
+looked:гледа
+looking:гледайки/гледащ
+looks:изглед
+glass:стъкло
+glasses:стъкла
+lookingglasses:огледало
 
-looketh
-
-already
-
+ready:готов
+already:вече
 
 
 
+
+
+
+
+
+
+Mat5:29 И ако/дали твоя прав око offend теб, pluck то от/вън, и запращам/запратих то от теб: за/защото то е profitable за/защото теб това едно от/за твоя members трябва perish, и не това твоя whole body трябва бъда запращам/запратих в ад.
+-
+Mat5:29 And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.
+
+offend
+
+pluck
+
+profitable
+
+members
+
+perish
+
+whole
+
+body
 
 
 

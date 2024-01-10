@@ -2219,3 +2219,14 @@ adulterers:прелюбодеятели
 adulteress:прелюбодейка
 adulteresses:прелюбодейки
 adulterous:прелюбодейно
+look:гледам
+lookest:гледаш
+looketh:гледа
+looked:гледа
+looking:гледайки/гледащ
+looks:изглед
+glass:стъкло
+glasses:стъкла
+lookingglasses:огледало
+ready:готов
+already:вече
