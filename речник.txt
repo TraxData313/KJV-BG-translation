@@ -2207,3 +2207,15 @@ pronounce:изричам
 pronounced:изрекох
 denounce:възричам
 renounced:отричам
+commit:въвличам
+committed:въвлякох
+committest:въвличаш
+committeth:въвлича
+committing:въвличайки/въвлечение
+adultery:прелюбодеяние
+adulteries:прелюбодеяния
+adulterer:прелюбодеятел
+adulterers:прелюбодеятели
+adulteress:прелюбодейка
+adulteresses:прелюбодейки
+adulterous:прелюбодейно

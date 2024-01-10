@@ -4311,9 +4311,42 @@ Mat5:27 Вий сте слушили че е било казано от тези
 -
 Mat5:27 Ye have heard that it was said by them of old time, Thou shalt not commit adultery:
 
-commit
+do:върша<<
+commit:въвличам
+	- кой ще въвлече вам доверие : who will commit to your trust the true riches?
+committed:въвлякох
+committest:въвличаш
+committeth:въвлича
+committing:въвличайки/въвлечение
 
-adultery
+adultery:прелюбодеяние
+adulteries:прелюбодеяния
+adulterer:прелюбодеятел
+adulterers:прелюбодеятели
+adulteress:прелюбодейка
+adulteresses:прелюбодейки
+adulterous:прелюбодейно
+
+
+
+
+
+
+
+
+
+Mat5:28 Но аз казвам на/помощна вие, Това койтоида looketh върху/на/помощна крчл жена до/на/към похот след нея имаше/минвр въвлякох прелюбодеяние с нея already в негов сърце.
+-
+Mat5:28 But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
+
+
+looketh
+
+already
+
+
+
+
 
 
 
