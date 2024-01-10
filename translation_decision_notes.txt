@@ -4258,6 +4258,63 @@ Mat5:26 Верно аз казвам на/помощна теб, Ти ще до/
 -
 Mat5:26 Verily I say unto thee, Thou shalt by no means come out thence, till thou hast paid the uttermost farthing.
 
+pay:плащам
+payeth:плаща
+payed:платих
+paid:платен
+payment:плащане
+repay:отплащам
+repayeth:отплащаш
+repayed:отплатено
+farthing:асарий
+farthings:асарии
+
+utter:произнасям/краен
+	- изричам/пълен/краен/последен/произнасям/външен?
+	- and utter his voice from Jerusalem
+	- me forth into the utter court
+	- he will make an utter end
+	- пълно унищожение: and there shall be no more utter destruction
+utterance:изказване/изговор
+uttered:произнесох
+uttereth:произнася
+uttering:произнасяйки
+utterly:крайно
+most:най
+utmost:най-крае
+.uttermost:най-краен
+
+last:последен
+lasting:дълготраен
+everlasting:всетраен
+
+pronounce:изричам
+pronounced:изрекох
+denounce:възричам
+renounced:отричам
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mat5:27 Вий сте слушили че е било казано от тези на старото време, Ти ще не commit adultery:
+-
+Mat5:27 Ye have heard that it was said by them of old time, Thou shalt not commit adultery:
+
+commit
+
+adultery
+
 
 
 
