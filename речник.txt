@@ -2259,3 +2259,9 @@ whole:цял
 body:тяло
 bodies:тела
 bodily:телесен
+cut:режа
+cuttest:режеш
+cutteth:реже
+cutting:режейки/режещ
+cuttings:порязвания
+off:предствк

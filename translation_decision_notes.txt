@@ -4421,10 +4421,29 @@ Mat5:30 И ако/дали твоя прав ръка провиня теб, cut
 -
 Mat5:30 And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.
 
-cut
+cut:режа
+cuttest:режеш
+cutteth:реже
+cutting:режейки/режещ
+cuttings:порязвания
 
-off
+out:от/вън<<
+off:предствк
 
+
+
+
+
+
+
+
+Mat5:31 То имаше/минвр been каза, Койтоида ще оставям негов съпруга, нека него дава нея крчл писание от/за развеждане:
+Mat5:32 Но аз казвам на/помощна вие, Това койтоида ще оставям негов съпруга, запазвайки за/защото пълчл причина/причиня от/за блудство, причинява нея до/на/към въвличам прелюбодеяние: и койтоида ще женя нея това е разведен въвлича прелюбодеяние.
+-
+Mat5:31 It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:
+Mat5:32 But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
+
+been
 
 
 
