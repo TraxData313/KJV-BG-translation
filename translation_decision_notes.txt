@@ -4443,8 +4443,19 @@ Mat5:32 Но аз казвам на/помощна вие, Това койтои
 Mat5:31 It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:
 Mat5:32 But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
 
-been
+been:бях/беше
 
+
+
+
+
+
+
+
+
+Mat5:33 Пак, вий имам/минвр слуши това то имаше/минвр бях/беше каза до/от/по те от/за стар време, Ти ще не forswear се, но ще представя на/помощна пълчл Господ твое oaths:
+-
+Mat5:33 Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:
 
 
 
