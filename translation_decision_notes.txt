@@ -4365,21 +4365,65 @@ Mat5:29 И ако/дали твоя прав око offend теб, pluck то о
 -
 Mat5:29 And if thy right eye offend thee, pluck it out, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.
 
-offend
+guilt:вина<<
+guilty:виновен<<
+guiltiness:виновност<<
+guiltless:безвинен<<
 
-pluck
+offend:провиня
+offended:провиних
+offender:провинител
+offenders:провинители
+insult,criminal(0)
 
-profitable
+crime:престъпление
+crimes:престъпления
 
-members
+pluck:изтръгвам
+plucketh:изтръгва
+plucked:изтръгах
+pluckt:изтръгнат
 
-perish
+profit:полза/опозотворя
+profiteth:оползотворява
+profitable:ползотворно
+profited:оползотворих
+profiting:оползотворение
+unprofitable:неползотворен
+unprofitableness:неползотворност
 
-whole
+benefit:облага
+benefits:облаги
 
-body
+member:член
+members:членове
+
+perish:погивам
+perisheth:погива
+perished:погинах
+perishing:погиване
+
+whole:цял
+
+body:тяло
+bodies:тела
+bodily:телесен
 
 
+
+
+
+
+
+
+
+Mat5:30 И ако/дали твоя прав ръка провиня теб, cut то off, и запращам/запратих то от теб: за/защото то е ползотворно за/защото теб това едно от/за твоя членове трябва погивам, и не това твоя цял тяло трябва бъда запращам/запратих в ад.
+-
+Mat5:30 And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell.
+
+cut
+
+off
 
 
 
