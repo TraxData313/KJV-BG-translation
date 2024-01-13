@@ -449,6 +449,14 @@ def get_the_complexes_df(use_cache=True):
 # Compile the HTML side-by-sides
 #####################################################
 
+
+page_title = 'Български превод на Библията от KJV'
+description = 'Правен с вяра в запазеното слово в Knig James Version (KJV) от 1611 г., запазвайки оригиналната пунктуация, главни/малки букви, словоред и в повечето случаи, покоренов мапинг на думите.'
+footer = """Цялата информация в сайта е без лиценз и можете да я модифицирате, използвате и споделяте без нужда от нищо допълнително.<br><br>
+За контакти: <a href='mailto:antongeorgiev313@gmail.com'>Email antongeorgiev313@gmail.com</a>, <a href='https://github.com/TraxData313/christian-bg-vidsubs'>GitHub</a>
+"""
+
+
 def generate_html_file(english_file_path, bulgarian_file_path):
     # Extract file names without extensions
     english_file_name = os.path.splitext(os.path.basename(english_file_path))[0]
@@ -464,7 +472,7 @@ def generate_html_file(english_file_path, bulgarian_file_path):
     <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=0.8">
         <style>
             table {{
                 border-collapse: collapse;
@@ -478,25 +486,41 @@ def generate_html_file(english_file_path, bulgarian_file_path):
             .container {{
                 overflow-x: auto;
             }}
+        .center {{
+        margin: auto;
+        width: 90%;
+        border: 3px solid #73AD21;
+        padding: 10px;
+        }}
         </style>
         <title>{bulgarian_file_name}</title>
     </head>
+
+    <div class="center">
     <body>
-        <div class="container">
-            <table>
-                <thead>
-                    <tr>
-                        <th>{bulgarian_file_name}</th>
-                        <th>{english_file_name}</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    {"".join(f"<tr><td>{line_bulgarian}</td><td>{line_english}</td></tr>" 
-                            for line_bulgarian, line_english in zip(bulgarian_lines, english_lines))}
-                </tbody>
-            </table>
+        <div>
+            <h1>{page_title}</h1>
+            <a href='index.html'>ВСИЧКИ КНИГИ</a><br><br>
+            <div class="container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>{bulgarian_file_name}</th>
+                            <th>{english_file_name}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {"".join(f"<tr><td>{line_bulgarian}</td><td>{line_english}</td></tr>" 
+                                for line_bulgarian, line_english in zip(bulgarian_lines, english_lines))}
+                    </tbody>
+                </table>
+            </div>
         </div>
+    <footer>
+        <p>{footer}</p>
+    </footer>  
     </body>
+    </div>
     </html>
     """
     # Write HTML content to a new file
@@ -519,11 +543,64 @@ def generate_html_side_by_side_translations():
         # Finding corresponding EN file with the same prefix
         en_file = next((en for en in en_files if common_prefix in en), None)
         # If corresponding EN file is found, create a tuple and add it to the list
-        #if en_file:
-        #    file_tuples.append((bg_file, en_file))
-        english_file_path = f"kjb-en/compiled_text_by_books/{en_file}"
-        bulgarian_file_path = f"kjb-bg/compiled_text_by_books/{bg_file}"
-        generate_html_file(english_file_path, bulgarian_file_path)
+        if en_file:
+            file_tuples.append((bg_file, en_file))
+            english_file_path = f"kjb-en/compiled_text_by_books/{en_file}"
+            bulgarian_file_path = f"kjb-bg/compiled_text_by_books/{bg_file}"
+            generate_html_file(english_file_path, bulgarian_file_path)
+            
+    # Generate links to the pages in a separate index.html file
+    index_content = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style type="text/css">
+        label {{
+            color: black;
+            font-weight: bold;
+            text-size: 1em;
+        }}
+        descr {{
+            color: green;
+            font-style: italic;
+        }}
+        tech {{
+            color: blue;
+        }}
+        .center {{
+        margin: auto;
+        width: 90%;
+        border: 3px solid #73AD21;
+        padding: 10px;
+        }}
+        </style>
+        <title>BG KJV Книги</title>
+    </head>
+
+    <div class="center">
+    <body>
+        <h1>{page_title}</h1>
+        {description}
+        <h3>Книги:</h3>
+        <ul>
+            {"".join(f"<li><a href='{file[0].split('.')[0]}.html'>{file[0]}</a></li>" for file in file_tuples)}
+        </ul>
+    <footer>
+        <p>{footer}</p>
+    </footer>  
+    </body>
+    </div>
+    </html>
+    """
+    # Write index HTML content to a file
+    output_folder = 'kjv-side-by-side'
+    if not os.path.exists(output_folder): os.makedirs(output_folder)
+    index_file_path = f"{output_folder}/index.html"
+    with open(index_file_path, 'w', encoding='utf-8') as index_file:
+        index_file.write(index_content)
+    print(f"- Index file '{index_file_path}' generated successfully.")
 
 #####################################################
 # END Compile the HTML side-by-sides
