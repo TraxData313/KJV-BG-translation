@@ -441,3 +441,90 @@ def get_the_complexes_df(use_cache=True):
 #####################################################
 # END Generate the complexes
 #####################################################
+
+
+
+
+#####################################################
+# Compile the HTML side-by-sides
+#####################################################
+
+def generate_html_file(english_file_path, bulgarian_file_path):
+    # Extract file names without extensions
+    english_file_name = os.path.splitext(os.path.basename(english_file_path))[0]
+    bulgarian_file_name = os.path.splitext(os.path.basename(bulgarian_file_path))[0]
+    # Read content from files
+    with open(english_file_path, 'r', encoding='utf-8') as english_file:
+        english_lines = [line.strip() for line in english_file]
+    with open(bulgarian_file_path, 'r', encoding='utf-8') as bulgarian_file:
+        bulgarian_lines = [line.strip() for line in bulgarian_file]
+    # Generate HTML content
+    html_content = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            table {{
+                border-collapse: collapse;
+                width: 100%;
+            }}
+            th, td {{
+                border: 1px solid #ccc;
+                padding: 10px;
+                text-align: left;
+            }}
+            .container {{
+                overflow-x: auto;
+            }}
+        </style>
+        <title>{bulgarian_file_name}</title>
+    </head>
+    <body>
+        <div class="container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>{bulgarian_file_name}</th>
+                        <th>{english_file_name}</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {"".join(f"<tr><td>{line_bulgarian}</td><td>{line_english}</td></tr>" 
+                            for line_bulgarian, line_english in zip(bulgarian_lines, english_lines))}
+                </tbody>
+            </table>
+        </div>
+    </body>
+    </html>
+    """
+    # Write HTML content to a new file
+    output_folder = 'kjv-side-by-side'
+    if not os.path.exists(output_folder): os.makedirs(output_folder)
+    output_file_path = f"{output_folder}/{bulgarian_file_name}.html"
+    with open(output_file_path, 'w', encoding='utf-8') as output_file:
+        output_file.write(html_content)
+    print(f"- HTML file '{output_file_path}' generated successfully.")
+
+def generate_html_side_by_side_translations():
+    bg_folder = "kjb-bg\compiled_text_by_books"
+    en_folder = "kjb-en\compiled_text_by_books"
+    bg_files = os.listdir(bg_folder)
+    en_files = os.listdir(en_folder)
+    file_tuples = []
+    for bg_file in bg_files:
+        # Extracting the common prefix (e.g., 01OT) from BG file
+        common_prefix = bg_file.split(' ', 1)[0]
+        # Finding corresponding EN file with the same prefix
+        en_file = next((en for en in en_files if common_prefix in en), None)
+        # If corresponding EN file is found, create a tuple and add it to the list
+        #if en_file:
+        #    file_tuples.append((bg_file, en_file))
+        english_file_path = f"kjb-en/compiled_text_by_books/{en_file}"
+        bulgarian_file_path = f"kjb-bg/compiled_text_by_books/{bg_file}"
+        generate_html_file(english_file_path, bulgarian_file_path)
+
+#####################################################
+# END Compile the HTML side-by-sides
+#####################################################

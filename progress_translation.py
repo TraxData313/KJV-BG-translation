@@ -26,3 +26,5 @@ if __name__=='__main__':
     f.compile_en_books()
     print('Компилирани на книги с преведен поне един стих:')
     f.compile_bg_books()
+    print('Компилирани на книги в HTML side-by-side формат:')
+    f.generate_html_side_by_side_translations()
