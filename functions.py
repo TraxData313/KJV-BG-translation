@@ -269,7 +269,7 @@ def estimate_revised_verses_progress(df):
     df = df.copy()
     df['verse'] = df['verse'].str.split(' ', expand=True)[0]
     revised_verses_count = len(df) - df['verse'].str.count(':').sum()
-    progr_mes = f'- [{revised_verses_count}] или [{round(revised_verses_count*100/len(df), 2)}%] от общо [{len(df)}] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books)\n'
+    progr_mes = f'- [{revised_verses_count}] или [{round(revised_verses_count*100/len(df), 2)}%] от общо [{len(df)}] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) и качени в уебсайта [BG KJV Книги](http://site-for-kjv-bg-translation.s3-website-us-east-1.amazonaws.com/)\n'
     return progr_mes
 
 def compile_bg_books():
@@ -451,9 +451,12 @@ def get_the_complexes_df(use_cache=True):
 
 
 page_title = 'Български превод на Библията от KJV'
-description = 'Правен с вяра в запазеното слово в Knig James Version (KJV) от 1611 г., запазвайки оригиналната пунктуация, главни/малки букви, словоред и в повечето случаи, покоренов мапинг на думите.'
-footer = """Всичко в сайта е без лиценз и може да се цитира, използва и споделя свободно.<br><br>
-За контакти: <a href='mailto:antongeorgiev313@gmail.com'>Email antongeorgiev313@gmail.com</a>, <a href='https://github.com/TraxData313'>GitHub</a>
+description = "Директен превод от <a href='https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BB_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81'>King James Version (KJV) от 1611 г.</a>, запазвайки оригиналната пунктуация, главни/малки букви, словоред и в повечето случаи, покоренов мапинг на думите за сметка на благозвучие на текущия български език."
+footer = """Всичко в сайта е без лиценз и може да се цитира, използва и споделя свободно.
+<ul>
+    <li><b>Email</b>: <a href='mailto:antongeorgiev313@gmail.com'>antongeorgiev313@gmail.com</a></li> 
+    <li><b>GitHub</b>: <a href='https://github.com/TraxData313'>https://github.com/TraxData313</a></li> 
+</ul>
 """
 
 
@@ -583,10 +586,12 @@ def generate_html_side_by_side_translations():
     <body>
         <h1>{page_title}</h1>
         {description}
+        <br><br><hr><br><br>
         <h3>Книги:</h3>
         <ul>
             {"".join(f"<li><a href='{file[0].split('.')[0]}.html'>{file[0].split('.')[0]}</a></li>" for file in file_tuples)}
         </ul>
+    <br><br><hr>
     <footer>
         <p>{footer}</p>
     </footer>  
