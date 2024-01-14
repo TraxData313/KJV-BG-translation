@@ -452,8 +452,8 @@ def get_the_complexes_df(use_cache=True):
 
 page_title = 'Български превод на Библията от KJV'
 description = 'Правен с вяра в запазеното слово в Knig James Version (KJV) от 1611 г., запазвайки оригиналната пунктуация, главни/малки букви, словоред и в повечето случаи, покоренов мапинг на думите.'
-footer = """Цялата информация в сайта е без лиценз и можете да я модифицирате, използвате и споделяте без нужда от нищо допълнително.<br><br>
-За контакти: <a href='mailto:antongeorgiev313@gmail.com'>Email antongeorgiev313@gmail.com</a>, <a href='https://github.com/TraxData313/christian-bg-vidsubs'>GitHub</a>
+footer = """Всичко в сайта е без лиценз и може да се цитира, използва и споделя свободно.<br><br>
+За контакти: <a href='mailto:antongeorgiev313@gmail.com'>Email antongeorgiev313@gmail.com</a>, <a href='https://github.com/TraxData313'>GitHub</a>
 """
 
 
