@@ -2321,3 +2321,8 @@ resisted:съпротивих
 cheek:буза
 cheeks:бузи
 sue:искува
+compel:принуждавам
+compellest:принуждаваш
+compelled:принудих
+mile:миля
+twain:дваж/двама/две

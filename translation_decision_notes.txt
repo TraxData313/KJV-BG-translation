@@ -4640,11 +4640,15 @@ Mat5:41 И койтоида ще compel теб до/на/към отивам к�
 -
 Mat5:41 And whosoever shall compel thee to go a mile, go with him twain.
 
-compel
+want:нужда<<
+force:сила/насилвам<<
+compel:принуждавам
+compellest:принуждаваш
+compelled:принудих
 
-mile
+mile:миля
 
-twain
+twain:дваж/двама/две
 
 
 
