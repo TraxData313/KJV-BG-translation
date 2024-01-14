@@ -4549,12 +4549,34 @@ Mat5:37 Но нека ваш communication бъда, Yea, yea; Nay, nay: за/з
 -
 Mat5:37 But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.
 
-communication
+commune:общувам
+communed:общувах
+communing:общуване/общувайки
+communion:общение
+communicate:съобщувам
+communicated:съобщувах
+communication:съобщуване
+communications:съобщувания
+message:съобщение
+epistle:послание
+epistles:послания
+yea:даа
+nay:нее
+yes:да
+whatsoever:каквотоидае
 
-yea:даа?
-nay:нее?
 
-whatsoever
+
+
+
+
+
+Mat5:38 Вий имам/минвр слуши това то имаше/минвр бях/беше каза, Крчл око за/защото крчл око, и крчл tooth за/защото крчл tooth:
+-
+Mat5:38 Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:
+
+
+
 
 
 

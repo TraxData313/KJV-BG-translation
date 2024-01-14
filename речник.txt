@@ -718,6 +718,7 @@ wherewith:скоито/скаквото
 whereon:върхукоито/върхукаквото
 whereunto:накоито/накаквото
 wheresoever:къдетоида
+whatsoever:каквотоидае
 soever:кое*_и_Х_да
 jew:юдей
 jews:юдеи
@@ -2299,3 +2300,17 @@ black:черен
 blacker:по-черен
 blackish:черникав
 blackness:чернота
+commune:общувам
+communed:общувах
+communing:общуване
+communion:общение
+communicate:съобщувам
+communicated:съобщувах
+communication:съобщуване
+communications:съобщувания
+message:съобщение
+epistle:послание
+epistles:послания
+yea:даа
+nay:нее
+yes:да
