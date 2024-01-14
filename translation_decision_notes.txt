@@ -4457,6 +4457,22 @@ Mat5:33 Пак, вий имам/минвр слуши това то имаше/�
 -
 Mat5:33 Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:
 
+swear:кълна/кълни
+sweareth:кълне
+swearers:кълнячи
+swearing:кълнене
+forswear:закълна/закълням
+oath:обет
+oaths:обети
+curse:проклинам/проклятие
+cursest:проклинаш
+curseth:проклина
+cursed:проклет/проклех
+cursedst:прокля
+curses:проклятия
+accursed:проклет
+
+
 
 
 
@@ -4466,5 +4482,9 @@ Mat5:33 Again, ye have heard that it hath been said by them of old time, Thou sh
 
 ...on the back of my mind...
 
+-TODO: perform:представяш->изпълняваш?? (40NT_Матей 5:33)
+	perform:представя -> извърша
+	performing:представящ
+	performance:представяне
 -TODO: unpack the words (оттогаванапред -> от тогава напред)?
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)

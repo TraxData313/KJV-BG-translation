@@ -2266,3 +2266,17 @@ cutting:режейки/режещ
 cuttings:порязвания
 off:предствк
 been:бях/беше
+swear:кълна/кълни
+sweareth:кълне
+swearers:кълнячи
+swearing:кълнене
+forswear:закълна/закълням
+oath:обет
+oaths:обети
+curse:проклинам/проклятие
+cursest:проклинаш
+curseth:проклина
+cursed:проклет/проклех
+cursedst:прокля
+curses:проклятия
+accursed:проклет
