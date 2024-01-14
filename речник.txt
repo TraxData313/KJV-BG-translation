@@ -1553,6 +1553,7 @@ lively:жизнен
 lives:животи
 livest:живееш
 liveth:живее
+living:живеещ
 alive:жив
 outlived:надживяха
 overlived:преживяха
@@ -1863,8 +1864,6 @@ tormentors:изтезатели
 lunatick:лунатик
 palsy:парализа
 palsies:парализи
-multitude:множество
-multitudes:множества
 disciple:ученик
 disciples:ученици
 discipline:поучение
@@ -2357,3 +2356,19 @@ fly:летя
 flies:мухи
 flieth:лети
 flying:летящ/летейки
+whale:кит
+whales:китове
+wing:крило
+wings:крила
+winged:крилато
+fruitful:пълноплоден
+unfruitful:непълноплоден
+firstfruit:първиплод
+firstfruits:първиплодове
+multiply:множа
+multiplied:множих
+multiplieth:множи
+multipliedst:умножи
+multiplying:множане
+multitude:множество
+multitudes:множества
