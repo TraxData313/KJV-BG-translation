@@ -2276,3 +2276,7 @@ accursed:проклет
 perform:извърша
 performing:извървайки
 performance:извършване
+present:представя/подарък
+presents:подаръци
+presented:представих
+presently:представително
