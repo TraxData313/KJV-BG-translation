@@ -2314,3 +2314,4 @@ epistles:послания
 yea:даа
 nay:нее
 yes:да
+tooth:зъб
