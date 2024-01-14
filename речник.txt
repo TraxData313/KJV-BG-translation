@@ -2280,3 +2280,5 @@ present:представя/подарък
 presents:подаръци
 presented:представих
 presently:представително
+throne:престол
+thrones:престоли

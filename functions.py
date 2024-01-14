@@ -585,7 +585,7 @@ def generate_html_side_by_side_translations():
         {description}
         <h3>Книги:</h3>
         <ul>
-            {"".join(f"<li><a href='{file[0].split('.')[0]}.html'>{file[0]}</a></li>" for file in file_tuples)}
+            {"".join(f"<li><a href='{file[0].split('.')[0]}.html'>{file[0].split('.')[0]}</a></li>" for file in file_tuples)}
         </ul>
     <footer>
         <p>{footer}</p>

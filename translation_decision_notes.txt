@@ -4491,6 +4491,34 @@ presently:предпратено -> представително
 
 
 
+
+Mat5:34 Но аз казвам на/помощна вие, Кълна/кълни не на/в всички; нито до/от/по небе; за/защото то е Бог's throne:
+-
+Mat5:34 But I say unto you, Swear not at all; neither by heaven; for it is God's throne:
+
+
+throne:престол
+thrones:престоли
+
+
+
+
+
+
+Mat5:35 Нито до/от/по пълчл земя; за/защото то е негов кракоподложка: нито до/от/по Йерусалим; за/защото то е пълчл град от/за пълчл велик Цар.
+-
+Mat5:35 Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King.
+
+
+
+
+
+
+
+
+
+
+
 ...on the back of my mind...
 
 -TODO: perform:представяш->изпълняваш?? (40NT_Матей 5:33)
