@@ -4477,14 +4477,22 @@ accursed:проклет
 
 
 
+perform:представя -> извърша
+performing:представящ -> извървайки
+performance:представяне -> извършване
+
+present:предпрати/предпрат -> представя/подарък
+presents:предпрати -> подаръци
+presented:предпратих -> представих
+presently:предпратено -> представително
+
+
+
 
 
 
 ...on the back of my mind...
 
 -TODO: perform:представяш->изпълняваш?? (40NT_Матей 5:33)
-	perform:представя -> извърша
-	performing:представящ
-	performance:представяне
 -TODO: unpack the words (оттогаванапред -> от тогава напред)?
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)

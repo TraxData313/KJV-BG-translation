@@ -639,9 +639,6 @@ mouth:уста
 might:мога
 mighty:могъщ
 mightier:по-могъщ
-perform:представя
-performing:представящ
-performance:представяне
 execute:осъщесвя
 executed:осъществи
 executedst:осъществяваш
@@ -994,10 +991,6 @@ opened:отворих
 treasure:съкровище
 treasures:съкровища
 sending:пращане
-present:предпрати/предпрат
-presents:предпрати
-presented:предпратих
-presently:предпратено
 gift:дар
 gifts:дарове
 gold:злато
@@ -2280,3 +2273,6 @@ cursed:проклет/проклех
 cursedst:прокля
 curses:проклятия
 accursed:проклет
+perform:извърша
+performing:извървайки
+performance:извършване
