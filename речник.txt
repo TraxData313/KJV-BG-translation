@@ -586,7 +586,6 @@ o:о
 may:може
 did:свърши
 what:какво
-great:велик
 among:между
 put:постави
 any:койтоидае/някакъв
@@ -2326,3 +2325,10 @@ compellest:принуждаваш
 compelled:принудих
 mile:миля
 twain:дваж/двама/две
+great:велик
+greater:по-велик
+greatest:най-велик
+greatly:велико
+greatness:величие
+less:по-малко
+lesser:по-малкото

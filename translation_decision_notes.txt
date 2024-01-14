@@ -4645,10 +4645,35 @@ force:сила/насилвам<<
 compel:принуждавам
 compellest:принуждаваш
 compelled:принудих
-
 mile:миля
-
 twain:дваж/двама/две
+
+@23276
+
+
+
+
+
+
+
+
+
+Ge1:16 И Бог направи две велик светлини; пълчл greater светлина до/на/към владея пълчл ден, и пълчл lesser светлина до/на/към владея пълчл нощ: той направи пълчл звезди също.
+Ge1:17 И Бог сложи/сядам те в пълчл твърд от/за пълчл небе до/на/към дава светлина над/ъпнвръз пълчл земя,
+Ge1:18 И до/на/към владея над/ъпнвръз пълчл ден и над/ъпнвръз пълчл нощ, и до/на/към разделя пълчл светлина от пълчл тъмнина: и Бог видя че беше добро.
+-
+Ge1:16 And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.
+Ge1:17 And God set them in the firmament of the heaven to give light upon the earth,
+Ge1:18 And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.
+
+great:велик<<
+greater:по-велик
+greatest:най-велик
+greatly:велико
+greatness:величие
+less:по-малко
+lesser:по-малкото
+
 
 
 
