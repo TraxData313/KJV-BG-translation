@@ -4675,7 +4675,30 @@ less:по-малко
 lesser:по-малкото
 
 
+Ge1:19 И вечерта и утрото бяха пълчл fourth ден.
 
+second:втори
+secondarily:второ
+third:трети
+thirdly:трето
+four:четири
+fourth:четвърти
+five:пет
+fifth:пети
+six:шест
+sixth:шести
+seven:седем
+seventh:седми
+
+
+
+
+
+
+
+Ge1:20 И Бог каза, Нека пълчл води изнасям abundantly пълчл moving създание това имаше/минвр живот, и fowl това може fly отгоре пълчл земя в пълчл отворен твърд от/за небе.
+-
+Ge1:20 And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.
 
 
 

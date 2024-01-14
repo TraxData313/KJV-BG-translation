@@ -2332,3 +2332,15 @@ greatly:велико
 greatness:величие
 less:по-малко
 lesser:по-малкото
+second:втори
+secondarily:второ
+third:трети
+thirdly:трето
+four:четири
+fourth:четвърти
+five:пет
+fifth:пети
+six:шест
+sixth:шести
+seven:седем
+seventh:седми
