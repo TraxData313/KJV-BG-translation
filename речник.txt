@@ -109,6 +109,7 @@ moved:придвижи
 moveth:движи
 moveable:подвижен
 mover:двигател
+moving:движейки/движещ/движение
 say:казвам
 said:каза
 saying:казвайки
@@ -2344,3 +2345,15 @@ six:шест
 sixth:шести
 seven:седем
 seventh:седми
+abundant:изобилен
+abundantly:изобилно
+fowl:пернато
+fowls:пернати
+fowler:пернатар
+fowlers:пернатари
+bird:птица
+birds:прици
+fly:летя
+flies:мухи
+flieth:лети
+flying:летящ/летейки

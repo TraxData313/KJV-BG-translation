@@ -4700,6 +4700,22 @@ Ge1:20 И Бог каза, Нека пълчл води изнасям abundantl
 -
 Ge1:20 And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.
 
+abundant:изобилен
+abundantly:изобилно
+
+moving:движейки/движещ/движение (добавено при move)
+
+fowl:пернато
+fowls:пернати
+fowler:пернатар
+fowlers:пернатари
+bird:птица
+birds:прици
+fly:летя
+flies:мухи
+flieth:лети
+flying:летящ/летейки
+
 
 
 
