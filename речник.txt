@@ -2315,3 +2315,8 @@ yea:даа
 nay:нее
 yes:да
 tooth:зъб
+resist:съпротивлявам
+resisteth:съпротивлява
+resisted:съпротивих
+cheek:буза
+cheeks:бузи

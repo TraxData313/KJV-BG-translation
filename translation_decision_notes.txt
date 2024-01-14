@@ -4576,6 +4576,24 @@ Mat5:38 Вий сте слушили че е било казано, Крчл о�
 Mat5:38 Ye have heard that it hath been said, An eye for an eye, and a tooth for a tooth:
 
 
+tooth:зъб
+
+
+
+
+
+Mat5:39 Но аз ви казвам, Това вий resist не зло: но койтоида ще поразявам теб върху/на/помощна твоя прав cheek, обръщам до/на/към него пълчл друг също.
+-
+Mat5:39 But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.
+
+withstand:устоявам<<
+resist:съпротивлявам
+resisteth:съпротивлява
+resisted:съпротивих
+cheek:буза
+cheeks:бузи
+
+
 
 
 
