@@ -4599,6 +4599,63 @@ cheeks:бузи
 
 
 
+Mat5:40 И ако някой човек ще ?те искува? по закона, и ?отнеме? твоя дреха, нека него имам/минвр твоя покривало също.
+-
+Mat5:40 And if any man will sue thee at the law, and take away thy coat, let him have thy cloak also.
+
+judge:съдия/съдя<<
+follow:следвам<<
+request:изисквам/изискване<<
+enquire:проискам<<
+wish:искане<
+sue:искува? претендира? (искать)
+
+ensue:последвам?
+
+issue:течение?
+	flow:тека/поток/заливам?
+issued:стякоха?
+issues(2):извори? / избавлението от смъртта
+	Keep thy heart with all diligence; for out of it are the issues of life.
+	and unto GOD the Lord belong the issues from death.
+
+pursue:преследвам
+pursued
+pursuer
+pursuers
+pursueth
+
+current(1):наличен
+
+
+взимам далеч_пътьом(ф/а):отнеме (ръчен превод)
+
+
+
+
+
+
+
+Mat5:41 И койтоида ще compel теб до/на/към отивам крчл mile, отивам с него twain.
+-
+Mat5:41 And whosoever shall compel thee to go a mile, go with him twain.
+
+compel
+
+mile
+
+twain
+
+
+
+
+
+
+
+
+
+
+
 
 
 

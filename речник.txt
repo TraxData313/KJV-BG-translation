@@ -2320,3 +2320,4 @@ resisteth:съпротивлява
 resisted:съпротивих
 cheek:буза
 cheeks:бузи
+sue:искува
