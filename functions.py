@@ -455,7 +455,7 @@ description = "Директен превод от <a href='https://bg.wikipedia.
 footer = """Всичко в сайта е без лиценз и може да се цитира, използва и споделя свободно.
 <ul>
     <li><b>Email</b>: <a href='mailto:antongeorgiev313@gmail.com'>antongeorgiev313@gmail.com</a></li> 
-    <li><b>GitHub</b>: <a href='https://github.com/TraxData313'>https://github.com/TraxData313</a></li> 
+    <li><b>Repository</b>: <a href='https://github.com/TraxData313/KJV-BG-translation'>https://github.com/TraxData313/KJV-BG-translation</a></li> 
 </ul>
 """
 
