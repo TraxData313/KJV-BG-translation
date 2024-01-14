@@ -4516,6 +4516,49 @@ Mat5:35 Nor by the earth; for it is his footstool: neither by Jerusalem; for it 
 
 
 
+Mat5:36 Нито ще ти кълна/кълни до/от/по твоя head, порадипричинатаче ти можеш не правя едно коса white или black.
+-
+Mat5:36 Neither shalt thou swear by thy head, because thou canst not make one hair white or black.
+
+
+head:глава
+heads:глави
+heady:главстващи
+gray:сив
+grayheaded:сивоглав
+greyheaded:сивьоглав (когато стигна ще видя дали е по-специфично, до тогава ще стои така да ми напомни, че е друга дума)
+beheaded:обезглавен
+forehead:чело
+foreheads:чела
+headstone:главнокамък
+white:бял
+whiter:по-бял
+whited:избелваш
+black:черен
+blacker:по-черен
+blackish:черникав
+blackness:чернота
+
+
+
+
+
+
+
+Mat5:37 Но нека ваш communication бъда, Yea, yea; Nay, nay: за/защото whatsoever е повече от тези идва от/за зло.
+-
+Mat5:37 But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.
+
+communication
+
+yea:даа?
+nay:нее?
+
+whatsoever
+
+
+
+
 
 
 
