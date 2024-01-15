@@ -4764,8 +4764,82 @@ multitudes:множества
 
 
 
+cattle:добитък
+
+creep:пълзя
+creepeth:пълзи
+creeping:пълзящ
+
+beast:звяр
+beasts:зверове
+
+image:образ
+images:образи
+
+force:сила/насилвам<<
+reign:царувам<<
+rule:владея<<
+might:мога<<
+mighty:могъщ<<
+dominion:надмощие
+dominions
+power:мощ
+powerful:мощен
+powers:мощи
+strength:здравина
+strengthen:заздравявам
+strengthened:заздравих
+strengtheneth:заздравява
+strengthenedst:заздрави
+strengthening:заздравявайки
+
+air:въздух
+
+replenish:попълвам
+replenished:попълних
+
+charge:задължение<<
+due:полагащо
+	And ye shall eat it in the holy place, because it is thy due, and thy sons' due
+	And this shall be the priest's due from the people
+	определения сезон:Then I will give you rain in due season
+	their foot shall slide in due time
+	надлежен: for that we sought him not after the due order.
+	Give unto the LORD the glory due unto his name
+subdue:подлагам/подложете
+subdueth:подлага
+subdued:подложих
+subduedst:подложи
+endued:обположен
+
+green:зелен
+greenish:зеленикав
+greenness:зеленина
+
+
+
+
+
+
+
+
+
+01OT_Битие 1:24-31
+
+
+
+
+
+
+
+
+
+
+
 ...on the back of my mind...
 
+-TODO: add progress to the web home page
+-TODO: add the dict to the web for easy usage
 -TODO: perform:представяш->изпълняваш?? (40NT_Матей 5:33)
 -TODO: unpack the words (оттогаванапред -> от тогава напред)?
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
