@@ -470,6 +470,8 @@ def generate_html_file(english_file_path, bulgarian_file_path):
     with open(bulgarian_file_path, 'r', encoding='utf-8') as bulgarian_file:
         bulgarian_lines = [line.strip() for line in bulgarian_file]
     # Generate HTML content
+    lines = "\n".join(f"<tr><td>{line_bulgarian}</td><td>{line_english}</td></tr>" 
+                                for line_bulgarian, line_english in zip(bulgarian_lines, english_lines))
     html_content = f"""
     <!DOCTYPE html>
     <html lang="en">
@@ -513,8 +515,7 @@ def generate_html_file(english_file_path, bulgarian_file_path):
                         </tr>
                     </thead>
                     <tbody>
-                        {"".join(f"<tr><td>{line_bulgarian}</td><td>{line_english}</td></tr>" 
-                                for line_bulgarian, line_english in zip(bulgarian_lines, english_lines))}
+                        {lines}
                     </tbody>
                 </table>
             </div>
