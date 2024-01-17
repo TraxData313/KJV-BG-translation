@@ -572,7 +572,6 @@ go:отивам
 going:отивайки
 goeth:отива
 hand:ръка
-even:дори
 us:ние
 saith:каза
 therefore:затова
@@ -626,6 +625,7 @@ three:три
 eyes:очи
 seven:седем
 other:друг
+others:други
 hands:ръце
 cities:градове
 another:друг
@@ -2436,3 +2436,19 @@ rain:вали/валеж
 rained:валя
 rainy:валежен
 rainbow:дъга
+publican:бирник
+publicans:бирници
+salute:поздравявам
+saluteth:поздравява
+saluted:поздравих
+salutation:поздрав
+salutations:поздрави
+perfect:съвършен
+perfected:усъвършенстван
+perfecting:усъвършенствайки/усъвършенстване
+perfection:съвършено/усъвършенстване
+perfectness:съвършенство
+perfectly:съвършено
+unperfect:несъвършен
+alms:милостини
+otherwise:подругначин
