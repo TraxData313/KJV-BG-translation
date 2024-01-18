@@ -4974,21 +4974,21 @@ sounding
 soundness
 sounds
 
-trumpet
-trumpets
-trumpeters
+trumpet:тръба
+trumpets:тръби
+trumpeters:тръбачи
 
-hypocrites
-hypocrisies
-hypocrisy
-hypocrite
-hypocritical
+hypocrisy:лицемерие
+hypocrite:лицемер
+hypocrites:лицемери
+hypocrisies:лицемерства
+hypocritical:лицемерно
 
 way:път<<
 path:пътека<<
 highway:високопът<<
-street:улица?
-streets
+street:улица
+streets:улици
 
 look:гледам<<
 lookest:гледаш
