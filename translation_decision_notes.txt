@@ -4990,30 +4990,53 @@ highway:високопът<<
 street:улица?
 streets
 
+look:гледам<<
+lookest:гледаш
+looketh:гледа
+looked:гледа
+looking:гледайки/гледащ
+looks:изглед<<
+
 see:виждам<< (да се върнат)
 seeing:виждайки<<
-seest
-seeth
-seen
-seer
-seers
-oversee
-overseer
-overseers
-foreseeing
-foreseeth
-seem
-seemed
-seemeth
-seemly
-unseemly
-osee
+seest:вижда
+seeth:виждаш
+seen:видях
+seer:виждач (гледач е с друг корен)
+seers:виждачи
+over:над<<
+oversee:съблюдавам/надзиравам/ -> надвиждам
+overseer:надвиждач
+overseers:надвиждачи
+foreseeing:предвиждам
+foreseeth:предвижда
+seem:севидя (му се видя като)
+seemeth:севижда
+seemed:севидях (му се видях като)
+seemly:севиждащ
+unseemly:несевиждащ
 
-secretly:скришно<< (да се върне и да се провери)
+vision:видение
+visions:видения
+
+sight:поглед/гледка
+	and the other shall not rule with rigour over him in thy sight.
+		пред погледа ти
+		пред зрението ти
+	and they went up into mount Hor in the sight of all the congregation.
+		пред погледа
+		пред зрението
+sights:гледки
+	and fearful sights
+		боязливи гледки / зрения / виждания 
+eyesight:очепоглед
+oversight:надглед
+
 privy:лично<<
 mystery:мистерия<<
-secret
-secrets
+secret:тайна
+secrets:тайни
+secretly:скришно<< -> тайно (да се върне и да се провери)
 
 himself
 

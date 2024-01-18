@@ -1162,6 +1162,7 @@ fear:боя/боязън
 fearest:боиш
 feareth:бои
 feared:боих
+fearful:боязлив
 fearfulness:боязливост
 affright:уплаши
 affrighted:уплашен
