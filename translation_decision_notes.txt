@@ -4940,7 +4940,92 @@ otherwise:подругначин
 
 
 same<<
-even:дори<< -> също/същият/привечер ??? (махнато) + Mat5:46-8 update if needed
+even:дори<< -> както/вечер + Mat5:46-8 update if needed
+evening:свечеряване
+evenings:свечерявания
+
+както:as/like/how
+how:как/колко<<
+
+namely:именно
+name:име<< (добави отново)
+names:имена<<
+named:наименувах/наименуван
+nameth:именува
+surname:презиме/презименувам
+surnamed:презименуван/презименувах
+
+
+
+
+
+
+Mat6:1 Взимам heed това вий върша не ваш милостини преди/пред хора, до/на/към бъда видя от/за те: подругначин вий имам/минвр няма награда/награждавам от/за ваш Баща което е в небе.
+Mat6:2 Затова кога/когато ти вършиш твое милостини, върша не sound крчл trumpet преди/пред теб, като пълчл hypocrites върша в пълчл синагоги и в пълчл streets, това те може имам/минвр слава от/за хора. Верно аз казвам на/помощна вие, Те имам/минвр техните награда/награждавам.
+Mat6:3 Но кога/когато ти вършиш милостини, нека не твоя напусна/ляво ръка знам какво твоя прав ръка вършейки:
+Mat6:4 Това твое милостини може бъда в secret: и твоя Баща което seeth в secret himself ще награда/награждавам теб openly.
+
+heed
+
+sound
+sounded
+soundeth
+sounding
+soundness
+sounds
+
+trumpet
+trumpets
+trumpeters
+
+hypocrites
+hypocrisies
+hypocrisy
+hypocrite
+hypocritical
+
+way:път<<
+path:пътека<<
+highway:високопът<<
+street:улица?
+streets
+
+see:виждам<< (да се върнат)
+seeing:виждайки<<
+seest
+seeth
+seen
+seer
+seers
+oversee
+overseer
+overseers
+foreseeing
+foreseeth
+seem
+seemed
+seemeth
+seemly
+unseemly
+osee
+
+secretly:скришно<< (да се върне и да се провери)
+privy:лично<<
+mystery:мистерия<<
+secret
+secrets
+
+himself
+
+open:отворен<< (да се върнат)
+openest:отвориш<<
+openeth:отвори<<
+opened:отворих<<
+openly
+opening
+openings
+
+
 
 
 

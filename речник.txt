@@ -136,8 +136,6 @@ lighted:светна
 lightest:светваш
 enlightened:просветлен
 saw:видя
-see:виждам
-seeing:виждайки
 good:добро
 from:от
 call:на/призова
@@ -454,7 +452,6 @@ privy:лично
 private:лично
 privately:лично
 privily:лично
-secretly:скришно
 mystery:мистерия
 mind:ум
 minded:наумен
@@ -493,8 +490,6 @@ will:ще/воля
 shall:ще
 shalt:ще
 his:негов
-name:име
-names:имена
 save:запазвам
 salvation:запазване
 saving:запазвайки
@@ -983,10 +978,6 @@ falleth:пада
 falling:изпадащ
 fell:падна
 fallen:падна
-open:отворен
-openest:отвориш
-openeth:отвори
-opened:отворих
 treasure:съкровище
 treasures:съкровища
 gift:дар
@@ -2452,3 +2443,13 @@ perfectly:съвършено
 unperfect:несъвършен
 alms:милостини
 otherwise:подругначин
+even:както/вечер
+evening:свечеряване
+evenings:свечерявания
+namely:именно
+name:име
+names:имена
+named:наименувах/наименуван
+nameth:именува
+surname:презиме/презименувам
+surnamed:презименуван/презименувах
