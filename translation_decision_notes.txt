@@ -5055,10 +5055,70 @@ openings:откривания
 
 
 
+
+Mat6:5 И кога/когато ти молиш, ти ще не бъда като пълчл лицемери са: за/защото те любя/любов до/на/към моля стоящ в пълчл синагоги и в пълчл corners от/за пълчл улици, това те може бъда видя от/за хора. Верно аз казвам на/помощна вие, Те имам/минвр/получавам техните награда/награждавам.
+Mat6:6 Но ти, кога/когато ти молиш, влизам в твоя closet, и кога/когато ти имаше/минвр shut твоя door, моля до/на/към твоя Баща което е в тайна; и твоя Баща което виждаш в тайна ще награда/награждавам теб открито.
+Mat6:7 Но кога/когато вий моля, употребявам/употреба не vain repetitions, като пълчл heathen върша: за/защото те мисля това те ще бъда слуши за/защото техните much говорейки.
+Mat6:8 Бъда не вий затова подобно на/помощна те: за/защото ваш Баща knoweth какво неща вий имам/минвр/получавам нужда/нуждая от/за, преди/пред вий питам него.
+
+
+corner:ъгъл
+corners:ъгли
+
+room:обиталище<<
+cloak:покривало<<
+close:закривам
+closest:закрива
+closed:закрих
+closer:по-крит
+closet:стая
+closets:стаи
+disclose:разкривам
+inclose:вкрия
+inclosed:вкрит
+
+shut:затварям
+shutteth:затваря
+shutting:затваряне
+
+shuttle:совалка
+
+keep:пазя<<
+door:врата
+doors:врати
+doorkeeper:вратопазач
+doorkeepers:вратопазачи
+
+vain
+vainglory
+vainly
+
+vanity
+vanish
+vanished
+vanisheth
+vanities
+
+repetitions
+petition
+petitions
+
+much
+overmuch
+forasmuch
+forsomuch
+inasmuch
+insomuch
+
+
+
+
+
+
+
+
 ...on the back of my mind...
 
 -TODO: add progress to the web home page
 -TODO: add the dict to the web for easy usage
--TODO: perform:представяш->изпълняваш?? (40NT_Матей 5:33)
--TODO: unpack the words (оттогаванапред -> от тогава напред)?
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)

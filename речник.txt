@@ -594,7 +594,6 @@ two:две
 city:град
 pass:минавам
 should:трябва
-know:знам
 nor:нито
 jerusalem:йерусалим
 took:взе
@@ -690,6 +689,7 @@ know:знае
 knowing:знаейки
 knew:позна
 knewest:познаеш
+knoweth:знае
 known:позна
 till:докато/до/ора
 tillest:ореш
