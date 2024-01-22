@@ -5151,13 +5151,22 @@ repetitions:премолвания?
 plea:апел
 ​appeal(0)
 
-much
-overmuch
-forasmuch
-forsomuch
-inasmuch
-insomuch
+for:за/защото<<
+in:в<<
+so:така<<
+as:като<<
+much:много
+overmuch:премного
+forasmuch:заколкотомного
+forsomuch:затолковамного
+inasmuch:вколкотомного
+insomuch:втолковамного
+as much as:толкова много колкото (като much като - ръчен превод - готово)
 
+
+heathen:езичник
+gentile:(2)езичник/гърка -> само в една глава, ще го оставя като стигна
+infidel:неверник
 
 
 
