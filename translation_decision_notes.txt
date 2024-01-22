@@ -5089,16 +5089,17 @@ doors:врати
 doorkeeper:вратопазач
 doorkeepers:вратопазачи
 
+empty:празен<<
 glory:слава<<
-vain:празен pust
+vain:празен
 vainly:напразно
 vainglory:празнослава
 
-vanity:празнота чезнене
+vanity:празнота
 vanities:празноти
-vanish:изчезвам/пропадам 
-vanished
-vanisheth
+vanish:изчезвам 
+vanisheth:изчезва
+vanished:изчезнах
 
 void:пуст<< -> безсъдържателен
 	пуста: And the earth was without form, and void
@@ -5116,21 +5117,39 @@ void:пуст<< -> безсъдържателен
 	
 	he that followeth [vain:празен] persons is [void:безсъдържателен] of understanding.
 	
-miss? 
-missing:липсващ?
-absent:отсъстващ?
+miss:липсвам
+missed:липсвах
+missing:липсващ/липсайки
+absent:отсъстващ
 	
-empty:празен<<
 
-desolate:изоставен?
-waste?
+abandoned(0)
+desolate:опустошен
+desolation:опустошение
+desolations:опустошения
+
+perish:погивам<<
+decomposition(0)
+waste:разложение/разлагам
+wasteth:разлага
+	But man dieth, and wasteth away
+	nor for the destruction that wasteth at noonday.
+	He that wasteth his father, and chaseth away his mother, is a son that causeth shame, and bringeth reproach.
+wasted:разложих
+wastes:разложения
+wasteness:разложителство
+waster:прахосник/разсипник/разточител -> разложител
+
 ​deserted(0)
 
-content е като доволен, не като съдържание
 
-repetitions
-petition
-petitions
+request:изисквам/изискване<<
+petition:молба?
+petitions:молби
+repetitions:премолвания?
+
+plea:апел
+​appeal(0)
 
 much
 overmuch
