@@ -5089,15 +5089,44 @@ doors:врати
 doorkeeper:вратопазач
 doorkeepers:вратопазачи
 
-vain
-vainglory
-vainly
+glory:слава<<
+vain:празен pust
+vainly:напразно
+vainglory:празнослава
 
-vanity
-vanish
+vanity:празнота чезнене
+vanities:празноти
+vanish:изчезвам/пропадам 
 vanished
 vanisheth
-vanities
+
+void:пуст<< -> безсъдържателен
+	пуста: And the earth was without form, and void
+	унищожил: But if her husband hath utterly made them void on the day he heard them
+	да го премахне/унищожи: her vow ... or her husband may make it void.For they are без : void of : a nation void of counsel
+	на празно място : put on their robes, in a void place in the entrance of
+	: for they have made void thy law.
+	пуст от разб.?: him that is void of understanding.
+	безплодна? : return unto me void : So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.
+	to have always a conscience void to offence toward God
+	
+	пустa/празна/безсъдържателен: without form, and void
+	запустял/празен/безсъдържателен: they have made void thy law
+	запустял/празен от/безсъдържателен: man void of understanding
+	
+	he that followeth [vain:празен] persons is [void:безсъдържателен] of understanding.
+	
+miss? 
+missing:липсващ?
+absent:отсъстващ?
+	
+empty:празен<<
+
+desolate:изоставен?
+waste?
+​deserted(0)
+
+content е като доволен, не като съдържание
 
 repetitions
 petition
