@@ -1947,8 +1947,8 @@ lawful:законен
 lawfully:законно
 lawless:беззаконен
 unlawful:незаконен
-crime:престъпление
-crimes:престъпления
+crime:нарушение
+crimes:нарушения
 equal:равен/равнява
 equality:равенство
 equally:равно
@@ -2212,8 +2212,6 @@ offend:провиня
 offended:провиних
 offender:провинител
 offenders:провинители
-crime:престъпление
-crimes:престъпления
 pluck:изтръгвам
 plucketh:изтръгва
 plucked:изтръгах
@@ -2558,3 +2556,9 @@ insomuch:втолковамного
 as much as:толкова много колкото (ръчен превод)
 heathen:езичници
 infidel:неверник
+daily:дневен
+ever:винаги
+trespass:престъпление/престъпвам
+trespassed:престъпих
+trespasses:престъпления
+trespassing:престъпвайки/престъпващ

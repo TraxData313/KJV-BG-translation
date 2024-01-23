@@ -5174,6 +5174,88 @@ infidel:неверник
 
 
 
+
+Mat6:9 След това/този поведение затова моля вий: Наш Баща което си в небе, Освети бъда твоя име.
+Mat6:10 Твоя царство идвам/дойдох. Твоя ще бъда свърши в земя, като то е в небе.
+Mat6:11 Дава ние това/този ден наш daily хляб.
+Mat6:12 И прощавам ние наш дългове, като ние прощавам наш длъжници.
+Mat6:13 И водя ние не в изкушение, но доставям/избавям ние от зло: За/защото твое е пълчл царство, и пълчл мощ, и пълчл слава, за/защото ever. Амин.
+
+day:ден<<
+days:дни<<
+daily:дневен
+
+ever:винаги
+
+
+
+
+
+
+
+
+sin:грях<<
+iniquity:неправда<<
+guilt:вина<<
+crime:престъпление<< -> нарушение
+crimes:престъпления -> нарушения
+pass:минавам<<
+trespass:престъпление/престъпвам
+trespassed:престъпих
+trespasses:престъпления
+trespassing:престъпвайки/престъпващ
+
+
+
+
+
+
+
+Mat6:16 Moreover кога/когато вий постя/пост/стегнато, бъда не, като пълчл лицемери, от/за крчл тъжен countenance: за/защото те disfigure техните лица, това те може яви на/помощна хора до/на/към постя/пост/стегнато. Верно ви казвам, Те са получили наградата си.
+Mat6:17 Но ти, кога/когато ти постиш, anoint твое глава, и умивам твоя лице;
+Mat6:18 Това ти яви не на/помощна хора до/на/към постя/пост/стегнато, но на/помощна твоя Баща което е в тайна: и твоя Баща, което виждаш в тайна, ще награда/награждавам теб открито.
+-
+Mat6:16 Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.
+Mat6:17 But thou, when thou fastest, anoint thine head, and wash thy face;
+Mat6:18 That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.
+
+more:повече<<
+over:над<<
+moreover:ощеповече
+
+countenance:изражение
+countenances:изражения
+expression(0)
+appearance:проявление<<
+
+
+form:форма<<
+
+image:образ<< -> отражение? идол? илюстрация? образец?
+images:образи
+imagery:изобразителност / отразителност
+
+figure:образ? изображение? форма?
+figures
+disfigure:обезобразен?
+	for they disfigure their faces
+transfigured:преобразен?
+
+anoint
+anointed
+anointedst
+anointest
+anointing
+
+
+
+
+
+
+
+
+
+
 ...on the back of my mind...
 
 -TODO: add progress to the web home page

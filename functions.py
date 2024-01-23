@@ -232,12 +232,6 @@ def translate_df(save=True):
         # Save the Bible:
         save_file = 'kjb-bg/Библия.txt'
         new_df.to_csv(save_file, index=False, header=False, sep='>')
-        # Log the changes:
-        word_change_log_file = 'logs/word_change_log_file.csv'
-        if os.path.exists(word_change_log_file):
-            changes_df.to_csv(word_change_log_file, index=False, header=False, mode='a')
-        else:
-            changes_df.to_csv(word_change_log_file, index=False, header=True)
     return changes_df
 
 def print_translated_word_stats():
