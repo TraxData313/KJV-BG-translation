@@ -5223,29 +5223,38 @@ more:повече<<
 over:над<<
 moreover:ощеповече
 
-countenance:изражение
-countenances:изражения
+looks:изглед<< -> погледи (трябва да се оправи в речника и в книгата)
+countenance:изглед
+countenances:изгледи
 expression(0)
 appearance:проявление<<
 
-
-form:форма<<
-
 image:образ<< -> отражение? идол? илюстрация? образец?
-images:образи
+images:образи -> отражения?
 imagery:изобразителност / отразителност
 
-figure:образ? изображение? форма?
-figures
-disfigure:обезобразен?
+figure:образ? изображение? форма? облик?   изражение?
+figures:изражения
+disfigure:обезобразен? обезличавам?   обезображават
 	for they disfigure their faces
-transfigured:преобразен?
+transfigured:преображен
+
+form:форма<<
+shape:облик
+shapes:облици
+shapen:облицован
 
 anoint
 anointed
 anointedst
 anointest
 anointing
+
+ointment
+ointments
+
+oil
+oiled
 
 
 

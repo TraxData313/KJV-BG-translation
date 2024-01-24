@@ -2202,7 +2202,7 @@ lookest:гледаш
 looketh:гледа
 looked:гледа
 looking:гледайки/гледащ
-looks:изглед
+looks:погледи
 glass:стъкло
 glasses:стъкла
 lookingglasses:огледало
