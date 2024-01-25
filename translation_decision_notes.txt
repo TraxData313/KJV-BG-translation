@@ -5223,7 +5223,7 @@ more:повече<<
 over:над<<
 moreover:ощеповече
 
-looks:изглед<< -> погледи (трябва да се оправи в речника и в книгата)
+looks:изглед<< -> погледи (трябва да се оправи в речника и в книгата - готово)
 countenance:изглед
 countenances:изгледи
 expression(0)
@@ -5244,17 +5244,52 @@ shape:облик
 shapes:облици
 shapen:облицован
 
-anoint
-anointed
-anointedst
-anointest
-anointing
+oil:масло
+oiled:намаслен
 
-ointment
-ointments
+anoint:помазвам
+anointest:помазваш
+anointed:помазах
+anointedst:помаза
+anointing:помазвайки/помазание
 
-oil
-oiled
+ointment:миро
+ointments:мира
+
+
+
+
+
+
+finish:завършвам
+finished:завърших/завършен
+finisher:завършител
+
+end:край/приключвам
+endeth:приключва
+ended:приключих
+ending:приключване
+endless:безкраен
+
+stop:спрях
+stoppeth:спира
+stopped:спрях
+unstopped:отспра
+
+multitude:множество<<
+host:укражение/войнство/стан /гостоприемник/странноприемец?
+hosts
+hostages
+
+rest:почивам?
+rested
+restest
+resteth
+resting
+restingplace
+
+
+
 
 
 

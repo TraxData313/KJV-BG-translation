@@ -286,7 +286,11 @@ def compile_bg_books():
 def compile_en_books():
     df = load_original_Bible()
     # Get the book:
-    df['book'] = df['verse'].str.split(' ', expand=True)[0].str.replace('\d+', '').str.replace(':', '')
+    #df['book'] = df['verse'].str.split(' ', expand=True)[0].str.replace('\d+', '').str.replace(':', '')
+    df['book'] = df['verse'].str.split(' ', expand=True)[0]
+    chars_to_remove = [' ', ':', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
+    for char in chars_to_remove:
+        df['book'] = df['book'].str.replace(char, '')
     df['book'] = np.where(df['verse'].str[0].isin(['1','2','3']), df['verse'].str[0].astype(str) + ' ' + df['book'].astype(str), df['book'])
     df['book'] = df['book'].map(books_short_to_full_name_dict)
     # Remove the book from the verse:
@@ -530,9 +534,9 @@ def generate_html_file(english_file_path, bulgarian_file_path):
     print(f"- HTML file '{output_file_path}' generated successfully.")
 
 def generate_html_side_by_side_translations():
-    bg_folder = "kjb-bg\compiled_text_by_books"
-    en_folder = "kjb-en\compiled_text_by_books"
-    bg_files = os.listdir(bg_folder)
+    bg_folder = "kjb-bg/compiled_text_by_books"
+    en_folder = "kjb-en/compiled_text_by_books"
+    bg_files = list(np.sort(os.listdir(bg_folder)))
     en_files = os.listdir(en_folder)
     file_tuples = []
     for bg_file in bg_files:
@@ -546,7 +550,6 @@ def generate_html_side_by_side_translations():
             english_file_path = f"kjb-en/compiled_text_by_books/{en_file}"
             bulgarian_file_path = f"kjb-bg/compiled_text_by_books/{bg_file}"
             generate_html_file(english_file_path, bulgarian_file_path)
-            
     # Generate links to the pages in a separate index.html file
     index_content = f"""
     <!DOCTYPE html>
