@@ -5278,16 +5278,125 @@ unstopped:отспра
 
 multitude:множество<<
 host:укражение/войнство/стан /гостоприемник/странноприемец?
-hosts
-hostages
+hosts:войнства
+hostages:заложници
 
-rest:почивам?
-rested
-restest
-resteth
-resting
-restingplace
+place:място<<
+rest:почивам/почивка
+restest:почиваш
+resteth:почива
+rested:починах
+resting:почивно
+restingplace:почивномясто
 
+
+
+
+
+
+
+
+
+Mat6:19 Слагам/полагамсе не на/горе/въз за/защото себеси съкровища над/ъпнвръз земя, къде/където moth и rust върша поквара/покварявам, и къде/където thieves чупя из и steal:
+Mat6:20 Но слагам/полагамсе на/горе/въз за/защото себеси съкровища в небе, къде/където нито moth нито rust върша поквара/покварявам, и къде/където thieves върша не чупя из нито steal:
+Mat6:21 За/защото къде/където ваш съкровище е, там ще ваш сърце бъда също.
+-
+Mat6:19 Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
+Mat6:20 But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
+Mat6:21 For where your treasure is, there will your heart be also.
+
+
+moth:молец
+
+rust:ръжда
+
+thieves:грабители
+
+rob:обирам
+robbeth:обира
+robbed:обрах
+robber:обирджия
+robbers:обирджии
+robbery:обир
+
+rebel:бунтовник/бунтувам
+rebellest:бунтуваш
+rebelled:бунтувах
+rebellion:бунт
+rebellious:бунтовен
+rebels:бунтовници
+
+steal:крада
+stealeth:краде
+stealing:крадейки
+menstealers:човекокрадци
+stealth:скришно
+
+
+
+
+
+
+Mat6:22 Пълчл светлина от/за пълчл тяло е пълчл око: ако/дали затова твое око бъда single, твоя цял тяло ще бъда full от/за светлина.
+Mat6:23 Но ако/дали твое око бъда зло, твоя цял тяло ще бъда full от/за тъмнина. Ако/дали затова пълчл светлина това е в теб бъда тъмнина, как/колко велик е това тъмнина!
+-
+Mat6:22 The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.
+Mat6:23 But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!
+
+
+single:единно
+singleness(3):единност
+	3x singleness of your heart
+	
+unite:обедини
+united:обединен
+	Teach me thy way, O LORD; I will walk in thy truth: [unite my heart] to fear thy name.
+	Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in [singleness of heart], fearing God;
+	if therefore thine [eye be single], thy whole body shall be full of light ... No man can [serve two masters] ... => Ye cannot serve God and mammon.
+
+full:пълен
+fully:напълно
+fuller:тепавичар
+fullers:тепавичар (ползва се 1 като fullers')
+fill:пълня<<
+
+
+
+
+
+
+
+
+
+Mat6:24 Няма човек мога служа две masters: за/защото either той ще мразя пълчл едно, и любя/любов пълчл друг; или else той ще държа/държание до/на/към пълчл едно, и despise пълчл друг. Вий неможеш служа Бог и mammon.
+Mat6:25 Затова аз казвам на/помощна вие, Взимам няма мисъл за/защото ваш живот, какво вий ще ям, или какво вий ще drink; нито още за/защото ваш тяло, какво вий ще постави върху/на/помощна. Е не пълчл живот повече от ядивно, и пълчл тяло от облекло?
+-
+Mat6:24 No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
+Mat6:25 Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?
+
+master:господар
+masters:господари
+mastery:господарство
+	победа : It is not the voice of them that shout for mastery
+	надвиха : and the lions had the mastery of them
+	подвизава : And every man that striveth for the mastery is temperate in all things
+masteries:господарства
+masterbuilder:господарстроител
+
+or:или<<
+either:или/глухо
+	всеки : the sons of Aaron, took either of them his censer
+	глухо : Take heed that thou speak not to Jacob either good or bad
+	глухо : When either man or woman shall separate themselves
+	или : to do either good or bad
+
+else:иначе/друг
+
+despise
+
+mammon
+
+drink
 
 
 
