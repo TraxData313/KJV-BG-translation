@@ -448,9 +448,12 @@ def get_the_complexes_df(use_cache=True):
 #####################################################
 
 
-page_title = 'Български превод на Библията от KJV'
-description = "Директен превод от <a href='https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F_%D0%BD%D0%B0_%D0%BA%D1%80%D0%B0%D0%BB_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81'>King James Version (KJV) от 1611 г.</a>, запазвайки оригиналната пунктуация, главни/малки букви, словоред и в повечето случаи, покоренов мапинг на думите за сметка на благозвучие на текущия български език."
-footer = """Всичко в сайта е без лиценз и може да се цитира, използва и споделя свободно.
+page_title = 'Библия'
+description = "Директен превод от King James Version (KJV), запазвайки оригиналната пунктуация, главни/малки букви, словоред и в повечето случаи, покоренов мапинг на думите за сметка на благозвучие."
+quote_of_the_day = 'Не е ли животът повече от ядене, и тялото повече от облекло? [Матей 6:25]'
+footer = f"""<b style="color: #73AD21"><i>{quote_of_the_day}</i></b><br>
+<br>
+Всичко в сайта е без лиценз и може да се цитира, използва и споделя свободно.
 <ul>
     <li><b>Email</b>: <a href='mailto:antongeorgiev313@gmail.com'>antongeorgiev313@gmail.com</a></li> 
     <li><b>Repository</b>: <a href='https://github.com/TraxData313/KJV-BG-translation'>https://github.com/TraxData313/KJV-BG-translation</a></li> 
@@ -502,8 +505,7 @@ def generate_html_file(english_file_path, bulgarian_file_path):
     <div class="center">
     <body>
         <div>
-            <h1>{page_title}</h1>
-            <a href='index.html'>ВСИЧКИ КНИГИ</a><br><br>
+            <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
             <div class="container">
                 <table>
                     <thead>
@@ -520,6 +522,7 @@ def generate_html_file(english_file_path, bulgarian_file_path):
         </div>
     <footer>
         <p>{footer}</p>
+        <br><a href='index.html'>Обратно към всични книги</a>
     </footer>  
     </body>
     </div>
@@ -582,8 +585,8 @@ def generate_html_side_by_side_translations():
 
     <div class="center">
     <body>
-        <h1>{page_title}</h1>
-        {description}
+        <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
+        <i color: gray">{description}</i>
         <br><br><hr><br><br>
         <h3>Книги:</h3>
         <ul>

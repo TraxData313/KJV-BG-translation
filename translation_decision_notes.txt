@@ -5392,11 +5392,20 @@ either:или/глухо
 
 else:иначе/друг
 
-despise
+hate:мразя<<
+despise:презирам
+despisest:презираш
+despiseth:презира
+despised:презрях
+despisers:презрители
 
-mammon
+mammon:мамон
 
-drink
+drink:пия/напитка
+drinketh:пие
+drinking:пиейки/пиещ
+drinkers:пиячи
+drinks:напитки
 
 
 

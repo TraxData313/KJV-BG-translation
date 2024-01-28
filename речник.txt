@@ -2631,3 +2631,22 @@ full:пълен
 fully:напълно
 fuller:тепавичар
 fullers:тепавичар
+master:господар
+masters:господари
+mastery:господарство
+masteries:господарства
+masterbuilder:господарстроител
+either:или/глухо
+else:иначе/друг
+despise:презирам
+despisest:презираш
+despiseth:презира
+despised:презрях
+despisers:презрители
+mammon:мамон
+drink:пия/напитка
+drinketh:пие
+drinking:пиейки/пиещ
+drinkers:пиячи
+drinks:напитки
+put on:намятам (ръчен превод)
