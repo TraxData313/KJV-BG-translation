@@ -459,6 +459,31 @@ footer = f"""<b style="color: #73AD21"><i>{quote_of_the_day}</i></b><br>
     <li><b>Repository</b>: <a href='https://github.com/TraxData313/KJV-BG-translation'>https://github.com/TraxData313/KJV-BG-translation</a></li> 
 </ul>
 """
+html_style = """
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #ccc;
+        padding: 10px;
+        text-align: left;
+    }
+    .container {
+        overflow-x: auto;
+    }
+    .center {
+        margin: auto;
+        width: 90%;
+        min-height: 95vh;
+        border: 3px solid #73AD21;
+        padding: 10px;
+        background-color: #f0f0f0; /* background color for the center (gray) */
+    }
+</style>
+"""
+
 
 
 def generate_html_file(english_file_path, bulgarian_file_path):
@@ -479,33 +504,15 @@ def generate_html_file(english_file_path, bulgarian_file_path):
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=0.8">
-        <style>
-            table {{
-                border-collapse: collapse;
-                width: 100%;
-            }}
-            th, td {{
-                border: 1px solid #ccc;
-                padding: 10px;
-                text-align: left;
-            }}
-            .container {{
-                overflow-x: auto;
-            }}
-        .center {{
-        margin: auto;
-        width: 90%;
-        border: 3px solid #73AD21;
-        padding: 10px;
-        }}
-        </style>
+        {html_style}
         <title>{bulgarian_file_name}</title>
     </head>
 
     <div class="center">
-    <body>
+    <body style="background-color: black;">
         <div>
             <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
+            {description}<br><br><br>
             <div class="container">
                 <table>
                     <thead>
@@ -561,37 +568,20 @@ def generate_html_side_by_side_translations():
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style type="text/css">
-        label {{
-            color: black;
-            font-weight: bold;
-            text-size: 1em;
-        }}
-        descr {{
-            color: green;
-            font-style: italic;
-        }}
-        tech {{
-            color: blue;
-        }}
-        .center {{
-        margin: auto;
-        width: 90%;
-        border: 3px solid #73AD21;
-        padding: 10px;
-        }}
-        </style>
+        {html_style}
         <title>BG KJV Книги</title>
     </head>
 
     <div class="center">
-    <body>
+    <body style="background-color: black;">
         <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
-        <i color: gray">{description}</i>
-        <br><br><hr><br><br>
+        {description}
+        <br><br><hr>
         <h3>Книги:</h3>
         <ul>
             {"".join(f"<li><a href='{file[0].split('.')[0]}.html'>{file[0].split('.')[0]}</a></li>" for file in file_tuples)}
         </ul>
+        <i>OT/NT: Стар/Нов Завет</i>
     <br><br><hr>
     <footer>
         <p>{footer}</p>
