@@ -5412,6 +5412,54 @@ drinks:напитки
 
 
 
+Mat6:26 Обхванете пълчл пернати от/за пълчл въздух: за/защото те sow не, нито върша те reap, нито събирам в barns; още ваш небесен Баща храни те. Са вий не много better от те?
+-
+Mat6:26 Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?
+
+sow:сея
+sowest:сееш
+soweth:сее
+sowed:посях
+sowedst:пося
+sower:сеяч
+sowing:сеещ
+sown:посян
+
+reap:жъна
+reapest:жънеш
+reapeth:жъне
+reaped:пъжънах
+reaper:жътвар
+reapers:жътвари
+reaping:жънейки/жънещ
+
+barn:житница
+barns:житници
+barnfloor:житницопод
+
+better:по-добре
+bettered:подобри
+
+
+
+
+
+
+Mat6:27 Което от/за вие до/от/по taking мисъл мога add едно cubit на/помощна негов stature?
+-
+Mat6:27 Which of you by taking thought can add one cubit unto his stature?
+
+taking
+
+add
+
+cubit
+
+stature
+
+
+
+
 
 
 

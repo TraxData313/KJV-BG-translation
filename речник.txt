@@ -598,7 +598,7 @@ jerusalem:йерусалим
 took:взе
 thus:така
 word:дума
-yet:още
+yet:още/обаче
 like:подобно
 likeness:подобие
 more:повече
@@ -2650,3 +2650,23 @@ drinking:пиейки/пиещ
 drinkers:пиячи
 drinks:напитки
 put on:намятам (ръчен превод)
+sow:сея
+sowest:сееш
+soweth:сее
+sowed:посях
+sowedst:пося
+sower:сеяч
+sowing:сеещ
+sown:посян
+reap:жъна
+reapest:жънеш
+reapeth:жъне
+reaped:пъжънах
+reaper:жътвар
+reapers:жътвари
+reaping:жънейки/жънещ
+barn:житница
+barns:житници
+barnfloor:житницопод
+better:по-добре
+bettered:подобри
