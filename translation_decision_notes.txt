@@ -5449,13 +5449,134 @@ Mat6:27 Което от/за вие до/от/по taking мисъл мога ad
 -
 Mat6:27 Which of you by taking thought can add one cubit unto his stature?
 
-taking
 
-add
+taking:взимайки (добавено при take групата)
 
-cubit
+add:добавям
+addeth:добавя
+added:добавих
+addition:добавка
+additions:добавки
 
-stature
+viper:пепелянка
+vipers:пепелянки
+serpent:змия<<
+serpents:змии<<
+adder:усойница
+adders:усойници (добавено при viper, serpent)
+
+cubit:лакът
+cubits:лакти
+
+high:висок<<
+height:височина 
+heights:височини (добавено при high)
+
+stay:стоя<<
+stand:стоя<<
+stayed:стоях<<
+stood:стоях<<
+standing:стоящ<<
+standard:стояние<<
+standards:стояния<<
+
+stature:ръст
+
+
+
+
+
+
+
+Mat6:28 И защо взимам вий мисъл за/защото облекло? Consider пълчл lilies от/за пълчл field, как/колко те grow; те toil не, нито върша те spin:
+Mat6:29 И още/обаче аз казвам на/помощна вие, Това както/вечер Соломон в всички негов слава беше не arrayed подобно едно от/за тези.
+-
+Mat6:28 And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:
+Mat6:29 And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these.
+
+
+consider:разглеждам
+	Then the priest shall consider: and, behold, if the leprosy...
+	He fashioneth their hearts alike; he considereth all their works.
+considerest:разглеждаш
+considereth:разглежда
+considered:разгледах
+considering:разглеждайки
+
+lily:крем
+lilies:кремове
+
+field:поле
+fields:полета
+
+grow:пораствам
+groweth:пораства
+grew:порастнах
+grown:порастнал
+growth:растеж
+
+toil:труд
+toiled:трудих
+toiling:трудейки
+
+spin:преда?
+spindle:вретено/шпиндел
+
+order:ред<<
+orderly:подредено<<
+array:нареждам/редица
+arrayed:нареден
+
+
+
+
+
+
+Mat6:30 Закоито/закаквото, ако/дали Бог така пременям пълчл трева от/за пълчл поле, което до/на/към ден е, и до/на/към morrow е запращам/запратих в пълчл oven, ще той не много повече пременям вие, О вий от/за little вяра?
+-
+Mat6:30 Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith?
+
+morrow:утрин
+tomorrow:утре
+
+oven:пещ
+ovens:пещи
+
+little:малко
+
+
+
+
+
+
+
+Mat6:31 Затова взимам няма мисъл, казвайки, Какво ще ние ям? или, Какво ще ние пия/напитка? или, Wherewithal ще ние бъда пременен/пременях?
+Mat6:32 (за/защото след всички тези неща върша пълчл Езичници търся:) за/защото ваш небесен Баща знае това вий имам/минвр/получавам нужда/нуждая от/за всички тези неща.
+Mat6:33 Но търся вий първи пълчл царство от/за Бог, и негов праведност; и всички тези неща ще бъда добавих на/помощна вие.
+Mat6:34 Взимам затова няма мисъл за/защото пълчл утрин: за/защото пълчл утрин ще взимам мисъл за/защото пълчл неща от/за себе си. Sufficient на/помощна пълчл ден е пълчл зло тамот.
+-
+Mat6:31 Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?
+Mat6:32 (For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.
+Mat6:33 But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
+Mat6:34 Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.
+
+
+where:къде/където<<
+with:с<<
+all:всички<<
+wherewithal:скакво
+
+sufficient:достатъчен
+sufficiently:достатъчно
+sufficiency:достатъчност
+
+
+
+
+
+
+
+
 
 
 
