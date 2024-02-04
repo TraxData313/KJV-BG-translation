@@ -2741,3 +2741,9 @@ beams:греди
 pull:тегля
 pulled:изтеглих
 pulling:теглейки
+clear:ясен/прояснен/прояснявам
+clearer:по-ясен
+clearing:прояснявайки/проясняване
+clearly:ясно
+clearness:яснота
+transparent:прозрачен

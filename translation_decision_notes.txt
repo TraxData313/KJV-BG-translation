@@ -5626,6 +5626,44 @@ pulling:теглейки
 
 
 
+Mat7:5 Ти лицемер, първи запращам/запратих от/вън пълчл греда от/вън от/за твое собствен око; и тогава ще ти виждам clearly до/на/към запращам/запратих от/вън пълчл треска от/вън от/за твоя брат's око.
+-
+Mat7:5 Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
+
+
+clean:чист<<
+cleanness:чистота<<
+cleanse:чистя<<
+cleansed:очистен/чистих<<
+cleanseth:чисти<<
+cleansing:очистване<<
+free:свободен<<
+clear:ясен/прояснен/прояснявам
+clearer:по-ясен
+clearing:прояснявайки/проясняване
+clearly:ясно
+clearness:яснота
+transparent(1):прозрачен
+
+
+
+
+
+Mat7:6 Дава не това което е свят на/помощна пълчл dogs, нито запращам/запратих вий ваш pearls преди/пред swine, задане те trample те под техните feet, и обръщам пак и rend вие.
+-
+Mat7:6 Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
+
+dogs
+
+pearls
+
+swine
+
+trample
+
+feet
+
+rend
 
 
 
