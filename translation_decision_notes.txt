@@ -5577,6 +5577,57 @@ sufficiency:достатъчност
 
 
 
+measure:мярка/измервам
+measured:измерих
+measures:мерки
+
+
+mete:определям
+meted:определих
+meteyard:определянето
+
+mote:треска
+	
+determine:решават
+determined:решен
+	
+Претеглям/тегло:
+weigh:претеглям/тежа
+weigheth:претегля/тежи
+weighed:претеглих/тежах
+weighing:тежащ
+weight:тежест
+weights:тежести
+weighty:тежък
+weightier:по-тежък
+unweighed:непретеглени
+
+balance:везна
+balances:везни
+
+scales:люспи/теглилка	
+
+behold:обхванете<<
+beholdest:обхващаш
+beholdeth:обхваща
+beholding:обхващайки
+beheld:обхванах
+
+beam:греда
+beams:греди
+
+draw:издърпвам<<
+pull:тегля
+pulled:изтеглих
+pulling:теглейки
+
+
+
+
+
+
+
+
 
 
 
