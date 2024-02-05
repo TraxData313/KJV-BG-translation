@@ -5649,21 +5649,95 @@ transparent(1):прозрачен
 
 
 
-Mat7:6 Дава не това което е свят на/помощна пълчл dogs, нито запращам/запратих вий ваш pearls преди/пред swine, задане те trample те под техните feet, и обръщам пак и rend вие.
+Mat7:6 Дава не това което е свят на/помощна пълчл dogs, нито запращам/запратих вий ваш pearls преди/пред swine, задане те trample те под техните крака, и обръщам пак и rend вие.
 -
 Mat7:6 Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
 
-dogs
+dog:куче
+dogs:кучета
 
-pearls
+pearl:перла
+pearls:перли
 
-swine
+swine:свиня
 
-trample
+tread:стъпвам<<
+trample:погазвам
 
-feet
+tear:разкъсвам<< -> раздирам
+teareth:разкъсва<< -> раздира (променено)
+rip:разпориш<<
+rend:разкъсвам
 
-rend
+
+
+
+
+
+
+Mat7:7 Питам, и то ще бъда даде вие; търся, и вий ще намирам; knock, и то ще бъда открих на/помощна вие:
+Mat7:8 За/защото всеки едно това пита receiveth; и той това търси findeth; и до/на/към него това knocketh то ще бъда открих.
+Mat7:9 Или какво човек е там от/за вие, когото ако/дали негов син питам хляб, ще той дава него крчл камък/камненувам?
+Mat7:10 Или ако/дали той питам крчл риба, ще той дава него крчл змия?
+Mat7:11 Ако/дали вий тогава, бидейки зло, знам как/колко до/на/към дава добро дарове на/помощна ваш деца, как/колко много повече ще ваш Баща което е в небе дава добро неща до/на/към те това питам него?
+-
+Mat7:7 Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:
+Mat7:8 For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
+Mat7:9 Or what man is there of you, whom if his son ask bread, will he give him a stone?
+Mat7:10 Or if he ask a fish, will he give him a serpent?
+Mat7:11 If ye then, being evil, know how to give good gifts unto your children, how much more shall your Father which is in heaven give good things to them that ask him?
+
+
+
+knock:чукам
+knocketh:чука
+knocked:чуках
+
+receive:получавам
+receiveth:получава
+received:получих
+receivedst:получи
+receiver:получател
+receiving:получавайки/получаващ
+
+conceived:зачена<<
+conceive:зачевам (добавено при conceived)
+
+deceive:мамя
+deceiveth:мами
+deceived:измамих
+deceiver:измамник
+deceivers:измамници
+
+perceive:възприемам
+perceivest:възприемаш
+perceiveth:възприема
+perceived:възприех
+
+accept:приемам
+acceptest:приемаш
+accepteth:приема
+accepted:приех
+acceptable:приемлив
+acceptably:приемливо
+acceptance:приемане
+acceptation:приемателство
+accepting:приемайки/приемащ
+
+found:намери<<
+find:намирам<<
+findest:намираш
+findeth:намира
+finding:намирайки/намиращ (добавени при find)
+
+
+
+
+Mat7:12 Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
+
+
+
+
 
 
 
