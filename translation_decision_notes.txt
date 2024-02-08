@@ -5746,34 +5746,56 @@ Mat7:13 Влизам вий в на/в пълчл strait gate: за/защото
 Mat7:14 Порадипричинатаче strait е пълчл gate, и narrow е пълчл път, което води на/помощна живот, и few там бъда това намирам то.
 
 straight:прям<<
-strait:стриктен / сбит?
-straiten:остриктявам
-straitened:остриктих
-straiteneth:намалява?
+strait:оскъдност/оскъден
+	стриктен / сбит/сбитост /стегнат? оскъдност?
+straiten:оскъдят
+straitened:оскъдих
+straiteneth:оскъдя
 	he enlargeth the nations, and straiteneth them again
-straitest
-straitly:подробно разпитан? / строго заклел?
-straitness:утеснението?
-straits
+straitest:най-оскъден
+straitly:оскъдно
+straitness:оскъдие
+straits:оскъдности
 strict(0)
+tight(0)
+fast:постя/пост/стегнато<<
+fasten:стягам<<
 
-narrow:тесен   /свит/ограничен?
+narrow:тесен
+narrowed:отеснен
+narrower:по-тесен
+narrowly:тясно
 
 thin:тънък
-	yellow thin hair
 
-wide
+wide:просторен 
+	(използва се като обем, обемност)
+	обширен, но е същия корен като broad:широк
+	build me a wide house
+wideness:простор
 
-broad
+space:разстояние<<
+expanse(0)
+vast(0)
 
-gate
+broad:широк
+broader:по-широк
+abroad:нашире
 
-thereat
+gate:порта
+gates:порти
 
+thereat:тамвъв
+
+little:малко<<
+less:по-малко<<
 many:много<<
-few
-
-
+few:малоброй
+fewer:по-малобройни
+fewest:най-малобройни
+fewness:малобройство
+	According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it
+	multitude:множество
 
 
 
