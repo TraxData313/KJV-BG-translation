@@ -9,7 +9,6 @@ king:цар
 kings:царе
 above:отгоре
 over:над
-miracle:чудо
 under:под
 beneath:отдолу
 underneath:поддолу
@@ -71,6 +70,7 @@ builded:строил
 building:строене/сграда
 builder:строител
 builders:строители
+built:построих
 thou:ти
 thee:теб
 thine:твое
@@ -157,11 +157,12 @@ maketh:правя
 maker:направител
 made:направи
 do:върша
-doeth:вършейки
+doeth:върши
 doth:върша
 done:свърши
 doest:вършиш
 dost:свърши
+doing:вършейки/вършещ
 which:което
 so:така
 gather:събирам
@@ -568,7 +569,7 @@ going:отивайки
 goeth:отива
 hand:ръка
 us:ние
-saith:каза
+saith:казва
 therefore:затова
 our:наш
 or:или
@@ -2831,3 +2832,17 @@ thistle:бодил
 thistles:бодили
 fig:смокиня
 figs:смокини
+wonder:чудо/чудя
+wondered:чудих
+wonderful:чуден
+wonderfully:чудно
+wondering:чудейки/чудещ
+wonderously:чудовато
+wonders:чудеса
+miracle:знамение
+miracles:знамения
+profess:провъзгласявам
+professed:провъзгласих
+professing:провъзгласявайки/провъзгласяващ
+profession:провъзглашение
+never:никога

@@ -5864,11 +5864,137 @@ Mat7:21 Not every one that saith unto me, Lord, Lord, shall enter into the kingd
 Mat7:22 Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
 Mat7:23 And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
-wonderful
 
-profess
 
-never
+
+wonder:чудо/чудя
+wondered:чудих
+wonderful:чуден
+wonderfully:чудно
+wondering:чудейки/чудещ
+wonderously:чудовато
+wonders:чудеса
+
+miracle:чудо<< -> знамение (обърнато в текста)
+miracles:знамения (да се върнат)
+
+profess:провъзгласявам
+professed:провъзгласих
+professing:провъзгласявайки/провъзгласяващ
+profession:провъзглашение
+
+never:никога
+
+
+
+
+
+
+
+
+Mat7:24 Затова койтоида слуша тези sayings от/за мой, и вършейки те, аз ще liken него на/помощна крчл мъдър/начин човек, което built негов къща над/ъпнвръз крчл rock:
+Mat7:25 И пълчл вали/валеж слезнах, и пълчл floods дойде, и пълчл winds blew, и beat над/ъпнвръз това къща; и то падна не: за/защото то беше founded над/ъпнвръз крчл rock.
+Mat7:26 И всеки едно това слуша тези sayings от/за мой, и вършейки те не, ще бъда likened на/помощна крчл глупав човек, което built негов къща над/ъпнвръз пълчл пясък:
+Mat7:27 И пълчл вали/валеж слезнах, и пълчл floods дойде, и пълчл winds blew, и beat над/ъпнвръз това къща; и то падна: и велик беше пълчл падам от/за то.
+-
+Mat7:24 Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
+Mat7:25 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.
+Mat7:26 And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
+Mat7:27 And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.
+
+
+saying:казвайки<<
+sayings:казвания (добавено при saying)
+
+like:подобно<<
+likeness:подобие<<
+liken:оподобих
+likened:оподобен
+
+build:построя<<
+buildeth:строя<<
+buildest:построиш<<
+buildedst:построиш<<
+builded:строил<<
+building:строене/сграда<<
+builder:строител<<
+builders:строители<<
+built:построих (добавена при build)
+
+stone:камък/камненувам<<
+rock:канара
+rocks:канари
+
+flood:потоп
+floods:потопи
+waterflood:водопотоп
+
+wind:вятър
+winds:ветрове
+windy:ветровит
+whirleth:вихри
+whirlwind:вихровятър
+whirlwinds:вихроветрове
+
+
+blow:надувам
+bloweth:надува
+blowing:надуване
+blew:надух
+blown:надут (2 пъти за тромпет, веднъж за огън)
+
+fight:бия/бой<< -> сражение?
+fighteth:биеш<< -> сражаваш?
+fought:бих<< -> сражавах?
+hit(2):улучвам (2х archers hit him)
+knock:чукам<<
+beat:удрям/туптя/сбия?
+	счукаш: beat some of it (perfume) very small
+	изковах: beat the gold into thin plates
+	смляха: or beat it in a mortar
+	удъри с камшици: and beat him above these with many stripes
+	събори: beat down the tower of Penuel
+beaten
+beatest
+beateth
+beating
+
+battle:битка?
+battlement
+battlements
+battles
+combat(0)
+
+cut:режа<<
+strike:удрям?
+	намазвам: the blood, and strike it on the two side posts
+	прерязвам: strike off the heifer's neck (в контекства на пролята кръв)
+	помаха/дигне: strike his hand over the place, and recover the leper
+	дал/плеснал ръка с/на: who is he that will strike hands with me
+	прониже: and the bow of steel shall strike him through
+	да се бие: nor to strike princes for equity.
+	плескам: and the servants did strike him with the palms of their hands
+
+
+ground:основа<<
+open:откривам/открит<<
+found:намери<<
+find:намирам<<
+findest:намираш<<
+findeth:намира<<
+finding:намирайки/намиращ<<
+
+found
+foundation
+foundations
+founded
+founder
+foundest
+
+
+
+
+
 
 
 
