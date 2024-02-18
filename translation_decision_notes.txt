@@ -5936,37 +5936,36 @@ whirleth:вихри
 whirlwind:вихровятър
 whirlwinds:вихроветрове
 
-
 blow:надувам
 bloweth:надува
 blowing:надуване
 blew:надух
 blown:надут (2 пъти за тромпет, веднъж за огън)
 
+battle:битка/бия
+battles:битки
+battlement:биткопарапет
+battlements:биткопарапети
+combat(0)
+
 fight:бия/бой<< -> сражение?
 fighteth:биеш<< -> сражаваш?
 fought:бих<< -> сражавах?
 hit(2):улучвам (2х archers hit him)
 knock:чукам<<
-beat:удрям/туптя/сбия?
+beat:сбивам
 	счукаш: beat some of it (perfume) very small
 	изковах: beat the gold into thin plates
 	смляха: or beat it in a mortar
 	удъри с камшици: and beat him above these with many stripes
 	събори: beat down the tower of Penuel
-beaten
-beatest
-beateth
-beating
-
-battle:битка?
-battlement
-battlements
-battles
-combat(0)
+beatest:сбиваш
+beateth:сбива
+beaten:сбит
+beating:сбивайки/сбиване
 
 cut:режа<<
-strike:удрям?
+strike:удрям
 	намазвам: the blood, and strike it on the two side posts
 	прерязвам: strike off the heifer's neck (в контекства на пролята кръв)
 	помаха/дигне: strike his hand over the place, and recover the leper
@@ -5974,22 +5973,29 @@ strike:удрям?
 	прониже: and the bow of steel shall strike him through
 	да се бие: nor to strike princes for equity.
 	плескам: and the servants did strike him with the palms of their hands
+striketh:удря
+striker:удряч
 
 
 ground:основа<<
 open:откривам/открит<<
-found:намери<<
+
 find:намирам<<
 findest:намираш<<
 findeth:намира<<
 finding:намирайки/намиращ<<
+found:намери<< изпозлва се миналото време на find
 
-found
-foundation
-foundations
-founded
-founder
-foundest
+founded:намерих/намерен / използва се за основан?
+	for it was founded upon a rock
+foundest:намираш?
+
+founder:намирач / използва се за леяр?
+	леяч: the founder, who made thereof a graven image and a molten image
+	the founder melteth in vain
+
+foundation:намиране/използва се за основа?
+foundations:намиряния?
 
 
 
