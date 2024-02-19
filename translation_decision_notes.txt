@@ -5977,7 +5977,9 @@ striketh:удря
 striker:удряч
 
 
-ground:основа<<
+earth:земя<< -> земя (в контекста на цялата земя)
+ground:основа<< -> земля? (в контекства на земна повърхност; ще оставя руския вариант за да се различават)
+grounded:заземен<< -> заземлен? (променени)
 open:откривам/открит<<
 
 find:намирам<<
@@ -5986,16 +5988,11 @@ findeth:намира<<
 finding:намирайки/намиращ<<
 found:намери<< изпозлва се миналото време на find
 
-founded:намерих/намерен / използва се за основан?
+foundation:основа
+foundations:основи
+founded:основах
 	for it was founded upon a rock
-foundest:намираш?
-
-founder:намирач / използва се за леяр?
-	леяч: the founder, who made thereof a graven image and a molten image
-	the founder melteth in vain
-
-foundation:намиране/използва се за основа?
-foundations:намиряния?
+foundest:основаваш
 
 
 
@@ -6006,6 +6003,211 @@ foundations:намиряния?
 
 
 
+Mat7:28 И то дойде до/на/към минавам, кога/когато Исус имаше/минвр приключих тези казвания, пълчл народ беше astonished на/в негов учение:
+Mat7:29 За/защото той преподадох те като едно having authority, и не като пълчл постанововеди.
+-
+Mat7:28 And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:
+Mat7:29 For he taught them as one having authority, and not as the scribes.
+
+
+astonished:удивен
+astonishment:удивление
+amazed:изумен
+amazement:изумление
+author:начинател
+authority:начинателство
+authorities:начинателства
+having:имащ/имайки (при have)
+
+
+
+
+
+
+
+
+Mat8:1 Кога/когато той беше идвам/дойдох долу от пълчл възвишенина, велик множества последвах него.
+Mat8:2 И, обхванете, там дойде крчл leper и поклони него, казвайки, Господ, ако/дали ти тище, ти можеш правя мен чист.
+Mat8:3 И Исус постави напред/изясняваша негов ръка, и touched него, казвайки, аз ще; бъда ти чист. И непосредствено негов leprosy беше очистен/чистих.
+Mat8:4 И Исус каза на/помощна него, Виждам ти обясни няма човек; но отивам твоя път, показвам се до/на/към пълчл жрец, и предлагам пълчл дар това Мойсей заповяда, за/защото крчл показание на/помощна те.
+-
+Mat8:1 When he was come down from the mountain, great multitudes followed him.
+Mat8:2 And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.
+Mat8:3 And Jesus put forth his hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed.
+Mat8:4 And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.
+
+
+leprosy:проказа
+leprous:прокажен
+leper:прокажник
+lepers:прокажници
+
+touch:докосвам
+toucheth:докосна
+touched:докоснах
+touching:докосвайкидо(използва се като отнасяйки се до)
+
+
+
+
+
+
+
+
+Mat8:5 И кога/когато Исус беше влезнах в Капернаум, там дойде на/помощна него крчл centurion, beseeching него,
+Mat8:6 И казвайки, Господ, мой служител лежи/лъже на/в дом болен от/за пълчл парализа, grievously изтезавах/изтезан.
+Mat8:7 И Исус каза на/помощна него, аз ще идвам/дойдох и оздравявам него.
+Mat8:8 Пълчл centurion отговорих и каза, Господ, аз съм не достоен това ти shouldest идвам/дойдох под мой roof: но говоря пълчл дума единствено, и мой служител ще бъда оздрави.
+Mat8:9 За/защото аз съм крчл човек под начинателство, имащ/имайки soldiers под мен: и аз казвам до/на/към това/този човек, Отивам, и той отива; и до/на/към друг, Идвам/дойдох, и той идва; и до/на/към мой служител, Върша това/този, и той върши то.
+Mat8:10 Кога/когато Исус слуши то, той marvelled, и каза до/на/към те това последвах, Верно аз казвам на/помощна вие, аз имам/минвр/получавам не намери така велик вяра, няма, не в Израел.
+Mat8:11 И аз казвам на/помощна вие, Това много ще идвам/дойдох от пълчл изток и запад, и ще седя долу с Авраам, и Исаак, и Яков, в царството от небето.
+Mat8:12 Но пълчл деца от/за пълчл царство ще бъда запращам/запратих от/вън в outer тъмнина: там ще бъда ридание и gnashing от/за teeth.
+Mat8:13 И Исус каза на/помощна пълчл centurion, Отивам твоя път; и като ти имаше/минвр believed, така бъда то свърши на/помощна теб. И негов служител беше оздрави в пълчл selfsame hour.
+-
+Mat8:5 And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,
+Mat8:6 And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.
+Mat8:7 And Jesus saith unto him, I will come and heal him.
+Mat8:8 The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed.
+Mat8:9 For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it.
+Mat8:10 When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.
+Mat8:11 And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
+Mat8:12 But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.
+Mat8:13 And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour.
+
+
+
+centurion:стотник 
+	The word "centurion" comes from the Latin word "centurio," which is derived from "centum" (meaning "hundred").
+centurions:стотници
+
+petition:молба<<
+pray:моля<<
+ask:питам<<
+beg:скъдня<<
+beseech:умолявам
+beseeching:умолявайки
+
+grief:скръб<<
+griefs:скърби<<
+grieve:скърбя
+grieveth:скърби
+grieved:скърбях
+grieving:скърбейки/скърбящ
+grievance:скърбене
+grievous:скръбен
+grievously:скръбно
+grievousness:скръбност
+
+should:трябва<<
+shouldest:титрябва
+
+roof:покрив
+roofs:покриви
+
+arm:ръка/вооръжа
+arms:ръце
+armed:вооръжен
+army:орда
+armies:орди
+armour:броня
+armourbearer:броненосец
+armoury:оръжейна
+
+war:война/воювам
+warreth:воюва
+warred:воювах
+wars:войни
+warfare:воюване
+warring:воювайки/воюващ
+warrior:войник
+warriors:войници
+
+soldier:военнослужещ
+soldiers:военнослужещи
+
+
+wonder:чудо/чудя<<
+astonished:удивен<<
+marvel:възхищение
+marvelled
+marvellous
+marvellously
+marvels
+
+admired:-
+admiration
+
+
+out:от/вън<<
+outer:външен?
+outside:отвън?
+outward:външен?
+outwardly:външо?
+
+gnash:скърцам?
+gnashed
+gnasheth
+gnashing
+
+teeth:зъби
+
+
+accept:приемам<<
+verily:верно<<
+
+faith:вяра<< -> лоялност/предан? (trust, loyalty, and commitment)
+faithful:вярен<<
+faithfully:вярно<<
+faithfulness:вярнота<<
+faithless:безвярно<<
+unfaithful:невярен<<
+unfaithfully:невярно<<
+
+belief:убеждение/вяра/доверие/поверие?
+unbelief
+believe:повярвам? (accepting something as true)
+believed
+believers
+believest
+believeth
+believing
+relieve
+relieved
+relieveth
+unbelievers
+unbelieving
+
+tradition:традиция/предание/обичай?
+traditions
+
+trust:доверие/доверявам?
+trusted
+trustedst
+trustest
+trusteth
+trusting
+trusty
+
+devote:предан/посветен?
+devoted
+devotions
+​
+convi*(0)
+loyal(0)
+
+rely:разчитам?
+relied
+
+confidence
+confidences
+confident
+confidently
+
+
+selfsame:самосъщ?
+
+hour:час?
+hours:часове?
 
 
 
