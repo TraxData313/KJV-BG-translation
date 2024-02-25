@@ -6262,7 +6262,19 @@ Ge2:1 Thus the heavens and the earth were finished, and all the host of them.
 Ge2:2 And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
 Ge2:3 And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
 
-sanctified
+holy:свещен<<
+hallow:освещавам<<
+hallowed:освети<< -> освещи (преведено, засега така да се различава от sanctified)
+saint:светия<<
+saints:светии<<
+
+sanctify:освети
+sanctifieth:осветява
+sanctified:осветих
+sanctification:осветение
+sanctuary:светилище
+sanctuaries:светилища
+
 
 
 

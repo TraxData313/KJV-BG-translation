@@ -387,9 +387,15 @@ pledge:залог
 pledges:залози
 holy:свещен
 hallow:освещавам
-hallowed:освети
+hallowed:освещи
 saint:светия
 saints:светии
+sanctify:освети
+sanctifieth:осветява
+sanctified:осветих
+sanctification:осветение
+sanctuary:светилище
+sanctuaries:светилища
 world:свят
 worlds:святове
 unholy:несвещен
