@@ -6225,18 +6225,18 @@ confirmeth:потвърждава
 confirmed:потвърдих
 confirming:потвърждавайки/потвърждаващ
 confirmation:потвърждение
+infirmity:немощ
+infirmities:немощи
 
-infirmity:слабост/немощ -> нетвърдост?
-infirmities
-
-weak:слаб?
-weaken
-weakened
-weakeneth
-weaker
-weakness
+weak:слаб
+weaken:отслабям
+weakeneth:отслабва
+weakened:отслабих
+weaker:по-слаб
+weakness:слабост
 
 
+Това то бихмогъл бъда изпълни: За да би могло да бъде изпълнено
 
 
 
@@ -6247,6 +6247,29 @@ weakness
 
 
 - DONE: start tracking the translate %s to unlock ETA prediction
+
+
+
+
+
+
+
+Ge2:1 Така пълчл небеса и пълчл земя беше завърших/завършен, и всички пълчл войнство от/за те.
+Ge2:2 И върху/на/помощна пълчл седми ден Бог приключих негов работа/работя което той имаше/минвр направи; и той починах върху/на/помощна пълчл седми ден от всички негов работа/работя което той имаше/минвр направи.
+Ge2:3 И Бог благословен пълчл седми ден, и sanctified то: порадипричинатаче това в то той имаше/минвр починах от всички негов работа/работя което Бог създаде и направи.
+-
+Ge2:1 Thus the heavens and the earth were finished, and all the host of them.
+Ge2:2 And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.
+Ge2:3 And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.
+
+sanctified
+
+
+
+
+
+
+
 
 
 

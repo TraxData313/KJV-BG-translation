@@ -2974,3 +2974,19 @@ selfsame:самосъщ
 hour:час
 hours:часове
 at home:дома(ръчен превод)
+fever:треска
+affirm:твърдя
+affirmed:твърдях
+confirm:потвърждавам
+confirmeth:потвърждава
+confirmed:потвърдих
+confirming:потвърждавайки/потвърждаващ
+confirmation:потвърждение
+infirmity:немощ
+infirmities:немощи
+weak:слаб
+weaken:отслабям
+weakeneth:отслабва
+weakened:отслабих
+weaker:по-слаб
+weakness:слабост
