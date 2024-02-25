@@ -234,12 +234,16 @@ def translate_df(save=True):
         new_df.to_csv(save_file, index=False, header=False, sep='>')
     return changes_df
 
-def print_translated_word_stats():
+def get_translated_word_stats():
     df = get_words_df(use_cache=True)
     total_words = df['word_use_count'].sum()
     translated_words = df.loc[df['word_bg'].fillna(0)!=0]['word_use_count'].sum()
     unique_words = len(df)
     unique_translated_words = len(df.loc[df['word_bg'].fillna(0)!=0])
+    return unique_translated_words, unique_words, translated_words, total_words
+
+def print_translated_word_stats():
+    unique_translated_words, unique_words, translated_words, total_words = get_translated_word_stats()
     progr_mes = f'- [{unique_translated_words}] или [{round(unique_translated_words*100/unique_words,2)}%] от [{unique_words}] уникални думи са преведени\n'
     progr_mes += f'- [{translated_words}] или [{round(translated_words*100/total_words,2)}%] от общо [{total_words}] думи са преведени\n'
     return progr_mes
@@ -259,11 +263,18 @@ def estimate_letter_progress(df):
     translated_letters_ratio = cyr_count/lat_count
     print(f'- [{cyr_count}] или [{round(translated_letters_ratio*100, 1)}%] от общо [{lat_count+cyr_count}] букви в kjb-bg/Библия.txt вече са на български.')
     
-def estimate_revised_verses_progress(df):
+def get_estimate_revised_verses_progress(df=None):
+    if df is None: df = load_translated_Bible()
     df = df.copy()
     df['verse'] = df['verse'].str.split(' ', expand=True)[0]
-    revised_verses_count = len(df) - df['verse'].str.count(':').sum()
-    progr_mes = f'- [{revised_verses_count}] или [{round(revised_verses_count*100/len(df), 2)}%] от общо [{len(df)}] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) и качени в уебсайта [BG KJV Книги](http://site-for-kjv-bg-translation.s3-website-us-east-1.amazonaws.com/)\n'
+    total_verses_count = len(df)
+    revised_verses_count = total_verses_count - df['verse'].str.count(':').sum()
+    return revised_verses_count, total_verses_count
+
+def estimate_revised_verses_progress(df=None):
+    if df is None: df = load_translated_Bible() #easier to read the expected input and works ok by default
+    revised_verses_count, total_verses_count = get_estimate_revised_verses_progress(df)
+    progr_mes = f'- [{revised_verses_count}] или [{round(revised_verses_count*100/total_verses_count, 2)}%] от общо [{total_verses_count}] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) и качени в уебсайта [BG KJV Книги](http://site-for-kjv-bg-translation.s3-website-us-east-1.amazonaws.com/)\n'
     return progr_mes
 
 def compile_bg_books():
@@ -319,6 +330,34 @@ def update_progress_in_the_readme_md(progr_mes):
     for line in readMe:
         saveFile.write(line)
     saveFile.close()
+
+def log_translated_progress(df=None):
+    progress_file = 'logs/translated_progress.csv'
+    unique_translated_words, unique_words, translated_words, total_words = get_translated_word_stats()
+    if df is None: df = load_translated_Bible()
+    revised_verses_count, total_verses_count = get_estimate_revised_verses_progress(df)
+    # Add the new data:
+    new_df = pd.DataFrame({
+            'дата': ['2023-09-01', pd.Timestamp.now().date()],
+            'уникални_думи_брой': [1, unique_translated_words],
+            'уникални_думи_процент': [100/unique_words, unique_translated_words*100/unique_words],
+            'общо_думи_брой': [1, translated_words],
+            'общо_думи_процент': [100/total_words, translated_words*100/total_words],
+            'стихове_брой': [1, revised_verses_count],
+            'стихове_процент': [100/total_verses_count, revised_verses_count*100/total_verses_count]
+        })
+    # Combine and remove the duplicates:
+    if os.path.exists(progress_file):
+        current_df = pd.read_csv(progress_file)
+        df = pd.concat([current_df, new_df])
+    else:
+        df = new_df
+    df['дата'] = pd.to_datetime(df['дата'])
+    df = df.sort_values('дата', ascending=True)
+    df = df.drop_duplicates('дата', keep='last') #leave the newest entry for that day
+    # Write to the file:
+    df.to_csv(progress_file, index=False)
+    return df
 
 
 #####################################################

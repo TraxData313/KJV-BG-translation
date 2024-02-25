@@ -6241,13 +6241,18 @@ weakness
 
 
 
+Директен превод от King James Version (KJV), запазвайки оригиналната пунктуация, главни/малки букви, словоред и в повечето случаи, покоренов мапинг на думите за сметка на благозвучие.
+->
+Директен превод от King James Version (KJV), запазвайки оригиналната пунктуация, главни/малки букви и еднакъв превод на думите и словосъчетанията навсякъде в текста.
+
+
+- DONE: start tracking the translate %s to unlock ETA prediction
 
 
 
 
 
 ...on the back of my mind...
-
 -TODO: add progress to the web home page
 -TODO: add the dict to the web for easy usage
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
