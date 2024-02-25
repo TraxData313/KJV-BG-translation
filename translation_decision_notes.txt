@@ -6201,6 +6201,51 @@ hours:часове
 
 
 
+
+
+Mat8:14 И кога/когато Исус беше идвам/дойдох в Петър's къща, той видя негов съпруга's майка положен, и болен от/за крчл fever.
+Mat8:15 И той докоснах нея ръка, и пълчл fever напусна/ляво нея: и тя въздигна, и замествах на/помощна те.
+Mat8:16 Кога/когато пълчл както/вечер беше идвам/дойдох, те донесен на/помощна него много това беше притежавах с дяволи: и той запращам/запратих от/вън пълчл духове с негов дума, и оздрави всички това беше болен:
+Mat8:17 Това то бихмогъл бъда изпълни което беше говорено до/от/по Исаия пълчл пророк, казвайки, Се/сам/му взе наш infirmities, и изнася/износи/донасям наш болести.
+-
+Mat8:14 And when Jesus was come into Peter's house, he saw his wife's mother laid, and sick of a fever.
+Mat8:15 And he touched her hand, and the fever left her: and she arose, and ministered unto them.
+Mat8:16 When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:
+Mat8:17 That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses.
+
+
+fever:треска
+
+firm:твърд<<
+firmament:твърд<<
+affirm:твърдя
+affirmed:твърдях
+confirm:потвърждавам
+confirmeth:потвърждава
+confirmed:потвърдих
+confirming:потвърждавайки/потвърждаващ
+confirmation:потвърждение
+
+infirmity:слабост/немощ -> нетвърдост?
+infirmities
+
+weak:слаб?
+weaken
+weakened
+weakeneth
+weaker
+weakness
+
+
+
+
+
+
+
+
+
+
+
 ...on the back of my mind...
 
 -TODO: add progress to the web home page
