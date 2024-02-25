@@ -6074,7 +6074,7 @@ Mat8:11 And I say unto you, That many shall come from the east and west, and sha
 Mat8:12 But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.
 Mat8:13 And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour.
 
-
+at home:дома(ръчен превод)
 
 centurion:стотник 
 	The word "centurion" comes from the Latin word "centurio," which is derived from "centum" (meaning "hundred").
@@ -6107,8 +6107,8 @@ roofs:покриви
 arm:ръка/вооръжа
 arms:ръце
 armed:вооръжен
-army:орда
-armies:орди
+army:армия
+armies:армии
 armour:броня
 armourbearer:броненосец
 armoury:оръжейна
@@ -6128,34 +6128,36 @@ soldiers:военнослужещи
 
 wonder:чудо/чудя<<
 astonished:удивен<<
-marvel:възхищение
-marvelled
-marvellous
-marvellously
-marvels
+marvel:учудване/учудвам?
+marvelled:учудих
+marvellous:учудващ
+marvellously:учудващо
+marvels:причудливости
 
-admired:-
-admiration
+admired:възхищаван
+admiration:възхищение
 
+respect:уважение/ужажавам
+respecteth:уважава
+respected:уважих
+respecter:уважител
 
 out:от/вън<<
-outer:външен?
-outside:отвън?
-outward:външен?
-outwardly:външо?
+outside:отвън
+outward:външен
+outwardly:външо
+outer:по-външен
 
-gnash:скърцам?
-gnashed
-gnasheth
-gnashing
+gnash:скърцам
+gnasheth:скърца
+gnashed:скърцах
+gnashing:скърцане
 
 teeth:зъби
 
-
 accept:приемам<<
 verily:верно<<
-
-faith:вяра<< -> лоялност/предан? (trust, loyalty, and commitment)
+faith:вяра<<
 faithful:вярен<<
 faithfully:вярно<<
 faithfulness:вярнота<<
@@ -6163,54 +6165,35 @@ faithless:безвярно<<
 unfaithful:невярен<<
 unfaithfully:невярно<<
 
-belief:убеждение/вяра/доверие/поверие?
-unbelief
-believe:повярвам? (accepting something as true)
-believed
-believers
-believest
-believeth
-believing
-relieve
-relieved
-relieveth
-unbelievers
-unbelieving
+belief:повярване
+unbelief:неповярване
+believe:повярвам (accepting something as true)
+believest:повярва
+believeth:повярва
+believed:повярвах
+believing:повярвайки/повярващ
+unbelieving:неповярващ
+believers:повярвали
+unbelievers:неповярвали
 
-tradition:традиция/предание/обичай?
-traditions
-
-trust:доверие/доверявам?
-trusted
-trustedst
-trustest
-trusteth
-trusting
-trusty
-
-devote:предан/посветен?
-devoted
-devotions
+trust:доверие/доверявам
+trustest:доверяваш
+trusteth:доверява
+trusted:доверих
+trustedst:довери
+trusting:доверявайки
+trusty:доверен
 ​
 convi*(0)
 loyal(0)
 
-rely:разчитам?
-relied
+selfsame:самосъщ
 
-confidence
-confidences
-confident
-confidently
+hour:час
+hours:часове
 
-
-selfsame:самосъщ?
-
-hour:час?
-hours:часове?
-
-
-
+Верно аз казвам на/помощна вие:Верно ви казвам (ръчен превод на комплекса)
+И аз казвам на/помощна вие:И ви казвам х5 (ръчен превод на комплекса)
 
 
 
