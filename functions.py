@@ -87,6 +87,66 @@ def load_translated_Bible():
     df.columns = ['verse']
     return df
 
+def get_eta_date(target_col='уникални_думи_процент', weighted=True):
+    # Load the logs:
+    df = pd.read_csv('logs/translated_progress.csv')
+    df['дата'] = pd.to_datetime(df['дата'])
+    first_date = df['дата'].min()
+    # Percent change between the dates:
+    df['perc_delta'] = df[target_col].diff()
+    # Days between the dates:
+    df['days_took'] = (df['дата'] - first_date).dt.days
+    df['days_delta'] = df['days_took'].diff()
+    # Perc/day rate:
+    df['transl_rate'] = df['perc_delta']/df['days_delta']
+    df = df.loc[df['дата']>'2024-01-01']
+    if weighted:
+        weights = range(1, len(df) + 1)
+        transl_rate = df['transl_rate'].dot(weights) / sum(weights)
+    else:
+        transl_rate = df['transl_rate'].mean()
+    # Calculate the ETA:
+    comp_days = 100/transl_rate
+    comp_date = str((first_date + pd.Timedelta(days=comp_days)).date())
+    return comp_date
+
+def get_the_final_eta_averaged_by_two_ways(weighted=True):
+    # Load the logs:
+    df = pd.read_csv('logs/translated_progress.csv')
+    df['дата'] = pd.to_datetime(df['дата'])
+    first_date = df['дата'].min()
+    # Days between the dates:
+    df['days_took'] = (df['дата'] - first_date).dt.days
+    df['days_delta'] = df['days_took'].diff()
+    transl_rates = []
+    comp_dayss = []
+    for target_col in ['уникални_думи_процент', 'общо_думи_процент', 'стихове_процент']:
+        # Percent change between the dates:
+        df['perc_delta'] = df[target_col].diff()
+        # Perc/day rate:
+        df['transl_rate'] = df['perc_delta']/df['days_delta']
+        if weighted:
+            weights = range(1, len(df))
+            transl_rate = df.loc[df['дата']>'2024-01-01']['transl_rate'].dot(weights) / sum(weights)
+        else:
+            transl_rate = df.loc[df['дата']>'2024-01-01']['transl_rate'].mean()
+        transl_rates.append(transl_rate)
+        comp_days = 100/np.mean(transl_rate)
+        comp_dayss.append(comp_days)
+    # ETA by ave days:
+    comp_days_by_days_ave = np.mean(comp_dayss)
+    comp_date_by_days_ave = str((first_date + pd.Timedelta(days=comp_days_by_days_ave)).date())
+    print('-- date from rates:', comp_date_by_days_ave)
+    # ETA by rates:
+    ave_transl_rate = np.mean(transl_rates)
+    comp_days_by_rate = 100/ave_transl_rate
+    comp_date_by_rate = str((first_date + pd.Timedelta(days=comp_days_by_rate)).date())
+    print('-- date from days:', comp_date_by_rate)
+    # Average of the two:
+    ave_days = np.mean([comp_days_by_days_ave, comp_days_by_rate])
+    comp_date = str((first_date + pd.Timedelta(days=ave_days)).date())
+    return comp_date
+
 def get_original_words(original_df):
     # Get all the words:
     words = []
@@ -244,8 +304,10 @@ def get_translated_word_stats():
 
 def print_translated_word_stats():
     unique_translated_words, unique_words, translated_words, total_words = get_translated_word_stats()
-    progr_mes = f'- [{unique_translated_words}] или [{round(unique_translated_words*100/unique_words,2)}%] от [{unique_words}] уникални думи са преведени\n'
-    progr_mes += f'- [{translated_words}] или [{round(translated_words*100/total_words,2)}%] от общо [{total_words}] думи са преведени\n'
+    unique_words_eta = get_eta_date(target_col='уникални_думи_процент', weighted=True)
+    total_words_eta = get_eta_date(target_col='общо_думи_процент', weighted=True)
+    progr_mes = f'- [{unique_translated_words}] или [{round(unique_translated_words*100/unique_words,2)}%] от [{unique_words}] уникални думи са преведени [ETA {unique_words_eta}]\n'
+    progr_mes += f'- [{translated_words}] или [{round(translated_words*100/total_words,2)}%] от общо [{total_words}] думи са преведени [ETA {total_words_eta}]\n'
     return progr_mes
 
 def estimate_letter_progress(df):
@@ -274,7 +336,8 @@ def get_estimate_revised_verses_progress(df=None):
 def estimate_revised_verses_progress(df=None):
     if df is None: df = load_translated_Bible() #easier to read the expected input and works ok by default
     revised_verses_count, total_verses_count = get_estimate_revised_verses_progress(df)
-    progr_mes = f'- [{revised_verses_count}] или [{round(revised_verses_count*100/total_verses_count, 2)}%] от общо [{total_verses_count}] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) и качени в уебсайта [BG KJV Книги](http://site-for-kjv-bg-translation.s3-website-us-east-1.amazonaws.com/)\n'
+    eta = get_eta_date(target_col='стихове_процент', weighted=True)
+    progr_mes = f'- [{revised_verses_count}] или [{round(revised_verses_count*100/total_verses_count, 2)}%] от общо [{total_verses_count}] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) и качени в уебсайта [BG KJV Книги](http://site-for-kjv-bg-translation.s3-website-us-east-1.amazonaws.com/)  [ETA {eta}]\n'
     return progr_mes
 
 def compile_bg_books():
@@ -324,7 +387,7 @@ def compile_en_books():
 def update_progress_in_the_readme_md(progr_mes):
     fileName = 'README.md'
     readMe = open(fileName, 'r', encoding='utf-8').readlines()
-    readMe = readMe[:-3]
+    readMe = readMe[:-4]
     readMe += [f"{mes}\n" for mes in progr_mes.split('\n')[:-1]]
     saveFile = open(fileName, 'w', encoding='utf-8')
     for line in readMe:

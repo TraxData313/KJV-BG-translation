@@ -6279,10 +6279,121 @@ sanctuaries:светилища
 
 
 
+Mat8:18 Сега кога/когато Исус видя велик множества около него, той даде заповед до/на/към заминавам на/помощна пълчл друг страна.
+Mat8:19 И крчл certain постанововед дойде, и каза на/помощна него, Господар, аз ще следвам теб whithersoever ти goest.
+Mat8:20 И Исус каза на/помощна него, Пълчл foxes имам/минвр/получавам holes, и пълчл прици от/за пълчл въздух имам/минвр/получавам nests; но пълчл Син от/за човек имаше/минвр не къде/където до/на/към слагам/полагамсе негов глава.
+Mat8:21 И друг от/за негов ученици каза на/помощна него, Господ, допускам мен първи до/на/към отивам и bury мой баща.
+Mat8:22 Но Исус каза на/помощна него, Следвам мен; и нека пълчл мъртъв bury техните мъртъв.
+-
+Mat8:18 Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.
+Mat8:19 And a certain scribe came, and said unto him, Master, I will follow thee whithersoever thou goest.
+Mat8:20 And Jesus saith unto him, The foxes have holes, and the birds of the air have nests; but the Son of man hath not where to lay his head.
+Mat8:21 And another of his disciples said unto him, Lord, suffer me first to go and bury my father.
+Mat8:22 But Jesus said unto him, Follow me; and let the dead bury their dead.
+
+
+mete:определям<<
+meted:определих<<
+meteyard:определянето<<
+
+certain:определен
+certainly:определено
+certainty:определеност
+uncertain:неопределен
+uncertainly:неопределено
+
+soever:кое*_и_Х_да<<
+where:къде/където<<
+to:до/на/към<<
+whither:накъде
+whithersoever:накъдетоида
+
+fox:лисица
+foxes:лисици
+
+hole:дупка
+holes:дупки
+
+nest:гнездо
+nests:гнезда
+
+bury:погребвам
+buried:погребах
+burying:погребвайки/погребване
+burial:погребение
+buriers:погребвачи
+buryingplace:погребномясто
+
+funeral(0)
+
+
+пълчл Син от/за човек -> Синът на човек 78 + 10 синът на човек (ръчен превод на комплекса)
+
+typo fix: прици->птици
 
 
 
 
+Mat8:23 И кога/когато той беше влезнах в крчл кораб, негов ученици последвах него.
+Mat8:24 И, обхванете, там въздигна крчл велик tempest в пълчл море, втолковамного това пълчл кораб беше covered с пълчл waves: но той беше asleep.
+Mat8:25 И негов ученици дойде до/на/към него, и awoke него, казвайки, Господ, запазвам ние: ние погивам.
+Mat8:26 И той каза на/помощна те, Защо са вий боязлив, О вий от/за малко вяра? Тогава той въздигна, и rebuked пълчл ветрове и пълчл море; и там беше крчл велик calm.
+Mat8:27 Но пълчл хора учудих, казвайки, Какво поведение от/за човек е това/този, това както/вечер пълчл ветрове и пълчл море obey него!
+-
+Mat8:23 And when he was entered into a ship, his disciples followed him.
+Mat8:24 And, behold, there arose a great tempest in the sea, insomuch that the ship was covered with the waves: but he was asleep.
+Mat8:25 And his disciples came to him, and awoke him, saying, Lord, save us: we perish.
+Mat8:26 And he saith unto them, Why are ye fearful, O ye of little faith? Then he arose, and rebuked the winds and the sea; and there was a great calm.
+Mat8:27 But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
+
+whirleth:вихри<<
+whirlwind:вихровятър<<
+tempest:ураган
+tempestuous:ураганен/ураганно
+hurricane(0)
+
+storm:буря
+stormy:бурен (вятър)
+
+wave:вълна/вълнувам/вълново
+	and wave it for a wave offering before the LORD
+waves:вълни
+waved:развълнува
+wavereth:вълнува
+	For he that wavereth is like a wave of the sea driven with the wind and tossed.
+wavering:вълнение
+
+asleep:заспал (добавено при сън/спя)
+
+wake:будя
+waketh:буди
+waked:будих
+wakened:набуди
+wakeneth:набуден
+	And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep. но е друга дума, не използваното awake
+
+awake:събудя
+awakest:събуждаш
+awaketh:събужда
+awaked:събудих
+awoke:събуди
+
+rebuke:порицавам?
+	disapproval, criticism, response aimed at correcting
+rebuked
+rebuker
+rebukes
+rebuketh
+unrebukeable:непорицаема
+
+calm:спокойствие/затишие??
+
+obey:подчънявам??
+obeyed
+obeyedst
+obeyeth
+obeying
+disobeyed
 
 
 
