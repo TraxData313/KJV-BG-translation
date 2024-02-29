@@ -6378,22 +6378,113 @@ awaketh:събужда
 awaked:събудих
 awoke:събуди
 
-rebuke:порицавам?
+rebuke:порицавам/порицаниe
 	disapproval, criticism, response aimed at correcting
-rebuked
-rebuker
-rebukes
-rebuketh
+rebuked:порицах
+rebuketh:порица
+rebuker:порицател
+rebukes:порицания
 unrebukeable:непорицаема
+rebuking:порицавайки/порицателство
 
-calm:спокойствие/затишие??
+calm:спокойствие
 
-obey:подчънявам??
-obeyed
-obeyedst
-obeyeth
-obeying
-disobeyed
+silence:мълчание
+
+quiet:тих/утишавам
+quieted:утиших
+quieteth:утиши
+quietly:тихо
+	to speak with him quietly
+quietness:тишина
+disquiet:разтишавам
+disquieted:разтиших
+disquietness:тишишие
+
+
+fulfil:изпълня<<
+obey:покорявам
+obeyeth:покорява
+obeyed:покорих
+obeyedst:покори
+obeying:покорявайки/покоряване
+disobeyed:непокори/разпокори
+obedience:покорство
+obedient:покорен
+disobedience:непокорство
+disobedient:непокорен
+
+subject:подчинен/подчинявам
+subjected:подчинен/подчиних
+subjection:подчинение
+
+<<
+Готово (ръчно оправени):
+open:откривам/открит -> отварям/отворен
+openest:откриеш -> отваряш
+openeth:открие -> отвори
+opened:откорих -> отворих
+openly:открито -> отворено
+opening:откривайки -> отваряйки
+openings:откривания -> отвори
+close:закривам -> затварям
+closest:закрива -> затваря
+closed:закрих -> затворих
+closer:по-крит -> по-затворен
+disclose:разкривам -> разтварям
+inclose:вкрия -> взатварям
+inclosed:вкрит -> взатворен
+<<
+
+
+cloak:покривало<<
+cover:покривам
+covers:покривки
+covered:покрити/покрих
+coveredst:покри
+coverest:покриваш
+covereth:покрива
+covering:покритие/покривайки
+coverings:покрития
+covert:прикритие
+uncover:откривам
+uncovered:открит
+uncovereth:откри
+discover:разкри
+discovered:разкрих
+discovereth:разкрива
+discovering:разкривайки
+
+
+
+
+
+
+
+
+
+Mat8:28 И кога/когато той беше идвам/дойдох до/на/към пълчл друг страна в пълчл държава от/за пълчл Gergesenes, там срещнах него две притежавах с дяволи, идване/идвайки от/вън от/за пълчл tombs, превишаващо fierce, така това няма човек бихмогъл минавам до/от/по това път.
+Mat8:29 И, обхванете, те извиках от/вън, казвайки, Какво имам/минвр/получавам ние до/на/към върша с теб, Исус, ти Син от/за Бог? си ти идвам/дойдох hither до/на/към изтезавам/изтезание ние преди/пред пълчл време?
+Mat8:30 И там беше крчл добро път предствк от те крчл herd от/за много свиня хранейки.
+Mat8:31 Така пълчл дяволи besought него, казвайки, Ако/дали ти запращам/запратих ние от/вън, допускам ние до/на/към отивам далеч_пътьом(ф/а) в пълчл herd от/за свиня.
+Mat8:32 И той каза на/помощна те, Отивам. И кога/когато те беше идвам/дойдох от/вън, те дойде в пълчл herd от/за свиня: и, обхванете, пълчл цял herd от/за свиня изтичах violently долу крчл steep място в пълчл море, и погинах в пълчл води.
+Mat8:33 И те това kept те избягах, и дойде техните пътища в пълчл град, и told всеки нещо, и какво беше befallen до/на/към пълчл притежавах от/за пълчл дяволи.
+Mat8:34 И, обхванете, пълчл цял град дойде от/вън до/на/към срещам/срещащ Исус: и кога/когато те видя него, те besought него това той бих/би/биха заминавам от/вън от/за техните брегове.
+-
+Mat8:28 And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
+Mat8:29 And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
+Mat8:30 And there was a good way off from them an herd of many swine feeding.
+Mat8:31 So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.
+Mat8:32 And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.
+Mat8:33 And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.
+Mat8:34 And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts.
+
+
+
+
+
+
+
 
 
 
