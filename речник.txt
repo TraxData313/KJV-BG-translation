@@ -121,6 +121,9 @@ speeches:речи
 spake:изговори
 tell:обясни
 telleth:обяснява
+tellest:обясняваш
+telling:обяснявайки/обясвяващ/обяснение
+told:обясних
 answer:отговор
 answereth:отговаря
 answered:отговорих
@@ -134,7 +137,6 @@ light:светлина
 lights:светлини
 lighted:светна
 lightest:светваш
-enlightened:просветлен
 saw:видя
 good:добро
 from:от
@@ -353,7 +355,6 @@ practise:практикува
 when:кога/когато
 mother:майка
 before:преди/пред
-came:дойде
 she:тя
 found:намери
 find:намирам
@@ -483,7 +484,6 @@ lo:ето
 unto:на/помощна
 him:него
 dream:сън
-fear:страхува
 thy:твоя
 that:това
 her:нея
@@ -507,6 +507,11 @@ rescueth:спасяваш
 rescued:спаси
 keep:пазя
 keeper:пазач
+keepers:пазачи
+keepest:пазиш
+keepeth:пази
+keeping:пазейки/пазещ/пазене
+kept:пазих
 guard:охрана
 preserve:съхрани
 redeem:изкупи
@@ -560,6 +565,9 @@ house:къща
 houses:къщи
 home:дом
 come:дойди/идвам/дойде
+came:дойде
+come out:излизам (ръчен превод)
+came out:излезнах (ръчен превод)
 go:отивам
 going:отивайки
 goest:отиваш/отидеш
@@ -989,6 +997,10 @@ falleth:пада
 falling:изпадащ
 fell:падна
 fallen:падна
+befall:нападна
+befalleth:напада
+befell:нападнах
+befallen:нападнал
 treasure:съкровище
 treasures:съкровища
 gift:дар
@@ -1177,6 +1189,9 @@ feareth:бои
 feared:боих
 fearful:боязлив
 fearfulness:боязливост
+fearfully:боязливо
+fearing:бояйки/боящ
+fears:боязъни
 affright:уплаши
 affrighted:уплашен
 afraid:уплашен
@@ -1487,6 +1502,7 @@ chickens:пилета
 lighting:светкавица
 enlighten:просветля
 enlightening:просветляващ
+enlightened:просветлен
 love:любя/любов
 lovest:любиш
 loveth:люби
@@ -1915,8 +1931,8 @@ pure:нямащпримеси
 purer:по-безпримесен
 purely:безпримесено
 pureness:безпримесеност
-peace:мир
 able:способен
+peace:мир
 peaceable:миротворен
 peaceably:миротворно
 peacemakers:мироправители
@@ -2767,7 +2783,7 @@ dog:куче
 dogs:кучета
 pearl:перла
 pearls:перли
-swine:свиня
+swine:свиня/свине
 trample:погазвам
 rend:разкъсвам
 knock:чукам
@@ -3083,3 +3099,32 @@ discover:разкри
 discovered:разкрих
 discovereth:разкрива
 discovering:разкривайки
+gergesenes:гаргесенци
+tomb:гробница
+tombs:гробници
+grave:гроб/гравирам
+graveth:гравира
+graved:гравира
+graven:гравиран
+graves:гробища
+graving:гравиращ/гравиране
+gravings:гравирания
+engrave:изгравирам
+engraven:изгравиран
+engraver:изгравител
+engravings:изгравирания
+gravel:чакъл
+fierce:свиреп
+fierceness:свирепост
+fiercer:по-свиреп
+here:тук
+hither:насам
+herd:стадо
+herds:стада
+herdman:стадар
+herdmen:стадари
+besought:протърсвах
+violent:агресивен
+violence:агресия
+violently:агресивно
+steep:стръмен

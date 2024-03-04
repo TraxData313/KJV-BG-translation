@@ -6467,17 +6467,123 @@ Mat8:28 И кога/когато той беше идвам/дойдох до/н
 Mat8:29 И, обхванете, те извиках от/вън, казвайки, Какво имам/минвр/получавам ние до/на/към върша с теб, Исус, ти Син от/за Бог? си ти идвам/дойдох hither до/на/към изтезавам/изтезание ние преди/пред пълчл време?
 Mat8:30 И там беше крчл добро път предствк от те крчл herd от/за много свиня хранейки.
 Mat8:31 Така пълчл дяволи besought него, казвайки, Ако/дали ти запращам/запратих ние от/вън, допускам ние до/на/към отивам далеч_пътьом(ф/а) в пълчл herd от/за свиня.
-Mat8:32 И той каза на/помощна те, Отивам. И кога/когато те беше идвам/дойдох от/вън, те дойде в пълчл herd от/за свиня: и, обхванете, пълчл цял herd от/за свиня изтичах violently долу крчл steep място в пълчл море, и погинах в пълчл води.
-Mat8:33 И те това kept те избягах, и дойде техните пътища в пълчл град, и told всеки нещо, и какво беше befallen до/на/към пълчл притежавах от/за пълчл дяволи.
-Mat8:34 И, обхванете, пълчл цял град дойде от/вън до/на/към срещам/срещащ Исус: и кога/когато те видя него, те besought него това той бих/би/биха заминавам от/вън от/за техните брегове.
 -
 Mat8:28 And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
 Mat8:29 And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
 Mat8:30 And there was a good way off from them an herd of many swine feeding.
 Mat8:31 So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.
+
+
+
+
+gergesenes:гаргесенци
+
+tomb:гробница
+tombs:гробници
+
+grave:гроб/гравирам
+graveth:гравира
+graved:гравира
+graven:гравиран
+graves:гробища
+graving:гравиращ/гравиране
+gravings:гравирания
+
+engrave:изгравирам
+engraven:изгравиран
+engraver:изгравител
+engravings:изгравирания
+
+gravel:чакъл
+
+<<
+fear:боя/боязън
+fearest:боиш
+feareth:бои
+feared:боих
+fearful:боязлив
+fearfulness:боязливост
+<<
+fearfully:боязливо
+fearing:бояйки/боящ
+fears:боязъни (добавени при fear)
+
+fierce:свиреп
+fierceness:свирепост
+fiercer:по-свиреп
+
+here:тук
+hither:насам
+
+herd:стадо
+herds:стада
+herdman:стадар
+herdmen:стадари
+
+бъда<<
+sought:търсеше<<
+besought:протърсвах
+
+keep:пазя<<
+keeper:пазач<<
+keepers:пазачи
+keepest:пазиш
+keepeth:пази
+keeping:пазейки/пазещ/пазене
+kept:пазих (добавени при keep)
+
+tell:обясни<<
+telleth:обяснява<<
+tellest:обясняваш
+telling:обяснявайки/обясвяващ/обяснение
+told:обясних (добавени при tell)
+
+<<
+fall:падам
+fallest:падаш
+falleth:пада
+falling:изпадащ
+fell:падна
+fallen:падна
+<<
+befall:нападна
+befalleth:напада
+befell:нападнах
+befallen:нападнал (добавени при fall)
+
+
+
+Mat8:32 И той каза на/помощна те, Отивам. И кога/когато те беше идвам/дойдох от/вън, те дойде в пълчл herd от/за свиня: и, обхванете, пълчл цял herd от/за свиня изтичах violently долу крчл steep място в пълчл море, и погинах в пълчл води.
+Mat8:33 И те това kept те избягах, и дойде техните пътища в пълчл град, и told всеки нещо, и какво беше befallen до/на/към пълчл притежавах от/за пълчл дяволи.
+Mat8:34 И, обхванете, пълчл цял град дойде от/вън до/на/към срещам/срещащ Исус: и кога/когато те видя него, те besought него това той бих/би/биха заминавам от/вън от/за техните брегове.
+-
 Mat8:32 And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters.
 Mat8:33 And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.
 Mat8:34 And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts.
+
+
+
+
+force:сила/насилвам<<
+forced:насили<<
+
+violent:насилствен / стихиен / буен / +размирен -> агресивен
+	thou hast delivered me from the violent man
+	and his violent dealing shall come down upon his own pate
+violence: ++насилие / -буйство / +размирие -> агресия
+	насилие: the earth was filled with violence
+	насилие: a thing taken away by violence
+violently: -насилствено / буйно / размирно? -> агресивно
+	had violently taken away
+	He will surely violently turn and toss thee like a ball into a large country
+	and the herd ran violently down a steep place into the sea
+
+aggression(0)
+
+steep:стръмен
+
+come out:излизам (ръчен превод)
+came out:излезнах (ръчен превод)
 
 
 
