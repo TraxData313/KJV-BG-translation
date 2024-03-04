@@ -15,9 +15,10 @@ if __name__=='__main__':
     df = f.load_translated_Bible()
     f.log_translated_progress(df)
     #estimate_letter_progress(df)
-    progr_mes = f.print_translated_word_stats()
-    progr_mes += f.estimate_revised_verses_progress(df)
-    progr_mes += f"- С текущия темп преводът ще завърши около [{f.get_the_final_eta_averaged_by_two_ways(weighted=True)}]\n"
+    weighted_eta_est = False
+    progr_mes = f.print_translated_word_stats(weighted=weighted_eta_est)
+    progr_mes += f.estimate_revised_verses_progress(df, weighted=weighted_eta_est)
+    progr_mes += f"- С текущия темп преводът ще завърши около [{f.get_the_final_eta_averaged_by_two_ways(weighted=weighted_eta_est)}]\n"
     print(progr_mes)
     f.update_progress_in_the_readme_md(progr_mes)
 

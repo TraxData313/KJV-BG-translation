@@ -102,9 +102,9 @@ def get_eta_date(target_col='уникални_думи_процент', weighted
     df = df.loc[df['дата']>'2024-01-01']
     if weighted:
         weights = range(1, len(df) + 1)
-        transl_rate = df['transl_rate'].dot(weights) / sum(weights)
     else:
-        transl_rate = df['transl_rate'].mean()
+        weights = df['days_delta']
+    transl_rate = df['transl_rate'].dot(weights) / sum(weights)
     # Calculate the ETA:
     comp_days = 100/transl_rate
     comp_date = str((first_date + pd.Timedelta(days=comp_days)).date())
@@ -126,10 +126,10 @@ def get_the_final_eta_averaged_by_two_ways(weighted=True):
         # Perc/day rate:
         df['transl_rate'] = df['perc_delta']/df['days_delta']
         if weighted:
-            weights = range(1, len(df))
-            transl_rate = df.loc[df['дата']>'2024-01-01']['transl_rate'].dot(weights) / sum(weights)
+            weights = range(1, len(df)) # increasing weights giving more weight to the newest entries: 1,2,3,4...
         else:
-            transl_rate = df.loc[df['дата']>'2024-01-01']['transl_rate'].mean()
+            weights = df.loc[df['дата']>'2024-01-01']['days_delta'] # standard average, taking into account the lenght of the observation
+        transl_rate = df.loc[df['дата']>'2024-01-01']['transl_rate'].dot(weights) / sum(weights)
         transl_rates.append(transl_rate)
         comp_days = 100/np.mean(transl_rate)
         comp_dayss.append(comp_days)
@@ -302,10 +302,10 @@ def get_translated_word_stats():
     unique_translated_words = len(df.loc[df['word_bg'].fillna(0)!=0])
     return unique_translated_words, unique_words, translated_words, total_words
 
-def print_translated_word_stats():
+def print_translated_word_stats(weighted=True):
     unique_translated_words, unique_words, translated_words, total_words = get_translated_word_stats()
-    unique_words_eta = get_eta_date(target_col='уникални_думи_процент', weighted=True)
-    total_words_eta = get_eta_date(target_col='общо_думи_процент', weighted=True)
+    unique_words_eta = get_eta_date(target_col='уникални_думи_процент', weighted=weighted)
+    total_words_eta = get_eta_date(target_col='общо_думи_процент', weighted=weighted)
     progr_mes = f'- [{unique_translated_words}] или [{round(unique_translated_words*100/unique_words,2)}%] от [{unique_words}] уникални думи са преведени [ETA {unique_words_eta}]\n'
     progr_mes += f'- [{translated_words}] или [{round(translated_words*100/total_words,2)}%] от общо [{total_words}] думи са преведени [ETA {total_words_eta}]\n'
     return progr_mes
@@ -333,10 +333,10 @@ def get_estimate_revised_verses_progress(df=None):
     revised_verses_count = total_verses_count - df['verse'].str.count(':').sum()
     return revised_verses_count, total_verses_count
 
-def estimate_revised_verses_progress(df=None):
+def estimate_revised_verses_progress(df=None, weighted=True):
     if df is None: df = load_translated_Bible() #easier to read the expected input and works ok by default
     revised_verses_count, total_verses_count = get_estimate_revised_verses_progress(df)
-    eta = get_eta_date(target_col='стихове_процент', weighted=True)
+    eta = get_eta_date(target_col='стихове_процент', weighted=weighted)
     progr_mes = f'- [{revised_verses_count}] или [{round(revised_verses_count*100/total_verses_count, 2)}%] от общо [{total_verses_count}] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) и качени в уебсайта [BG KJV Книги](http://site-for-kjv-bg-translation.s3-website-us-east-1.amazonaws.com/)  [ETA {eta}]\n'
     return progr_mes
 
