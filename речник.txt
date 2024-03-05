@@ -612,6 +612,7 @@ moses:мойсей
 two:две
 city:град
 pass:минавам
+passed:минах
 should:трябва
 nor:нито
 jerusalem:йерусалим
