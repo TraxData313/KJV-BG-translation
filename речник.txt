@@ -312,7 +312,7 @@ carriage:карета
 carriages:карети
 bring:изнася/износи/донасям
 bear:нося
-bare:износи
+bare:износи/понесе
 brought:донесен
 bearest:носиш
 bearing:носейки
@@ -1402,6 +1402,7 @@ laid:положен
 lain:положен
 laying:полагане
 lie:лежа/лъжа
+lying:лежащ/лежейки
 liest:лежиш/лъжеш
 lieth:лежи/лъже
 lied:лъжех
