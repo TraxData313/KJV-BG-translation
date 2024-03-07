@@ -6598,20 +6598,66 @@ Mat9:3 And, behold, certain of the scribes said within themselves, This man blas
 
 lying:лежащ/лежейки (добавен при lie:лежа/лъжа)
 
-bed:легло/постелка?
-beds
-bedstead
-bedchamber
+bed:легло
+beds:легла
 
-cheer
+joy:радост<<
+cheer:разведрявам/разведрение
+	shall cheer up his wife
+	.merry. heart maketh a .cheerful countenance.: but by .sorrow. of the heart the spirit is broken. / sorrow:мъка<<, countenance:изглед<<
+	добро разведрение?: be of good cheer
+cheereth:разведрява
+cheerful:ведър
+cheerfully:ведро
+cheerfulness:ведреност
 
-themselves
+merry:весел
+merrily:весело
+merryhearted:веселосърце
+mirth:веселие
 
-blasphemeth
+themselves:себеси
+
+blasphemy:богохулство
+blaspheme:богохулствам
+blasphemest:богохулстваш
+blasphemeth:богохулства
+blasphemed:богохулствах
+blasphemer:богохулник
+blasphemers:богохулници
+blasphemies:богохулства
+blaspheming:богохулствайки/богохулстващ
+blasphemous:богохулен
+blasphemously:богохулно
 
 
 
 
+
+Mat9:4 И Исус знаейки техните мисли каза, Закоито/закаквото мисля вий зло в ваш сърца?
+Mat9:5 За/защото whether е easier, до/на/към казвам, Твоя грехове бъда прости теб; или до/на/към казвам, Въздигам, и ходя?
+Mat9:6 Но това вий може знам това Синът на човек имаше/минвр мощ върху/на/помощна земя до/на/към прощавам грехове, (тогава каза той до/на/към пълчл болен от/за пълчл парализа,) Въздигам, взимам на/горе/въз твоя легло, и отивам на/помощна твое къща.
+Mat9:7 И той въздигна, и замина до/на/към негов къща.
+-
+Mat9:4 And Jesus knowing their thoughts said, Wherefore think ye evil in your hearts?
+Mat9:5 For whether is easier, to say, Thy sins be forgiven thee; or to say, Arise, and walk?
+Mat9:6 But that ye may know that the Son of man hath power on earth to forgive sins, (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.
+Mat9:7 And he arose, and departed to his house.
+
+whether:кое/дали
+
+easy:лесно
+easier:по-лесно
+easily:слекота
+ease:лекота
+eased:облекчен
+
+
+Mat9:8 Но кога/когато пълчл множества видя то, те учудих, и прославих Бог, което имаше/минвр даде such мощ на/помощна хора.
+-
+Mat9:8 But when the multitudes saw it, they marvelled, and glorified God, which had given such power unto men.
+
+such:такъв
 
 
 

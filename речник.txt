@@ -197,7 +197,7 @@ kind:вид
 yield:добивам
 yielding:добиващ
 after:след
-itself:себе си
+itself:себеси
 whose:чийто
 according:според
 brought forth:изкара(ръчен превод)
@@ -558,7 +558,7 @@ by:до/от/по
 israel:израел
 up:на/горе/въз
 there:там
-hath:имаше/минвр
+hath:има
 had:имаше/минвр
 into:в
 house:къща
@@ -3130,3 +3130,34 @@ violent:агресивен
 violence:агресия
 violently:агресивно
 steep:стръмен
+lying:лежащ/лежейки
+bed:легло
+beds:легла
+cheer:разведрявам/разведрение
+cheereth:разведрява
+cheerful:ведър
+cheerfully:ведро
+cheerfulness:ведреност
+merry:весел
+merrily:весело
+merryhearted:веселосърце
+mirth:веселие
+themselves:себеси
+blasphemy:богохулство
+blaspheme:богохулствам
+blasphemest:богохулстваш
+blasphemeth:богохулства
+blasphemed:богохулствах
+blasphemer:богохулник
+blasphemers:богохулници
+blasphemies:богохулства
+blaspheming:богохулствайки/богохулстващ
+blasphemous:богохулен
+blasphemously:богохулно
+whether:кое/дали
+easy:лесно
+easier:по-лесно
+easily:слекота
+ease:лекота
+eased:облекчен
+such:такъв
