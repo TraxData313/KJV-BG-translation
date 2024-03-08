@@ -6664,7 +6664,85 @@ such:такъв
 
 
 
+Mat9:9 И като Исус минах напред/изясняваша от оттогава, той видя крчл човек, наименувах/наименуван Matthew, седейки/седящ на/в пълчл receipt от/за custom: и той каза на/помощна него, Следвам мен. И той въздигна, и последвах него.
+Mat9:10 И то дойде до/на/към минавам, като Исус седях на/в ядивно в пълчл къща, обхванете, много бирници и sinners дойде и седях долу с него и негов ученици.
+Mat9:11 И кога/когато пълчл Фарисеи видя то, те каза на/помощна негов ученици, Защо яде ваш Господар с бирници и sinners?
+Mat9:12 Но кога/когато Исус слуши това, той каза на/помощна те, Те това бъда цял нужда/нуждая не крчл physician, но те това са болен.
+Mat9:13 Но отивам вий и уча какво това значиш, аз ще имам/минвр/получавам милост, и не sacrifice: за/защото аз съм не идвам/дойдох до/на/към на/призова пълчл праведен, но sinners до/на/към покаяние.
+-
+Mat9:9 And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him.
+Mat9:10 And it came to pass, as Jesus sat at meat in the house, behold, many publicans and sinners came and sat down with him and his disciples.
+Mat9:11 And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners?
+Mat9:12 But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick.
+Mat9:13 But go ye and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
 
+matthew:матей
+
+receive:получавам<<
+receipt:получателница
+
+publicans:бирници<<
+custom:привично/привичка
+	митница? данък /обичай / мито/такса /дължимо / митарницата/бирничеството
+	for the custom of women is upon me
+	abominable customs
+	привичното между жреца и хората: And the priest's custom with the people was ... all that the fleshhook brought up the priest took for himself
+customs:привички
+accustomed:привикнал
+	Can the Ethiopian change his skin, or the leopard his spots? then may ye also do good, that are accustomed to do evil.
+unaccustomed:непривикнал
+	несвикнал: I have surely heard Ephraim bemoaning himself thus; Thou hast chastised me, and I was chastised, as a bullock unaccustomed to the yoke: turn thou me, and I shall be turned; for thou art the LORD my God.	
+
+receipt of custom:привично получателница (ръчен преведено) /преведено, да се добави в речника само
+
+tradition:обичай
+traditions:обичаи
+
+taxed:обложих
+taxation:обложение
+taxes:обложения
+taxing:облагайки/облагащ
+
+toll:мито
+
+sin:грях/съгрешавам<<
+sins:грехове<<
+sinned:съгреших
+sinner:грешник
+sinners:грешници
+sinnest:съгрешаваш
+sinneth:съгрешава
+sinning:съгрешавайки/съгрешаване
+
+doctor:учен<<
+physician:лекар
+physicians:лекари
+
+sacrifice:жертва/жертвам
+sacrificed:жертвах
+sacrificeth:жертва
+sacrificedst:жетва
+sacrifices:жертви
+sacrificing:жертвайки/жертващ
+
+
+
+
+
+
+Mat9:14 Тогава дойде до/на/към него пълчл ученици от/за Йоан, казвайки, Защо върша ние и пълчл Фарисеи постя/пост/стегнато oft, но твоя ученици постя/пост/стегнато не?
+Mat9:15 И Исус каза им, Мога пълчл деца от/за пълчл bridechamber жалея, като long като пълчл bridegroom е с те? но пълчл дни ще идвам/дойдох, кога/когато пълчл bridegroom ще бъда взет от те, и тогава ще те постя/пост/стегнато.
+-
+Mat9:14 Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?
+Mat9:15 And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.
+
+oft
+
+bridechamber
+
+bridegroom
+
+long
 
 
 
