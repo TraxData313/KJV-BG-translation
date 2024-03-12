@@ -6736,13 +6736,46 @@ Mat9:15 И Исус каза им, Мога пълчл деца от/за пъл
 Mat9:14 Then came to him the disciples of John, saying, Why do we and the Pharisees fast oft, but thy disciples fast not?
 Mat9:15 And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.
 
-oft
+time:време<<
+times:времена<<
 
-bridechamber
+oft:часто
+ofttimes:частопъти
+often:често
+oftentimes:честопъти
+	oft/often :
+	Кое е най-подходящо?
+	поетично: часто/често
+	различни: често/редовно ; пъти/често
+	еднакви: често/често
+oftener:по-често
 
-bridegroom
+wedding:сватба/сватбен
 
+marry:женя<<
+bride:новобрачна   невеста/булка/младоженка
+bridegroom:новобрачник    младоженец
+	bride - от "брак", по-подразбиране жена
+	groom - стар корен за млад мъж, тук правейки думата в мъжки род
+
+chamber
+chambering:блудство/курварство
+chamberlain
+	lain: ?
+	by the chamber of Nathanmelech the chamberlain : при жилището на Натан-мелеха скопеца което бе в Карварин
+	скопец: the king's chamberlain, keeper of the women
+chamberlains
+chambers
+bedchamber
+bridechamber:брачна зала?
+guestchamber
+
+
+
+
+as:като<<
 long
+as long as
 
 
 
