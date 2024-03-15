@@ -6860,24 +6860,30 @@ issue:изтичане
 issues:изтичания
 issued:изтекох
 
-flow:тека?
+flow:тека
 flowed:потекох
-flower
-flowers
-floweth
-flowing
-overflow
-overflowed
-overfloweth
-overflowing
-overflown
-
+floweth:тече
+flowing:течейки/течащ
+overflow:заливам
+overflowed:залях
+overfloweth:залива
+overflowing:заливайки/заливащ/заливане
+overflown:залят
 
 twelve:дванадесет
 
-behind:отзад?
+behind:отзад
 
-herself:неяси?
+herself:неяси
+
+hem:полa
+hems:поли
+
+
+
+
+
+
 
 
 
@@ -6886,6 +6892,7 @@ herself:неяси?
 
 
 ...on the back of my mind...
+-TODO: 45NT_Римляни
 -TODO: add progress to the web home page
 -TODO: add the dict to the web for easy usage
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
