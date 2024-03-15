@@ -6758,24 +6758,126 @@ bridegroom:новобрачник    младоженец
 	bride - от "брак", по-подразбиране жена
 	groom - стар корен за млад мъж, тук правейки думата в мъжки род
 
-chamber
-chambering:блудство/курварство
-chamberlain
+closet:стая<<
+chamber:покой/камера?
+chambering:блудство/курварство (оставям го за сега)
+chamberlain:камеровед
+	скопец - на някои места превеждат скопец, но като разгледам всички няма такава индикация, за сега ще го оставя камеровед
 	lain: ?
 	by the chamber of Nathanmelech the chamberlain : при жилището на Натан-мелеха скопеца което бе в Карварин
 	скопец: the king's chamberlain, keeper of the women
-chamberlains
-chambers
-bedchamber
-bridechamber:брачна зала?
-guestchamber
+chamberlains:камероведи
+chambers:камери
+bedchamber:спалнакамера
+bridechamber:брачнакамера?
+guestchamber:гостнакамера
 
+eunuch:евнух
+eunuchs:евнуси
 
-
+hall:зала
 
 as:като<<
-long
-as long as
+along:надлъж<<
+long:дълъг
+as long as:докато (ръчно преведено)
+
+
+
+
+
+Mat9:16 Няма човек putteth крчл piece от/за нов премяна/пременям на/помощна крчл стар палто, за/защото това което е постави в до/на/към пълня то на/горе/въз взима от пълчл палто, и пълчл rent е направи worse.
+Mat9:17 Нито върша хора постави нов wine в стар bottles: иначе/друг пълчл bottles чупя, и пълчл wine runneth от/вън, и пълчл bottles погивам: но те постави нов wine в нов bottles, и both са съхраних.
+-
+Mat9:16 No man putteth a piece of new cloth unto an old garment, for that which is put in to fill it up taketh from the garment, and the rent is made worse.
+Mat9:17 Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.
+
+put:постави<<
+putteth:поставя
+puttest:поставяш
+putting:поставяйки/поставящ (добавени при put)
+
+piece:парче
+pieces:парчета
+
+<<
+dash:врязвам/разрязвам
+dashed:разрязвах
+dasheth:разрязва
+tear:раздирам
+teareth:раздира
+tears:сълзи
+rip:разпориш
+<<
+rent:съдирам
+
+bad:лош
+worse:по-лош
+worst:най-лош
+
+wine:вино
+wines:вина
+
+bottle:бутилка
+bottles:бутилки
+
+run:тичам<<
+ran:изтичах
+running:тичащ<<
+runnest:тичаш
+runneth:тича (добавени при run)
+
+both:двете/двамата
+
+
+
+
+Mat9:18 Докато той изговори тези неща на/помощна те, обхванете, там дойде крчл определен владетел, и поклони него, казвайки, Мой daughter е както/вечер/даже/също сега мъртъв: но идвам/дойдох и слагам/полагамсе твоя ръка над/ъпнвръз нея, и тя ще живея.
+Mat9:19 И Исус въздигна, и последвах него, и така свърши негов ученици.
+-
+Mat9:18 While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.
+Mat9:19 And Jesus arose, and followed him, and so did his disciples.
+
+daughter:дъщеря
+daughters:дъщери
+
+
+
+
+
+
+Mat9:20 И, обхванете, крчл жена, което беше заразен с крчл issue от/за кръв twelve години, дойде behind него, и докоснах пълчл hem от/за негов палто:
+Mat9:21 За/защото тя каза свътре herself, Ако/дали аз може но докосвам негов палто, аз ще бъда цял.
+Mat9:22 Но Исус обърнах/обръщах него около, и кога/когато той видя нея, той каза, Дъщеря, бъда от/за добро утеша/утеха; твоя вяра имаше/минвр направи теб цял. И пълчл жена беше направи цял от това час.
+-
+Mat9:20 And, behold, a woman, which was diseased with an issue of blood twelve years, came behind him, and touched the hem of his garment:
+Mat9:21 For she said within herself, If I may but touch his garment, I shall be whole.
+Mat9:22 But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.
+
+come out:излизам (ръчен превод)<<
+issue:изтичане
+	diseased with an issue of blood
+issues:изтичания
+issued:изтекох
+
+flow:тека?
+flowed:потекох
+flower
+flowers
+floweth
+flowing
+overflow
+overflowed
+overfloweth
+overflowing
+overflown
+
+
+twelve:дванадесет
+
+behind:отзад?
+
+herself:неяси?
 
 
 
