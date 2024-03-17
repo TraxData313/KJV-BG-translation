@@ -3263,3 +3263,15 @@ blind:сляп/заслепявам
 blinded:заслепих
 blindeth:заслепява
 blindness:слепота
+spread:разпростирам
+spreadest:разпростираш
+spreadeth:разпростира
+spreading:разпростирайки/разпростиращ
+spreadings:разпростиранията
+overspread:преразпростря
+overspreading:преразпростиране
+dumb:ням
+village:село
+villages:села
+town:селище
+towns:селища

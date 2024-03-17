@@ -6946,6 +6946,104 @@ blindeth:заслепява
 blindness:слепота
 
 
+Mat9:31 Но те, кога/когато те беше замина, spread нашире негов знатност в всички това държава.
+-
+Mat9:31 But they, when they were departed, spread abroad his fame in all that country.
+
+
+spread:разпростирам
+spreadest:разпростираш
+spreadeth:разпростира
+spreading:разпростирайки/разпростиращ
+spreadings:разпростиранията
+overspread:преразпростря
+overspreading:преразпростиране
+
+
+
+
+Mat9:32 Като те излезнах, обхванете, те донесен до/на/към него крчл dumb човек притежавах с крчл дявол.
+Mat9:33 И кога/когато пълчл дявол беше запращам/запратих от/вън, пълчл dumb изговори: и пълчл множества учудих, казвайки, То беше никога така видя в Израел.
+Mat9:34 Но пълчл Фарисеи каза, Той запраща от/вън дяволи из пълчл принц от/за пълчл дяволи.
+-
+Mat9:32 As they went out, behold, they brought to him a dumb man possessed with a devil.
+Mat9:33 And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel.
+Mat9:34 But the Pharisees said, He casteth out devils through the prince of the devils.
+
+dumb:ням
+
+
+
+
+
+Mat9:35 И Исус обиколи всички пълчл градове и villages, преподавайки/преподаващ в техните синагоги, и проповядвайки пълчл благовестие от/за пълчл царство, и оздравяване всеки болест и всеки зараза между пълчл народ.
+-
+Mat9:35 And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.
+
+
+village:село
+villages:села
+
+town:селище
+towns:селища
+
+
+
+
+
+Mat9:36 Но кога/когато той видя пълчл множества, той беше придвижи с compassion върху/на/помощна те, порадипричинатаче те fainted, и беше scattered нашире, като овца/овце имащ/имайки няма shepherd.
+Mat9:37 Тогава каза той на/помощна негов ученици, Пълчл harvest истинно е plenteous, но пълчл labourers са малоброй;
+Mat9:38 Моля вий затова пълчл Господ от/за пълчл harvest, това той ще пращам напред/изясняваша labourers в негов harvest.
+-
+Mat9:36 But when he saw the multitudes, he was moved with compassion on them, because they fainted, and were scattered abroad, as sheep having no shepherd.
+Mat9:37 Then saith he unto his disciples, The harvest truly is plenteous, but the labourers are few;
+Mat9:38 Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.
+
+
+compass
+compassed
+compassest
+compasseth
+compassing
+.compassion:състрадание/съчувствие/милост/съжаление/жалост?
+compassions
+
+faint:слаб/блед/припадък/отпаднал/немощен/отпаднал?
+.fainted
+faintest
+fainteth
+fainthearted
+faintness
+
+scatter:пръскам/разпръскам?
+.scattered
+scattereth
+scattering
+
+shepherd:пастир/овчар?
+shepherds
+
+harvest:жътва/реколта?
+harvestman
+
+plenty:изобилно/достатъчно
+plentiful
+plentifully
+.plenteous:изобилнен??
+plenteousness
+
+toil:труд<<
+work:работа/работя<<
+labour:?
+laboured
+labourer
+labourers
+laboureth
+labouring
+labours
+
+
+
 
 
 
