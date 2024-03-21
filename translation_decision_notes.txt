@@ -7000,6 +7000,45 @@ Mat9:37 Then saith he unto his disciples, The harvest truly is plenteous, but th
 Mat9:38 Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.
 
 
+abundant:изобилен<<
+abundantly:изобилно<<
+
+pleased:доволен/задоволен<<
+please:задоволявам<<
+pleaseth:задоволява<<
+pleasing:задоволяващ<<
+
+plenty:задоволно/задоволство
+plenteous:задоволен
+plenteousness:задоволност
+	seven years of great plenty
+	the seven plenteous years
+	the seven years of plenteousness
+plentiful:задоволствен
+plentifully:задоволствено
+	the Latin word "plenus," meaning "full" or "complete"
+
+overflow:заливам<<
+
+perfect:съвършен<<
+sufficient:достатъчен<<
+sufficiently:достатъчно<<
+sufficiency:достатъчност<<
+enough:стига/стигащ
+
+toil:труд<< -> трепане/трепясе (Мат 6:28)
+toiled:трудих<< -> трепяхсе
+toiling:трудейки<< -> трепейкисе (коригирани)
+work:работа/работя<<
+labour:труд
+laboured:трудих
+labourer:трудник
+labourers:трудници
+laboureth:труди
+labouring:трудейки
+labours:трудности
+
+
 compass
 compassed
 compassest
@@ -7026,21 +7065,8 @@ shepherds
 harvest:жътва/реколта?
 harvestman
 
-plenty:изобилно/достатъчно
-plentiful
-plentifully
-.plenteous:изобилнен??
-plenteousness
 
-toil:труд<<
-work:работа/работя<<
-labour:?
-laboured
-labourer
-labourers
-laboureth
-labouring
-labours
+
 
 
 
