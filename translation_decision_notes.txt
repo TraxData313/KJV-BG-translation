@@ -6991,6 +6991,8 @@ towns:селища
 
 
 
+
+
 Mat9:36 Но кога/когато той видя пълчл множества, той беше придвижи с compassion върху/на/помощна те, порадипричинатаче те fainted, и беше scattered нашире, като овца/овце имащ/имайки няма shepherd.
 Mat9:37 Тогава каза той на/помощна негов ученици, Пълчл harvest истинно е plenteous, но пълчл labourers са малоброй;
 Mat9:38 Моля вий затова пълчл Господ от/за пълчл harvest, това той ще пращам напред/изясняваша labourers в негов harvest.
@@ -7039,56 +7041,43 @@ labouring:трудейки
 labours:трудности
 
 
-compass
-compassed
-compassest
-compasseth
-compassing
-.compassion:състрадание/съчувствие/милост/съжаление/жалост?
-compassions
+behold:обхванете<<
+compass:обхващам/обикалям?
+compassest:обикаляш
+compasseth:обикаля
+compassed:обиколих
+compassing:обикалящ
+.compassion:състрадание
+	"compati," which means "to suffer with."
+compassions:състрадания
 
-faint:слаб/блед/припадък/отпаднал/немощен/отпаднал?
-.fainted
-faintest
-fainteth
-fainthearted
-faintness
+weak:слаб<<
+infirmity:немощ<<
+faint:премалям/премалял
+.fainted:премалям
+faintest:премаляш
+fainteth:премаля
+faintness:премалялост
+fainthearted:премалялосърц
 
-scatter:пръскам/разпръскам?
-.scattered
-scattereth
-scattering
+scatter:разпръсквам
+scattered:разпръснах/разпръснат
+scattereth:разпръска
+scattering:разпръскване
 
-shepherd:пастир/овчар?
-shepherds
+shepherd:пастир
+shepherds:пастири
 
-harvest:жътва/реколта?
-harvestman
-
-
-
-
-
-
-
+reap:жъна<<
+harvest:жетва
+harvestman:жетвар
 
 
 
 
-
-
-...on the back of my mind...
--TODO: 45NT_Римляни
--TODO: add progress to the web home page
--TODO: add the dict to the web for easy usage
--TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
-
-
-
-
-
-
-Защо правя това?
+-----------------------------------------------
+Март.2024 Защо правя това?
+-----------------------------------------------
 
 Ако допуснем, че 
 	- [всички хора са равни и еднакви, а само обстоятелствата, като телата и ролите в които сме поставени, са различни] (A)
@@ -7116,6 +7105,129 @@ harvestman
 
 
 "И по това сме уверени, че Го познаваме, ако пазим заповедите Му." 1 Йоаново 2:3
+
+-----------------------------------------------
+
+
+
+
+
+
+
+
+
+among:между -> измежду?
+between:между
+
+
+
+
+
+Mat10:1 И кога/когато той имаше/минвр на/призова на/помощна него негов дванадесет ученици, той даде те мощ срещу нечист духове, до/на/към запращам/запратих те от/вън, и до/на/към оздравявам всички поведение от/за болест и всички поведение от/за зараза.
+Mat10:2 Сега пълчл имена от/за пълчл дванадесет apostles са тези; Пълчл първи, Симон, кой е на/призова Петър, и Андрей неговият брат; Яков пълчл син от/за Заведей, и Йоан неговия брат;
+Mat10:3 Philip, и Bartholomew; Thomas, и Матей пълчл бирник; Яков пълчл син от/за Alphaeus, и Lebbaeus, чийто презиме/презименувам беше Thaddaeus;
+Mat10:4 Симон пълчл Canaanite, и Юдя Iscariot, кой също betrayed него.
+-
+Mat10:1 And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.
+Mat10:2 Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;
+Mat10:3 Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;
+Mat10:4 Simon the Canaanite, and Judas Iscariot, who also betrayed him.
+
+
+apostle:апостол
+apostles:апостоли
+
+philip:филип
+bartholomew:вартоломей
+thomas:тома
+alphaeus:алфей
+lebbaeus:левей
+thaddaeus:тадей
+iscariot:искариотски
+
+canaan:ханаан
+canaanite:ханаанец
+canaanites:ханаанци
+canaanitess:ханаанка
+canaanitish:ханаанска
+
+betray:предавам
+betrayest:предаваш
+betrayeth:предава
+betrayed:предадох
+betrayers:предатели
+
+
+
+
+Mat10:5 Тези дванадесет Исус прати напред/изясняваша, и заповяда те, казвайки, Отивам не в пълчл път от/за пълчл Езичници, и в някой/някое град от/за пълчл Samaritans влизам вий не:
+Mat10:6 Но отивам rather до/на/към пълчл изгубен овца/овце от/за пълчл къща от/за Израел.
+Mat10:7 И като вий отивам, проповядвам, казвайки, Царството от небето е на ръка.
+Mat10:8 Оздравявам пълчл болен, чистя пълчл прокажници, въздига пълчл мъртъв, запращам/запратих от/вън дяволи: свободно вий имам/минвр/получавам получих, свободно дава.
+-
+Mat10:5 These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:
+Mat10:6 But go rather to the lost sheep of the house of Israel.
+Mat10:7 And as ye go, preach, saying, The kingdom of heaven is at hand.
+Mat10:8 Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.
+
+
+samaria:самария
+samaritan:самарянин
+samaritans:самаряни
+rather:по-скоро
+
+
+
+
+
+Mat10:9 Снабдявам нито злато, нито silver, нито brass в ваш purses,
+Mat10:10 Нито scrip за/защото ваш journey, нито две дрехи, нито обувки, нито още/обаче staves: за/защото пълчл работник е достоен от/за негов ядивно.
+-
+Mat10:9 Provide neither gold, nor silver, nor brass in your purses,
+Mat10:10 Nor scrip for your journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat.
+
+
+silver:сребро
+silversmith:среброковач
+brass:бронз
+copper:мед
+coppersmith:медоковач
+
+purse:кесия
+purses:кесии
+scrip:торба
+bag:мешец
+bags:мешци
+
+journey:пътешествие/пътешествам
+journeys:пътешествия
+journeyed:пътешествах
+journeying:пътешестване
+journeyings:пътешествания
+
+
+staff:тояга?
+staves:тояги?
+
+
+
+
+
+
+
+
+...on the back of my mind...
+-TODO: 45NT_Римляни
+-TODO: add progress to the web home page
+-TODO: add the dict to the web for easy usage
+-TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
+
+
+
+
+
+
+
 
 
 
