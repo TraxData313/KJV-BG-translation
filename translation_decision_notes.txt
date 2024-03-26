@@ -7205,9 +7205,84 @@ journeyed:пътешествах
 journeying:пътешестване
 journeyings:пътешествания
 
+staff:тояга
+staves:тояги
 
-staff:тояга?
-staves:тояги?
+
+
+
+Mat10:11 И в каквотоидае град или селище вий ще влизам, проискам кой в то е достоен; и там abide докато/до/ора вий отивам оттогава.
+Mat10:12 И кога/когато вий идвам/дойдох в крчл къща, поздравявам то.
+Mat10:13 И ако/дали пълчл къща бъда достоен, нека ваш мир идвам/дойдох над/ъпнвръз то: но ако/дали то бъда не достоен, нека ваш мир връщам до/на/към вие.
+Mat10:14 И койтоида ще не получавам вие, нито слуша ваш думи, кога/когато вий заминавам от/вън от/за това къща или град, shake предствк пълчл прах от/за ваш крака.
+Mat10:15 Верно ви казвам, То ще бъда повече tolerable за/защото пълчл територия от/за Sodom и Gomorrha в пълчл ден от/за отсъждение, от за/защото това град.
+-
+Mat10:11 And into whatsoever city or town ye shall enter, enquire who in it is worthy; and there abide till ye go thence.
+Mat10:12 And when ye come into an house, salute it.
+Mat10:13 And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you.
+Mat10:14 And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet.
+Mat10:15 Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city.
+
+endure:търпя<<
+bare:износи/понесе<<
+dwell:пребивавам<<
+room:обиталище<<
+stay:стоя<<
+resist:съпротивлявам<<
+abide:устоявам/устой
+	чакам: but we will abide in the street all night
+	издържам: Every thing that may abide the fire, ye shall make it go through the fire, and it shall be clean
+abideth:устоява
+
+tolerable:поносимо
+
+remain:оставам
+remainest:оставаш
+remaineth:остава
+remainder:остатък
+remained:останах
+remaining:оставайки/оставащ
+
+wait:чакам
+waiteth:чака
+waited:чаках
+waiting:чакайки/чакащ
+await:очаквам
+
+shake:разклащам
+	разтърсвям/изтърсвам (+out)
+	they shake the head
+shaked:разклатих
+shook:разклати
+shaken:разклатен
+shaketh:разклаща
+shaking:разклащайки/разклащане
+
+sodom:содом
+sodoma:содома
+sodomite:содомит
+sodomites:содомити
+
+gomorrah:гомор
+gomorrha:гомора
+
+
+
+
+Mat10:16 Обхванете, аз пращам вие напред/изясняваша като овца/овце в пълчл посредата от/за вълци: бъда вий затова мъдър/начин като змии, и harmless като гълъби.
+Mat10:17 Но датибъдеизобличено от/за хора: за/защото те ще доставям/избавям вие на/горе/въз до/на/към пълчл синедриони, и те ще scourge вие в техните синагоги;
+Mat10:18 И вий ще бъда донесен преди/пред управители и царе за/защото мой заради, за/защото крчл показание срещу те и пълчл Езичници.
+-
+Mat10:16 Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves.
+Mat10:17 But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;
+Mat10:18 And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
+
+
+harmless
+scourge
+
+
+
 
 
 
