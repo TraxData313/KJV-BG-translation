@@ -7278,8 +7278,41 @@ Mat10:17 But beware of men: for they will deliver you up to the councils, and th
 Mat10:18 And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
 
 
-harmless
-scourge
+harm:вреда/навреждам
+harmless:ненавреждащ
+
+insult(0)
+suffer:допускам<<
+hurt:постради/постраждам/пострада?
+	If men strive, and hurt a woman with child,
+	физически, не става обида: And if one man's ox hurt another's, that he die
+hurtful:вреден? / страдателен?
+hurting:
+	which hath kept me back from hurting thee
+
+wound:рана/наранявам?
+wounded
+woundedst
+woundeth
+wounding
+wounds
+
+pain:болка/боли<<
+
+damage:щета?
+	why should damage grow to the hurt of the kings?
+
+injury(0):травма/повреда
+injured?
+
+
+scourge:бич?
+scourged
+scourges
+scourgeth
+scourging
+scourgings
+
 
 
 
