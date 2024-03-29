@@ -7286,37 +7286,85 @@ suffer:допускам<<
 hurt:постради/постраждам/пострада?
 	If men strive, and hurt a woman with child,
 	физически, не става обида: And if one man's ox hurt another's, that he die
-hurtful:вреден? / страдателен?
-hurting:
+hurtful:страдателен
+hurting:пострадайки
 	which hath kept me back from hurting thee
 
 wound:рана/наранявам?
-wounded
-woundedst
-woundeth
-wounding
-wounds
+wounded:нараних/наранен
+woundedst:нараняваш
+woundeth:наранява
+wounding:нараняване
+wounds:рани
 
 pain:болка/боли<<
 
-damage:щета?
+damage:щета
 	why should damage grow to the hurt of the kings?
+endamage:ощетиш
 
+offend:провиня<<
 injury(0):травма/повреда
-injured?
+injured(1):оскърбили??? (ще го оставя като стигна)
 
 
-scourge:бич?
-scourged
-scourges
-scourgeth
-scourging
-scourgings
+scourge:бич/бичувам
+scourged:бичивах
+scourges:бичове
+scourgeth:бичува
+scourging:бичуване
+scourgings:бичувания
+
+whip:камшик
+lash(0)
 
 
 
 
 
+
+
+
+Mat10:21 И пълчл брат ще доставям/избавям на/горе/въз пълчл брат до/на/към смърт, и пълчл баща пълчл дете: и пълчл деца ще вдигам на/горе/въз срещу техните parents, и причина/причиня те до/на/към бъда постави до/на/към смърт.
+Mat10:22 И вий ще бъда мразих от/за всички хора за/защото мой име's заради: но той това търпи до/на/към пълчл край/приключвам ще бъда saved.
+Mat10:23 Но кога/когато те преследвам вие в това/този град, бягам вий в друг: за/защото верно ви казвам, Вий ще не имам/минвр/получавам gone над/ъпнвръз пълчл градове от/за Израел, докато/до/ора Синът на човек бъда идвам/дойдох.
+-
+Mat10:21 And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death.
+Mat10:22 And ye shall be hated of all men for my name's sake: but he that endureth to the end shall be saved.
+Mat10:23 But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.
+
+
+parents:родители
+
+save:запазвам<<
+saved:запазих/запазен
+savest:запазваш
+saveth:запазва
+
+go:отивам<<
+gone:отишъл
+
+go/went/gone over над/ъпнвръз - преминавам (ръчен превод)
+
+
+
+
+
+Mat10:25 То е стига/стигащ за/защото пълчл ученик това той бъда като негов господар, и пълчл служител като негов господ. Ако/дали те имам/минвр/получавам на/призова пълчл господар от/за пълчл къща Beelzebub, как/колко много повече ще те на/призова те от/за негов household?
+Mat10:26 Боя/боязън те не затова: за/защото там е нищо покрити/покрих, това ще не бъда revealed; и криех, това ще не бъда позна.
+Mat10:27 Какво аз обясни вие в тъмнина, това говоря вий в светлина: и какво вий слуша в пълчл ear, това проповядвам вий над/ъпнвръз пълчл housetops.
+Mat10:28 И боя/боязън не те което убива пълчл тяло, но са не способен до/на/към убива пълчл душа: но по-скоро боя/боязън него което е способен до/на/към разрушавам двете/двамата душа и тяло в ад.
+-
+Mat10:25 It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?
+Mat10:26 Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known.
+Mat10:27 What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops.
+Mat10:28 And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.
+
+Beelzebub
+household
+revealed
+ear
+housetops
 
 
 
