@@ -7360,11 +7360,105 @@ Mat10:26 Fear them not therefore: for there is nothing covered, that shall not b
 Mat10:27 What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops.
 Mat10:28 And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell.
 
-Beelzebub
-household
-revealed
-ear
-housetops
+
+10:25 Стига на ученика да бъде като господаря си, и на служителя като господа си. Ако назоваваха господаря на къщата Веелзевул, колко много повече ще назоват тези от къщoдържанието му?
+10:26 Не се бойте от тях затова: защото няма нищо покрито, което не ще бъде разбулено; и скрито, което не ще бъде познато.
+10:27 Каквото аз ви обяснявам в тъмнина, това говорете вий в светлина: и каквото вий слушате в ухото, това проповядвайте вий връз къщовърховете.
+10:28 И не се бойте от тези които убиват тялото, но не са способни да убият душата: но по-скоро се бойте от онзи който е способен да разруши и двете душа и тяло в ада.
+
+beelzebub:веелзевул
+
+uncover:откривам<<
+discover:разкри<<
+vail:воал<<
+reveal:разбулвам
+revealeth:разбулва
+revealed:разбулвих
+revealer:разбулител
+
+appear:яви<<
+appearance:проявление<< -> явление (готово)
+
+manifest:проявявам
+manifested:проявих
+manifestly:проявлено
+manifestation:проявление
+
+ear:ухо/клас
+ears:уши/класове
+eared:класувана
+earing:класуване
+
+hill:хълм<<
+top:връх
+roof:покрив<<
+tops:върхове
+housetop:къщовръх
+housetops:къщовърхове
+hold:държа/държание<<
+household:къщoдържание
+households:къщoдържания
+householder:къщoдържател
+
+
+
+
+
+
+Mat10:29 Са не две sparrows sold за/защото крчл асарий? и едно от/за те ще не падам върху/на/помощна пълчл земля свън ваш Баща.
+Mat10:30 Но пълчл много коси от/за ваш глава са всички numbered.
+Mat10:31 Боя/боязън вий не затова, вий са от/за повече value от много sparrows.
+-
+Mat10:29 Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.
+Mat10:30 But the very hairs of your head are all numbered.
+Mat10:31 Fear ye not therefore, ye are of more value than many sparrows.
+
+sparrow:врабче
+sparrows:врабчета
+
+sell:продавам
+seller:продавач
+sellers:продавачи
+sellest:продаваш
+selleth:продава
+sold:продадох
+
+<<
+wars:войни
+warfare:воюване
+warring:воювайки/воюващ
+warrior:войник
+warriors:войници
+(sold)ier:военнослужещ -> наемник??
+soldiers:военнослужещи
+<< трябва да помисля, за сега ги оставям така
+
+number:число/изчислявам
+	Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number.
+numbered:изчислих
+numberest:изчисляваш
+numbering:изчисление
+numbers:числа
+
+count:броя
+counted:броих/броен
+counteth:брои
+counting:броейки
+
+account:преброение
+accounted:преброен
+accounting:проброявайки
+accounts:проброения
+
+
+value:стойност/остойностявам
+valued:остойностих
+valuest:остоностяваш
+
+price:цена
+prices:цени
+
+
 
 
 
