@@ -7462,6 +7462,51 @@ prices:цени
 
 
 
+Mat10:32 Койтоида затова ще признавам мен преди/пред хора, него ще аз признавам също преди/пред мой Баща което е в небе.
+Mat10:33 Но койтоида ще deny мен преди/пред хора, него ще аз също deny преди/пред мой Баща което е в небе.
+-
+Mat10:32 Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.
+Mat10:33 But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.
+
+dismissed:разпускам
+
+renounced:отричам<<
+accept:приемам<<
+deny:отхвърлям? поне
+	"to say no" or "to refuse."
+	The Latin root "de-" means "away" or "down from," and "negare" means "to say no" or "to refuse."
+	it (the stone) shall be therefore a witness unto you, lest ye deny your God.
+	Whosoever will come after me, let him deny himself, and take up his cross, and follow me
+denying
+
+refuse:отказвам?
+	сеотказа: but he refused to be comforted
+	сеотказа: if thou refuse to let him go
+refused
+refusedst
+refuseth
+
+reject:отхвърлям?
+	because thou hast rejected knowledge, I will also reject thee
+rejected
+rejecteth
+
+decline:отказвам?
+declined
+declineth
+
+contradicting?
+contradiction
+
+acknowledge??
+acknowledged
+acknowledgement
+acknowledgeth
+acknowledging
+
+
+
+
 
 
 
