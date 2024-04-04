@@ -3447,3 +3447,16 @@ valued:остойностих
 valuest:остоностяваш
 price:цена
 prices:цени
+dismissed:разпускам
+deny:негирам
+denying:негирайки
+refuse:отказвам
+refused:отказах
+refusedst:отказа
+refuseth:отказва
+reject:отхвърлям
+rejected:отхвърлих
+rejecteth:отхвърля
+decline:отклонявам
+declined:отклоних
+declineth:отклонява

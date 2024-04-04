@@ -7472,37 +7472,51 @@ dismissed:разпускам
 
 renounced:отричам<<
 accept:приемам<<
-deny:отхвърлям? поне
+deny:негирам
 	"to say no" or "to refuse."
 	The Latin root "de-" means "away" or "down from," and "negare" means "to say no" or "to refuse."
 	it (the stone) shall be therefore a witness unto you, lest ye deny your God.
 	Whosoever will come after me, let him deny himself, and take up his cross, and follow me
-denying
+denying:негирайки
 
-refuse:отказвам?
+refuse:отказвам
 	сеотказа: but he refused to be comforted
 	сеотказа: if thou refuse to let him go
-refused
-refusedst
-refuseth
+refused:отказах
+refusedst:отказа
+refuseth:отказва
 
-reject:отхвърлям?
+reject:отхвърлям
 	because thou hast rejected knowledge, I will also reject thee
-rejected
-rejecteth
+rejected:отхвърлих
+rejecteth:отхвърля
 
-decline:отказвам?
-declined
-declineth
+decline:отклонявам
+declined:отклоних
+declineth:отклонява
+divert(0)
 
-contradicting?
-contradiction
 
-acknowledge??
-acknowledged
-acknowledgement
-acknowledgeth
-acknowledging
+
+
+Mat10:34 Мисля не това аз съм идвам/дойдох до/на/към пращам мир върху/на/помощна земя: аз дойде не до/на/към пращам мир, но крчл sword.
+Mat10:35 За/защото аз съм идвам/дойдох до/на/към сложи/сядам крчл човек на/в variance срещу негов баща, и пълчл дъщеря срещу нея майка, и пълчл дъщеря в закон срещу нея майка в закон.
+Mat10:36 И крчл човек's foes ще бъда те от/за негов собствен къщoдържание.
+-
+Mat10:34 Think not that I am come to send peace on earth: I came not to send peace, but a sword.
+Mat10:35 For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.
+Mat10:36 And a man's foes shall be they of his own household.
+
+
+sword
+
+variance
+
+foes
+
+
+
+
 
 
 
