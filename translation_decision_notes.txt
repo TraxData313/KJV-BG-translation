@@ -7508,14 +7508,43 @@ Mat10:35 For I am come to set a man at variance against his father, and the daug
 Mat10:36 And a man's foes shall be they of his own household.
 
 
-sword
+sword:меч
+swords:мечове
 
-variance
+variance:разногласие
+	It originates from the Latin word "variantia," which means "difference" or "disagreement."
+	For I am come to set a man at variance against his father
+variableness:изменение
 
-foes
+change:променям/промяна
+changes:промени
+changest:променяш
+changeth:променя
+changed:промених
+changers:променители
+changeable:променим
+
+alter:видоизменям
+altereth:видоизмени
+altered:видоизмених
+
+foes:противници
+
+enemy:враг
+enemies:врагове
 
 
 
+
+
+
+Mat10:37 Той това люби баща или майка повече от мен е не достоен от/за мен: и той това люби син или дъщеря повече от мен е не достоен от/за мен.
+Mat10:38 И той това взима не негов cross, и следва след мен, е не достоен от/за мен.
+Mat10:39 Той това намира негов живот ще губя то: и той това губиш негов живот за/защото мой заради ще намирам то.
+
+
+cross:кръст
+crossway:кръстопът
 
 
 
