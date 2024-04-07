@@ -2346,6 +2346,8 @@ communicated:съобщувах
 communication:съобщуване
 communications:съобщувания
 message:съобщение
+messenger:съобщител
+messengers:съобщители
 epistle:послание
 epistles:послания
 yea:даа
@@ -3485,3 +3487,13 @@ cups:чаши
 cupbearer:чашоносец
 cupbearers:чашоносци
 cold:студен
+lame:куц/куци
+deaf:глух/глухи
+reed:тръстика
+reeds:тръстики
+soft:мек
+softer:по-мек
+softly:меко
+elias:илия
+elijah:илиях
+eliah:илиах
