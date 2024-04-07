@@ -176,6 +176,7 @@ gathereth:събира
 together:заедно
 along:надлъж
 one:едно
+ones:поясняваОнес
 place:място
 sea:море
 seas:морета
@@ -3479,3 +3480,8 @@ enemy:враг
 enemies:врагове
 cross:кръст
 crossway:кръстопът
+cup:чаша
+cups:чаши
+cupbearer:чашоносец
+cupbearers:чашоносци
+cold:студен

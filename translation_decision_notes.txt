@@ -7551,6 +7551,25 @@ crossway:кръстопът
 
 
 
+Mat10:40 Той това получава вие получава мен, и той това получава мен получава него това прати мен.
+Mat10:41 Той това получава крчл пророк в пълчл име от/за крчл пророк ще получавам крчл пророк's награда/награждавам; и той това получава крчл праведен човек в пълчл име от/за крчл праведен човек ще получавам крчл праведен човек's награда/награждавам.
+Mat10:42 И койтоида ще дава до/на/към пия/напитка на/помощна едно от/за тези малко ones крчл cup от/за cold вода единствено в пълчл име от/за крчл ученик, верно ви казвам, той ще в няма мъдър/начин губя негов награда/награждавам.
+-
+Mat10:40 He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.
+Mat10:41 He that receiveth a prophet in the name of a prophet shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward.
+Mat10:42 And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
+
+cup:чаша
+cups:чаши
+cupbearer:чашоносец
+cupbearers:чашоносци
+
+cold:студен
+
+ones
+
+
+
 
 
 
