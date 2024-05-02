@@ -590,7 +590,7 @@ html_style = """
 
 
 
-def generate_html_file(english_file_path, bulgarian_file_path):
+def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Genesis.txt", bulgarian_file_path="kjb-bg/compiled_text_by_books/01OT Битие.txt"):
     # Extract file names without extensions
     english_file_name = os.path.splitext(os.path.basename(english_file_path))[0]
     bulgarian_file_name = os.path.splitext(os.path.basename(bulgarian_file_path))[0]
@@ -701,13 +701,29 @@ def generate_dict_page():
         output_file.write(html_content)
     print(f"- HTML file '{output_file_path}' generated successfully.")
 
+def count_lines(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        line_count = 0
+        for line in file:
+            line_count += 1
+    return line_count
+
+def get_translated_progress_by_book(bulgarian_file_path = "kjb-bg/compiled_text_by_books/01OT Битие.txt", english_file_path = "kjb-en/compiled_text_by_books/01OT Genesis.txt"):
+    total_lines = count_lines(english_file_path)
+    translated_lines = count_lines(bulgarian_file_path)
+    translated_perc = round(translated_lines*100/total_lines,1)
+    transl_str = f'<tag style="color:lightblue">завършен на <b>{translated_perc}%</b> ({translated_lines} от {total_lines} стиха)<tag>'
+    return transl_str
+
 def generate_html_side_by_side_translations():
     bg_folder = "kjb-bg/compiled_text_by_books"
     en_folder = "kjb-en/compiled_text_by_books"
     bg_files = list(np.sort(os.listdir(bg_folder)))
     en_files = os.listdir(en_folder)
+    unique_translated_words, unique_words, translated_words, total_words = get_translated_word_stats()
+    word_dict_progr_str = f'<tag style="color:lightblue">завършен на <b>{round(unique_translated_words*100/unique_words,2)}%</b> ({unique_translated_words} от {unique_words} думи)<tag>'
     generate_dict_page()
-    file_tuples = []
+    book_tuples = []
     for bg_file in bg_files:
         # Extracting the common prefix (e.g., 01OT) from BG file
         common_prefix = bg_file.split(' ', 1)[0]
@@ -715,9 +731,10 @@ def generate_html_side_by_side_translations():
         en_file = next((en for en in en_files if common_prefix in en), None)
         # If corresponding EN file is found, create a tuple and add it to the list
         if en_file:
-            file_tuples.append((bg_file, en_file))
             english_file_path = f"kjb-en/compiled_text_by_books/{en_file}"
             bulgarian_file_path = f"kjb-bg/compiled_text_by_books/{bg_file}"
+            book_transl_progress_str = get_translated_progress_by_book(bulgarian_file_path, english_file_path)
+            book_tuples.append((bg_file, en_file, book_transl_progress_str))
             generate_html_file(english_file_path, bulgarian_file_path)
     # Generate links to the pages in a separate index.html file
     index_content = f"""
@@ -738,8 +755,8 @@ def generate_html_side_by_side_translations():
         <br><br><hr>
         <h3>Съдържание:</h3>
         <ul>
-            {"".join(f"<li><a href='{file[0].split('.')[0]}.html'>{file[0].split('.')[0]}</a></li>" for file in file_tuples)}
-            <li><a href='00EN-BG dictionary.html'>EN:BG Речник</a></li>
+            {"".join(f"<li><a href='{book_info[0].split('.')[0]}.html'>{book_info[0].split('.')[0]}</a> <i>{book_info[2]}</i></li>" for book_info in book_tuples)}
+            <li><a href='00EN-BG dictionary.html'>EN:BG Речник</a> <i>{word_dict_progr_str}</i></li>
         </ul>
         <i>OT/NT: Стар/Нов Завет</i>
     <br><br><hr>
