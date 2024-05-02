@@ -1379,7 +1379,7 @@ confessed:признах
 confessing:признавайки
 confession:признание
 pharisee:фарисей
-pharisees:Фарисеи
+pharisees:фарисеи
 sadducees:садукеи
 serpent:змия
 serpents:змии
@@ -1521,8 +1521,7 @@ turtledove:гургулица
 turtledoves:гургулици
 pigeon:гълъбче
 pigeons:гълъбчета
-hen:кокошка
-Hen:хен (име за ръчен превод)
+hen:кокошка/хен_име
 chickens:пилета
 lighting:светкавица
 enlighten:просветля

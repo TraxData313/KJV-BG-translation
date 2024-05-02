@@ -645,11 +645,66 @@ def generate_html_file(english_file_path, bulgarian_file_path):
         output_file.write(html_content)
     print(f"- HTML file '{output_file_path}' generated successfully.")
 
+def generate_dict_page():
+    df = get_word_dict()
+    df = df.sort_values('word').reset_index(drop=True)
+    lines = "\n".join(f"<tr><td>{numb+1}</td><td>{word_en}</td><td>{word_bg}</td></tr>" for numb, word_en, word_bg in zip(df.index, df['word'], df['word_bg']))
+    bulgarian_file_name = 'EN:BG Речник'
+    dict_filename = '00EN-BG dictionary'
+    
+    # Generate HTML content
+    html_content = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=0.8">
+        {html_style}
+        <title>{bulgarian_file_name}</title>
+    </head>
+
+    <div class="center">
+    <body style="background-color: black;">
+        <div>
+            <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
+            {description}<br><br><br>
+            <div class="container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>№</th>
+                            <th>Английска Дума</th>
+                            <th>Българска Дума</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {lines}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    <footer>
+        <p>{footer}</p>
+        <br><a href='index.html'>Обратно към всични книги</a>
+    </footer>  
+    </body>
+    </div>
+    </html>
+    """
+    # Write HTML content to a new file
+    output_folder = 'kjv-side-by-side'
+    if not os.path.exists(output_folder): os.makedirs(output_folder)
+    output_file_path = f"{output_folder}/{dict_filename}.html"
+    with open(output_file_path, 'w', encoding='utf-8') as output_file:
+        output_file.write(html_content)
+    print(f"- HTML file '{output_file_path}' generated successfully.")
+
 def generate_html_side_by_side_translations():
     bg_folder = "kjb-bg/compiled_text_by_books"
     en_folder = "kjb-en/compiled_text_by_books"
     bg_files = list(np.sort(os.listdir(bg_folder)))
     en_files = os.listdir(en_folder)
+    generate_dict_page()
     file_tuples = []
     for bg_file in bg_files:
         # Extracting the common prefix (e.g., 01OT) from BG file
@@ -679,9 +734,10 @@ def generate_html_side_by_side_translations():
         <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
         {description}
         <br><br><hr>
-        <h3>Книги:</h3>
+        <h3>Съдържание:</h3>
         <ul>
             {"".join(f"<li><a href='{file[0].split('.')[0]}.html'>{file[0].split('.')[0]}</a></li>" for file in file_tuples)}
+            <li><a href='00EN-BG dictionary.html'>EN:BG Речник</a></li>
         </ul>
         <i>OT/NT: Стар/Нов Завет</i>
     <br><br><hr>
