@@ -7835,6 +7835,52 @@ babes:бебета
 
 
 
+Mat11:28 Идвам/дойдох на/помощна мен, всички вий това труд и са heavy laden, и аз ще дава вие почивам/почивка.
+Mat11:29 Взимам мой yoke над/ъпнвръз вие, и уча от/за мен; за/защото аз съм кротък и lowly в сърце: и вий ще намирам почивам/почивка на/помощна ваш души.
+Mat11:30 За/защото мой yoke е лесно, и мой burden е светлина.
+-
+Mat11:28 Come unto me, all ye that labour and are heavy laden, and I will give you rest.
+Mat11:29 Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls.
+Mat11:30 For my yoke is easy, and my burden is light.
+
+
+weight:тежест<<
+weights:тежести<<
+weighty:тежък<<
+
+heavy:тягостен
+heavier:по-тягостен
+heavily:тягостно
+heaviness:тягостност
+
+loaden:натоварен
+loadeth:натоварва
+laden:натоварен
+
+down:долу<<
+low:ниско
+lower:по-ниско
+lowest:снишаваш
+loweth:снишава
+lowly:снишен
+lowliness:снишеност
+
+yoke:ярем
+yoked:заяремен
+yokefellow:яремодругар
+yokes:яреми
+
+burden:товар
+burdens:товари
+burdensome:натоварващ
+
+light:светлина<< + лек
+
+
+
+
+
+
 
 
 
