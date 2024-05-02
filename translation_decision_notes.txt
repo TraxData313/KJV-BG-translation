@@ -7883,7 +7883,37 @@ light:светлина<< + лек
 
 
 
+Mat12:1 На/в това време Исус дойде върху/на/помощна пълчл sabbath ден из пълчл corn; и негов ученици беше крчл огладнял, и започнах до/на/към изтръгвам пълчл уши/класове от/за corn, и до/на/към ям.
+Mat12:2 Но кога/когато пълчл Фарисеи видя то, те каза на/помощна него, Обхванете, твоя ученици върша това което е не законен до/на/към върша над/ъпнвръз пълчл sabbath ден.
+-
+Mat12:1 At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.
+Mat12:2 But when the Pharisees saw it, they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day.
 
+seed:семе<<
+wheat:пшеница<<
+corn:жито
+grain:зърно
+
+sabbath:събота/съботен
+sabbaths:съботи
+
+
+
+
+
+
+
+Mat12:3 Но той каза им, Имам/минвр/получавам вий не read какво Давид свърши, кога/когато той беше крчл огладнял, и те това беше с него;
+Mat12:4 Как/колко той влезнах в пълчл къща от/за Бог, и свърши ям пълчл показенхляб, което беше не законен за/защото него до/на/към ям, нито за/защото те което беше с него, но единствено за/защото пълчл жреци?
+-
+Mat12:3 But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;
+Mat12:4 How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?
+
+
+read:чета/прочетох
+readest:четеш
+readeth:чете
+reading:четейки/четящ/четене
 
 
 
@@ -7900,87 +7930,6 @@ GPT helper Prompts:
 - Word roots and usage:
 ---------------------------------------------------------
 I am translating KJV into BG, and I want you to give me the history and the evolution of the word "winebibber", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
----------------------------------------------------------
-
-
-
----------------------------------------------------------
-- Put together raw transl:
----------------------------------------------------------
-I am translating KJV into BG, using a dict of en_word:bg_word translations I first made a raw translation of the text, which looks like:
-
-Please note how I've made sure to preserve 
-- the punctuation
-- Cap/lower letters
-- the main word roots
-- the time form of the word
-- not adding "" if there are none in the original text
-
-
-Here examples for you to generalize from:
-
-ex:
--> original EN:
-	Mat10:41 He that receiveth a prophet in the name of a prophet shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward.
-	Mat10:42 And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
--> raw BG:
-	Mat10:41 Той това получава крчл пророк в пълчл име от/за крчл пророк ще получавам крчл пророк's награда/награждавам; и той това получава крчл праведен човек в пълчл име от/за крчл праведен човек ще получавам крчл праведен човек's награда/награждавам.
-	Mat10:42 И койтоида ще дава до/на/към пия/напитка на/помощна едно от/за тези малко ones крчл cup от/за cold вода единствено в пълчл име от/за крчл ученик, верно ви казвам, той ще в няма мъдър/начин губя негов награда/награждавам.
--> fixed BG:
-	40NT_Матей 10:41 Този който получава пророк в името на пророк ще получи пророческа награда; и този който получава праведен човек в името на праведен човек ще получи праведно човешка награда.
-	40NT_Матей 10:42 И койтоида даде да пие на един от тези малките чаша студена вода единствено в името на ученик, верно ви казвам, той по никой начин няма да изгуби наградата си.
-
-ex:
--> original EN:
-	Mat11:15 He that hath ears to hear, let him hear.
-	Mat11:16 But whereunto shall I liken this generation? It is like unto children sitting in the markets, and calling unto their fellows,
-	Mat11:17 And saying, We have piped unto you, and ye have not danced; we have mourned unto you, and ye have not lamented.
-	Mat11:18 For John came neither eating nor drinking, and they say, He hath a devil.
--> raw BG:
-	Mat11:15 Той това имаше/минвр уши/класове до/на/към слуша, нека него слуша.
-	Mat11:16 Но накоито/накаквото ще аз оподобих това/този поколение? То е подобно на/помощна деца седейки/седящ в пълчл пазари, и на/призовавайки на/помощна техните другари,
-	Mat11:17 И казвайки, Ние имам/минвр/получавам свирих на/помощна вие, и вий имам/минвр/получавам не танцувах; ние имам/минвр/получавам жалееше на/помощна вие, и вий имам/минвр/получавам не оплаках.
-	Mat11:18 За/защото Йоан дойде нито ядейки/ядене нито пиейки/пиещ, и те казвам, Той имаше/минвр крчл дявол.
--> fixed BG:
-	40NT_Матей 11:15 Който има уши да слуша, нека слуша.
-	40NT_Матей 11:16 Но накакво ще оподобя това поколение? То е подобно на деца седящи на пазарите, и призоваващи другарите си,
-	40NT_Матей 11:17 И казвайки, Свирихме ви, и вий не танцувахте; жалеехме ви, и вий не оплаквахте.
-	40NT_Матей 11:18 Защото Йоан дойде нито ядейки нито пиейки, и те казват, Имаше дявол.
-	
-ex:
--> original EN:
-	Mat11:19 The Son of man came eating and drinking, and they say, Behold a man gluttonous, and a winebibber, a friend of publicans and sinners. But wisdom is justified of her children.
--> raw BG:
-	Mat11:19 Пълчл Син от/за човек дойде ядейки/ядене и пиейки/пиещ, и те казвам, Обхванете крчл човек лакомен, и крчл винопиец, крчл приятел от/за бирници и грешници. Но мъдрост е осправедливен от/за нея деца.
--> fixed BG:
-	40NT_Матей 11:19 Синът на човек дойде ядейки и пиейки, и те казвам, Обхванете човек лакомен, и винопиец, приятел на бирници и грешници. Но мъдрост е осправедливена от децата си.
-
-ex:
--> original EN:
-	Mat11:20 Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:
-	Mat11:21 Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
-	Mat11:22 But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.
-	
--> raw BG:
-	Mat11:20 Тогава започнах той до/на/към укорявам пълчл градове вкъдето/вкойто най от/за негов могъщ работи беше свърши, порадипричинатаче те покая не:
-	Mat11:21 Горко на/помощна теб, Хоразин! горко на/помощна теб, Витсаида! за/защото ако/дали пълчл могъщ работи, което беше свърши в вие, имаше/минвр бях/беше свърши в Тир и Сидон, те бих/би/биха имам/минвр/получавам покая дълъг ago в чувалопремяна и пепелища.
-	Mat11:22 Но аз ви казвам, То ще бъда повече поносимо за/защото Тир и Сидон на/в деня на отсъждението, от за/защото вие.
-
--> fixed BG:
-	40NT_Матей 11:20 Тогава започна да укорява градовете вкоито най-могъщите му работи бяха свършени, порадипричинатаче те не се покаяха:
-	40NT_Матей 11:21 Горко на теб, Хоразин! горко на теб, Витсаида! защото ако могъщте работи, които бяха свършени във вас, бяха свършени в Тир и Сидон, те биха се покаяли дълго назад в чувалопремяна и пепелища.
-	40NT_Матей 11:22 Но аз ви казвам, Ще бъде повече поносимо за Тир и Сидон в деня на отсъждението, отколкото на вас.
-	
-
-Now you tix the following example:
-
-ex:
--> original EN:
-	
--> raw BG:
-
--> fixed BG:
-
 ---------------------------------------------------------
 
 

@@ -3596,3 +3596,11 @@ yokes:яреми
 burden:товар
 burdens:товари
 burdensome:натоварващ
+corn:жито
+grain:зърно
+sabbath:събота/съботен
+sabbaths:съботи
+read:чета/прочетох
+readest:четеш
+readeth:чете
+reading:четейки/четящ/четене

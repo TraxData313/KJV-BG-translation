@@ -87,6 +87,8 @@ def load_translated_Bible():
     df.columns = ['verse']
     return df
 
+weight_reduce = 5
+
 def get_eta_date(target_col='уникални_думи_процент', weighted=True):
     # Load the logs:
     df = pd.read_csv('logs/translated_progress.csv')
@@ -101,7 +103,7 @@ def get_eta_date(target_col='уникални_думи_процент', weighted
     df['transl_rate'] = df['perc_delta']/df['days_delta']
     df = df.loc[df['дата']>'2024-01-01']
     if weighted:
-        weights = df['days_delta']*range(1, len(df) + 1)
+        weights = df['days_delta']*np.linspace(1, len(df)/weight_reduce, len(df))
     else:
         weights = df['days_delta']
     transl_rate = df['transl_rate'].dot(weights) / sum(weights)
@@ -126,7 +128,7 @@ def get_the_final_eta_averaged_by_two_ways(weighted=True):
         # Perc/day rate:
         df['transl_rate'] = df['perc_delta']/df['days_delta']
         if weighted:
-            weights = df.loc[df['дата']>'2024-01-01']['days_delta']*range(1, len(df)) # increasing weights giving more weight to the newest entries: 1,2,3,4...
+            weights = df.loc[df['дата']>'2024-01-01']['days_delta']*np.linspace(1, len(df)/weight_reduce, len(df)-1) # increasing weights giving more weight to the newest entries: 1,2,3,4...
         else:
             weights = df.loc[df['дата']>'2024-01-01']['days_delta'] # standard average, taking into account the lenght of the observation
         transl_rate = df.loc[df['дата']>'2024-01-01']['transl_rate'].dot(weights) / sum(weights)
