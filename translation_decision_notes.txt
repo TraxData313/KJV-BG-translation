@@ -7918,6 +7918,51 @@ reading:четейки/четящ/четене
 
 
 
+Mat12:5 Или имам/минвр/получавам вий не чета/прочетох в пълчл закон, как/колко това върху/на/помощна пълчл събота/съботен дни пълчл жреци в пълчл храм осквернявам пълчл събота/съботен, и са blameless?
+Mat12:6 Но аз ви казвам, Това в това/този място е едно по-велик от пълчл храм.
+-
+Mat12:5 Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?
+Mat12:6 But I say unto you, That in this place is one greater than the temple.
+
+guilt:вина<<
+upbraid:укорявам<<
+
+blame:вина/упрек?
+blamed:упрекван?
+blameless:безупречен
+unblameable:неупрекваем
+unblameably:неупрекваемо
+
+slander:клеветя/злословя?
+slandered
+slanderers
+slanderest
+slandereth
+slanderously
+slanders
+
+
+
+reproach:укор/упрек?
+reproached
+reproaches
+reproachest
+reproacheth
+reproachfully
+
+proof:доказателство?
+proofs
+reproof:порицание/укор?
+reproofs
+
+prove:доказвам?
+proved
+reprove:порицавам/коря?
+reproved
+reprover
+reproveth
+unreproveable
+
 
 
 
