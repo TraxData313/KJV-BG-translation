@@ -7927,8 +7927,8 @@ Mat12:6 But I say unto you, That in this place is one greater than the temple.
 guilt:вина<<
 upbraid:укорявам<<
 
-blame:вина/упрек?
-blamed:упрекван?
+blame:упрек/упреквам
+blamed:упрекван/упреквах
 blameless:безупречен
 unblameable:неупрекваем
 unblameably:неупрекваемо
@@ -7940,8 +7940,6 @@ slanderest
 slandereth
 slanderously
 slanders
-
-
 
 reproach:укор/упрек?
 reproached
@@ -7966,13 +7964,31 @@ unreproveable
 
 
 
+Mat12:7 Но ако/дали вий имаше/минвр позна какво това/този значиш, аз ще имам/минвр/получавам милост, и не жертва/жертвам, вий бих/би/биха не имам/минвр/получавам condemned пълчл безвинен.
+Mat12:8 За/защото Синът на човек е Господ както/вечер/даже/също от/за пълчл събота/съботен ден.
+-
+Mat12:7 But if ye had known what this meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.
+Mat12:8 For the Son of man is Lord even of the sabbath day.
+
+
+condemn:осъждам
+condemnation:осъждение
+condemned:осъдих/осъден
+condemnest:осъждаш
+condemneth:осъжда
+condemning:осъждайки
+uncondemned:неосъден
 
 
 
-GPT helper Prompts:
+
+
+
+
+
 
 ---------------------------------------------------------
-- Word roots and usage:
+- GPT get word roots promt:
 ---------------------------------------------------------
 I am translating KJV into BG, and I want you to give me the history and the evolution of the word "winebibber", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
 ---------------------------------------------------------

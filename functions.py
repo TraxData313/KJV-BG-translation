@@ -552,7 +552,7 @@ def get_the_complexes_df(use_cache=True):
 #####################################################
 
 
-page_title = 'Библия'
+page_title = 'Библия KJV'
 description = ""
 quote_of_the_day = 'Не е ли животът повече от ядене, и тялото от облекло? [Матей 6:25]'
 footer = f"""<b style="color: #73AD21"><i>{quote_of_the_day}</i></b><br>

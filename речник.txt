@@ -3604,3 +3604,15 @@ read:чета/прочетох
 readest:четеш
 readeth:чете
 reading:четейки/четящ/четене
+blame:упрек/упреквам
+blamed:упрекван/упреквах
+blameless:безупречен
+unblameable:неупрекваем
+unblameably:неупрекваемо
+condemn:осъждам
+condemnation:осъждение
+condemned:осъдих/осъден
+condemnest:осъждаш
+condemneth:осъжда
+condemning:осъждайки
+uncondemned:неосъден
