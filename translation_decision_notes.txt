@@ -7984,6 +7984,69 @@ uncondemned:неосъден
 
 
 
+Mat12:9 И кога/когато той беше замина оттогава, той дойде в техните синагога:
+Mat12:10 И, обхванете, там беше крчл човек което имаше/минвр негов ръка withered. И те попита него, казвайки, Е то законен до/на/към оздравявам върху/на/помощна пълчл събота/съботен дни? това те бихмогъл accuse него.
+-
+Mat12:9 And when he was departed thence, he went into their synagogue:
+Mat12:10 And, behold, there was a man which had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.
+
+
+wither:повехвам
+withereth:повехва
+withered:повехнал
+
+
+guilt:вина<<
+guilty:виновен<<
+guiltiness:виновност<<
+guiltless:безвинен<<
+blame:упрек/упреквам<<
+
+
+accuse:обвинявам
+accused:обвиних/обвинен
+accuser:обвинител
+accusers:обвинители
+accuseth:обвинява
+accusing:обвинявайки/обвиняващ
+accusation:обвинение
+
+
+
+
+Mat12:11 И той каза им, Какво човек ще там бъда измежду вие, това ще имам/минвр/получавам едно овца/овце, и ако/дали то падам в крчл pit върху/на/помощна пълчл събота/съботен ден, ще той не слагам/полагамсе държа/държание върху/на/помощна то, и повишавам то от/вън?
+Mat12:12 Как/колко много тогава е крчл човек по-добре от крчл овца/овце? Закоито/закаквото то е законен до/на/към върша добре/кладенец върху/на/помощна пълчл събота/съботен дни.
+Mat12:13 Тогава каза той до/на/към пълчл човек, Stretch напред/изясняваша твое ръка. И той stretched то напред/изясняваша; и то беше restored цял, подобно като пълчл друг.
+-
+Mat12:11 And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?
+Mat12:12 How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days.
+Mat12:13 Then saith he to the man, Stretch forth thine hand. And he stretched it forth; and it was restored whole, like as the other.
+
+
+pit:яма
+pits:ями
+
+out:от/вън<<
+stretch:протягам
+stretchest:протягаш
+stretcheth:протяга
+stretched:протегнах
+stretchedst:протегна
+stretching:протягане
+outstretched:вънпротегната
+
+restore:възстановявам
+restoreth:възстанови
+restored:възстанових
+restorer:възстановител
+
+
+
+
+
+
+
+
 
 
 
@@ -7997,6 +8060,7 @@ I am translating KJV into BG, and I want you to give me the history and the evol
 
 
 ...on the back of my mind...
+-TODO: arm=hand
 -TODO: 45NT_Римляни
 -TODO: add progress to the web home page
 -TODO: add the dict to the web for easy usage
