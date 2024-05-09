@@ -553,11 +553,11 @@ def get_the_complexes_df(use_cache=True):
 
 
 page_title = 'Библия'
-description = "Директен превод от King James Version (KJV), запазвайки оригиналната пунктуация, главни/малки букви, словоред и еднакъв превод на словосъчетанията навсякъде в текста."
+description = ""
 quote_of_the_day = 'Не е ли животът повече от ядене, и тялото от облекло? [Матей 6:25]'
 footer = f"""<b style="color: #73AD21"><i>{quote_of_the_day}</i></b><br>
 <br>
-Не правя превода като академик или критик, а за лично изучаване, като вярващ в Библията. Всичко в репото и в уебсайта е безплатно, без лиценз и може да се цитира, използва и споделя свободно.
+Всичко в репото и в уебсайта е безплатно, без лиценз и може да се цитира, използва и споделя свободно.
 <ul>
     <li><b>Email</b>: <a href='mailto:antongeorgiev313@gmail.com'>antongeorgiev313@gmail.com</a></li> 
     <li><b>Repository</b>: <a href='https://github.com/TraxData313/KJV-BG-translation'>https://github.com/TraxData313/KJV-BG-translation</a></li> 
