@@ -3639,3 +3639,16 @@ restore:възстановявам
 restoreth:възстанови
 restored:възстанових
 restorer:възстановител
+draw:дърпам
+drawer:издърпвач
+drawers:издърпвачи
+draweth:дърпа
+drawing:дърпайки/дърпане
+drew:издърпах/придърпах
+drewest:придърпал
+drawn:издърпан
+withdraw:отдръпвам
+withdrawest:отдръпваш
+withdraweth:отдръпва
+withdrew:отдръпнах
+withdrawn:отдръпнат
