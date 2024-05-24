@@ -8141,13 +8141,31 @@ Mat12:20 A bruised reed shall he not break, and smoking flax shall he not quench
 Mat12:21 And in his name shall the Gentiles trust.
 
 
-bruised
+wound:рана/наранявам<<
+break:чупя<<
+damage:щета<<
+bruise:съкрушавам/съкрушение
+bruised:съкруших
+bruises:съкрушения
+bruising:съкрушавайки
 
-smoking
+crush:смачквам
+crushed:смачкан
 
-flax
+smoke:дим<<
+smoking:димящ
 
-victory
+flax:лен
+linen:висон
+
+victory:победа
+win(2):спечеля
+	and thought to win them for himself
+	that I may win Christ
+	
+smite:поразявам<<
+defeat:поражение??
+
 
 
 

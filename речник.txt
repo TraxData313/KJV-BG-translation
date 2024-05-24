@@ -3662,3 +3662,14 @@ choice:подбран
 choicest:най-подбран
 decided:решил
 resolved:разумих
+bruise:съкрушавам/съкрушение
+bruised:съкруших
+bruises:съкрушения
+bruising:съкрушавайки
+crush:смачквам
+crushed:смачкан
+smoking:димящ
+flax:лен
+linen:висон
+victory:победа
+win:спечеля
