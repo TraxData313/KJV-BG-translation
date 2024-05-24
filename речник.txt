@@ -3652,3 +3652,13 @@ withdrawest:отдръпваш
 withdraweth:отдръпва
 withdrew:отдръпнах
 withdrawn:отдръпнат
+choose:избирам
+choosest:избираш
+chooseth:избира
+choosing:избирайки
+chose:избрах
+chosen:избран
+choice:подбран
+choicest:най-подбран
+decided:решил
+resolved:разумих

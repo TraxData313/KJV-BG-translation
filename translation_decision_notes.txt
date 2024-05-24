@@ -8084,27 +8084,74 @@ Mat12:17 That it might be fulfilled which was spoken by Esaias the prophet, sayi
 Mat12:18 Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles.
 
 
-choose:избирам/решавам?
-choosest
-chooseth
-choosing
-chose
-chosen
+choose:избирам
+choosest:избираш
+chooseth:избира
+choosing:избирайки
+chose:избрах
+chosen:избран
+choice:подбран
+choicest:най-подбран
 
-choice:подбран/избран?
-choicest:най-подбран?
-
-decided(1):изрекъл/решил
+decided(1):решил
 	So shall thy judgment be; thyself hast decided it.
 
-resolved(1):разумих?
+resolved(1):разумих
 
-elect:избирам/подкрепям?
-elected
-election
+
+
+elect:избран
+	Rom 8:29-33 - the elect definition
+elected:избрах
+election:избиране
+
+command:заповядва<<
+mete:определям<<
+establish:установя<<
+signifying:посочва<<
+appoint:определям/установявам/назначавам??
+	Appoint me thy wages, and I will give it
+	let him appoint officers
+appointed
+appointeth
+appointment
+disappoint
+disappointeth
+
+point:точка?
+	I am at the point to die
+	ye shall point out your border
+pointed:остър/заострен/наточен?
+	he spreadeth sharp pointed things upon the mire
+points
 
 pick(0)?
 	the ravens of the valley shall pick it out
+
+
+
+
+
+Mat12:19 Той ще не боря, нито вик/викам; нито ще някой/някое човек слуша негов глас в пълчл улици.
+Mat12:20 Крчл bruised тръстика ще той не чупя, и smoking flax ще той не угасям, докато/до/ора той пращам напред/изясняваша отсъждение на/помощна victory.
+Mat12:21 И в негов име ще пълчл Езичници доверие/доверявам.
+-
+Mat12:19 He shall not strive, nor cry; neither shall any man hear his voice in the streets.
+Mat12:20 A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory.
+Mat12:21 And in his name shall the Gentiles trust.
+
+
+bruised
+
+smoking
+
+flax
+
+victory
+
+
+
+
 
 
 
@@ -8127,3 +8174,5 @@ I am translating KJV into BG, and I want you to give me the history and the evol
 -TODO: add progress to the web home page
 -TODO: add the dict to the web for easy usage
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
+
+NOTE: "elect" ~ line 8105
