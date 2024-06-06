@@ -138,7 +138,6 @@ lights:светлини
 lighted:светна
 lightest:светваш
 saw:видя
-good:добро
 from:от
 call:на/призова
 called:на/призова
@@ -3673,3 +3672,19 @@ flax:лен
 linen:висон
 victory:победа
 win:спечеля
+good:благо
+goods:блага
+goodlier:по-благ
+goodliest:най-благ
+goodliness:благина
+goodly:благ
+goodman:благчовек
+goodness:благост
+spoil:плячка/плячкосвам
+spoils:плячки
+spoilest:плячкосваш
+spoileth:плячкосва
+spoiled:плячкосах
+spoiler:плячкач
+spoilers:плячкачи
+spoiling:плячкочване/плячкочвайки

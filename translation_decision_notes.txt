@@ -8172,6 +8172,35 @@ defeat:поражение??
 
 
 
+Mat12:29 Или иначе/друг как/колко мога едно влизам в крчл як човек's къща, и spoil негов goods, освен/изключая той първи закрепен пълчл як човек? и тогава той ще spoil негов къща.
+-
+Mat12:29 Or else how can one enter into a strong man's house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.
+
+
+good:добро<< -> благо
+goods:блага
+goodlier:по-благ
+goodliest:най-благ
+goodliness:благина
+goodly:благ
+goodman:благчовек
+goodness:благост
+
+spoil:плячка/плячкосвам
+spoilest:плячкосваш
+spoileth:плячкосва
+spoiled:плячкосах
+spoiler:плячкач
+spoilers:плячкачи
+spoiling:плячкочване/плячкочвайки
+spoils:плячки
+
+
+
+
+
+
+
 
 
 
