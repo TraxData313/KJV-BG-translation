@@ -8200,6 +8200,328 @@ spoils:плячки
 
 
 
+Mat12:36 Но аз ви казвам, Това всеки idle дума това хора ще говоря, те ще дава преброение тамот в деня на отсъждението.
+-
+Mat12:36 But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment.
+
+
+
+empty:празен<<
+idle:бездейен/бездейна
+idleness:бездейност
+lazy(0)
+
+
+
+
+
+
+
+sign:посока<<
+mean:значи<<
+wonder:чудо/чудя<<
+miracle:знамение<<
+marvel:учудване/учудвам<<
+"Master, we would see a sign from thee."
+
+
+
+sign:посока -> знак
+signs:посоки -> знаци
+signifying:посочва -> ознакуващ/ознакувайки
+signify:посоча -> ознакува
+signification:насока -> знакуване
+
+
+
+
+jonas:иона
+jonah:ионах
+
+
+
+belly:корем
+
+
+
+
+
+
+Mat12:41 Пълчл хора от/за Nineveh ще вдигам в отсъждение с това/този поколение, и ще осъждам то: порадипричинатаче те покая на/в пълчл проповядвайки от/за Иона; и, обхванете, крчл по-велик от Иона е тук.
+Mat12:42 Пълчл queen от/за пълчл south ще вдигам на/горе/въз в пълчл отсъждение с това/този поколение, и ще осъждам то: за/защото тя дойде от пълчл най-краен дялове от/за пълчл земя до/на/към слуша пълчл мъдрост от/за Соломон; и, обхванете, крчл по-велик от Соломон е тук.
+-
+Mat12:41 The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here.
+Mat12:42 The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here.
+
+
+nineve:ниневия
+nineveh:ниневиях
+ninevites:ниневитяни
+
+queen:царица
+queens:царици
+
+south:юг
+southward:южно
+
+
+
+
+
+
+
+
+
+Mat12:43 Кога/когато пълчл нечист дух е отишъл от/вън от/за крчл човек, той ходи из сух места, търсейки почивам/почивка, и намира none.
+Mat12:44 Тогава той каза, аз ще връщам в мой къща от откъде аз излезнах; и кога/когато той е идвам/дойдох, той намира то празен, swept, и garnished.
+Mat12:45 Тогава отива той, и взима с се/сам/му седем друг духове повече лукав от се/сам/му, и те влизам в и пребивавам там: и пълчл последен state от/за това човек е по-лош от пълчл първи. Както/вечер така ще то бъда също на/помощна това/този лукав поколение.
+-
+Mat12:43 When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.
+Mat12:44 Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished.
+Mat12:45 Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation.
+
+
+no:няма<<
+nothing:нищо<<
+none:никой
+
+sweep:мета/измитам
+sweeping:измитащ
+swept:измитох
+
+garnish:украсявам
+garnished:украсих/украсен
+
+state:състояние
+stately:състоянo
+
+
+
+
+
+Mat12:46 Докато той още/обаче talked до/на/към пълчл народ, обхванете, негов майка и негов братя престоя свън, desiring до/на/към говоря с него.
+Mat12:47 Тогава едно каза на/помощна него, Обхванете, твоя майка и твоя братя стоя свън, desiring до/на/към говоря с теб.
+Mat12:48 Но той отговорих и каза на/помощна него това обясних него, Кой е мой майка? и кой са мой братя?
+Mat12:49 И той протегнах напред/изясняваша негов ръка toward негов ученици, и каза, Обхванете мой майка и мой братя!
+Mat12:50 За/защото койтоида ще върша пълчл ще от/за мой Баща което е в небе, пълчл същи е мой брат, и sister, и майка.
+-
+Mat12:46 While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him.
+Mat12:47 Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee.
+Mat12:48 But he answered and said unto him that told him, Who is my mother? and who are my brethren?
+Mat12:49 And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!
+Mat12:50 For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.
+
+
+say:казвам<<
+speak:говоря<<
+tell:обясни<<
+
+talk:приказвам
+talked:приказвах
+talkers:приказвачи
+talkest:прикзваш
+talketh:приказва
+talking:приказвайки
+
+desire:желание<<
+desiring:желаейки (добавен при желание)
+
+to:до/на/към<<
+forward:напред<<
+eastward:източно<<
+toward:към
+
+sister:сестра
+sisters:сестри
+
+
+
+
+
+Mat13:1 Пълчл същи ден дойде Исус от/вън от/за пълчл къща, и седях до/от/по пълчл море страна.
+Mat13:2 И велик множества беше събрани заедно на/помощна него, така това той дойде в крчл кораб, и седях; и пълчл цял множество престоя върху/на/помощна пълчл shore.
+Mat13:3 И той изговори много неща на/помощна те в parables, казвайки, Обхванете, крчл сеяч дойде напред/изясняваша до/на/към сея;
+-
+Mat13:1 The same day went Jesus out of the house, and sat by the sea side.
+Mat13:2 And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.
+Mat13:3 And he spake many things unto them in parables, saying, Behold, a sower went forth to sow;
+
+coast:бряг<<
+shore:плаж #The word "плаж" is derived from the French word "plage," which also means "beach." This French term, in turn, has its roots in the Latin word "plagia," meaning "shore" or "coast.
+
+parable:притча
+parables:притчи
+	parables are longer, narrative illustrations of moral or spiritual lessons
+	притча: Кратък нравоучителен разказ, в който поуката трябва да се открие в преносния смисъл на цялото.
+
+proverb:поговорка
+proverbs:поговорки
+	proverbs are brief, metaphorical statements that express general truths
+	поговорка: Поговорката е обикновено устойчиво кратко изречение, понякога само фраза. Тази фраза/изречение е като извод от единично наблюдение върху живота.
+
+
+
+
+
+Mat13:4 И кога/когато той посях, some семена падна до/от/по пълчл път страна, и пълчл пернати дойде и devoured те на/горе/въз:
+Mat13:5 Some падна връз stony места, къде/където те имаше/минвр не много земя: и forthwith те извря на/горе/въз, порадипричинатаче те имаше/минвр няма deepness от/за земя:
+Mat13:6 И кога/когато пълчл слънце беше на/горе/въз, те беше scorched; и порадипричинатаче те имаше/минвр няма корен, те повехнал далеч_пътьом(ф/а).
+-
+Mat13:4 And when he sowed, some seeds fell by the way side, and the fowls came and devoured them up:
+Mat13:5 Some fell upon stony places, where they had not much earth: and forthwith they sprung up, because they had no deepness of earth:
+Mat13:6 And when the sun was up, they were scorched; and because they had no root, they withered away.
+
+
+some:някакво/някои
+
+eat:ям<<
+rend:разкъсвам<<
+devour:храносмилям
+devourest:храносмиляш
+devoureth:храносмиля
+devoured:храносмлях
+devourer:храносмлилач
+devouring:храносмлилящ
+	The word "devour" originates from the Latin verb "devorare," which is composed of "de-" (a prefix meaning "down" or "away") and "vorare" (meaning "to swallow" or "to eat greedily").
+	използва се на места за животинско нахранване, лакомо, безумно ... -> храносмилане
+	digest(0)
+
+swallow:поглъщам
+swalloweth:поглъща
+swallowed:погълнах
+
+stone:камък/камненувам<<
+stony:каменен (да се добави при ок)
+
+forth:напред/изясняваша<<
+with:с<<
+immediately:непосредствено<<
+forthwith:незабавно (тутакси, веднага)
+	In Middle English, "forthwith" initially meant "immediately" or "without delay."
+
+instantly(2):преведено като усърдно? оставям го за сега
+promptly(0)
+
+prevent:предварям
+preventest:предваряш
+prevented:предварих
+
+
+deep:дълбина<<
+deeper:по-дълбоко<<
+deeps:дълбини<<
+deeply:дълбоко<<
+deepness:дълбочина (да се добави при ок)
+
+burn:горя<<
+scorch:опърлям
+scorched:опърлен
+
+
+
+
+
+
+
+
+
+Mat13:7 И някакво/някои падна измежду тръни; и пълчл тръни извря на/горе/въз, и choked те:
+Mat13:8 Но друг падна в благо земля, и изкарва плод, някакво/някои крчл hundredfold, някакво/някои sixtyfold, някакво/някои thirtyfold.
+Mat13:9 Кой имаше/минвр уши/класове до/на/към слуша, нека него слуша.
+-
+Mat13:7 And some fell among thorns; and the thorns sprung up, and choked them:
+Mat13:8 But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.
+Mat13:9 Who hath ears to hear, let him hear.
+
+choke:задавям
+choked:задавих/издавен
+
+hundred:сто
+hundredfold:стократно
+hundreds:стотици
+hundredth:стотна
+
+sixty:шестдесет
+sixtyfold:шестдесеткратно
+
+thirty:тридесет
+thirtyfold:тридесеткратно
+
+
+
+
+
+Mat13:10 И пълчл ученици дойде, и каза на/помощна него, Защо speakest ти на/помощна те в притчи?
+Mat13:11 Той отговорих и каза им, Порадипричинатаче то е даде на/помощна вие до/на/към знам пълчл mysteries от/за царството от небето, но до/на/към те то е не даде.
+Mat13:12 За/защото койтоида имаше/минвр, до/на/към него ще бъда даде, и той ще имам/минвр/получавам повече изобилие: но койтоида имаше/минвр не, от него ще бъда взет далеч_пътьом(ф/а) както/вечер/даже/също това той имаше/минвр.
+-
+Mat13:10 And the disciples came, and said unto him, Why speakest thou unto them in parables?
+Mat13:11 He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.
+Mat13:12 For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.
+
+speakest (при speak:говоря)
+
+mysteries (при mystery:мистерия)
+
+
+
+
+
+Mat13:13 Затова говоря аз до/на/към те в притчи: порадипричинатаче те виждайки виждам не; и hearing те слуша не, нито върша те understand.
+Mat13:14 И в те е изпълни пълчл пророкувание от/за Исаия, което каза, До/от/по hearing вий ще слуша, и ще не understand; и виждайки вий ще виждам, и ще не възприемам:
+Mat13:15 За/защото това/този народ's сърце е waxed gross, и техните уши/класове са dull от/за hearing, и техните очи те имам/минвр/получавам затворих; задане на/в някой/някое време те трябва виждам с техните очи и слуша с техните уши/класове, и трябва understand с техните сърце, и трябва бъда converted, и аз трябва оздравявам те.
+-
+Mat13:13 Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.
+Mat13:14 And in them is fulfilled the prophecy of Esaias, which saith, By hearing ye shall hear, and shall not understand; and seeing ye shall see, and shall not perceive:
+Mat13:15 For this people's heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes and hear with their ears, and should understand with their heart, and should be converted, and I should heal them.
+
+
+hear:слуша<<
+hearing:слушане/слушайки/слушащ (добавен)
+
+understand:разбирам
+understandest:разбираш
+understandeth:разбира
+understanding:разбиране/разбирайки/разбиращ
+
+grow:пораствам<<
+wax:ставам
+waxed:станах
+waxen:станал
+waxeth:става
+waxing:ставайки
+	Proto-Germanic word "*wahsijaną," which also means "to grow, increase."
+
+gross:груб (Isaiah 6:10 gross:heavy)
+	gross darkness(2)
+	The word "gross" ultimately derives from the Latin word "grossus," meaning "thick/гъст" or "coarse/груб"
+	thick darkness, cloud
+	coarse(0)
+
+thick:гъст
+thicker:по-гъст
+thickness:гъстота
+
+fool:глупак<<
+dull:затъпял
+	3 x dull of hearing : 
+	The word "dull" originates from the Old English word "dol" or "dyll," which meant "stupid," "foolish," or "senseless."
+
+blunt(1):тъп
+	If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.
+
+turn:обръщам<<
+convert:възвръщам
+converteth:възвръща
+converted:възвърнах
+converting:възвръщайки
+converts:възвърнати
+	The word "convert" comes from the Latin verb "convertere," which means "to turn around," "to transform," or "to change."
+	transform(0)
+
+
+
+
 
 
 
@@ -8216,6 +8538,7 @@ I am translating KJV into BG, and I want you to give me the history and the evol
 
 
 ...on the back of my mind...
+-TODO: баща -> отец/отче? "О, Баща,..."
 -TODO: arm=hand
 -TODO: 45NT_Римляни
 -TODO: add progress to the web home page
