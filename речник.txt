@@ -506,7 +506,7 @@ will:ще/воля/имамволята
 willing:имайкиволята
 willingly:своеволно
 wilt:тище/заимашволята
-shall:ще
+shall:ще/да
 shalt:ще
 his:негов
 save:запазвам
