@@ -8543,6 +8543,73 @@ checked 11:1-12:21
 checked 12
 
 
+
+
+
+
+
+Mat13:19 Кога/когато някой/някое едно слуша пълчл дума от/за пълчл царство, и разбира то не, тогава идва пълчл лукав едно, и catcheth далеч_пътьом(ф/а) това което беше посян в негов сърце. Това/този е той което получих семе до/от/по пълчл път страна.
+-
+Mat13:19 When any one heareth the word of the kingdom, and understandeth it not, then cometh the wicked one, and catcheth away that which was sown in his heart. This is he which received seed by the way side.
+
+
+catch:улавям<<
+caught:улови<<
+catcheth:улавя
+
+
+any one:всеки
+
+
+
+Mat13:20 Но той това получих пълчл семе в каменен места, пълчл същи е той това слуша пълчл дума, и anon с радост получава то;
+Mat13:21 Още/обаче имаше/минвр той не корен в се/сам/му, но dureth за/защото крчл докато: за/защото кога/когато tribulation или преследване въздига порадипричинатаче от/за пълчл дума, до/от/по и до/от/по той е провиних.
+-
+Mat13:20 But he that received the seed into stony places, the same is he that heareth the word, and anon with joy receiveth it;
+Mat13:21 Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.
+
+
+endure:търпя -> изтърпя
+endureth:търпи -> изтърпи
+enduring:търпейки -> изтърпявайки
+dureth:търпи (добавено при endure) 
+
+tribulation:скръб/изпитание
+	The word "tribulation" originates from the Latin term tribulatio, which means "affliction" or "distress".
+	Tribulatio itself comes from the verb tribulare, meaning "to press or oppress".
+
+trial
+
+afflict
+afflicted
+afflictest
+affliction
+afflictions
+
+oppress
+oppressed
+oppresseth
+oppressing
+oppression
+oppressions
+oppressor
+oppressors
+
+thresh
+threshed
+thresheth
+threshing
+threshingfloor
+threshingfloors
+threshingplace
+threshold
+thresholds
+
+persecute:преследвам<<
+
+
+
+
 ---------------------------------------------------------
 - GPT get word roots promt:
 ---------------------------------------------------------

@@ -326,9 +326,10 @@ bearing:носейки
 beareth:носиш
 barren:неплодоносещ
 barrenness:неплодоносие
-endure:търпя
-endureth:търпи
-enduring:търпейки
+dureth:търпи
+endure:изтърпя
+endureth:изтърпи
+enduring:изтърпявайки
 far:далеч
 conceive:зачевам
 conceived:зачена
@@ -937,6 +938,7 @@ held:държа
 handle:хват
 handles:хватове
 catch:улавям
+catcheth:улавя
 caught:улови
 force:сила/насилвам
 forced:насили
