@@ -8574,39 +8574,47 @@ endureth:търпи -> изтърпи
 enduring:търпейки -> изтърпявайки
 dureth:търпи (добавено при endure) 
 
-tribulation:скръб/изпитание
+hurt:постради/постраждам/пострада<<
+sorrow:мъка<<
+grief:скръб<<
+pain:болка<<
+suffer:допускам<<
+
+tribulation:изпитание
 	The word "tribulation" originates from the Latin term tribulatio, which means "affliction" or "distress".
 	Tribulatio itself comes from the verb tribulare, meaning "to press or oppress".
 
-trial
+trial:изпит
 
-afflict
-afflicted
-afflictest
-affliction
-afflictions
+examine:разследвам
+examination:разследване
+examined:разследвах
+examining:разследване
 
-oppress
-oppressed
-oppresseth
-oppressing
-oppression
-oppressions
-oppressor
-oppressors
+afflict:угнетявам
+afflicted:угнетих
+afflictest:угнетяваш
+affliction:угнетение
+afflictions:угнетения
 
-thresh
-threshed
-thresheth
-threshing
-threshingfloor
-threshingfloors
-threshingplace
-threshold
-thresholds
+oppress:потискам
+oppressed:потисках
+oppresseth:потискa
+oppressing:потискaйки
+oppression:потисничетво
+oppressions:потисничества
+oppressor:потисник
+oppressors:потисници
 
 persecute:преследвам<<
 
+
+anon:веднага
+
+by and by:тутакси (ръчен превод)
+
+
+дума -> слово?
 
 
 

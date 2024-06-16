@@ -3776,3 +3776,24 @@ converteth:възвръща
 converted:възвърнах
 converting:възвръщайки
 converts:възвърнати
+tribulation:изпитание
+trial:изпит
+examine:разследвам
+examination:разследване
+examined:разследвах
+examining:разследване
+afflict:угнетявам
+afflicted:угнетих
+afflictest:угнетяваш
+affliction:угнетение
+afflictions:угнетения
+oppress:потискам
+oppressed:потисках
+oppresseth:потискa
+oppressing:потискaйки
+oppression:потисничетво
+oppressions:потисничества
+oppressor:потисник
+oppressors:потисници
+anon:веднага
+by and by:тутакси (ръчен превод)
