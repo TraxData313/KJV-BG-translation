@@ -195,6 +195,10 @@ seed:семе
 seeds:семена
 fruit:плод
 fruits:плодове
+fruitful:плодовит
+unfruitful:безплоден
+firstfruit:първиплод
+firstfruits:първиплодове
 tree:дърво
 trees:дървета
 kind:вид
@@ -2418,10 +2422,6 @@ whales:китове
 wing:крило
 wings:крила
 winged:крилато
-fruitful:пълноплоден
-unfruitful:непълноплоден
-firstfruit:първиплод
-firstfruits:първиплодове
 multiply:множа
 multiplied:множих
 multiplieth:множи
@@ -3797,3 +3797,16 @@ oppressor:потисник
 oppressors:потисници
 anon:веднага
 by and by:тутакси (ръчен превод)
+deceit:заблуда
+deceitful:заблуждаващ
+deceitfully:заблуждаващо
+deceitfulness:заблуждавателност
+deceits:заблуди
+fraud:измама
+rich:богат
+richer:по-богат
+riches:богатства
+richly:богато
+enrich:обогатявам
+enrichest:обогатяваш
+enriched:обогатих

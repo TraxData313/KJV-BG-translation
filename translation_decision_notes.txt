@@ -8621,6 +8621,48 @@ words:думи -> слова
 
 
 
+
+
+Mat13:22 Той също това получих семе измежду пълчл тръни е той това слуша пълчл слово; и пълчл грижа от/за това/този свят, и пълчл deceitfulness от/за riches, задавям пълчл слово, и той идвадабъде непълноплоден.
+Mat13:23 Но той това получих семе в пълчл благо земля е той това слуша пълчл слово, и разбира то; което също носиш плод, и носи напред/изясняваша, някакво/някои крчл стократно, някакво/някои шестдесет, някакво/някои тридесет.
+-
+Mat13:22 He also that received seed among the thorns is he that heareth the word; and the care of this world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.
+Mat13:23 But he that received seed into the good ground is he that heareth the word, and understandeth it; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty.
+
+
+
+wicked:лукав<<
+deceit:заблуда
+deceitful:заблуждаващ
+deceitfully:заблуждаващо
+deceitfulness:заблуждавателност
+deceits:заблуди
+
+fraud:измама
+	Behold, the hire of the labourers who have reaped down your fields, which is of you kept back by fraud
+
+rich:богат
+richer:по-богат
+riches:богатства
+richly:богато
+enrich:обогатявам
+enrichest:обогатяваш
+enriched:обогатих
+
+
+fruitful:пълноплоден -> плодовит
+unfruitful:непълноплоден -> безплоден
+
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------
 - GPT get word roots promt:
 ---------------------------------------------------------
