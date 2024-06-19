@@ -634,7 +634,8 @@ nor:нито
 jerusalem:йерусалим
 took:взе
 thus:така
-word:дума
+word:слово
+words:слова
 yet:още/обаче
 like:подобно
 likeness:подобие
@@ -648,7 +649,6 @@ hundred:сто
 egypt:египет
 many:много
 how:как/колко
-words:думи
 thousand:хиляда
 fire:огън
 art:си
