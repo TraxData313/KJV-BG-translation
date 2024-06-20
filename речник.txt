@@ -165,6 +165,8 @@ making:правейки/правещ
 do:върша
 doeth:върши
 doth:върша
+did:свърши
+didst:свърши
 done:свърши
 doest:вършиш
 dost:свърши
@@ -615,7 +617,6 @@ fathers:бащи
 hast:имаше/минвр
 o:о
 may:може
-did:свърши
 what:какво
 among:измежду
 between:между
@@ -717,6 +718,7 @@ sleeping:спейки
 sleepest:спиш
 sleepeth:спи
 asleep:заспал
+slept:спах
 bidden:възвестен
 bid:възвести
 biddeth:възвестява
@@ -1675,6 +1677,7 @@ dashed:разрязвах
 dasheth:разрязва
 tear:раздирам
 teareth:раздира
+tare:раздрах
 tears:сълзи
 rip:разпориш
 high:висок
@@ -3810,3 +3813,19 @@ richly:богато
 enrich:обогатявам
 enrichest:обогатяваш
 enriched:обогатих
+tares:плевели
+blade:стрък
+edge:острие
+edges:остриета
+two-edged:дву-остриев
+twoedged:двуостриев
+sharp:остър
+sharpen:заострям
+sharpened:заострих
+sharpeneth:заостря
+sharper:по-остър
+sharply:остро
+sharpness:острота
+sir:господине
+bundle:вързоп
+bundles:вързопи

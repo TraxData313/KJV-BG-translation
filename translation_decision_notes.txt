@@ -8657,6 +8657,71 @@ unfruitful:непълноплоден -> безплоден
 
 
 
+Mat13:24 Друг притча постави той напред/изясняваша на/помощна те, казвайки, Царството от небето е оподобен на/помощна крчл човек което посях благо семе в негов поле:
+Mat13:25 Но докато хора slept, негов враг дойде и посях tares измежду пълчл пшеница, и дойде негов път.
+-
+Mat13:24 Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:
+Mat13:25 But while men slept, his enemy came and sowed tares among the wheat, and went his way.
+
+
+slept (добавено при sleep)
+
+tare (добавено при tear)
+
+tares:плевели
+
+
+went his way:тръгна по пътя си
+
+
+
+
+
+
+
+Mat13:26 Но кога/когато пълчл blade беше извря на/горе/въз, и изкарва плод, тогава явих пълчл плевели също.
+Mat13:27 Така пълчл служители от/за пълчл къщoдържател дойде и каза на/помощна него, Sir, didst не ти сея благо семе в твоя поле? от откъде тогава имаше/минвр то плевели?
+-
+Mat13:26 But when the blade was sprung up, and brought forth fruit, then appeared the tares also.
+Mat13:27 So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?
+
+
+blade:стрък
+
+stalk
+
+edge:острие
+edges:остриета
+two-edged:дву-остриев
+twoedged:двуостриев
+
+sharp:остър
+sharpen:заострям
+sharpened:заострих
+sharpeneth:заостря
+sharper:по-остър
+sharply:остро
+sharpness:острота
+
+sir:господине
+
+did:свърши
+didst:свърши (добавено при do)
+
+
+
+
+
+
+
+
+Mat13:30 Нека двете/двамата пораствам заедно докато пълчл жетва: и в пълчл време от/за жетва аз ще казвам до/на/към пълчл жътвари, Събирам вий заедно първи пълчл плевели, и закрепен те в bundles до/на/към горя те: но събирам пълчл пшеница в мой житница.
+-
+Mat13:30 Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.
+
+
+bundle:вързоп
+bundles:вързопи
 
 
 
