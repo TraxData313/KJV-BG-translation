@@ -2766,8 +2766,8 @@ field:поле
 fields:полета
 grow:пораствам
 groweth:пораства
-grew:порастнах
-grown:порастнал
+grew:пораснах
+grown:пораснал
 growth:растеж
 toil:трепане/трепясе
 toiled:трепяхсе
@@ -3829,3 +3829,12 @@ sharpness:острота
 sir:господине
 bundle:вързоп
 bundles:вързопи
+mustard:синап
+lodge:преспя
+lodgest:преспиш
+lodgeth:преспи
+lodged:преспах
+shelter:заслон
+refuge:прибежище
+branch:клон
+branches:клони

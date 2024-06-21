@@ -8728,6 +8728,118 @@ bundles:вързопи
 
 
 
+
+Mat13:31 Друга притча им постави напред, казвайки, Царството от небето е подобно до/на/към крчл зърно от/за mustard семе, което крчл човек взе, и посях в негов поле:
+Mat13:32 Което вдеяние е пълчл най-малък от/за всички семена: но кога/когато то е порастнал, то е пълчл най-велик измежду билки, и идвадабъде крчл дървета, така това пълчл птици от/за пълчл въздух идвам/дойдох и lodge в пълчл branches тамот.
+-
+Mat13:31 Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
+Mat13:32 Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
+
+mustard:синап
+
+lodge:преспя
+lodgest:преспиш
+lodgeth:преспи
+lodged:преспах
+	The word "lodge" ultimately traces its origins back to the Proto-Indo-European root "*legh-" or "*leg-" which meant "to lie down, lay."
+
+
+shelter(2):заслон
+	The word "shelter" traces its origins to the Proto-Indo-European root "*skel-" or "*kel-" meaning "to cover, conceal.
+refuge:прибежище
+	The word "refuge" originates from the Latin word "refugium," which combines "re-" (back, again) and "fugere" (to flee).
+
+
+branch:клон
+branches:клони
+
+
+
+
+Mat13:33 Друг притча изговори той на/помощна те; Царството от небето е подобно на/помощна leaven, което крчл жена взе, и криех в три мерки от/за meal, докато/до/ора пълчл цял беше leavened.
+-
+Mat13:33 Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.
+
+meat:ядивно<<
+eat:ям<<
+food:храна<<
+time:време<<
+measure:мярка/измервам<<
+mete:определям<<
+
+flour:брашно
+corn:жито<<
+grain:зърно<<
+
+meal:мяра/порция/брашно?
+mealtime
+
+leaven:квас?
+
+dough:тесто
+
+size:размер
+
+piece:парче<<
+portion:порция
+portions:порции
+proportion:пропорция
+
+part:дял/разделям<< -> част?
+	In Old English, the word "part" appeared as "dǣl" or "part,"
+parteth:разделя<<
+parts:дялове<<
+parted:отделен<<
+parties:поделници<<
+
+partaker:дяловземащ<< (да се премести при парт)
+partakers:дяловземащи<<
+partakest:дяловземате<<
+
+depart:заминавам<< -> разделям се? (да се премести при парт)
+departeth:заминава<<
+departed:замина<<
+
+
+apart
+depart
+departed
+departeth
+departing
+departure
+forepart
+impart
+imparted
+part
+partaker
+partakers
+partakest
+parted
+parteth
+parthians
+partial
+partiality
+particular
+particularly
+parties
+parting
+partition
+partly
+partner
+partners
+partridge
+parts
+rampart
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------
 - GPT get word roots promt:
 ---------------------------------------------------------
