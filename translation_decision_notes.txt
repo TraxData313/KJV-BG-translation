@@ -8771,10 +8771,14 @@ flour:брашно
 corn:жито<<
 grain:зърно<<
 
-meal:мяра/порция/брашно?
-mealtime
+meal:мука
+mealtime:муковреме
 
-leaven:квас?
+leaven:квас
+
+leavened:вкисна
+leaveneth:вкисва
+unleavened:невкиснат
 
 dough:тесто
 
@@ -8785,9 +8789,9 @@ portion:порция
 portions:порции
 proportion:пропорция
 
-part:дял/разделям<< -> част?
+part:дял/разделям<< -> дял/поделям (оправено)
 	In Old English, the word "part" appeared as "dǣl" or "part,"
-parteth:разделя<<
+parteth:разделя<< -> поделя (оправено ръчно на 3те места)
 parts:дялове<<
 parted:отделен<<
 parties:поделници<<
@@ -8796,40 +8800,51 @@ partaker:дяловземащ<< (да се премести при парт)
 partakers:дяловземащи<<
 partakest:дяловземате<<
 
-depart:заминавам<< -> разделям се? (да се премести при парт)
-departeth:заминава<<
-departed:замина<<
+depart:заминавам<< -> отделямсе
+departeth:заминава<< -> отделисе
+departed:замина<< -> отделихсе 
+apart:отделно
+departing:отделяйки
+departure:отделяне
 
 
-apart
-depart
-departed
-departeth
-departing
-departure
-forepart
-impart
-imparted
-part
-partaker
-partakers
-partakest
-parted
-parteth
-parthians
-partial
-partiality
-particular
-particularly
-parties
-parting
-partition
-partly
-partner
-partners
-partridge
-parts
-rampart
+
+
+
+
+
+
+Mat13:36 Тогава Исус прати пълчл множество далеч_пътьом(ф/а), и дойде в пълчл къща: и негов ученици дойде на/помощна него, казвайки, Declare на/помощна ние пълчл притча от/за пълчл плевели от/за пълчл поле.
+Mat13:37 Той отговорих и каза им, Той това сее пълчл благо семе е Синът на човек;
+Mat13:38 Пълчл поле е пълчл свят; пълчл благо семе са пълчл деца от/за пълчл царство; но пълчл плевели са пълчл деца от/за пълчл лукав едно;
+Mat13:39 Пълчл враг това посях те е пълчл дявол; пълчл жетва е пълчл край/приключвам от/за пълчл свят; и пълчл жътвари са пълчл ангели.
+Mat13:40 Като затова пълчл плевели са събрани и изгориш в пълчл огън; така ще то бъда в пълчл край/приключвам от/за това/този свят.
+Mat13:41 Пълчл Син от/за човек ще пращам напред/изясняваша негов ангели, и те ще събирам от/вън от/за негов царство всички неща това провиня, и те което върша неправда;
+Mat13:42 И ще запращам/запратих те в крчл furnace от/за огън: там ще бъда стенаеш/стенание и скърцане със зъби.
+Mat13:43 Тогава ще пълчл праведен осиявам напред/изясняваша като пълчл слънце в пълчл царство от/за техните Баща. Който има уши да слуша, нека слуша.
+-
+Mat13:36 Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.
+Mat13:37 He answered and said unto them, He that soweth the good seed is the Son of man;
+Mat13:38 The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;
+Mat13:39 The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.
+Mat13:40 As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world.
+Mat13:41 The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;
+Mat13:42 And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.
+Mat13:43 Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.
+
+
+message:съобщение<<
+profess:провъзгласявам<<
+declare:обявявам
+declareth:обявява
+declared:обявих
+declaring:обявявайки
+declaration:обява
+
+oven:пещ<< -> печка използва се за готварска
+ovens:пещи<< -> печки
+furnace:пещ - това се използва за топене на метал и други
+furnaces:пещи
 
 
 
