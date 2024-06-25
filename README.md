@@ -16,7 +16,7 @@
 - [progress_translation.py](https://github.com/TraxData313/KJV-BG-translation/blob/main/progress_translation.py) - скрипт, който превежда, използвайки [речника](https://github.com/TraxData313/KJV-BG-translation/blob/main/%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA.txt), компилира по готовите стихове по [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books), намира грешки и обновява статистиката в секция **Напредък**
 
 ## Напредък
-- [3834] или [30.96%] от [12384] уникални думи са преведени [ETA 2027-06-17]
-- [714584] или [91.37%] от общо [782071] думи са преведени [ETA 2025-08-12]
-- [472] или [1.52%] от общо [31102] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) и качени в уебсайта [BG KJV Книги](http://site-for-kjv-bg-translation.s3-website-us-east-1.amazonaws.com/)  [ETA 2073-11-11]
-- С текущия темп цялостният груб превод ще завърши около [2034-11-24]
+- [3852] или [31.1%] от [12384] уникални думи са преведени [ETA 2027-06-18]
+- [715019] или [91.43%] от общо [782071] думи са преведени [ETA 2025-08-25]
+- [481] или [1.55%] от общо [31102] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) и качени в уебсайта [BG KJV Книги](http://site-for-kjv-bg-translation.s3-website-us-east-1.amazonaws.com/)  [ETA 2072-03-29]
+- С текущия темп цялостният груб превод ще завърши около [2034-08-26]
