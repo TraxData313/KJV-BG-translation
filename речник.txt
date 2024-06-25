@@ -298,6 +298,7 @@ eleazar:елиазар
 matthan:матхан
 jacob:яков
 joseph:йосиф
+joses:йосея
 mary:мария
 book:книга
 generation:поколение
@@ -3877,3 +3878,12 @@ vessel:съд
 vessels:съдове
 sever:отделям
 severed:отделих
+instruct:наставлявам
+instructed:наставлявах
+instructing:наставлявайки
+instruction:наставление
+instructor:наставник
+instructer:наставнек
+instructors:наставници
+carpenter:дърводелец
+carpenters:дърводелци

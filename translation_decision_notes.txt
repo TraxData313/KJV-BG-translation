@@ -8915,21 +8915,72 @@ fathers:бащи -> отци
 
 
 
+Mat13:52 Тогава каза той на/помощна те, Затова всеки постанововед което е instructed на/помощна царството от небето е подобно на/помощна крчл човек това е крчл къщoдържател, което носи напред/изясняваша от/вън от/за негов съкровище неща нов и стар.
+-
+Mat13:52 Then said he unto them, Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old.
 
+
+scholar:ученик<<
+disciple:ученик<<
+learn:уча<<
+doctor:учен<<
+
+instruct:наставлявам
+instructed:наставлявах
+instructing:наставлявайки
+instruction:наставление
+instructor:наставник
+instructer:наставнек
+instructors:наставници
+	The word "instruct" originates from the Latin word "instructus", the past participle of "instruere", which means "to build, prepare, arrange, furnish."
+	Monastic schools and scholars used the term to describe the process of teaching and preparing students in various disciplines.
+	Manuscripts from this period show "instructus" used in the sense of imparting knowledge and arranging teachings.
+	В някои 1Cor4:15 е instructors (тук), в други е instructers (както в https://biblia.bg/index.php?k=53&g=4&s=15&sw=instructer&tr_search=3)
+
+
+
+
+Mat13:53 И дойде да мине, че когато Исус завърши тези притчи, той се отдели оттогава.
+Mat13:54 И кога/когато той беше идвам/дойдох в негов собствен държава, той преподадох те в техните синагога, втолковамного това те беше удивен, и каза, Откъде имаше/минвр това/този човек това/този мъдрост, и тези могъщ работи?
+Mat13:55 Е не това/този пълчл carpenter's син? е не негов майка на/призова Мария? и негов братя, Яков, и Joses, и Симон, и Юдя?
+Mat13:56 И негов сестри, са те не всички с ние? Откъде тогава имаше/минвр това/този човек всички тези неща?
+-
+Mat13:53 And it came to pass, that when Jesus had finished these parables, he departed thence.
+Mat13:54 And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?
+Mat13:55 Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
+Mat13:56 And his sisters, are they not all with us? Whence then hath this man all these things?
+
+carpenter:дърводелец
+carpenters:дърводелци
+
+joseph:йосиф<<
+josias:йосия<<
+joses:йосея
+
+
+
+
+
+
+
+
+offended:провиних? (Mat13:57)
+save:+освен/с изключение на? (Mat13:57)
 
 
 
 ---------------------------------------------------------
 - GPT get word roots promt:
 ---------------------------------------------------------
-I am translating KJV into BG, and I want you to give me the history and the evolution of the word "winebibber", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
+I am translating KJV into BG, and I want you to give me the history and the evolution of the word "carpenter", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
 ---------------------------------------------------------
 
 
 
 
 ...on the back of my mind...
--TODO: баща -> отец/отче? "О, Баща,..."
+-TODO: scholar=disciple=ученик (learn:уча, doctor:учен)
+-TODO: %царството от небето -> небесното царство ?
 -TODO: arm=hand
 -TODO: 45NT_Римляни
 -TODO: add progress to the web home page
