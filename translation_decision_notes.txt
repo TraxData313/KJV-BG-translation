@@ -8960,11 +8960,52 @@ joses:йосея
 
 
 
+Mat14:1 На/в това време Ирод пълчл tetrarch слуши от/за пълчл знатност от/за Исус,
+Mat14:2 И каза на/помощна негов служители, Това/този е Йоан пълчл Кръстител; той е вдигнат от пълчл мъртъв; и затова могъщ работи върша показвам напред/изясняваша себеси в него.
+-
+Mat14:1 At that time Herod the tetrarch heard of the fame of Jesus,
+Mat14:2 And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him.
+
+
+
+tetrarch:четверовластник
 
 
 
 
-offended:провиних? (Mat13:57)
+
+
+Mat14:3 За/защото Ирод имаше/минвр положен държа/държание върху/на/помощна Йоан, и закрепен него, и постави него в затвор за/защото Herodias' заради, негов брат Филип's съпруга.
+Mat14:4 За/защото Йоан каза на/помощна него, То е не законен за/защото теб до/на/към имам/минвр/получавам нея.
+-
+Mat14:3 For Herod had laid hold on John, and bound him, and put him in prison for Herodias' sake, his brother Philip's wife.
+Mat14:4 For John said unto him, It is not lawful for thee to have her.
+
+
+
+
+
+herodias:иродиада
+
+
+
+
+Mat14:6 Но кога/когато Ирод's birthday беше пазих, пълчл дъщеря от/за Иродиада танцувах преди/пред те, и доволен/задоволен Ирод.
+Mat14:7 Whereupon той обеща с крчл обет до/на/към дава нея каквотоидае тя бих/би/биха питам.
+Mat14:8 И тя, бидейки преди/пред наставлявах от/за нея майка, каза, Дава мен тук Йоан Кръстител's глава в крчл поднос.
+-
+Mat14:6 But when Herod's birthday was kept, the daughter of Herodias danced before them, and pleased Herod.
+Mat14:7 Whereupon he promised with an oath to give her whatsoever she would ask.
+Mat14:8 And she, being before instructed of her mother, said, Give me here John Baptist's head in a charger.
+
+
+
+
+
+
+
+
+offended:провиних -> обидих/съблазних/оскърбя? (Mat13:57)
 save:+освен/с изключение на? (Mat13:57)
 
 

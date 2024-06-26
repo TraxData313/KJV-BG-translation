@@ -3887,3 +3887,5 @@ instructer:наставнек
 instructors:наставници
 carpenter:дърводелец
 carpenters:дърводелци
+tetrarch:четверовластник
+herodias:иродиада
