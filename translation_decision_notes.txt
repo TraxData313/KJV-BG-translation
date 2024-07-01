@@ -8998,15 +8998,111 @@ Mat14:6 But when Herod's birthday was kept, the daughter of Herodias danced befo
 Mat14:7 Whereupon he promised with an oath to give her whatsoever she would ask.
 Mat14:8 And she, being before instructed of her mother, said, Give me here John Baptist's head in a charger.
 
+birthday:рожденден
+
+where:къде/където<<
+upon:връз<<
+whereupon:къдетовръз
+
+
+
+
+Mat14:9 И пълчл цар беше измъчен: nevertheless за/защото пълчл обет's заради, и те което седях с него на/в ядивно, той заповяда то до/на/към бъда даде нея.
+Mat14:10 И той прати, и обезглавен Йоан в пълчл затвор.
+Mat14:11 И негов глава беше донесен в крчл поднос, и даде до/на/към пълчл мома: и тя донесен то до/на/към нея майка.
+-
+Mat14:9 And the king was sorry: nevertheless for the oath's sake, and them which sat with him at meat, he commanded it to be given her.
+Mat14:10 And he sent, and beheaded John in the prison.
+Mat14:11 And his head was brought in a charger, and given to the damsel: and she brought it to her mother.
+
+
+never:никога<<
+less:по-малко<<
+yet:още/обаче<<
+nevertheless:въпрекитова
+
+
+
+
+
+Mat14:12 И негов ученици дойде, и взе на/горе/въз пълчл тяло, и погребах то, и дойде и обясних Исус.
+Mat14:13 Кога/когато Исус слуши от/за то, той отделихсе оттогава до/от/по кораб в крчл desert място отделно: и кога/когато пълчл народ имаше/минвр слуши тамот, те последвах него върху/на/помощна крак от/вън от/за пълчл градове.
+-
+Mat14:12 And his disciples came, and took up the body, and buried it, and went and told Jesus.
+Mat14:13 When Jesus heard of it, he departed thence by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities.
+
+desolate:опустошен<<
+desert:пустиня/пуст
+deserts:пустини
 
 
 
 
 
 
+Mat14:15 И кога/когато то беше вечер, негов ученици дойде до/на/към него, казвайки, Това/този е крчл пустиня/пуст място, и пълчл време е сега past; пращам пълчл множество далеч_пътьом(ф/а), това те може отивам в пълчл села, и купувам себеси victuals.
+Mat14:16 Но Исус каза им, Те нужда/нуждая не отделямсе; дава вий те до/на/към ям.
+Mat14:17 И те казвам на/помощна него, Ние имам/минвр/получавам тук но пет loaves, и две риби.
+Mat14:18 Той каза, Изнася те насам до/на/към мен.
+-
+Mat14:15 And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals.
+Mat14:16 But Jesus said unto them, They need not depart; give ye them to eat.
+Mat14:17 And they say unto him, We have here but five loaves, and two fishes.
+Mat14:18 He said, Bring them hither to me.
 
-offended:провиних -> обидих/съблазних/оскърбя? (Mat13:57)
-save:+освен/с изключение на? (Mat13:57)
+
+past:минало	
+overpast:премине
+
+victual:насъщен/насъщнина
+victuals:насъщнини
+	The word "victual" originates from the Latin word "victus," meaning "nourishment" or "way of living."
+
+loaf:пита
+loaves:пити
+
+
+
+
+Mat14:19 И той заповяда пълчл множество до/на/към седя долу върху/на/помощна пълчл трева, и взе пълчл пет пити, и пълчл две риби, и гледайки/гледащ на/горе/въз до/на/към небе, той благословен, и brake, и даде пълчл пити до/на/към негов ученици, и пълчл ученици до/на/към пълчл множество.
+Mat14:20 И те свърши всички ям, и беше напълнен: и те взе на/горе/въз от/за пълчл fragments това останах дванадесет baskets пълен.
+Mat14:21 И те това имаше/минвр ядох беше около пет хиляда хора, beside жени и деца.
+-
+Mat14:19 And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude.
+Mat14:20 And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full.
+Mat14:21 And they that had eaten were about five thousand men, beside women and children.
+
+
+break:чупя<<
+brake:счупих
+brakest:счупи
+broken:счупен
+foot:крак<<
+brokenfooted:счупенокрак
+brokenhanded:счупенорък
+brokenhearted:счупеносърц
+
+piece:парче
+fragments:отломки
+	The word "fragment" originates from the Latin word "fragmentum," which means "a broken piece" or "a part broken off."
+
+basket:кошница
+baskets:кошници
+
+outside:отвън<<
+aside:встрани<<
+side:страна<<
+be:бъда<<
+along:надлъж<<
+beside:покрай
+besides:покрай/покрайни
+	Hast thou here any besides? son in law, and thy sons,...
+
+
+
+
+
+
 
 
 
@@ -9020,6 +9116,9 @@ I am translating KJV into BG, and I want you to give me the history and the evol
 
 
 ...on the back of my mind...
+-ТОДО: тамот?
+-TODO: offended:провиних -> обидих/съблазних/оскърбя? (Mat13:57)
+-TODO: save:+освен/с изключение на? (Mat13:57)
 -TODO: scholar=disciple=ученик (learn:уча, doctor:учен)
 -TODO: %царството от небето -> небесното царство ?
 -TODO: arm=hand

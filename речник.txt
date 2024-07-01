@@ -532,7 +532,7 @@ keepers:пазачи
 keepest:пазиш
 keepeth:пази
 keeping:пазейки/пазещ/пазене
-kept:пазих
+kept:пазих/спазен
 guard:охрана
 preserve:съхрани
 redeem:изкупи
@@ -1731,7 +1731,7 @@ firstbegotten:първобъдведен
 hence:оттук
 henceforth:оттукнапред
 henceforward:оттукзанапред
-thence:оттогава
+thence:оттам
 thenceforth:оттогаванапред
 whence:откъде
 satan:сатана
@@ -2139,6 +2139,12 @@ breakest:чупиш
 breaketh:чупи
 breaking:чупене/чупейки
 breakings:чупения
+brake:счупих
+brakest:счупи
+broken:счупен
+brokenfooted:счупенокрак
+brokenhanded:счупенорък
+brokenhearted:счупеносърц
 except:освен/изключая
 excepted:изключено
 case:случай
@@ -3889,3 +3895,21 @@ carpenter:дърводелец
 carpenters:дърводелци
 tetrarch:четверовластник
 herodias:иродиада
+birthday:рожденден
+whereupon:къдетовръз
+nevertheless:въпрекитова
+desert:пустиня/пуст
+deserts:пустини
+went forth:излезе
+past:минало
+overpast:премине
+victual:насъщен/насъщнина
+victuals:насъщнини
+loaf:пита
+loaves:пити
+piece:парче
+fragments:отломки
+basket:кошница
+baskets:кошници
+beside:покрай
+besides:покрай/покрайни
