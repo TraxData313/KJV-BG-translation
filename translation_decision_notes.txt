@@ -9190,9 +9190,24 @@ Mat14:33 Then they that were in the ship came and worshipped him, saying, Of a t
 
 
 boisterous
-sink
-doubt
-ceased
+
+sink:потъвам?
+sunk:потъна
+
+doubt:съмнение?
+doubted
+doubteth
+doubtful
+doubting
+doubtless
+doubts
+
+cease
+ceased:спря?
+ceaseth
+ceasing
+decease:починал?
+deceased
 
 
 
@@ -9210,6 +9225,7 @@ I am translating KJV into BG, and I want you to give me the history and the evol
 
 
 ...on the back of my mind...
+-ТОДО: преглед на глави: 11
 -ТОДО: foes=adversaries=противници
 -ТОДО: тамот?
 -TODO: offended:провиних -> обидих/съблазних/оскърбя? (Mat13:57)
