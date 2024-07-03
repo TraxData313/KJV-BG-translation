@@ -9102,6 +9102,100 @@ besides:покрай/покрайни
 
 
 
+Mat14:22 И прямопътно Исус constrained негов ученици до/на/към веда в крчл кораб, и до/на/към отивам преди/пред него на/помощна пълчл друг страна, докато той прати пълчл множества далеч_пътьом(ф/а).
+Mat14:23 И кога/когато той имаше/минвр прати пълчл множества далеч_пътьом(ф/а), той дойде на/горе/въз в крчл възвишенина отделно до/на/към моля: и кога/когато пълчл вечер беше идвам/дойдох, той беше там сам.
+Mat14:24 Но пълчл кораб беше сега в пълчл посредата от/за пълчл море, tossed с вълни: за/защото пълчл вятър беше contrary.
+-
+Mat14:22 And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away.
+Mat14:23 And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone.
+Mat14:24 But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary.
+
+border:граница<<
+narrowed:отеснен<<
+compel:принуждавам<<
+charge:задължение<<
+constrain:ограничавам
+constraineth:ограничава
+constrained:ограничих
+constraint:ограничение
+
+wise:мъдър/начин<<
+against:срещу<<
+adversity:противничество<<
+contrary:противно
+contrariwise:противноначин
+
+oppose:противя
+opposest:противиш
+opposeth:противи
+opposed:притивих
+oppositions:противления
+
+toss:тласкам
+tossed:тласках
+tossings:тласъци
+
+
+
+
+Mat14:25 И в пълчл четвърти watch от/за пълчл нощ Исус дойде на/помощна те, ходейки върху/на/помощна пълчл море.
+Mat14:26 И кога/когато пълчл ученици видя него ходейки върху/на/помощна пълчл море, те беше разтревожен, казвайки, То е крчл дух; и те извиках от/вън за/защото боя/боязън.
+Mat14:27 Но прямопътно Исус изговори на/помощна те, казвайки, Бъда в благо разведрение; то е Аз; бъда не уплашен.
+-
+Mat14:25 And in the fourth watch of the night Jesus went unto them, walking on the sea.
+Mat14:26 And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear.
+Mat14:27 But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid.
+
+
+look:гледам<<
+see:виждам<<
+wake:будя<<
+witness:свидетел/свидетелствам<<
+ward:стража<<
+wards:стражи<<
+rereward:заднастража<<
+tower:кула<<
+
+watch:бдя/бдение
+watches:бдения
+watcheth:бди
+watched:бдях
+watching:бдейки/бдейкуване
+watchings:бдейкувания
+watchful:бдителен
+watcher:бдител
+watchers:бдители
+watchman:бдителител
+watchmen:бдителители
+watchtower:бдителокула
+	като стража: in the morning watch
+	The word "watch" in Old English was "wæcce" or "wæccan," which means "to be awake" or "to be vigilant."
+
+vigilant:бодър
+
+
+
+
+
+
+Mat14:30 Но кога/когато той видя пълчл вятър boisterous, той беше уплашен; и започване до/на/към sink, той извиках, казвайки, Господ, запазвам мен.
+Mat14:31 И непосредствено Исус протегнах напред/изясняваша негов ръка, и улови него, и каза на/помощна него, О ти от малко вяра, закоито/закаквото свърши ти doubt?
+Mat14:32 И кога/когато те беше идвам/дойдох в пълчл кораб, пълчл вятър ceased.
+Mat14:33 Тогава те това беше в пълчл кораб дойде и поклони него, казвайки, От/за крчл истина ти си пълчл Син от/за Бог.
+-
+Mat14:30 But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me.
+Mat14:31 And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?
+Mat14:32 And when they were come into the ship, the wind ceased.
+Mat14:33 Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.
+
+
+boisterous
+sink
+doubt
+ceased
+
+
+
 
 
 
@@ -9109,13 +9203,14 @@ besides:покрай/покрайни
 ---------------------------------------------------------
 - GPT get word roots promt:
 ---------------------------------------------------------
-I am translating KJV into BG, and I want you to give me the history and the evolution of the word "carpenter", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
+I am translating KJV into BG, and I want you to give me the history and the evolution of the word "watch", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
 ---------------------------------------------------------
 
 
 
 
 ...on the back of my mind...
+-ТОДО: foes=adversaries=противници
 -ТОДО: тамот?
 -TODO: offended:провиних -> обидих/съблазних/оскърбя? (Mat13:57)
 -TODO: save:+освен/с изключение на? (Mat13:57)
