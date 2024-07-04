@@ -9189,27 +9189,45 @@ Mat14:32 And when they were come into the ship, the wind ceased.
 Mat14:33 Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.
 
 
-boisterous
+boisterous:буен
 
-sink:потъвам?
+sink:потъвам
 sunk:потъна
 
-doubt:съмнение?
-doubted
-doubteth
-doubtful
-doubting
-doubtless
-doubts
+doubt:съмнение/съмнявам
+doubted:усъмних
+doubteth:съмнява
+doubting:съмнявайки
+doubtful:съмнителен
+doubtless:безсъмнително
+doubts:съмнения
 
-cease
-ceased:спря?
-ceaseth
-ceasing
-decease:починал?
-deceased
+death:смърт<<
+died:умря<<
+dying:умиране/умиращ<<
+stop:спрях<<
+cease:преставам
+ceaseth:престава
+ceased:преставах
+ceasing:преставайки/преставане
+decease:отставам
+deceased:отстанах
 
 
+
+
+
+Mat14:34 И кога/когато те беше преминали, те дойде в пълчл територия от/за Gennesaret.
+Mat14:35 И кога/когато пълчл хора от/за това място имаше/минвр knowledge от/за него, те прати от/вън в всички това държава кръгло около, и донесен на/помощна него всички това беше заразен;
+Mat14:36 И протърсвах него това те бихмогъл единствено докосвам пълчл полa от/за негов палто: и като много като докоснах беше направи съвършено цял.
+-
+Mat14:34 And when they were gone over, they came into the land of Gennesaret.
+Mat14:35 And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;
+Mat14:36 And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole.
+
+
+gennesaret:генисарет
+knowledge:знание
 
 
 
@@ -9225,7 +9243,7 @@ I am translating KJV into BG, and I want you to give me the history and the evol
 
 
 ...on the back of my mind...
--ТОДО: преглед на глави: 11
+-ТОДО: преглед на глави: 13,14
 -ТОДО: foes=adversaries=противници
 -ТОДО: тамот?
 -TODO: offended:провиних -> обидих/съблазних/оскърбя? (Mat13:57)
