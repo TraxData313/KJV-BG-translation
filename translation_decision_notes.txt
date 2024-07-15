@@ -9233,6 +9233,81 @@ knowledge:знание
 
 
 
+
+Mat15:1 Тогава дойде до/на/към Исус постанововеди и Фарисеи, което беше от/за Йерусалим, казвайки,
+Mat15:2 Защо върша твоя ученици transgress пълчл обичай от/за пълчл по-стари? за/защото те умивам не техните ръце кога/когато те ям хляб.
+Mat15:3 Но той отговорих и каза им, Защо върша вий също transgress пълчл заповед от/за Бог до/от/по ваш обичай?
+Mat15:4 За/защото Бог заповяда, казвайки, Чест/почитай твоя отец и майка: и, Той това проклина отец или майка, нека него умира пълчл смърт.
+-
+Mat15:1 Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,
+Mat15:2 Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread.
+Mat15:3 But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?
+Mat15:4 For God commanded, saying, Honour thy father and mother: and, He that curseth father or mother, let him die the death.
+
+
+
+transfigured:преображен<<
+transparent:прозрачен<<
+trespass:престъпление/престъпвам<< -> преминаване/преминавам
+trespassed:престъпих<< -> преминах
+trespasses:престъпления<< -> преминавания
+trespassing:престъпвайки/престъпващ<< -> преминавайки/преминаващ
+
+transgress:престъпвам
+transgressed:престъпих
+transgressest:престъпваш
+transgresseth:престъпва
+transgressing:престъпвайки/престъпващ
+transgression:престъпление
+transgressions:престъпления
+transgressor:престъпник
+transgressors:престъпници
+
+
+
+
+Mat15:5 Но вий казвам, Койтоида ще казвам до/на/към негов отец или негов майка, То е крчл дар, до/от/по каквотоидае ти mightest бъда оползотворих до/от/по мен;
+Mat15:6 И чест/почитай не негов отец или негов майка, той ще бъда свободен. Така имам/минвр/получавам вий направи пълчл заповед от/за Бог от/за никой effect до/от/по ваш обичай.
+Mat15:7 Вий лицемери, добре/кладенец свърши Исаия пророчество от/за вие, казвайки,
+Mat15:8 Това/този народ издърпвам nigh на/помощна мен с техните уста, и почита мен с техните lips; но техните сърце е далеч_пътьом(ф/а) от мен. [Исая 29:13]
+Mat15:9 Но в празен те върша поклонение мен, преподавайки/преподаващ за/защото учения пълчл заповеди от/за хора.
+-
+Mat15:5 But ye say, Whosoever shall say to his father or his mother, It is a gift, by whatsoever thou mightest be profited by me;
+Mat15:6 And honour not his father or his mother, he shall be free. Thus have ye made the commandment of God of none effect by your tradition.
+Mat15:7 Ye hypocrites, well did Esaias prophesy of you, saying,
+Mat15:8 This people draweth nigh unto me with their mouth, and honoureth me with their lips; but their heart is far from me.
+Mat15:9 But in vain they do worship me, teaching for doctrines the commandments of men.
+
+
+mightest:можеш
+mighties:могъщи
+mightiest:най-могъщ
+mightily:могъщо
+	добавени при might
+
+effect:въздействие/въздействам
+effected:въздействах
+effectual:въздействен
+effectually:въздействено
+affect:придействам
+affecteth:придейства
+affected:придействан
+affection:придейственост
+affections:придействености
+affectioned:придейственоствани
+affectionately:придейственостно
+
+nigh:близо
+
+lip:устна
+lips:устни
+
+
+
+
+
+
+
 ---------------------------------------------------------
 - GPT get word roots promt:
 ---------------------------------------------------------
@@ -9241,19 +9316,13 @@ I am translating KJV into BG, and I want you to give me the history and the evol
 
 
 
-
 ...on the back of my mind...
--ТОДО: преглед на глави: 13,14
 -ТОДО: foes=adversaries=противници
 -ТОДО: тамот?
 -TODO: offended:провиних -> обидих/съблазних/оскърбя? (Mat13:57)
 -TODO: save:+освен/с изключение на? (Mat13:57)
 -TODO: scholar=disciple=ученик (learn:уча, doctor:учен)
--TODO: %царството от небето -> небесното царство ?
 -TODO: arm=hand
 -TODO: 45NT_Римляни
--TODO: add progress to the web home page
--TODO: add the dict to the web for easy usage
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
-
 NOTE: "elect" ~ line 8105
