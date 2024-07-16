@@ -9305,6 +9305,30 @@ lips:устни
 
 
 
+Mat15:10 И той на/призова пълчл множество, и каза им, Слуша, и разбирам:
+Mat15:11 Не това което отива в пълчл уста defileth крчл човек; но това което идва от/вън от/за пълчл уста, това/този defileth крчл човек.
+-
+Mat15:10 And he called the multitude, and said unto them, Hear, and understand:
+Mat15:11 Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.
+
+profane:осквернявам<<
+clean:чист<<
+wash:умивам<<
+corrupt:поквара/покварявам<<
+pervert:извращавам<<
+honour:чест/почитай<<
+defile:опорочавам /обезчести/осквернявам/замърсявам/развращавам
+defiled
+defiledst
+defileth
+undefiled
+	“defile,” which originates from the Old French verb “defouler,” meaning “to trample down, violate, or make dirty.” The word “undefiled” has been used since the Middle English period to describe something that remains clean, pure, or untouched by corruption
+
+crime:нарушение<<
+violated(1):наруших?
+	Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
+
+pollute:замърсявам?
 
 
 
