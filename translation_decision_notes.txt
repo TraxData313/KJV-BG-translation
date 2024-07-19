@@ -9317,25 +9317,88 @@ wash:умивам<<
 corrupt:поквара/покварявам<<
 pervert:извращавам<<
 honour:чест/почитай<<
-defile:опорочавам /обезчести/осквернявам/замърсявам/развращавам
-defiled
-defiledst
-defileth
-undefiled
+defile:опорочавам
+defiled:опорочих
+defiledst:опорочи
+defileth:опорочава
+undefiled:неопорочен
 	“defile,” which originates from the Old French verb “defouler,” meaning “to trample down, violate, or make dirty.” The word “undefiled” has been used since the Middle English period to describe something that remains clean, pure, or untouched by corruption
 
 crime:нарушение<<
-violated(1):наруших?
+violated(1):наруших
 	Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
 
-pollute:замърсявам?
+pollute:замърсявам
+polluted:замърсих
+
+
+
+
+Mat15:12 Тогава дойде негов ученици, и каза на/помощна него, Knowest ти това пълчл Фарисеи беше провиних, след те слуши това/този казвайки?
+Mat15:13 Но той отговорих и каза, Всеки plant, което мой небесен Отец имаше/минвр не planted, ще бъда изкоренен.
+Mat15:14 Нека те сам: те бъда сляп/заслепявам водачи от/за пълчл сляп/заслепявам. И ако/дали пълчл сляп/заслепявам водя пълчл сляп/заслепявам, двете/двамата ще падам в пълчл ditch.
+-
+Mat15:12 Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?
+Mat15:13 But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up.
+Mat15:14 Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.
+
+
+plant:растение/насаждам
+planted:насадих
+planteth:насаждаш
+plantedst:насади
+planters:насаждачи
+plants:растения
+planting:насаждане
+plantings:насаждания
+plantation:насаждение
+
+
+pit:яма<<
+ditch:ров
+ditches:ровове
+trench:окоп
+
+
+
+
+
+Mat15:15 Тогава отговорих Петър и каза на/помощна него, Обявявам на/помощна ние това/този притча.
+Mat15:16 И Исус каза, Са вий също още/обаче свън разбиране/разбирайки/разбиращ?
+Mat15:17 Върша не вий още/обаче разбирам, това каквотоидае влиза в на/в пълчл уста отива в пълчл корем, и е запращам/запратих от/вън в пълчл draught?
+Mat15:18 Но тези неща което продължавам от/вън от/за пълчл уста идвам/дойдох напред/изясняваша от пълчл сърце; и те опорочавам пълчл човек.
+Mat15:19 За/защото от/вън от/за пълчл сърце продължавам зло мисли, murders, прелюбодеяния, блудства, thefts, неистина свидетел/свидетелствам, богохулства:
+Mat15:20 Тези са пълчл неща което опорочавам крчл човек: но до/на/към ям с неумити ръце опорочава не крчл човек.
+-
+Mat15:15 Then answered Peter and said unto him, Declare unto us this parable.
+Mat15:16 And Jesus said, Are ye also yet without understanding?
+Mat15:17 Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?
+Mat15:18 But those things which proceed out of the mouth come forth from the heart; and they defile the man.
+Mat15:19 For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:
+Mat15:20 These are the things which defile a man: but to eat with unwashen hands defileth not a man.
+
+
+
+draught:отход
+
+murders:погубвания (добавено при murder:погуби)
+
+thieves:грабители<<
+theft:ограбено
+thefts:ограбвания
+
+
+
+
+
+
 
 
 
 ---------------------------------------------------------
 - GPT get word roots promt:
 ---------------------------------------------------------
-I am translating KJV into BG, and I want you to give me the history and the evolution of the word "watch", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
+I am translating KJV into BG, and I want you to give me the history and the evolution of the word "draught", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
 ---------------------------------------------------------
 
 
