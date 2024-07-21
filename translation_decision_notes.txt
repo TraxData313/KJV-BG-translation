@@ -9445,6 +9445,58 @@ plates:плочи
 
 
 
+Mat15:29 И Исус отделихсе от там, и дойде близо на/помощна пълчл море от/за Галилея; и дойде на/горе/въз в крчл възвишенина, и седях долу там.
+Mat15:30 И велик множества дойде на/помощна него, имащ/имайки с те тези това беше куц/куци, сляп/заслепявам, ням, maimed, и много други, и запращам/запратих те долу на/в Исус' крака; и той оздрави те:
+-
+Mat15:29 And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there.
+Mat15:30 And great multitudes came unto him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus' feet; and he healed them:
+
+
+lame:куц/куци<<
+maimed:осакатен
+cripple:сакат
+
+
+
+
+
+Mat15:32 Тогава Исус на/призова негов ученици на/помощна него, и каза, аз имам/минвр/получавам състрадание върху/на/помощна пълчл множество, порадипричинатаче те continue с мен сега три дни, и имам/минвр/получавам нищо до/на/към ям: и аз ще не пращам те далеч_пътьом(ф/а) постене/постейки, задане те премалям/премалял в пълчл път.
+Mat15:33 И негов ученици казвам на/помощна него, Откъде трябва ние имам/минвр/получавам така много хляб в пълчл подивнина, като до/на/към пълня така велик крчл множество?
+Mat15:34 И Исус каза им, Как/колко много пити имам/минвр/получавам вий? И те каза, Седем, и крчл малоброй малко риби.
+Mat15:35 И той заповяда пълчл множество до/на/към седя долу върху/на/помощна пълчл земля.
+Mat15:36 И той взе пълчл седем пити и пълчл риби, и даде благодарности, и счупих те, и даде до/на/към негов ученици, и пълчл ученици до/на/към пълчл множество.
+Mat15:37 И те свърши всички ям, и беше напълнен: и те вдигнах от/за пълчл счупен ядивно това беше напусна/ляво седем кошници пълен.
+Mat15:38 И те това свърши ям беше четири хиляда хора, покрай жени и деца.
+-
+Mat15:32 Then Jesus called his disciples unto him, and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way.
+Mat15:33 And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?
+Mat15:34 And Jesus saith unto them, How many loaves have ye? And they said, Seven, and a few little fishes.
+Mat15:35 And he commanded the multitude to sit down on the ground.
+Mat15:36 And he took the seven loaves and the fishes, and gave thanks, and brake them, and gave to his disciples, and the disciples to the multitude.
+Mat15:37 And they did all eat, and were filled: and they took up of the broken meat that was left seven baskets full.
+Mat15:38 And they that did eat were four thousand men, beside women and children.
+
+
+proceed:продължавам<< -> изхождам
+proceeded:продължих -> изходих
+proceedeth:продължава -> изхожда
+proceeding:продължаваща<< -> изхождаща
+
+
+continue:продължавам
+continueth:продължава
+continued:продължих
+continuing:продължаващ/продължавайки
+continual:продължителен
+continually:продължително
+continuance:продължителстване
+discontinue:разпродължа
+incontinent:непродължителен
+incontinency:непродължително
+
+
+magdala:магдала
+
 
 
 
@@ -9453,12 +9505,14 @@ plates:плочи
 ---------------------------------------------------------
 - GPT get word roots promt:
 ---------------------------------------------------------
-I am translating KJV into BG, and I want you to give me the history and the evolution of the word "table", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
+I am translating KJV into BG, and I want you to give me the history and the evolution of the word "cripple", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
 ---------------------------------------------------------
 
 
 
 ...on the back of my mind...
+-ТОДО: преглед гл 15
+-ТОДО: велик<->голям? (велики множества)
 -ТОДО: foes=adversaries=противници
 -ТОДО: тамот?
 -TODO: offended:провиних -> обидих/съблазних/оскърбя? (Mat13:57)
