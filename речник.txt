@@ -4010,3 +4010,12 @@ plantation:насаждение
 draught:отход
 theft:ограбено
 thefts:ограбвания
+vex:изтезавам
+vexed:изтезавах/изтезан
+vexation:изтезание
+vexations:изтезания
+crumbs:трохи
+table:таблица
+tables:таблици
+plate:плоча
+plates:плочи

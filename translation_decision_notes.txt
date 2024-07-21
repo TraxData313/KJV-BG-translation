@@ -9392,13 +9392,68 @@ thefts:ограбвания
 
 
 
+Mat15:21 Тогава Исус дойде от там, и отделихсе в пълчл брегове от/за Тир и Сидон.
+Mat15:22 И, обхванете, крчл жена от/за Ханаан излезнах от/за пълчл същи брегове, и извиках на/помощна него, казвайки, Имам/минвр/получавам милост върху/на/помощна мен, О Господ, ти син от/за Давид; мой дъщеря е скръбно vexed с крчл дявол.
+-
+Mat15:21 Then Jesus went thence, and departed into the coasts of Tyre and Sidon.
+Mat15:22 And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou son of David; my daughter is grievously vexed with a devil.
+
+
+anger:дразнение<<
+furious:ядосан<<
+afflict:угнетявам<<
+sorrow:мъка<<
+
+torment:изтезавам/изтезание<< -> тормоз/тормозя
+tormented:изтезавах/изтезан -> тормозих
+torments:изтезания -> тормози
+tormentors:изтезатели<< -> тормозители
+
+vex:изтезавам
+vexed:изтезавах/изтезан
+vexation:изтезание
+vexations:изтезания
+
+
+
+Mat15:23 Но той отговорих нея не крчл слово. И негов ученици дойде и протърсвах него, казвайки, Пращам нея далеч_пътьом(ф/а); за/защото тя вика след ние.
+Mat15:24 Но той отговорих и каза, аз съм не прати но на/помощна пълчл изгубен овца/овце от/за пълчл къща от/за Израел.
+Mat15:25 Тогава дойде тя и поклони него, казвайки, Господ, помагам мен.
+Mat15:26 Но той отговорих и каза, То е не срещам/срещащ до/на/към взимам пълчл деца's хляб, и до/на/към запращам/запратих то до/на/към кучета.
+Mat15:27 И тя каза, Истина, Господ: още/обаче пълчл кучета ям от/за пълчл crumbs което падам от техните господари' table.
+Mat15:28 Тогава Исус отговорих и каза на/помощна нея, О жена, велик е твоя вяра: бъда то на/помощна теб както/вечер/даже/също като ти тище/заимашволята. И нея дъщеря беше направи цял от това много час.
+-
+Mat15:23 But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
+Mat15:24 But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
+Mat15:25 Then came she and worshipped him, saying, Lord, help me.
+Mat15:26 But he answered and said, It is not meet to take the children's bread, and to cast it to dogs.
+Mat15:27 And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table.
+Mat15:28 Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour.
+
+
+crumbs:трохи
+
+table:таблица
+	Let their table be made a snare: масата им (за хранене)
+	the tables of the covenant: плочите на завета
+tables:таблици
+
+plate:плоча
+plates:плочи
+
+
+
+
+
+
+
 
 
 
 ---------------------------------------------------------
 - GPT get word roots promt:
 ---------------------------------------------------------
-I am translating KJV into BG, and I want you to give me the history and the evolution of the word "draught", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
+I am translating KJV into BG, and I want you to give me the history and the evolution of the word "table", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
 ---------------------------------------------------------
 
 
