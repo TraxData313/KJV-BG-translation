@@ -9500,12 +9500,173 @@ magdala:магдала
 
 
 
+Mat16:1 Пълчл Фарисеи също с пълчл Садукеи дойде, и изкушаващ/изкушавайки пожела него това той бих/би/биха показвам те крчл знак от небе.
+Mat16:2 Той отговорих и каза им, Кога/когато то е вечер, вий казвам, То ще бъда fair weather: за/защото пълчл sky е red.
+Mat16:3 И в пълчл утро, То ще бъда foul weather до/на/към ден: за/защото пълчл sky е red и lowring. О вий лицемери, вий мога discern пълчл лице от/за пълчл sky; но мога вий не discern пълчл знаци от/за пълчл времена?
+Mat16:4 Крчл лукав и прелюбодейно поколение търси след крчл знак; и там ще няма знак бъда даде на/помощна то, но пълчл знак от/за пълчл пророк Иона. И той напусна/ляво те, и отделихсе.
+-
+Mat16:1 The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.
+Mat16:2 He answered and said unto them, When it is evening, ye say, It will be fair weather: for the sky is red.
+Mat16:3 And in the morning, It will be foul weather to day: for the sky is red and lowring. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?
+Mat16:4 A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed.
+
+
+good:благо<<
+fair:хубав    красив/хубав/приличен/златозарно/привлекателен?
+	the sons of God saw the daughters of men that they were fair
+	Fair weather cometh out of the north
+fairer:по-хубав
+fairest:най-хубав
+fairs:панаири
+
+beautiful:красив
+
+weather:климат
+
+heaven:небе<<
+sky:небосклон
+skies:небосклони
+
+cloud:облак
+clouds:облаци
+cloudy:ооблачен
+
+red:червен
+reddish:червеникав
+
+lowring:поснижава
+
+divide:разделя<<
+constrain:ограничавам<<
+border:граница<<
+discern:разгранича
+discerneth:разграничава
+discerned:разграничих
+discerner:разграничител
+discerning:разграничавайки/разграничаване
+
+
+foul:развален/развалям
+	My face is foul with weeping
+	he rebuked the foul spirit
+	It will be foul weather to day
+fouled:развалям
+fouledst:разваляш
+
+
+
+
+when face of the sky
+	= red+evening -> fair[+] weather
+	= red+morning -> foul[-] weather
+	discern
+
+he[face of the sky] would shew them a sign[red] from heaven
+for them to discern the sign from heaven
+	= sign+their_discern1 -> good[+]
+	= sign+their_discern2 -> bad[-]
+
+
+ye can discern the face of the sky; 
+but can ye not discern the signs of the times?
+=> O ye hypocrites, [act like they can discern God, but cant]
+
+A wicked and adulterous generation seeketh after a sign
+
+
+
+Във време на [лукаво и прелюбодейно поколение] единствения знак от Бог е знака на пророк Иона (покайте се!).
+
+Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.
+
+
+
+
+Mat16:5 И кога/когато негов ученици беше идвам/дойдох до/на/към пълчл друг страна, те имаше/минвр забведен до/на/към взимам хляб.
+Mat16:6 Тогава Исус каза им, Взимам внимание/внимавам и датибъдеизобличено от/за пълчл квас от/за пълчл Фарисеи и от/за пълчл Садукеи.
+Mat16:7 И те reasoned измежду себеси, казвайки, То е порадипричинатаче ние имам/минвр/получавам взет няма хляб.
+Mat16:8 Което кога/когато Исус възприех, той каза им, О вий от малко вяра, защо причина вий измежду себеси, порадипричинатаче вий имам/минвр/получавам донесен няма хляб?
+Mat16:9 Върша вий не още/обаче разбирам, нито спомням пълчл пет пити от/за пълчл пет хиляда, и как/колко много кошници вий вдигнах?
+Mat16:10 Нито пълчл седем пити от/за пълчл четири хиляда, и как/колко много кошници вий вдигнах?
+Mat16:11 Как/колко е то това вий върша не разбирам това аз изговори то не до/на/към вие засягащ хляб, това вий трябва датибъдеизобличено от/за пълчл квас от/за пълчл Фарисеи и от/за пълчл Садукеи?
+Mat16:12 Тогава разбрах те как/колко това той bade те не датибъдеизобличено от/за пълчл квас от/за хляб, но от/за пълчл учение от/за пълчл Фарисеи и от/за пълчл Садукеи.
+-
+Mat16:5 And when his disciples were come to the other side, they had forgotten to take bread.
+Mat16:6 Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.
+Mat16:7 And they reasoned among themselves, saying, It is because we have taken no bread.
+Mat16:8 Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?
+Mat16:9 Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up?
+Mat16:10 Neither the seven loaves of the four thousand, and how many baskets ye took up?
+Mat16:11 How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?
+Mat16:12 Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
+
+
+understand:разбирам<<
+effect:въздействие/въздействам<<
+follow:следвам<<
+last:последен<<
+	after:след<<
+	ward:стража<<
+	
+afterward:впоследствие<< -> следстража
+afterwards:следстражи
+
+reason:причина<< -> последователство/последователствам
+	-> последователност или последователство 
+		/ последователствам или последователствоизследвам
+	поради?порождение?
+	Съществ: причина/поради/пораждане
+	Глагол: размишлявам/разсъждавам/разисквам/разследвам
+	пораждане /породеноот / поражданоизследвам
+	последователно / последователност / последователен
+	the land of Canaan fainted by reason of the famine
+	логическо последствие / да мисля логично
+	to fit together, join
+	How much less shall I answer him, and choose out my words to reason with him?
+reasonable:разумен<< -> последователен
+reasoned:последователствах
+reasoning:последователствайки/последователстване
+reasons:последователства
+unreasonable:непоследователен
+
+decision:заключение
+
+cause:причина/причиня<<
+causest:причиняваш<<
+causeth:причинява<<
+caused:причиних<<
+causeless:безпричинно<<
+causes:причини<<
+causeway:причинопът<<
+because:порадипричинатаче<<
+
+
+logic(0)
+
+bidden:възвестен<<
+bid:възвести<<
+biddeth:възвестява<<
+bidding:възвестение<<
+bade:възвестих
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---------------------------------------------------------
 - GPT get word roots promt:
 ---------------------------------------------------------
-I am translating KJV into BG, and I want you to give me the history and the evolution of the word "cripple", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
+I am translating KJV into BG, and I want you to give me the history and the evolution of the word "decision", focusing on the ancient roots and middleages usage of the word. Please group the output so that it is nice and easy to read and to focus on different parts of it.
 ---------------------------------------------------------
 
 
@@ -9522,3 +9683,9 @@ I am translating KJV into BG, and I want you to give me the history and the evol
 -TODO: 45NT_Римляни
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
 NOTE: "elect" ~ line 8105
+
+
+
+
+
+
