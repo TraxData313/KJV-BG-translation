@@ -633,7 +633,7 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
         </div>
     <footer>
         <p>{footer}</p>
-        <br><a href='index.html'>Обратно към всични книги</a>
+        <br><a href='index.html'>Обратно към всички книги</a>
     </footer>  
     </body>
     </div>
@@ -687,7 +687,7 @@ def generate_dict_page():
         </div>
     <footer>
         <p>{footer}</p>
-        <br><a href='index.html'>Обратно към всични книги</a>
+        <br><a href='index.html'>Обратно към всички книги</a>
     </footer>  
     </body>
     </div>
