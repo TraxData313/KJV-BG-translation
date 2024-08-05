@@ -640,6 +640,7 @@ two:две
 pass:минавам
 passed:минах
 should:трябва
+must:требова
 nor:нито
 jerusalem:йерусалим
 took:взе
@@ -2095,11 +2096,14 @@ lose:губя
 loseth:губиш
 lost:изгубен
 loss:загуба
-savour:вкус/вкусвам
-savourest:вкусваш
-savours:вкусове
-savoury:вкусен
-unsavoury:невкусен
+savour:ухание
+savourest:усещашуханиетона
+savours:ухания
+savoury:ухаятелен
+unsavoury:неухаятелен
+taste:вкус/вкусвам
+tasted:вкусих
+tasteth:вкуси
 nothing:нищо
 tread:стъпвам
 treadeth:стъпваш
@@ -2301,6 +2305,8 @@ offend:провиня
 offended:провиних
 offender:провинител
 offenders:провинители
+offence:провинение
+offences:провинения
 pluck:изтръгвам
 plucketh:изтръгва
 plucked:изтръгах
@@ -3503,6 +3509,8 @@ changeth:променя
 changed:промених
 changers:променители
 changeable:променим
+exchange:обменям
+exchangers:обменители
 alter:видоизменям
 altereth:видоизмени
 altered:видоизмених
@@ -3696,7 +3704,6 @@ smoking:димящ
 flax:лен
 linen:висон
 victory:победа
-win:спечеля
 good:благо
 goods:блага
 goodlier:по-благ
@@ -4086,3 +4093,9 @@ loose:пускам
 loosed:отпуснах
 looseth:пуска
 unloose:разпусна
+gain:печалба/печеля
+gained:спечелих
+gains:печалби
+gainsay:печалбоказвам
+gainsayers:печалбоказватели
+gainsaying:печалбоказвайки/печалбоказващ

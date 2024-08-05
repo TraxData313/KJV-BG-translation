@@ -9736,6 +9736,114 @@ unloose:разпусна
 
 
 
+Mat16:21 От това време напред/изясняваша започнах Исус до/на/към показвам на/помощна негов ученици, как/колко това той must отивам на/помощна Йерусалим, и допускам много неща от/за пълчл по-стари и начален/началник жреци и постанововеди, и бъда уби, и бъда въздигна пак пълчл трети ден.
+Mat16:22 Тогава Петър взе него, и започнах до/на/към порицавам/порицаниe него, казвайки, Бъда то далеч_пътьом(ф/а) от теб, Господ: това/този ще не бъда на/помощна теб.
+Mat16:23 Но той обърнах/обръщах, и каза на/помощна Петър, Веда теб отзад/зад мен, Сатана: ти си крчл offence на/помощна мен: за/защото ти вкусваш не пълчл неща това бъда от/за Бог, но тези това бъда от/за хора.
+-
+Mat16:21 From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day.
+Mat16:22 Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee.
+Mat16:23 But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.
+
+
+
+need:нужда/нуждая<<
+necessary:необходимо<<
+ought:потребно/потребност<<
+should:трябва<<
+must:требова (като трябва, но по-силно, за сега ще е друга форма на трябва за да може да се отличава от should)
+	трябва да отиде : must go unto Jerusalem
+	не трябва така да се прави в страната ни... : It must not be so done in our country, to give the younger before the firstborn
+
+offend:провиня<<
+offence:провинение
+offences:провинения
+
+
+
+
+Mat16:26 За/защото какво е крчл човек оползотворих, ако/дали той ще gain пълчл цял свят, и губя негов собствен душа? или какво ще крчл човек дава в exchange за/защото негов душа?
+Mat16:27 За/защото човешкият Син ще идвам/дойдох в пълчл слава от/за негов Отец с негов ангели; и тогава той ще награда/награждавам всеки човек според до/на/към негов работи.
+-
+Mat16:26 For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
+Mat16:27 For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.
+
+
+reward:награда/награждавам<<
+victory:победа<<
+profit:полза/опозотворя<<
+gain:печалба/печеля
+	they took no gain of money
+gained:спечелих
+gains:печалби
+
+say:казвам<<
+gainsay:печалбоказвам
+gainsayers:печалбоказватели
+gainsaying:печалбоказвайки/печалбоказващ
+
+change:променям/промяна<<
+exchange:обменям
+exchangers:обменители
+
+
+
+
+
+Mat16:28 Верно ви казвам, Там бъда някакво/някои стоящ тук, което ще не taste от/за смърт, докато/до/ора те виждам човешкият Син идване/идвайки в негов царство.
+-
+Mat16:28 Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.
+
+
+scent:аромат<<
+smell:помирисвам/миризма<<
+
+flavor(0)
+
+savour:вкус/вкусвам<< -> ухание
+savourest:вкусваш -> усещашуханиетона
+savours:вкусове -> ухания
+savoury:вкусен -> ухаятелен
+unsavoury:невкусен<< -> неухаятелен
+
+taste:вкус/вкусвам
+tasted:вкусих
+tasteth:вкуси
+
+
+
+
+
+
+(...)
+
+
+Mat17:4
+
+tabernacle:скиния
+tabernacles:скинии
+
+tent:шатра
+tents:шатри
+
+
+Mat17:5
+
+light:светлина/лек<<
+shine:осиявам<<
+bright:ярък
+brightness:яркос
+
+
+Mat17:6
+
+sore
+sorely
+
+
+Mat17:12
+
+listed
+Likewise
 
 
 
@@ -9748,7 +9856,7 @@ unloose:разпусна
 
 
 ...on the back of my mind...
--ТОДО: преглед гл 15
+-ТОДО: преглед гл 15, 16
 -ТОДО: велик<->голям? (велики множества)
 -ТОДО: foes=adversaries=противници
 -ТОДО: тамот?
