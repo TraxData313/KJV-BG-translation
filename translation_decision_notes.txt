@@ -9814,7 +9814,7 @@ tasteth:вкуси
 
 
 
-(...)
+
 
 
 Mat17:4
@@ -9836,14 +9836,47 @@ brightness:яркос
 
 Mat17:6
 
-sore
-sorely
+painful:болезнено<<
+sorrowful:мъчен<<
+weighty:тежък<<
+force:сила/насилвам<
+forced:насили<<
+bitter:горчив<<
+fierce:свиреп<<
+grief:скръб<<
+sore:лют
+	натегнуваше/натегнал /възпален/силен?
+sorely:лютиво/лютивина
+	сурови/солени? : And the LORD shewed signs and wonders, great and sore, upon Egypt
+sores:лютивини
+sorer:по-лют
 
 
 Mat17:12
 
-listed
-Likewise
+list(0):списък
+listed:счетох
+	2х: they have done unto him whatsoever they listed
+like:подобно<<
+wise:мъдър/начин<<
+likewise:поподобенначин
+
+
+
+
+
+
+
+
+(...)
+
+
+
+
+
+
+
+
 
 
 

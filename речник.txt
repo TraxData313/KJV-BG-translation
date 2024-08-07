@@ -4099,3 +4099,15 @@ gains:печалби
 gainsay:печалбоказвам
 gainsayers:печалбоказватели
 gainsaying:печалбоказвайки/печалбоказващ
+tabernacle:скиния
+tabernacles:скинии
+tent:шатра
+tents:шатри
+bright:ярък
+brightness:яркост
+sore:лют
+sorely:лютиво/лютивина
+sores:лютивини
+sorer:по-лют
+listed:счетох
+likewise:поподобенначин
