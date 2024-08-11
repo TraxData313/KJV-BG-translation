@@ -110,6 +110,9 @@ moveth:движи
 moveable:подвижен
 mover:двигател
 moving:движейки/движещ/движение
+remove:премахвам
+removeth:премахва
+removed:премахнах
 say:казвам
 said:каза
 saying:казвайки
@@ -796,6 +799,8 @@ foreigner:другоцарственик
 foreigners:другоцарственици
 strange:странни
 stranger:странник
+strangers:странници
+strangely:странно
 odd:нечетно
 hear:слуша
 heard:слуши
@@ -2069,6 +2074,9 @@ pervert:извращавам
 perverteth:извращаваш
 perverted:извратен/извратих
 perverting:извращавайки
+perverse:извратен
+perversely:извратено
+perverseness:извратеност
 evil:зло
 evils:злини
 evildoer:злодеятел
@@ -3392,8 +3400,9 @@ journeying:пътешестване
 journeyings:пътешествания
 staff:тояга
 staves:тояги
-abide:устоявам/устой
-abideth:устоява
+abide:престоявам
+abideth:престоява
+abode:престоях
 tolerable:поносимо
 remain:оставам
 remainest:оставаш
@@ -4111,3 +4120,15 @@ sores:лютивини
 sorer:по-лют
 listed:счетох
 likewise:поподобенначин
+kneel:коленича
+kneeled:коленичих
+kneeling:коленичейки/коленичещ
+yonder:по-нататък
+possible:възможно
+impossible:невъзможно
+howbeit:привсетова
+tribute:данък
+tributary:подданица
+tributaries:подданици
+money:монети
+moneychangers:монетопроменители

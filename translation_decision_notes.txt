@@ -9868,7 +9868,74 @@ likewise:поподобенначин
 
 
 
-(...)
+
+
+kneel:коленича
+kneeled:коленичих
+kneeling:коленичейки/коленичещ
+
+
+pervert:извращавам<<
+perverteth:извращаваш<<
+perverted:извратен/извратих<<
+perverting:извращавайки<<
+
+perverse:извратен
+perversely:извратено
+perverseness:извратеност
+
+
+
+
+
+
+
+
+
+
+
+
+remove:премахвам
+removeth:премахва
+removed:премахнах
+
+beyond:отвъд<<
+yonder:по-нататък
+
+possible:възможно
+impossible:невъзможно
+
+how:как/колко<<
+be:бъда<<
+howbeit:привсетова
+
+withstand:устоявам<<
+withstood:устоях<<
+abide:устоявам/устой<< -> престоявам
+abideth:устоява -> престоява
+abode:престоях
+
+
+
+
+
+
+
+tribute:данък
+tributary:подданица
+tributaries:подданици
+
+coin(0)
+money:монети
+changers:променители<<
+moneychangers:монетопроменители
+
+strange:странни<<
+stranger:странник<<
+strangers:странници
+strangely:странно
+
+
 
 
 
@@ -9889,7 +9956,7 @@ likewise:поподобенначин
 
 
 ...on the back of my mind...
--ТОДО: преглед гл 15, 16
+-ТОДО: преглед гл 15:
 -ТОДО: велик<->голям? (велики множества)
 -ТОДО: foes=adversaries=противници
 -ТОДО: тамот?
@@ -9900,9 +9967,3 @@ likewise:поподобенначин
 -TODO: 45NT_Римляни
 -TODO: new duplicate words in the dict warnings (check_words_dict_for_conflicts.py)
 NOTE: "elect" ~ line 8105
-
-
-
-
-
-
