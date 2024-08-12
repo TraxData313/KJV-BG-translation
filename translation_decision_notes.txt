@@ -9941,8 +9941,36 @@ strangely:странно
 
 
 
+meek:кротък<<
+humble:смиря
+humbleth:смириш
+humbled:смирих
+humbledst:смири
+humbleness:смиреност
 
+whosoever:койтоида<<
+whoso:койтотака
 
+mill:мелница
+millstone:мелниченкамък
+millstones:мелничникамъни
+
+hang:повеся/вися
+hanged:повесен?
+hangeth:виси
+hanging:повес
+hangings:повеси
+
+neck:врат
+necks:вратове
+
+drown:давя
+drowned:удавен
+
+deep:дълбина<<
+deepness:дълбочина<< -> дълбинина
+depth:дълбочина
+depths:дълбичини
 
 
 
@@ -9957,6 +9985,7 @@ strangely:странно
 
 ...on the back of my mind...
 -ТОДО: преглед гл 15:
+-ТОДО: receive:получа->приема / accept
 -ТОДО: велик<->голям? (велики множества)
 -ТОДО: foes=adversaries=противници
 -ТОДО: тамот?
