@@ -10027,38 +10027,46 @@ neglecting:пренебрегвайки
 seven:седем<<
 seventh:седми<<
 sevenfold:седемкратно
-sevens:седмици?
-seventeen
-seventeenth
-seventh
-seventy
+sevens:седмици
+seventeen:седемнадесет
+seventeenth:седемнадесети
+seventy:седемдесет
 
 begin:започвам<<
-begun
+begun:започнах
 
-reckon:разчитам/считам/смятам?
-reckoned
-reckoneth
-reckoning
+count:броя<<
+number:число/изчислявам<<
+reckon:смятам
+reckoned:смятах
+reckoneth:смята
+reckoning:сметка
 
-owe:дължа?
-owed
-owest
-oweth
+owe:дължа
+owed:дължах
+owest:дължиш
+oweth:дължи
 
-talent:талант?
-talents
+talent:талант
+talents:таланта
 
-patience
-patient:търпелив?
-patiently
+patience:търпение
+patient:търпелив
+patiently:търпеливо
 
 forgive:прощавам<<
-forgave
+forgave:простих
 
-pence:пеняз?
+pence:пеняз
 
-throat:гърло?
+throat:гърло
+
+mercy:милост<<
+pity:съжаление/съжалявам
+
+
+
+
 
 
 

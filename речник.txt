@@ -43,6 +43,7 @@ beginning:започване
 begin:започвам
 beginnings:започвания
 beginnest:започнеш
+begun:започнах
 create:създава
 created:създаде
 creature:създание
@@ -562,6 +563,7 @@ forgiveth:прощава
 forgavest:прости
 forgiven:прости
 forgiveness:прошка
+forgave:простих
 store:запас
 their:техните
 free:свободен
@@ -2433,6 +2435,11 @@ six:шест
 sixth:шести
 seven:седем
 seventh:седми
+sevenfold:седемкратно
+sevens:седмици
+seventeen:седемнадесет
+seventeenth:седемнадесети
+seventy:седемдесет
 abundant:изобилен
 abundantly:изобилно
 abundance:изобилие
@@ -3490,6 +3497,10 @@ account:преброение/отчет
 accounted:преброен
 accounting:проброявайки
 accounts:проброения
+reckon:смятам
+reckoned:смятах
+reckoneth:смята
+reckoning:сметка
 value:стойност/остойностявам
 valued:остойностих
 valuest:остоностяваш
@@ -4176,3 +4187,16 @@ faulty:снедостатък
 neglect:пренебрегвам
 neglected:пренебрегнах
 neglecting:пренебрегвайки
+owe:дължа
+owed:дължах
+owest:дължиш
+oweth:дължи
+talent:талант
+talents:таланта
+patience:търпение
+patient:търпелив
+patiently:търпеливо
+pence:пеняз
+throat:гърло
+ten:десет
+pity:съжаление/съжалявам
