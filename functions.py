@@ -593,6 +593,8 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
     # Extract file names without extensions
     english_file_name = os.path.splitext(os.path.basename(english_file_path))[0]
     bulgarian_file_name = os.path.splitext(os.path.basename(bulgarian_file_path))[0]
+    bg_github_txt_link = f"https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/compiled_text_by_books/{bulgarian_file_name.replace(' ', '%20')}.txt"
+    en_github_txt_link = f"https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-en/compiled_text_by_books/{english_file_name.replace(' ', '%20')}.txt"
     
     # Read content from files
     with open(english_file_path, 'r', encoding='utf-8') as english_file:
@@ -638,6 +640,7 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
         <div>
             <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
             <div style="text-align: center;">{toc}</div>
+            Текст в обикновен txt формат: <a href='{bg_github_txt_link}'>БГ</a> | <a href='{en_github_txt_link}'>EN</a>
             <br><br><br>
             <div class="container">
                 <table>
@@ -675,10 +678,24 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
 def generate_dict_page():
     df = get_word_dict()
     df = df.sort_values('word').reset_index(drop=True)
-    lines = "\n".join(f"<tr><td>{numb+1}</td><td>{word_en}</td><td>{word_bg}</td></tr>" for numb, word_en, word_bg in zip(df.index, df['word'], df['word_bg']))
     bulgarian_file_name = 'EN:BG Речник'
     dict_filename = '00EN-BG dictionary'
-    
+
+    # Generate alphabet navigation
+    alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    alphabet_links = " | ".join(f"<a href='#{letter}'>{letter}</a>" for letter in alphabet)
+
+    # Generate dictionary rows with anchor points for each letter
+    lines = []
+    current_letter = ""
+    for numb, word_en, word_bg in zip(df.index, df['word'], df['word_bg']):
+        first_letter = word_en[0].upper()
+        if first_letter != current_letter:
+            lines.append(f"<tr><td colspan='2' style='text-align: center;'><a href='#top'><strong id='{first_letter}' style='color: blue;'>{first_letter}</strong></a></td></tr>")
+            current_letter = first_letter
+        lines.append(f"<tr><td>{numb+1}</td><td>{word_en}</td><td>{word_bg}</td></tr>")
+    lines = "\n".join(lines)
+
     # Generate HTML content
     html_content = f"""
     <!DOCTYPE html>
@@ -693,8 +710,16 @@ def generate_dict_page():
     <div class="center">
     <body style="background-color: black;">
         <div>
-            <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
+            <h1 style="text-align: center; color: blue"><a href='index.html' style='color: blue;'>{page_title}</a></h1>
             {description}<br><br><br>
+            
+            <!-- Alphabet Navigation Links -->
+            <div class="alphabet-nav" style="text-align: center;">
+                {alphabet_links}
+            </div>
+            Речник в обикновен txt формат: <a href='https://github.com/TraxData313/KJV-BG-translation/blob/main/%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA.txt'>ТУК</a>
+            <br><br>
+
             <div class="container">
                 <table>
                     <thead>
