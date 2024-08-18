@@ -589,19 +589,41 @@ html_style = """
 """
 
 
-
 def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Genesis.txt", bulgarian_file_path="kjb-bg/compiled_text_by_books/01OT Битие.txt"):
     # Extract file names without extensions
     english_file_name = os.path.splitext(os.path.basename(english_file_path))[0]
     bulgarian_file_name = os.path.splitext(os.path.basename(bulgarian_file_path))[0]
+    
     # Read content from files
     with open(english_file_path, 'r', encoding='utf-8') as english_file:
         english_lines = [line.strip() for line in english_file]
     with open(bulgarian_file_path, 'r', encoding='utf-8') as bulgarian_file:
         bulgarian_lines = [line.strip() for line in bulgarian_file]
+
+    # Generate chapter links and content with chapter markers
+    chapter_links = []
+    chaptered_lines = []
+    current_chapter = None
+
+    for line_bulgarian, line_english in zip(bulgarian_lines, english_lines):
+        # Extract chapter number from the verse (assuming the format "Chapter:Verse")
+        bulgarian_chapter, _ = line_bulgarian.split(":", 1)
+        english_chapter, _ = line_english.split(":", 1)
+        
+        if bulgarian_chapter != current_chapter:
+            current_chapter = bulgarian_chapter
+            # Add chapter link to the TOC
+            chapter_links.append(f"<a href='#{current_chapter}'>{current_chapter}</a>")
+            # Add chapter marker in the text
+            chaptered_lines.append(f"<tr id='{current_chapter}'><td colspan='2' style='text-align: center;'><a href='#top'><strong>Глава {current_chapter}</strong></a></td></tr>")
+        
+        # Add verse line to the table
+        chaptered_lines.append(f"<tr><td>{line_bulgarian}</td><td>{line_english}</td></tr>")
+    
     # Generate HTML content
-    lines = "\n".join(f"<tr><td>{line_bulgarian}</td><td>{line_english}</td></tr>" 
-                                for line_bulgarian, line_english in zip(bulgarian_lines, english_lines))
+    toc = "<strong>Глави:</strong> " + ", ".join(chapter_links)
+    lines = "\n".join(chaptered_lines)
+    
     html_content = f"""
     <!DOCTYPE html>
     <html lang="en">
@@ -611,12 +633,12 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
         {html_style}
         <title>{bulgarian_file_name}</title>
     </head>
-
     <div class="center">
-    <body style="background-color: black;">
+    <body style="background-color: black;" id="top">
         <div>
             <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
-            {description}<br><br><br>
+            <div style="text-align: center;">{toc}</div>
+            <br><br><br>
             <div class="container">
                 <table>
                     <thead>
@@ -639,13 +661,16 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
     </div>
     </html>
     """
+    
     # Write HTML content to a new file
     output_folder = 'kjv-side-by-side'
-    if not os.path.exists(output_folder): os.makedirs(output_folder)
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
     output_file_path = f"{output_folder}/{bulgarian_file_name}.html"
     with open(output_file_path, 'w', encoding='utf-8') as output_file:
         output_file.write(html_content)
     print(f"- HTML file '{output_file_path}' generated successfully.")
+
 
 def generate_dict_page():
     df = get_word_dict()
