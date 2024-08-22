@@ -10074,6 +10074,92 @@ pity:съжаление/съжалявам
 
 
 
+
+divide:разделя<<
+cut:режа<<
+sever:отделям<<
+remove:премахвам<<
+
+cleave:отцевам
+cleaved:отцепих
+cleaveth:отцепва
+	ще се отцепи (от родители) към жена си: a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh
+	And he shall cleave it with the wings thereof, but shall not divide it asunder
+
+split(0)
+detach(0)
+part:дял/поделям<<
+separate:заделям
+	separaten, transitive, "remove, detach completely; divide (something), sever the connection or association of,"
+separated:заделих
+separateth:заделя
+
+
+recorded:свързани<<
+bond:крепя/скрепня<<
+stick:пръчка/прилепям<<
+unite:обедини<<	
+together:заедно<<
+cling(0)
+join:съчетавам
+	"to unite (things) into a whole, combine, put or bring together; juxtapose," also "unite, be joined"
+joined:съчетах
+joining:съчетаващ/съчетавайки
+joinings:съчетания
+
+joint:става
+	"an (anatomical) joint, a part of a body where two bones meet and move in contact with one another, the structure that holds such bones together," from Old French joint "joint of the body" (12c.), from Latin iunctus "united, connected, associated," past participle of iungere "to join together," from nasalized form of PIE root *yeug- "to join." Related: Joints.
+joints:стави
+
+
+sunder:парчета
+sundered:разпарчетих
+asunder:впарчета
+
+
+firm:твърд<<
+strength:здравина<<
+hard:трудно<<
+hardly:трудновато
+hardness:труднина
+harden:втрудя
+hardened:втруди
+hardeneth:втрудява
+harder:по-трудно
+hardhearted:трудносърцат
+
+wife:съпруга<<
+wives:съпруги
+
+marry:женя<<
+marrying:женейки<<
+married:оженил<<
+marriage:женитба
+marriages:женитби
+marrieth:жени
+unmarried:неженен
+
+womb:утроба
+wombs:утроби
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ...on the back of my mind...
 -ТОДО: преглед гл 15:
 -ТОДО: receive:получа->приема / accept
