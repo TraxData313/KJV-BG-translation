@@ -10147,7 +10147,16 @@ wombs:утроби
 
 
 
+everlasting:всетраен<<
+eternal:вечен
 
+
+call:на/призова
+called:на/призова
+calleth:на/призова
+calling:на/призовавайки
+callest:на/призоваваш
+calledst:на/призова
 
 
 

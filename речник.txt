@@ -151,6 +151,8 @@ call:на/призова
 called:на/призова
 calleth:на/призова
 calling:на/призовавайки
+callest:на/призоваваш
+calledst:на/призова
 day:ден
 days:дни
 night:нощ
@@ -2303,6 +2305,7 @@ uttermost:най-краен
 last:последен
 lasting:дълготраен
 everlasting:всетраен
+eternal:вечен
 pronounce:изричам
 pronounced:изрекох
 denounce:възричам
