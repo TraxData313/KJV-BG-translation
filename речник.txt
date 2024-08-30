@@ -1034,6 +1034,9 @@ wrestlings:боричкания
 young:млад
 younger:по-млад
 youngest:най-млад
+youth:младост
+youths:младежи
+youthful:младежки
 again:пак
 renewed:поднови
 leave:напускам
@@ -2665,6 +2668,7 @@ miss:липсвам
 missed:липсвах
 missing:липсващ/липсайки
 absent:отсъстващ
+absence:отсъствие
 desolate:опустошен
 desolation:опустошение
 desolations:опустошения
@@ -4232,3 +4236,17 @@ sundered:разпарчетих
 asunder:впарчета
 womb:утроба
 wombs:утроби
+lack:недостиг
+lacked:недостигаше
+lackest:недостига
+lacketh:недостига
+lacking:недостигащ/недостигайки
+needle:игла
+needlework:иглоизработка
+forsake:изоставям
+forsaketh:изоставя
+forsaken:изоставен
+forsaking:изоставяйки/изоставяне
+regeneration:обновление
+tribe:племе
+tribes:племена

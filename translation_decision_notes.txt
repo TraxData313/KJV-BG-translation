@@ -10162,6 +10162,47 @@ calledst:на/призова
 
 
 
+young:млад<<
+youth:младост
+youths:младежи
+youthful:младежки
+
+
+miss:липсвам<<
+
+absent:отсъстващ<<
+absence:отсъствие
+
+lack:недостиг
+lacked:недостигаше
+lackest:недостига
+lacketh:недостига
+lacking:недостигащ/недостигайки
+
+work:работа/работя<<
+needle:игла
+needlework:иглоизработка
+
+remain:оставам<<
+forsake:изоставям
+forsaketh:изоставя
+forsaken:изоставен
+forsaking:изоставяйки/изоставяне
+
+regeneration:обновление
+
+tribe:племе
+tribes:племена
+
+
+
+
+
+
+
+
+
+
 
 
 
