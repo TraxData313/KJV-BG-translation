@@ -10199,7 +10199,79 @@ tribes:племена
 
 
 
+worth:стойност/настойност<<
+penny:пеняз
+pennyworth:пенязанастойност
 
+wine:вино<<
+vine:лоза
+vines:лози
+vinegar:оцет
+vineyard:лозе
+vineyards:лозя
+vinedressers:лозари
+
+nine:девет<<
+ninth:девети
+
+eleven:единадесет
+eleventh:единадесети
+
+hire:наем
+hired:нает
+hires:наеми
+hirest:наемаш
+hireling:наемник
+
+steward:домонастойник
+	official in charge of the domestic affairs of a (large) household
+stewards:домонастойници
+stewardship:домонастойничество
+
+suppose:предполагам
+supposed:предположих
+supposing:предполагайки
+assume,guess(0)
+
+murmur:роптая
+murmured:роптаех
+murmurers:роптатели
+murmuring:роптание
+murmurings:роптания
+
+muttered:мърморих
+
+work:работа/работя<<
+wrought:изработих
+wroughtest:изработи
+	from past participle of Middle English werken (see work (v.)). Wrought iron (1703) is that which is malleable and has been brought into some form
+
+bear:нося<<
+borne:носих
+
+heat:пек
+heated:напечен
+
+hot:горещ
+
+warm:топъл/топля
+warmeth:топли
+warmed:топлих
+warming:топлещ
+
+
+early:рано
+
+
+sinned:съгреших<<
+sinner:грешник<<
+iniquity:неправда<<
+wrong:неправилност
+	Behold, I cry out of wrong, but I am not heard: I cry aloud, but there is no judgment.
+wronged:неправилностих
+wrongeth:неправилности
+wrongfully:неправилно
+	Let not them that are mine enemies wrongfully rejoice over me
 
 
 
