@@ -10280,6 +10280,54 @@ wrongfully:неправилно
 
 
 
+crucify:разпна
+crucified:разпнах
+
+grant:даря
+granted:дарих
+
+indignation:негодуване
+
+exercise:упражнявам
+exerciseth:упражнява
+exercised:упражних
+
+jericho:ерихон
+
+
+
+
+
+
+
+
+
+
+
+ransom:откуп
+ransomed:откупих
+
+quiet:тих/утишавам<<
+rest:почивам/почивка<<
+calm:спокойствие<<
+silence:мълчание<<
+meek:кротък<<
+still:неподвижен? /още
+	Sit still
+	hold them still
+	and after the fire a still small voice
+stillest:онеподвижваш??
+stilleth
+stilled
+
+
+
+
+
+
+
+
+
 
 
 ...on the back of my mind...

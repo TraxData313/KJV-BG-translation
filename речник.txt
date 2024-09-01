@@ -4292,3 +4292,14 @@ wrong:неправилност
 wronged:неправилностих
 wrongeth:неправилности
 wrongfully:неправилно
+crucify:разпна
+crucified:разпнах
+grant:даря
+granted:дарих
+indignation:негодувание
+exercise:упражнявам
+exerciseth:упражнява
+exercised:упражних
+jericho:ерихон
+ransom:откуп
+ransomed:откупих
