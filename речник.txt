@@ -113,6 +113,8 @@ moveth:движи
 moveable:подвижен
 mover:двигател
 moving:движейки/движещ/движение
+movedst:движи
+unmoveable:неподвижен
 remove:премахвам
 removeth:премахва
 removed:премахнах
@@ -4199,7 +4201,7 @@ halt:хром/хромя
 halted:хромих
 halteth:хромене
 alway:всяког
-always:постоянно/всякога
+always:всякога
 constant:постоян
 constantly:постоянно
 astray:встрани
@@ -4303,3 +4305,7 @@ exercised:упражних
 jericho:ерихон
 ransom:откуп
 ransomed:откупих
+still:покоен/покойно/всеощепокойно
+stillest:успокояваш
+stilleth:успокоява
+stilled:успокоих

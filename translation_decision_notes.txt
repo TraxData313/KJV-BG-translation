@@ -10307,20 +10307,59 @@ jericho:ерихон
 ransom:откуп
 ransomed:откупих
 
+
+
+move:движа<<
+moved:придвижи
+moveth:движи
+moveable:подвижен
+mover:двигател
+moving:движейки/движещ/движение<<
+movedst:движи
+unmoveable:неподвижен
+
+
+
+
+
+
+
+
+
+alway:всяког<<
+always:постоянно/всякога<< -> всякога
+constant:постоян<< -> непроменящ?
+constantly:постоянно<<
+
 quiet:тих/утишавам<<
 rest:почивам/почивка<<
 calm:спокойствие<<
 silence:мълчание<<
 meek:кротък<<
-still:неподвижен? /още
-	Sit still
-	hold them still
-	and after the fire a still small voice
-stillest:онеподвижваш??
-stilleth
-stilled
-
-
+still:покоен/покойно/всеощепокойно
+	неподвижен/намясто/мирно/покойно? /всеоще 
+	неподвижен, стабилен, фиксиран, стационарен
+	всеоще + покойно -> ощепокойно/всепокойно/всеощепокойно
+		going on still toward the south
+		Joshua: But I would not hearken unto Balaam; therefore he blessed you still: so I delivered you out of his hand.
+		но ако вий всеоще/покойно постъпите лукаво : But if ye shall still do wickedly, ye shall be consumed, both ye and your king.
+		но високите места не се махнаха: хората всеоще/всепокойно/всеощепокойно жертваха... : But the high places were not taken away: the people still sacrificed and burnt incense in the high places. => still е запазване на същото състояние, а не спиране, одобно на "Тяло в покой остава в покой, а тяло в движение запазва скоростта и посоката си, освен ако не му повлияе сумарна външна сила." ако си правят жертви пак продължават да правят същото*
+	a still small voice
+	Sit still - * но за хора/човек състоянието на покой е на място
+	hold them still *
+stillest:успокояваш
+stilleth:успокои
+stilled:успокоих
+	And Jesus stood still
+	Keep not thou silence, O God: hold not thy peace, and be not still, O God.
+	не се променям/мълча = все още правя нещо
+	стоя неподвижен
+	все още съгрешаваха
+	той трябва все още да живее вечно : That he should still live for ever, and not see corruption.
+	неподвижни като камък: they shall be as still as a stone
+	And the sun stood still
+	and wilt hold them still
+dormant(0)
 
 
 
