@@ -10369,6 +10369,66 @@ dormant(0)
 
 
 
+bethphage:витфагия
+bethpalet:ветфалет
+bethpazzez:ветфасис
+bethpeor:ветфегор
+bethphelet:ветфелет
+
+olive:маслина
+olives:маслини
+olivet:маслинен
+oliveyard:маслиноваградина
+oliveyards:маслиновиградини
+
+bundle:вързоп<<
+tie:завръзвам
+tied:завързан/завързах
+
+ass:осел
+asses:осли
+
+colt:жребче
+colts:жребчета
+	Old English colt "a young horse," also "young ass," in Biblical translations also used for "young camel,"
+
+foal:теле
+foals:телета
+
+sion:сион
+
+thereon:тамна
+
+straw:слама
+strawed:разслами
+
+hosanna:осана
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ...on the back of my mind...
 -ТОДО: преглед гл 15:
 -ТОДО: receive:получа->приема / accept
