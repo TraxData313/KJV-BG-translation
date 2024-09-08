@@ -10411,9 +10411,46 @@ hosanna:осана
 
 
 
+over:над<<
+reject:отхвърлям<<
+cast:запращам/запратих<<
 
+turn:обръщам<<
+throw:хвърлям
+	валвам/валя/барям   //+down->събарям
+threw:хвърлих
+threwest:хвърляш
+throwing:хвърляне
+thrown:хвърлен
+overthrow:преохвърлям
+overthroweth:преохвърля
+overthrew:преохвърлих
+	/ преобърна? събарям/повалям/свалям /преобръщам
+overthrown:преохвърлен
 
+seat:стол
+seats:столове
 
+den:бърлога
+dens:бърлоги
+lair(0)
+
+suck:суча
+sucked:сучих
+sucking:сучещ
+suckling:сукалче
+sucklings:сукалчета
+
+bethany:витания
+
+leaves:листа
+
+fornication:блудство<<
+fornications:блудства
+fornicator:блудник
+fornicators:блудници<<
+harlot:блудница?
+harlots:блудници
 
 
 
