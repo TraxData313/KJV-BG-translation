@@ -722,17 +722,16 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
         
         if bulgarian_chapter != current_chapter:
             current_chapter = bulgarian_chapter
-            chapter_name = f"{current_chapter}. {chapter_names_dict[bulgarian_file_name][int(bulgarian_chapter)]}" 
             # Add chapter link to the TOC
-            chapter_links.append(f"<a href='#{current_chapter}'>{chapter_name}</a><br>")
+            chapter_links.append(f"<a href='#{current_chapter}'>{current_chapter}</a>")
             # Add chapter marker in the text
-            chaptered_lines.append(f"<tr id='{current_chapter}'><td colspan='2' style='text-align: center;'><a href='#top'><strong>{chapter_name}</strong></a></td></tr>")
+            chaptered_lines.append(f"<tr id='{current_chapter}'><td colspan='2' style='text-align: center;'><a href='#top'><strong>Глава {current_chapter}</strong></a></td></tr>")
         
         # Add verse line to the table
         chaptered_lines.append(f"<tr><td>{line_bulgarian}</td><td>{line_english}</td></tr>")
     
     # Generate HTML content
-    toc = "".join(chapter_links)
+    toc = "<strong>Глави:</strong> " + ", ".join(chapter_links)
     lines = "\n".join(chaptered_lines)
     
     html_content = f"""
