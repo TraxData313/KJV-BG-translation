@@ -10445,17 +10445,55 @@ bethany:витания
 
 leaves:листа
 
-fornication:блудство<<
+
+
+
+
+
+
+
+
+
+
+
+profane:осквернявам<<
+profaned:оскверни<< -> оскверних (променено)
+profaneth:оскверни
+profaneness:сквернота
+profaning:оскверняване
+
+adultery:прелюбодеяние<<
+
+fornication:блудство<< -> разврат?
 fornications:блудства
 fornicator:блудник
 fornicators:блудници<<
-harlot:блудница?
+
+lewd:?
+lewdly
+lewdness
+
+prostitute(1):проституирай
+
+whore:блудница/лекажена/к*рва?
+whoredom
+whoredoms
+whoremonger
+whoremongers
+whores
+
+harlot:блудник
 harlots:блудници
 
+abominable
+abominably
+abomination:мерзост/гнусотия?
+abominations
 
-
-
-
+vile:подъл?
+vilely
+viler
+vilest
 
 
 
