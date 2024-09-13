@@ -10465,35 +10465,111 @@ profaning:оскверняване
 adultery:прелюбодеяние<<
 
 fornication:блудство<< -> разврат?
-fornications:блудства
-fornicator:блудник
-fornicators:блудници<<
-
-lewd:?
-lewdly
-lewdness
+fornications:блудства -> разврати
+fornicator:блудник -> развратник
+fornicators:блудници<<  -> развратници
 
 prostitute(1):проституирай
 
-whore:блудница/лекажена/к*рва?
-whoredom
-whoredoms
-whoremonger
-whoremongers
-whores
+whore:блудница
+whores:блудници
+whoredom:блудство
+whoredoms:блудства
+whoremonger:блудницотъргаш
+whoremongers:блудницотъргаши
+	Old English mangere "merchant, trader, broker," agent noun from mangian "to traffic, trade,"
 
-harlot:блудник
-harlots:блудници
+harlot:уличница
+harlots:уличници
 
-abominable
-abominably
-abomination:мерзост/гнусотия?
-abominations
 
-vile:подъл?
-vilely
-viler
-vilest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hedge:плет
+hedges:плетища
+hedged:заплетищи   (преградил/затворил/огради го с плет)
+
+pit:яма<<
+pits:ями<<
+ditch:ров<< -> окоп
+ditches:ровове<< -> окопи
+trench:окоп<< -> ров (готово)
+dig:копая
+diggeth:копае
+digged:изкопах
+diggedst:изкопа
+
+wine:вино<<
+press:притискам/преса
+presseth:притиска
+pressed:притиснах
+presses:преси
+winepress:винопреса
+
+husbandman:земеделец<<
+husbandmen:земеделци
+
+nigh:близо<<
+near:близко
+nearer:по-близко
+
+honour:чест/почитай<<
+reverend:достопочтен
+reverence:достопочитам
+reverenced:достопочитах
+
+inherit:наследя<<
+inheriteth:наследиш<<
+inheritance:наследство<<
+inheritances:наследства<<
+inherited:наследих<<
+inheritor:наследник<< -> наследител (променено в текста)
+heir:наследник
+heirs:наследници
+
+seize:обзе
+seized:обзех
+
+misery:окаяние
+miseries:окаяния
+miserable:окаяни
+miserably:окаяно
+
+bring:изнася/износи/донасям<<
+bringest:изнасяш
+bringeth:изнася
+bringing:изнасяйки/донасяйки/изнасяне
+bringers:износители
+
+grind:меля
+grinders:мелячи
+grinding:мелене/мелейки
+
+dust:прах<<
+ash:пепел<<
+powder:пудра
+powders:пудри
+
+
+
+render:въздавам
+	which shall render him the fruits in their seasons
+rendered:въздадох
+renderest:въздаваш
+rendereth:въздава
+rendering:въздавайки
 
 
 

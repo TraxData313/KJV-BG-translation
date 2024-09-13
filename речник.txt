@@ -336,6 +336,11 @@ carry:карам
 carriage:карета
 carriages:карети
 bring:изнася/износи/донасям
+bringeth:носи
+bringest:изнасяш
+bringeth:изнася
+bringing:изнасяйки/донасяйки/изнасяне
+bringers:износители
 bear:нося
 bare:износи/понесе
 borne:носих
@@ -355,6 +360,7 @@ conceived:зачена
 husband:съпруг
 husbands:съпрузи
 husbandman:земеделец
+husbandmen:земеделци
 husbandry:земеделие
 whom:когото
 who:кой
@@ -437,7 +443,10 @@ world:свят
 worlds:святове
 unholy:несвещен
 profane:осквернявам
-profaned:оскверни
+profaned:оскверних
+profaneth:оскверни
+profaneness:сквернота
+profaning:оскверняване
 wicked:лукав
 wickedly:лукаво
 wickedness:лукавщина
@@ -892,6 +901,7 @@ ruleth:владее
 rulest:владееш
 ruled:владя
 ruler:владетел
+rulers:владетели
 kingdom:царство
 kingdoms:царства
 lead:водя
@@ -1245,7 +1255,6 @@ comforters:утешители
 rama:рама
 ramah:рамах
 archelaus:архелай
-rulers:владетели
 reign:царувам
 reignest:царуваш
 reigneth:царува
@@ -1470,7 +1479,6 @@ rooted:вкоренен
 rooted up:изкоренен (ръчен превод)
 rooted out:откоренен (ръчен превод)
 rooted them out:откоренен те (ръчен превод)
-bringeth:носи
 lay:слагам/полагамСе
 layest:полагаш
 layeth:полага
@@ -1987,7 +1995,9 @@ inheriteth:наследиш
 inheritance:наследство
 inheritances:наследства
 inherited:наследих
-inheritor:наследник
+inheritor:наследител
+heir:наследник
+heirs:наследници
 thirst:жажда/жадувам
 thirsteth:жадува
 thirsted:жадуваха
@@ -2094,10 +2104,10 @@ incorruptible:непокварим
 incorruption:непоквареност
 uncorruptible:непокварим
 uncorruptness:непокваримост
-fornication:блудство
-fornications:блудства
-fornicator:блудник
-fornicators:блудници
+fornication:разврат
+fornications:разврати
+fornicator:развратник
+fornicators:развратници
 pervert:извращавам
 perverteth:извращаваш
 perverted:извратен/извратих
@@ -3713,9 +3723,9 @@ accusing:обвинявайки/обвиняващ
 accusation:обвинение
 pit:яма
 pits:ями
-ditch:ров
-ditches:ровове
-trench:окоп
+ditch:окоп
+ditches:окопи
+trench:ров
 stretch:протягам
 stretchest:протягаш
 stretcheth:протяга
@@ -4060,6 +4070,8 @@ affections:придействености
 affectioned:придейственоствани
 affectionately:придейственостно
 nigh:близо
+near:близко
+nearer:по-близко
 lip:устна
 lips:устни
 defile:опорочавам
@@ -4352,3 +4364,43 @@ suckling:сукалче
 sucklings:сукалчета
 bethany:витания
 leaves:листа
+prostitute:проституирай
+whore:блудница
+whores:блудници
+whoredom:блудство
+whoredoms:блудства
+whoremonger:блудницотъргаш
+whoremongers:блудницотъргаши
+harlot:уличница
+harlots:уличници
+hedge:плет
+hedges:плетища
+hedged:заплетищи
+dig:копая
+diggeth:копае
+digged:изкопах
+diggedst:изкопа
+press:притискам/преса
+presseth:притиска
+pressed:притиснах
+presses:преси
+winepress:винопреса
+reverend:достопочтен
+reverence:достопочитам
+reverenced:достопочитах
+seize:обзе
+seized:обзех
+misery:окаяние
+miseries:окаяния
+miserable:окаяни
+miserably:окаяно
+grind:меля
+grinders:мелячи
+grinding:мелене/мелейки
+powder:пудра
+powders:пудри
+render:въздавам
+rendered:въздадох
+renderest:въздаваш
+rendereth:въздава
+rendering:въздавайки
