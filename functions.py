@@ -748,7 +748,6 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
         <div>
             <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
             <div style="text-align: center;">{toc}</div>
-            Текст в обикновен txt формат: <a href='{bg_github_txt_link}'>БГ</a> | <a href='{en_github_txt_link}'>EN</a>
             <br><br><br>
             <div class="container">
                 <table>
@@ -766,6 +765,7 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
         </div>
     <footer>
         <p>{footer}</p>
+        Текст в обикновен txt формат: <a href='{bg_github_txt_link}'>БГ</a> | <a href='{en_github_txt_link}'>EN</a>
         <br><a href='index.html'>Обратно към всички книги</a>
     </footer>  
     </body>
@@ -825,8 +825,7 @@ def generate_dict_page():
             <div class="alphabet-nav" style="text-align: center;">
                 {alphabet_links}
             </div>
-            Речник в обикновен txt формат: <a href='https://github.com/TraxData313/KJV-BG-translation/blob/main/%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA.txt'>ТУК</a>
-            <br><br>
+            <br><br><br>
 
             <div class="container">
                 <table>
@@ -845,6 +844,7 @@ def generate_dict_page():
         </div>
     <footer>
         <p>{footer}</p>
+        Речник в обикновен txt формат: <a href='https://github.com/TraxData313/KJV-BG-translation/blob/main/%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA.txt'>ТУК</a>
         <br><a href='index.html'>Обратно към всички книги</a>
     </footer>  
     </body>
