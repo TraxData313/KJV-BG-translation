@@ -10580,8 +10580,92 @@ rendering:въздавайки
 
 
 
+dinner:обяд
+supper:вечеря
+
+cattle:добитък<<
+ox:говедо
+oxen:говеда
+
+fat:тлъст/тлъсто
+fats:тлъстини
+fatness:тлъстина
+flesh:плът<<
+fatfleshed:тлъстоплът
+fatling:утлъстено
+fatlings:утлъстени (угоените/тлъстите)
+fatted:натлъстял
+fatter:по-тлъст
+fattest:най-тлъст
+
+grease:лой
+
+field:поле<<
+farm:нива
+
+remain:оставам<<
+remainder:остатък<<
+remnant:останка
+
+
+
+
+
+
+
+
+
+
+
+
+
+negotia*(0)
+treat(0):negotiate/третирам/отнасям се?
+
+entreat:отнасямсес
+entreated:отнесохсес
+entreateth:отнасясес
+
+despite:презирам/презрение<<
+spite:злоба
+spitefully:злобно
+
+furnish:оборудвам
+furnished:оборудвах/оборудван
+furniture::оборудване
+
+guest:гост
+guests:гости
+guestchamber:гостнакамера<<
+
+speech:реч<<
+speechless:безреч
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ...on the back of my mind...
--ТОДО: преглед гл 15:
+-ТОДО: преглед гл 20:
 -ТОДО: receive:получа->приема / accept
 -ТОДО: велик<->голям? (велики множества)
 -ТОДО: foes=adversaries=противници

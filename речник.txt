@@ -615,6 +615,7 @@ houses:къщи
 home:дом
 come:дойди/идвам/дойде
 came:дойде
+camest:дойде
 come out:излизам (ръчен превод)
 came out:излезнах (ръчен превод)
 go:отивам
@@ -3463,6 +3464,7 @@ remaineth:остава
 remainder:остатък
 remained:останах
 remaining:оставайки/оставащ
+remnant:останка
 wait:чакам
 waiteth:чака
 waited:чаках
@@ -4404,3 +4406,29 @@ rendered:въздадох
 renderest:въздаваш
 rendereth:въздава
 rendering:въздавайки
+dinner:обяд
+supper:вечеря
+ox:говедо
+oxen:говеда
+fat:тлъст/тлъсто
+fats:тлъстини
+fatness:тлъстина
+fatfleshed:тлъстоплът
+fatling:утлъстено
+fatlings:утлъстени
+fatted:натлъстял
+fatter:по-тлъст
+fattest:най-тлъст
+grease:лой
+farm:нива
+entreat:отнасямсес
+entreated:отнесохсес
+entreateth:отнасясес
+spite:злоба
+spitefully:злобно
+furnish:оборудвам
+furnished:оборудвах/оборудван
+furniture:оборудване
+guest:гост
+guests:гости
+speechless:безреч
