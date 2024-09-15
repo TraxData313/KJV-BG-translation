@@ -10689,6 +10689,51 @@ confession:признание -> изповядване
 
 
 
+bond:крепя/скрепня<<
+entangle:заплета
+entangleth:заплита
+entangled:заплетох
+
+herod:ирод<<
+herodias:иродиада<<
+herodians:иродияни
+herodion:иродион
+
+false:неистина<<
+truth:истина<<
+truly:истинно<<
+true:истинско/истински
+
+consider:разглеждам<<
+regard:съобразявамсес
+regarded:съобразихсес
+regardest:съобразявашсес
+regardeth:съобразявахсес
+regarding:съобразявайкисес
+
+person:личност
+	for your sakes forgave I it in the person of Christ
+persons:личнисти
+
+scripture:постановление<<
+superscription:надпис
+inscription:вписание
+description:описание
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ...on the back of my mind...

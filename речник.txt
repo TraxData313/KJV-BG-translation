@@ -784,6 +784,9 @@ tiller:орач
 firstborn:първороден
 bethlehem:витлеем
 herod:ирод
+herodias:иродиада
+herodians:иродияни
+herodion:иродион
 east:изток
 eastward:източно
 where:къде/където
@@ -923,6 +926,9 @@ scriptures:постановления
 scribe:постанововед
 scribes:постанововеди
 scroll:свитък
+superscription:надпис
+inscription:вписание
+description:описание
 prophecy:пророкувание
 scholar:ученик
 write:пиша
@@ -2125,6 +2131,7 @@ falsely:неистинно
 falsehood:неистинност
 truth:истина
 truly:истинно
+true:истинско/истински
 glad:удовлетворен
 gladly:судоволствие
 gladness:удовлетвореност
@@ -3987,7 +3994,6 @@ instructors:наставници
 carpenter:дърводелец
 carpenters:дърводелци
 tetrarch:четверовластник
-herodias:иродиада
 birthday:рожденден
 whereupon:къдетовръз
 nevertheless:въпрекитова
@@ -4432,3 +4438,13 @@ furniture:оборудване
 guest:гост
 guests:гости
 speechless:безреч
+entangle:заплета
+entangleth:заплита
+entangled:заплетох
+regard:съобразявамсес
+regarded:съобразихсес
+regardest:съобразявашсес
+regardeth:съобразявахсес
+regarding:съобразявайкисес
+person:личност
+persons:личнисти
