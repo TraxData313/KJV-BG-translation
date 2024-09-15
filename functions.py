@@ -308,8 +308,8 @@ def print_translated_word_stats(weighted=True):
     unique_translated_words, unique_words, translated_words, total_words = get_translated_word_stats()
     unique_words_eta = get_eta_date(target_col='уникални_думи_процент', weighted=weighted)
     total_words_eta = get_eta_date(target_col='общо_думи_процент', weighted=weighted)
-    progr_mes = f'- [{unique_translated_words}] или [{round(unique_translated_words*100/unique_words,2)}%] от [{unique_words}] уникални думи са преведени [ETA {unique_words_eta}]\n'
-    progr_mes += f'- [{translated_words}] или [{round(translated_words*100/total_words,2)}%] от общо [{total_words}] думи са преведени [ETA {total_words_eta}]\n'
+    progr_mes = f'- Думи в речника: [{round(unique_translated_words*100/unique_words,1)}%] или [{unique_translated_words} от {unique_words}], ETA: [{unique_words_eta}]\n'
+    progr_mes += f'- Думи в текста: [{round(translated_words*100/total_words,1)}%] или [{translated_words} от {total_words}], ETA: [{total_words_eta}]\n'
     return progr_mes
 
 def estimate_letter_progress(df):
@@ -339,7 +339,7 @@ def estimate_revised_verses_progress(df=None, weighted=True):
     if df is None: df = load_translated_Bible() #easier to read the expected input and works ok by default
     revised_verses_count, total_verses_count = get_estimate_revised_verses_progress(df)
     eta = get_eta_date(target_col='стихове_процент', weighted=weighted)
-    progr_mes = f'- [{revised_verses_count}] или [{round(revised_verses_count*100/total_verses_count, 2)}%] от общо [{total_verses_count}] стиха в [Библия.txt](https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F.txt) са преведени и компилирани по книги в [Книги BG](https://github.com/TraxData313/KJV-BG-translation/tree/main/kjb-bg/compiled_text_by_books) и качени в уебсайта [BG KJV Книги](http://site-for-kjv-bg-translation.s3-website-us-east-1.amazonaws.com/)  [ETA {eta}]\n'
+    progr_mes = f'- Стихове: [{round(revised_verses_count*100/total_verses_count, 1)}%] или [{revised_verses_count} от {total_verses_count}], ETA: [{eta}]\n'
     return progr_mes
 
 def compile_bg_books():
