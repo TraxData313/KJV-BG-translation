@@ -4455,3 +4455,5 @@ regarding:съобразявайкисес
 person:личност
 persons:личнисти
 resurrection:възкресение
+dare:дръзвам
+durst:дръзнах
