@@ -10773,22 +10773,39 @@ durst:дръзнах
 
 
 
-shoulders
+shoulder:рамо
+shoulders:рамене
 
-fingers
+finger:пръст
+fingers:пръсти
 
-phylacteries
+phylacteries:филактерии
+	small leathern box or badge containing four Old Testament texts, worn by Jews on the arm or forehead as a reminder of the obligation to keep the Law
 
-enlarge
+large:голям
+largeness:големина
+enlarge:уголемявам
+enlargeth:уголемява
+enlarged:уголемих
+enlargement:уголемение
 
-feasts
+feast:празник
+feasted:празнувах
+feasting:празнуване
+feasts:празници
 
-greetings
+greet:поздравявам
+greeteth:поздравява
+greeting:поздрав
+greetings:поздрави
 
-Rabbi
+rabbi:рави
+	Jewish doctor of religious law
+rabboni:равуни
 
 
 
+uppermost:най-горния
 
 
 
