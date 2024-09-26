@@ -237,6 +237,8 @@ means:средства
 direction:указание
 guide:напътства
 guided:напътства
+guides:напътвачи
+guiding:напътствайки
 give:дава
 giveth:даваш
 gave:даде
@@ -664,6 +666,7 @@ away:пътьом
 am:съм
 moses:мойсей
 two:две
+twofold:двукратно
 pass:минавам
 passed:минах
 should:трябва
@@ -4479,3 +4482,16 @@ greetings:поздрави
 rabbi:рави
 rabboni:равуни
 uppermost:най-горния
+abase:понижи
+abased:понижих
+abasing:понижавайки
+widow:вдовица
+widows:вдовици
+widowhood:вдовство
+damned:проклетоосъжден
+damnable:проклетоосъдителни
+damnation:проклетоосъждение
+proselyte:прозелит
+proselytes:прозелити
+therein:тамв
+pretence:преструвка

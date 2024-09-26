@@ -10803,9 +10803,65 @@ rabbi:рави
 	Jewish doctor of religious law
 rabboni:равуни
 
-
-
 uppermost:най-горния
+
+
+
+
+
+
+
+
+
+
+base:прост<<
+lowest:снишаваш<<
+humble:смиря<<
+abase:понижи
+	reduce in rank, diminish, make lower in value or status; lower oneself
+	toward" (see ad-) + Late Latin bassus "low, short" (see base (adj.)).
+abased:понижих
+abasing:понижавайки
+
+widow:вдовица
+widows:вдовици
+widowhood:вдовство
+
+cursed:проклет/проклех<<
+condemnation:осъждение<<
+swear:кълна/кълни<<
+swearing:кълнене<<
+damned:проклетоосъжден
+	past-participle adjective from damn (v.). Meaning "hateful, detestable" /омразен, отвратителен
+damnable:проклетоосъдителни
+damnation:проклетоосъждение
+
+proselyte:прозелит
+	"one who changes from one sect, creed, etc. to another," late 14c., proselite, "a convert, especially "a heathen convert to Judaism" (in Biblical writings, e.g. Matthew xxiii.15, Ezekiel xiv.7), from Old French proselite (13c., Modern French prosélyte), from Late Latin proselytus, from Greek prosēlytos "convert (to Judaism), stranger," literally "one who has come over."
+proselytes:прозелити
+
+
+thirtyfold:тридесеткратно<<
+twofold:двукратно
+
+guide:напътства<<
+guided:напътства<<
+guides:напътвачи
+guiding:напътствайки
+
+there:там<<
+in:в<<
+therein:тамв
+
+
+pretence:преструвка
+
+
+
+
+
+
+
 
 
 
