@@ -10984,16 +10984,51 @@ earthquakes:земетресения
 
 
 
+abundant:изобилен<<
+abundantly:изобилно<<
+abundance:изобилие<<
+abound:изобилствам
+abounded:изобилствах
+aboundeth:изобилства
+abounding:изобилствайки
 
-abound
-abomination
-Daniel
-back:обратно?
-flight
-winter
-since
-shortened
+abominable:отвратителен
+abominably:отвратително
+abomination:отвращение
+abominations:отвращения
+
+daniel:даниил
+
+back:гръб/назад
+backs:гърбове
+backward:назадно
+
+flee:бягам<<
+flight:бягство
+
+winter:зима
+
+since:от/откакто
+
+soon:скоро<<
+short:къс
+shorter:по-къс
+shortly:скъсо
+shortened:скъсих
+
+
+
+
+
+
+
+
+chosen:избран<<
+choice:подбран<<
 elect
+elected
+election
+
 Christs
 
 

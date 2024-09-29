@@ -1157,6 +1157,7 @@ banners:знамена
 flee:бягам
 fleeth:бягаш
 fled:избягах
+flight:бягство
 run:тичам
 ran:изтичах
 running:тичащ
@@ -2500,6 +2501,10 @@ seventy:седемдесет
 abundant:изобилен
 abundantly:изобилно
 abundance:изобилие
+abound:изобилствам
+abounded:изобилствах
+aboundeth:изобилства
+abounding:изобилствайки
 fowl:пернато
 fowls:пернати
 fowler:пернатар
@@ -4546,3 +4551,17 @@ quake:треса
 quaked:разтресе
 earthquake:земетресение
 earthquakes:земетресения
+daniel:даниил
+back:гръб/назад
+backs:гърбове
+backward:назадно
+winter:зима
+since:от/откакто
+short:къс
+shorter:по-къс
+shortly:скъсо
+shortened:скъсих
+abominable:отвратителен
+abominably:отвратително
+abomination:отвращение
+abominations:отвращения
