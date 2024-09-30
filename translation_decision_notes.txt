@@ -11018,22 +11018,86 @@ shortened:скъсих
 
 
 
-
-
-
-
-
 chosen:избран<<
 choice:подбран<<
-elect
-elected
-election
+elect:избраник/избраници
+elected:избраникуван
+election:избиране
 
-Christs
-
-
+christs:христи
 
 
+
+
+
+
+
+
+light:светлина/лек<<
+lightning:светкавица
+lightnings:светкавици
+
+body:тяло<<
+carcase:мърша
+carcases:мърши
+
+corpse:труп
+corpses:трупове
+
+eagle:орел
+eagles:орли
+
+moon:луна
+moons:луни
+
+
+
+
+
+
+
+
+
+
+
+
+tender:нежен
+tenderness:нежност
+tenderhearted:нежносърц
+mild(0)
+
+summer:лято
+
+noe:ное
+noah:ной
+
+ark:ковчег
+
+steal:крада<<
+menstealers:човекокрадци<<
+rob:обирам<<
+thieves:грабители<<
+thief:грабител
+
+wait:чакам<<
+delay:забавямсе/забавяне
+delayed:забавихсе
+delayeth:забависе
+
+drink:пия/напитка<<
+drunk:пих
+drunkard:пияница
+drunkards:пияници
+drunken:пиян
+drunkenness:пиянство
+
+settle:подслонявам/подслонник<<
+mete:определям<<
+appoint:назначавам
+appointed:назначих
+appointeth:назначи
+appointment:назначение
+arrange(0)
 
 
 

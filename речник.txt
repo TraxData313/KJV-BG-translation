@@ -91,6 +91,7 @@ darkeneth:потъмнява
 grace:благодат
 jesus:исус
 christ:христос
+christs:христи
 amen:амин
 all:всички
 every:всеки
@@ -148,6 +149,8 @@ light:светлина/лек
 lights:светлини
 lighted:светна
 lightest:светваш
+lightning:светкавица
+lightnings:светкавици
 saw:видя
 from:от
 call:на/призова
@@ -524,6 +527,7 @@ hidden:скрит
 hid:криех
 hiding:криене/криещ
 put away:оставям(ръчен превод)
+put forth:извеждам(ръчен превод)
 but:но
 while:докато
 these:тези
@@ -2225,6 +2229,7 @@ breakings:чупения
 brake:счупих
 brakest:счупи
 broken:счупен
+broken up:разбита(ръчен превод)
 brokenfooted:счупенокрак
 brokenhanded:счупенорък
 brokenhearted:счупеносърц
@@ -2399,6 +2404,10 @@ whole:цял
 body:тяло
 bodies:тела
 bodily:телесен
+corpse:труп
+corpses:трупове
+carcase:мърша
+carcases:мърши
 cut:режа
 cuttest:режеш
 cutteth:реже
@@ -2779,6 +2788,7 @@ restingplace:почивномясто
 moth:молец
 rust:ръжда
 thieves:грабители
+thief:грабител
 rob:обирам
 robbeth:обира
 robbed:обрах
@@ -2822,6 +2832,11 @@ drinketh:пие
 drinking:пиейки/пиещ
 drinkers:пиячи
 drinks:напитки
+drunk:пих
+drunkard:пияница
+drunkards:пияници
+drunken:пиян
+drunkenness:пиянство
 put on:намятам (ръчен превод)
 sow:сея
 sowest:сееш
@@ -2879,6 +2894,10 @@ wherewithal:скакво
 sufficient:достатъчен
 sufficiently:достатъчно
 sufficiency:достатъчност
+appoint:назначавам
+appointed:назначих
+appointeth:назначи
+appointment:назначение
 measure:мярка/измервам
 measured:измерих
 measures:мерки
@@ -3501,6 +3520,9 @@ waiteth:чака
 waited:чаках
 waiting:чакайки/чакащ
 await:очаквам
+delay:забавямсе/забавяне
+delayed:забавихсе
+delayeth:забависе
 shake:разклащам
 shaked:разклатих
 shook:разклати
@@ -3783,6 +3805,9 @@ withdrawest:отдръпваш
 withdraweth:отдръпва
 withdrew:отдръпнах
 withdrawn:отдръпнат
+elect:избраник/избраници
+elected:избраникуван
+election:избиране
 choose:избирам
 choosest:избираш
 chooseth:избира
@@ -4556,6 +4581,7 @@ back:гръб/назад
 backs:гърбове
 backward:назадно
 winter:зима
+summer:лято
 since:от/откакто
 short:къс
 shorter:по-къс
@@ -4565,3 +4591,13 @@ abominable:отвратителен
 abominably:отвратително
 abomination:отвращение
 abominations:отвращения
+eagle:орел
+eagles:орли
+moon:луна
+moons:луни
+tender:нежен
+tenderness:нежност
+tenderhearted:нежносърц
+noe:ное
+noah:ной
+ark:ковчег
