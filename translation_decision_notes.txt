@@ -11105,6 +11105,42 @@ arrange(0)
 
 
 
+light:светлина/лек<<
+lamp:светило
+lamps:светилници
+
+wait:чакам<<
+delay:забавямсе/забавяне<< -> закъснявам
+delayed:забавихсе<< -> закъснях
+delayeth:забависе<< -> закъсняваш (gotowo)
+tarry:забавямсе
+tarriest:забавяшсе
+tarrieth:забавясе
+tarried:забавихсе
+tarrying:забавяне
+
+sleep:сън/спя<<
+slumber:подремвам
+slumbered:подремвах
+slumbereth:подремва
+slumberings:дрямки
+drowsiness:сънливост
+
+night:нощ<<
+midnight:полунощ
+
+trimmed:оправих
+trimmest:оправяш
+
+
+
+
+
+
+
+
+
+
 
 
 

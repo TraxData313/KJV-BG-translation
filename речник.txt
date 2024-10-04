@@ -151,6 +151,8 @@ lighted:светна
 lightest:светваш
 lightning:светкавица
 lightnings:светкавици
+lamp:светило
+lamps:светилници
 saw:видя
 from:от
 call:на/призова
@@ -163,6 +165,7 @@ day:ден
 days:дни
 night:нощ
 nights:нощи
+midnight:полунощ
 morning:утро
 mornings:утини
 he:той
@@ -765,6 +768,11 @@ sleepest:спиш
 sleepeth:спи
 asleep:заспал
 slept:спах
+slumber:подремвам
+slumbered:подремвах
+slumbereth:подремва
+slumberings:дрямки
+drowsiness:сънливост
 bidden:възвестен
 bid:възвести
 bade:възвестих
@@ -1925,6 +1933,8 @@ ship:кораб
 ships:кораби
 shipmen:корабници
 shipwreck:корабокрушение
+trimmed:оправих
+trimmest:оправяш
 mend:поправям
 mending:поправящи/покравяйки
 immediately:непосредствено
@@ -3520,9 +3530,14 @@ waiteth:чака
 waited:чаках
 waiting:чакайки/чакащ
 await:очаквам
-delay:забавямсе/забавяне
-delayed:забавихсе
-delayeth:забависе
+delay:закъснявам
+delayed:закъснях
+delayeth:закъсняваш
+tarry:забавямсе
+tarriest:забавяшсе
+tarrieth:забавясе
+tarried:забавихсе
+tarrying:забавяне
 shake:разклащам
 shaked:разклатих
 shook:разклати
