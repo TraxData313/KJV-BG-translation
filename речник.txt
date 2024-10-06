@@ -636,6 +636,7 @@ goest:отиваш/отидеш
 goeth:отива
 went:отиде
 gone:отишъл
+go away:махамсе
 becometh:идвадабъде
 become:идвадабъда/дойдедабъде
 became:дойдедабъде
@@ -1485,6 +1486,7 @@ within:свътре
 inside:вътрешност
 yourselves:себеСи
 able:способен
+ability:способност
 stone:камък/камненувам
 stonest:камненуваш
 stones:камъни
@@ -1702,6 +1704,7 @@ takest:взимаш
 tookest:взе
 taketh:взима
 taking:взимайки
+take in:прибирам
 undertake:подвземи
 undertook:подвзеха
 untaken:подвзет
@@ -2052,7 +2055,6 @@ pure:нямащпримеси
 purer:по-безпримесен
 purely:безпримесено
 pureness:безпримесеност
-able:способен
 peace:мир
 peaceable:миротворен
 peaceably:миротворно
@@ -3070,7 +3072,7 @@ beating:сбивайки/сбиване
 strike:удрям
 striketh:удря
 striker:удряч
-foundation:основа
+foundation:основа/основаване
 foundations:основи
 founded:основах
 foundest:основаваш
@@ -3512,6 +3514,12 @@ journeys:пътешествия
 journeyed:пътешествах
 journeying:пътешестване
 journeyings:пътешествания
+travel:пътувам
+travelleth:пътува
+travelled:пътувах
+traveller:пътник
+travellers:пътници
+travelling:пътуващ
 staff:тояга
 staves:тояги
 abide:престоявам
@@ -4616,3 +4624,24 @@ tenderhearted:нежносърц
 noe:ное
 noah:ной
 ark:ковчег
+slothful:ленив
+slothfulness:леност
+usury:лихва
+usurer:лихвар
+several:отделен
+severally:отделно
+goat:коза
+goats:козли
+naked:гол
+nakedness:голота
+visit:посещавам
+visited:посетих
+visitest:посещаваш
+visiteth:посещава
+visiting:посещавайки
+visitation:посещение
+punish:наказвам
+punished:наказах
+punishment:наказание
+punishments:наказания
+unpunished:ненаказан

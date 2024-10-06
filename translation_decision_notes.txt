@@ -11141,6 +11141,69 @@ trimmest:оправяш
 
 
 
+journey:пътешествие/пътешествам<<
+way:път<<
+travel:пътувам
+travelleth:пътува
+travelled:пътувах
+traveller:пътник
+travellers:пътници
+travelling:пътуващ
+
+able:способен<<
+ability:способност
+
+slothful:ленив
+slothfulness:леност
+
+usury:лихва
+usurer:лихвар
+
+
+
+
+parted:отделен<<
+several:отделен (различно ударение и дума въпреки, че се пишат еднакво)
+severally:отделно
+
+
+
+
+
+
+
+
+
+goat:коза
+goats:козли
+
+naked:гол
+nakedness:голота
+
+visit:посещавам
+visited:посетих
+visitest:посещаваш
+visiteth:посещава
+visiting:посещавайки
+visitation:посещение
+
+punish:наказвам
+punished:наказах
+punishment:наказание
+punishments:наказания
+unpunished:ненаказан
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
