@@ -11204,6 +11204,81 @@ unpunished:ненаказан
 
 
 
+passover:пасха
+
+unite:обедини<<
+join:съчетавам<<
+gather:събирам<<
+gathered:събрани<<
+gathering:събиране<<
+gathereth:събира<<
+order:ред<<
+assemble:строявам
+assembled:строих
+assembling:строяване
+assembly:строй
+assemblies:строеве
+
+collection:сбирка? (използва се като данък/събрани пари за)
+
+caiaphas:каиафа
+
+advice:насока<<
+advise:насочвам<<
+advised:насочих<<
+advisement:насочение<<
+counsel:съвет<<
+counsels:съвети<<
+counselled:посъветвах<<
+counsellor:съветник<<
+counsellors:съветници<<
+consult:консултирам
+consulteth:консултира
+consulted:консултирах
+consulter:консултатор
+consultation:консултация
+
+vile:позоря<<
+subtil:хитър
+subtilly:хитро
+subtilty:хитър
+	не е подло заради: To give subtilty to the simple, to the young man knowledge and discretion.
+
+roar:рева<<
+uproar:врява
+
+
+
+palace:палат
+palaces:палати
+
+
+
+
+
+
+
+
+
+
+high:висок -> висш
+higher:по-висок -> по-висш
+highest:най-висок -> най-висш
+highly:високо -> висшо
+height:височина -> висина
+heights:височини -> висини
+highness:висота -> висшина
+highminded:високонаумен -> висшонаумен
+highway:високопът -> висшпът
+highways:високопътища -> висшипътища
+
+tall:висок
+taller:по-висок
+
+
+
+
+
 
 
 
