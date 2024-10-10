@@ -11283,6 +11283,78 @@ taller:по-висок
 
 
 
+
+
+alabaster:алабастров
+
+vessel:съд<<
+box:кутия
+
+precious:скъпоценен
+
+pour:изливам
+poureth:излива
+poured:излях
+pouredst:изля
+pouring:излизване/изливайки
+
+cause:причина/причиня<<
+purpose:предназначение
+purposed:предназначих
+purposeth:предназначи
+purposes:предназначения
+purposing:предназначавайки
+aim,goal(0)
+
+possible:възможно<<
+opportunity:благовремие
+
+
+
+waste:разложение/разлагам<< -> прахосвам/прахосване
+wasteth:разлага -> прахосва
+wasted:разложих -> прахосах
+wastes:разложения -> прахосвания
+wasteness:разложителство -> прахосничество
+waster:разложител<< -> прахостник
+	To what purpose is this waste?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dip:натопя
+dippeth:натопи
+dipped:натопих
+
+
+platter:блюдо<<
+plate:плоча<<
+cup:чаша<<
+dish:паница
+bowl:купа
+bowls:купи
+
+
+
+
+
+
+
+
+
+
+
+
 ...on the back of my mind...
 -ТОДО: преглед гл 20:
 -ТОДО: issue=изтичане <-> потомък в Mat22:25

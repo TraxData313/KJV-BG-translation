@@ -2399,6 +2399,8 @@ glass:стъкло
 glasses:стъкла
 lookingglasses:огледало
 ready:готов
+make ready:приготвям
+made ready:приготвих
 already:вече
 offend:провиня
 offended:провиних
@@ -2744,12 +2746,12 @@ absence:отсъствие
 desolate:опустошен
 desolation:опустошение
 desolations:опустошения
-waste:разложение/разлагам
-wasteth:разлага
-wasted:разложих
-wastes:разложения
-wasteness:разложителство
-waster:разложител
+waste:прахосвам/прахосване
+wasteth:прахосва
+wasted:прахосах
+wastes:прахосвания
+wasteness:прахосничество
+waster:прахостник
 petition:молба
 petitions:молби
 repetitions:премолвания
@@ -4067,6 +4069,7 @@ trade:обмен
 traded:обмених
 vessel:съд
 vessels:съдове
+box:кутия
 sever:отделям
 severed:отделих
 instruct:наставлявам
@@ -4196,6 +4199,9 @@ table:таблица
 tables:таблици
 plate:плоча
 plates:плочи
+dish:паница
+bowl:купа
+bowls:купи
 maimed:осакатен
 cripple:сакат
 continue:продължавам
@@ -4665,3 +4671,19 @@ subtilty:хитрост
 palace:палат
 palaces:палати
 passover:пасха
+alabaster:алабастров
+precious:скъпоценен
+pour:изливам
+poureth:излива
+poured:излях
+pouredst:изля
+pouring:излизване/изливайки
+purpose:предназначение
+purposed:предназначих
+purposeth:предназначи
+purposes:предназначения
+purposing:предназначавайки
+opportunity:благовремие
+dip:натопя
+dippeth:натопи
+dipped:натопих
