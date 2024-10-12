@@ -11354,6 +11354,71 @@ bowls:купи
 
 
 
+remit:помилвам
+remitted:помилван
+remission:помилване
+
+forgive:прощавам<<
+forgiving:прощавайки<<
+forgiveth:прощава<<
+forgavest:прости<<
+forgiven:прости<<
+forgiveness:прошка<<
+forgave:простих<<
+forgivenesses:прошки
+
+pardon:извинявам
+pardoneth:извинявам
+pardoned:извиних
+
+
+
+
+
+
+
+
+
+
+
+
+song:песен
+songs:песни
+sing:пея
+singeth:пее
+singed:пях
+singer:певец
+singers:певци
+singing:пеене/пеещ
+sung:пях
+
+hymn:химн
+hymns:химни
+
+herd:стадо<<
+flock:стадо?
+flocks
+
+though:акои/че? (as though)
+although:въпрекиче
+
+cock:петел
+
+crow:кукуригам
+
+thrice:триж
+
+
+
+
+
+
+
+
+
+
+
+
 
 ...on the back of my mind...
 -ТОДО: преглед гл 20:

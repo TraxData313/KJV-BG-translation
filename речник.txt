@@ -599,7 +599,14 @@ forgiveth:прощава
 forgavest:прости
 forgiven:прости
 forgiveness:прошка
+forgivenesses:прошки
 forgave:простих
+pardon:извинявам
+pardoneth:извинявам
+pardoned:извиних
+remit:помилвам
+remitted:помилван
+remission:помилване
 store:запас
 their:техните
 free:свободен
