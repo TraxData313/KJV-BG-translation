@@ -718,6 +718,7 @@ fire:огън
 art:си
 voice:глас
 three:три
+thrice:триж
 eyes:очи
 other:друг
 others:други
@@ -3302,6 +3303,8 @@ fierceness:свирепост
 fiercer:по-свиреп
 here:тук
 hither:насам
+flock:овцегрупа
+flocks:овцегрупи
 herd:стадо
 herds:стада
 herdman:стадар
@@ -4694,3 +4697,17 @@ opportunity:благовремие
 dip:натопя
 dippeth:натопи
 dipped:натопих
+song:песен
+songs:песни
+sing:пея
+singeth:пее
+singed:пях
+singer:певец
+singers:певци
+singing:пеене/пеещ
+sung:пях
+hymn:химн
+hymns:химни
+though:акои/че
+cock:петел
+crow:кукуригам

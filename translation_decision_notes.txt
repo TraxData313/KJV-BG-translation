@@ -11396,11 +11396,10 @@ hymn:химн
 hymns:химни
 
 herd:стадо<<
-flock:стадо?
-flocks
+flock:овцегрупа
+flocks:овцегрупи
 
-though:акои/че? (as though)
-although:въпрекиче
+though:акои/че (as though)
 
 cock:петел
 
@@ -11411,6 +11410,12 @@ thrice:триж
 
 
 
+
+
+
+Gethsemane
+far:далеч<<
+farther
 
 
 
