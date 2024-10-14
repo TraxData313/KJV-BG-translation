@@ -11413,9 +11413,9 @@ thrice:триж
 
 
 
-Gethsemane
+gethsemane:гетсимания
 far:далеч<<
-farther
+farther:по-далеч
 
 
 

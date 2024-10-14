@@ -371,6 +371,7 @@ endure:изтърпя
 endureth:изтърпи
 enduring:изтърпявайки
 far:далеч
+farther:по-далеч
 conceive:зачевам
 conceived:зачена
 husband:съпруг
@@ -4711,3 +4712,4 @@ hymns:химни
 though:акои/че
 cock:петел
 crow:кукуригам
+gethsemane:гетсимания
