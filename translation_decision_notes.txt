@@ -11425,7 +11425,71 @@ farther:по-далеч
 
 
 
+
+
+
+honour:чест/почитай<<
+
+salute:поздравявам<< -> честоотдавам/козирувам?
+	от латински salutare "да поздравявам, да отдавам почит", буквално
+saluteth:поздравява<<
+saluted:поздравих<<
+salutation:поздрав<<
+salutations:поздрави<<
+
+greet:поздравявам<< посрещам/приветстам?
+	Old English gretan "to come in contact with" in any sense ("attack, accost" as well as "salute, welcome," and "touch, take hold of, handle," as in hearpan gretan "to play the harp"), "seek out, approach,"
+greeteth:поздравява<<
+greeting:поздрав<<
+greetings:поздрави<<
+
+hail:здравей/градушка
+	salutation in greeting, c. 1200, from Old Norse heill "health, prosperity, good luck," or a similar
+	frozen rain, pellets of ice falling in showers
+
+kiss:целувка/целувам
+kisses:целувка
+kissed:целунах
+
+strike:удрям<<
+struck:ударих
+
+legion:легион
+legions:легиони
+
+forsake:изоставям<<
+forsook:изоставих
+forsookest:изостави
+
+
+
+
+
+
+
+
+
+
+afar:отдалеч?
+adjure
+Hereafter
+further:по-нататъчна? (нужда)
+spit:плюх?
+buffeted
+palms:длани?
+
+
+
+
+
+
+
+
+
+
+
 ...on the back of my mind...
+-ТОДО: salute=greet
 -ТОДО: преглед гл 20:
 -ТОДО: issue=изтичане <-> потомък в Mat22:25
 -ТОДО: receive:получа->приема / accept

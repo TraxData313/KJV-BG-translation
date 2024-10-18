@@ -1023,6 +1023,7 @@ hold:държа/държание
 held:държа
 handle:хват
 handles:хватове
+laid hold:задържах
 catch:улавям
 catcheth:улавя
 caught:улови
@@ -1249,6 +1250,7 @@ smiteth:поразява
 smote:поразих
 smotest:порази
 smitten:поразен
+smote off:отсече
 coast:бряг
 coasts:брегове
 thereof:тамот
@@ -3096,6 +3098,7 @@ beating:сбивайки/сбиване
 strike:удрям
 striketh:удря
 striker:удряч
+struck:ударих
 foundation:основа/основаване
 foundations:основи
 founded:основах
@@ -4383,6 +4386,8 @@ forsake:изоставям
 forsaketh:изоставя
 forsaken:изоставен
 forsaking:изоставяйки/изоставяне
+forsook:изоставих
+forsookest:изостави
 regeneration:обновление
 tribe:племе
 tribes:племена
@@ -4713,3 +4718,9 @@ though:акои/че
 cock:петел
 crow:кукуригам
 gethsemane:гетсимания
+hail:здравей/градушка
+kiss:целувка/целувам
+kisses:целувка
+kissed:целунах
+legion:легион
+legions:легиони
