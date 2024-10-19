@@ -231,6 +231,7 @@ kind:вид
 yield:добивам
 yielding:добиващ
 after:след
+hereafter:тукслед
 itself:себеси
 whose:чийто
 according:според
@@ -372,6 +373,8 @@ endureth:изтърпи
 enduring:изтърпявайки
 far:далеч
 farther:по-далеч
+afar off:отдалеч
+afar:далеч
 conceive:зачевам
 conceived:зачена
 husband:съпруг
@@ -436,11 +439,6 @@ covenanted:договорих
 testament:завещание
 testator:завещател
 concord:споразумение
-vow:клетва
-vowest:заклеваш
-voweth:заклева
-vowed:закле
-vows:клетви
 promise:обещание
 promised:обеща
 pledge:залог
@@ -2460,6 +2458,13 @@ swearing:кълнене
 forswear:закълна/закълням
 oath:обет
 oaths:обети
+adjure:подклетвям
+adjured:подклети
+vow:клетва
+vowest:заклеваш
+voweth:заклева
+vowed:закле
+vows:клетви
 curse:проклинам/проклятие
 cursest:проклинаш
 curseth:проклина

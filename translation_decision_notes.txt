@@ -11469,11 +11469,53 @@ forsookest:изостави
 
 
 
+far:далеч<<
+farther:по-далеч<<
+afar off:отдалеч
+afar:далеч
+	повечето случаи (48) са afar off иначе (3) със значение отдалеч
+	she bringeth her food from afar - от далеч
 
-afar:отдалеч?
-adjure
-Hereafter
-further:по-нататъчна? (нужда)
+oath:обет<<
+swear:кълна/кълни<<
+vow:клетва<<
+vowest:заклеваш<<
+adjure:подклетвям
+adjured:подклети
+	from ad "to" (see ad-) + iurare "swear,"	
+	from ius (genitive iuris) "law" (see jurist)
+
+
+
+
+
+
+
+
+
+
+
+
+here:тук<<
+after:след<<
+hereafter:тукслед
+
+
+
+
+
+
+
+
+
+
+further:по-нататъчна/повече? (нужда)
+furthered
+furtherance:напредване/подпомагане?
+furthermore:ощеповече?
+
+
+
 spit:плюх?
 buffeted
 palms:длани?
