@@ -375,6 +375,8 @@ far:далеч
 farther:по-далеч
 afar off:отдалеч
 afar:далеч
+further:по-нататък
+furthermore:ощеповече
 conceive:зачевам
 conceived:зачена
 husband:съпруг
@@ -3104,6 +3106,8 @@ strike:удрям
 striketh:удря
 striker:удряч
 struck:ударих
+buffet:блъскам
+buffeted:блъсках
 foundation:основа/основаване
 foundations:основи
 founded:основах
@@ -4729,3 +4733,7 @@ kisses:целувка
 kissed:целунах
 legion:легион
 legions:легиони
+spit:плюя
+spat:плюх
+palm:длан/палмово
+palms:длани

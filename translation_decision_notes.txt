@@ -11507,21 +11507,45 @@ hereafter:тукслед
 
 
 
-
-
-further:по-нататъчна/повече? (нужда)
-furthered
+furthered(1):помогнаха
 furtherance:напредване/подпомагане?
-furthermore:ощеповече?
+
+onward(1)
 
 
 
-spit:плюх?
-buffeted
-palms:длани?
+yonder:по-нататък<<
+far:далеч<<
+farther:по-далеч<<
+afar off:отдалеч<<
+afar:далеч<<
+further:по-нататък
+	the angel of the LORD went further
+furthermore:ощеповече
+
+spit:плюя
+spat:плюх
+
+strike:удрям<<
+buffet:блъскам
+buffeted:блъсках
+
+palm:длан/палмово
+palms:длани
 
 
 
+
+
+
+
+
+wast
+denied
+porch
+Surely
+bewrayeth
+crew
 
 
 
