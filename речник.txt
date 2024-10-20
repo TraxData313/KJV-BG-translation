@@ -58,6 +58,7 @@ heavenly:небесен
 paradise:рай
 was:беше/настана
 were:беше
+wast:беше
 with:с
 without:свън
 form:форма
@@ -121,6 +122,7 @@ remove:премахвам
 removeth:премахва
 removed:премахнах
 say:казвам
+sayest:казваш
 said:каза
 saying:казвайки
 sayings:казвания
@@ -3533,6 +3535,8 @@ betrayest:предаваш
 betrayeth:предава
 betrayed:предадох
 betrayers:предатели
+bewray:издавам
+bewrayeth:издава
 samaria:самария
 samaritan:самарянин
 samaritans:самаряни
@@ -3669,6 +3673,7 @@ price:цена
 prices:цени
 dismissed:разпускам
 deny:негирам
+denied:негирах
 denying:негирайки
 refuse:отказвам
 refused:отказах
@@ -4726,6 +4731,7 @@ hymns:химни
 though:акои/че
 cock:петел
 crow:кукуригам
+crew:кукуригах
 gethsemane:гетсимания
 hail:здравей/градушка
 kiss:целувка/целувам
@@ -4737,3 +4743,8 @@ spit:плюя
 spat:плюх
 palm:длан/палмово
 palms:длани
+porch:преддверие
+porches:преддверия
+sure:сигурен
+surely:сигурно
+surety:сигурност

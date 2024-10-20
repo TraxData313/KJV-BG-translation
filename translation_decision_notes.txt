@@ -11533,19 +11533,26 @@ buffeted:блъсках
 palm:длан/палмово
 palms:длани
 
+wast:беше
 
 
 
+deny:негирам<<
+denied:негирах
 
+porch:преддверие
+porches:преддверия
 
+sure:сигурен
+surely:сигурно
+surety:сигурност
 
+betray:предавам<<
+bewray:издавам
+bewrayeth:издава
 
-wast
-denied
-porch
-Surely
-bewrayeth
-crew
+crow:кукуригам<<
+crew:кукуригах
 
 
 
