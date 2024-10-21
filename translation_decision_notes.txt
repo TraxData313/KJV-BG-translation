@@ -11561,6 +11561,54 @@ crew:кукуригах
 
 
 
+
+pontius:понтий
+pilate:пилат
+
+guilt:вина<<
+innocent:невинен
+innocents:невинни
+innocency:невинност
+
+treasure:съкровище<<
+treasures:съкровища<<
+treasury:съкровищница
+treasuries:съкровищници
+treasurest:съкровищовлагаш
+treasured:съкровищовложих
+treasurer:съкровищник
+treasurers:съкровищничари
+
+pot:гърне
+pots:грънци
+potter:грънчар
+potters:грънчари
+
+
+
+
+
+
+
+
+
+
+wont
+release
+notable
+Barabbas
+release
+envy
+persuaded
+
+
+
+
+
+
+
+
+
 ...on the back of my mind...
 -ТОДО: salute=greet
 -ТОДО: преглед гл 20:

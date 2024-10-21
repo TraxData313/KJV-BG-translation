@@ -1129,6 +1129,12 @@ befell:нападнах
 befallen:нападнал
 treasure:съкровище
 treasures:съкровища
+treasury:съкровищница
+treasuries:съкровищници
+treasurest:съкровищовлагаш
+treasured:съкровищовложих
+treasurer:съкровищник
+treasurers:съкровищничари
 gift:дар
 gifts:дарове
 gold:злато
@@ -2141,6 +2147,9 @@ guilty:виновен
 guiltiness:виновност
 guiltless:безвинен
 quit:оправдан
+innocent:невинен
+innocents:невинни
+innocency:невинност
 acquit:оправдавам
 iniquity:неправда
 iniquities:неправди
@@ -4748,3 +4757,9 @@ porches:преддверия
 sure:сигурен
 surely:сигурно
 surety:сигурност
+pontius:понтий
+pilate:пилат
+pot:гърне
+pots:грънци
+potter:грънчар
+potters:грънчари
