@@ -11592,14 +11592,33 @@ potters:грънчари
 
 
 
+tradition:обичай<<
+custom:привично/привичка<<
+habit(0):навик?
+wont:свикнал
 
-wont
-release
+free:свободен<<
+freely:свободно<<
+freed:освободи<<
+freedom:свобода<<
+loose:пускам<<
+loosed:отпуснах<< -> пуснах (готово)
+looseth:пуска<<
+	This is from re- "back" (see re-) + laxare "loosen" (from PIE root *sleg- "be slack, be languid"). Latin relaxare also is the source of Spanish relajar, Italian relassare, and English relax, and it is the uncle of relish.
+release:отпускам
+released:отпуснах
+
+
+
+
+
+
+
+
 notable
 Barabbas
-release
-envy
-persuaded
+envy:завист?
+persuaded:убедих?
 
 
 

@@ -3375,6 +3375,7 @@ custom:привично/привичка
 customs:привички
 accustomed:привикнал
 unaccustomed:непривикнал
+wont:свикнал
 tradition:обичай
 traditions:обичаи
 taxed:обложих
@@ -4294,9 +4295,11 @@ prevaileth:надви
 key:ключ
 keys:ключове
 loose:пускам
-loosed:отпуснах
+loosed:пуснах
 looseth:пуска
 unloose:разпусна
+release:отпускам
+released:отпуснах
 gain:печалба/печеля
 gained:спечелих
 gains:печалби
