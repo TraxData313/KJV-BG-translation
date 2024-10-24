@@ -563,6 +563,7 @@ will:ще/воля/имамволята
 willing:имайкиволята
 willingly:своеволно
 wilt:тище/заимашволята
+would:бих/би/биха/бихазаималиволята
 shall:ще/да
 shalt:ще
 his:негов
@@ -1001,6 +1002,7 @@ letter:писмо
 letters:мисма
 note:бележка
 noted:бележа
+notable:бележит
 demand:настоявам
 demanded:настоя
 request:изисквам/изискване
@@ -1297,7 +1299,6 @@ mourned:жалееше
 mourning:жалеене
 bemoan:обжали
 rachel:рахил
-would:бих/би/биха
 comfort:утеша/утеха
 comforteth:утешава
 comforted:утеших
@@ -4766,3 +4767,21 @@ pot:гърне
 pots:грънци
 potter:грънчар
 potters:грънчари
+barabbas:варава
+envy:завист/завиждам
+envied:завидях
+enviest:завиждаш
+envieth:завижда
+envies:зависти
+envious:завистлив
+envying:завиждане
+envyings:завиждания
+jealousy:ревност
+jealous:ревнив
+jealousies:ревности
+persuade:убеждавам
+persuadest:убеждаваш
+persuadeth:убеждава
+persuaded:убедих
+persuading:убеждавайки
+persuasion:убеждение
