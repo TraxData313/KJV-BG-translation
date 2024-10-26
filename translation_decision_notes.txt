@@ -11651,20 +11651,90 @@ persuasion:убеждение
 
 
 
-tumult
-common
-band
-stripped
-scarlet
-platted
-crown
-Cyrene
-Golgotha
-skull
+tumult:суматоха
+tumults:суматохи
+tumultuous:суматошен
+
+commune:общувам<<
+simple:обикновен<<
+common:общ
+commonly:общо
+
+band:дружина/лента
+bands:дружини/ленти
+
+strip:събличам
+stripped:съблякох
+stript:съблякоха
+
+scarlet:ален
+red:червен
+crimson:пурпурен
+purple:лилав
+
+platted:сплетоха
+
+weave:тъка
+weavest:втъчеш
+weaver:тъкач
+
+crown:корона
+crownest:коронясваш
+crowneth:коронясва
+crowned:коронясах
+crownedst:короняса
+crowns:корони
+crowning:коронясващ
+
+cyrene:киринея
+
+golgotha:голгота
+
+skull:череп
 
 
 
 
+
+
+
+
+
+
+
+
+kneel:коленича<<
+kneeled:коленичих<<
+kneeling:коленичейки/коленичещ<<
+knee:коляно?
+
+worship:поклонение<<
+worshipped:поклони<<
+
+bow
+bows
+bowed
+
+boweth
+bowing
+
+
+bowl
+bowls
+bowels
+
+bowmen
+
+rainbow
+
+
+
+
+knee
+mingled
+gall
+vesture
+lots
 
 
 
