@@ -11706,35 +11706,59 @@ skull:череп
 kneel:коленича<<
 kneeled:коленичих<<
 kneeling:коленичейки/коленичещ<<
-knee:коляно?
+knee:коляно
+knees:колене
 
 worship:поклонение<<
 worshipped:поклони<<
-
-bow
-bows
-bowed
-
-boweth
-bowing
-
-
-bowl
-bowls
-bowels
-
-bowmen
-
-rainbow
+rainbow:дъга<<
+bow:лък/дъга/прекланям
+bows:лъкове
+boweth:прекланя
+bowed:преклоних
+	In the Hebrew Bible, the word קֶשֶׁת (qeshet) is used to mean both "bow" (as in a weapon for shooting arrows) and "rainbow."
+bowing:прекланяйки
+bowmen:лъкохора
 
 
+pure:нямащпримеси<<
+mingle:забърквам
+mingled:забърках/забъркан
+
+mixture:смес
+mixed:смесих/смесен
+mixt:смесен
+
+gall:жлъчка
+
+garment:палто<<
+raiment:облекло<<
+coat:дреха<<
+vesture:одежда
+vestures:одежди
+
+lot:жребий
+lots:жребии
 
 
-knee
-mingled
-gall
-vesture
-lots
+
+
+
+
+
+
+
+
+
+
+
+
+
+wagging
+mocking
+
+
+
 
 
 

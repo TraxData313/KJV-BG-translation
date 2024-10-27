@@ -1441,6 +1441,8 @@ mantles:мантии
 robe:роба
 robes:роби
 rags:дрипи
+vesture:одежда
+vestures:одежди
 camel:камила
 camels:камили
 hair:коса
@@ -2079,6 +2081,11 @@ obtain:придобивам
 obtaineth:придобиваш
 obtained:придобих
 obtaining:придобиването
+mingle:забърквам
+mingled:забърках/забъркан
+mixture:смес
+mixed:смесих/смесен
+mixt:смесен
 pure:нямащпримеси
 purer:по-безпримесен
 purely:безпримесено
@@ -2665,6 +2672,12 @@ rain:вали/валеж
 rained:валя
 rainy:валежен
 rainbow:дъга
+bow:лък/дъга/прекланям
+bows:лъкове
+boweth:прекланя
+bowed:преклоних
+bowing:прекланяйки
+bowmen:лъкохора
 publican:бирник
 publicans:бирници
 salute:поздравявам
@@ -4321,6 +4334,8 @@ sores:лютивини
 sorer:по-лют
 listed:счетох
 likewise:поподобенначин
+knee:коляно
+knees:колене
 kneel:коленича
 kneeled:коленичих
 kneeling:коленичейки/коленичещ
@@ -4813,3 +4828,6 @@ crowning:коронясващ
 cyrene:киринея
 golgotha:голгота
 skull:череп
+gall:жлъчка
+lot:жребий
+lots:жребии
