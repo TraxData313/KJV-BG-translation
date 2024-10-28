@@ -231,7 +231,10 @@ tree:дърво
 trees:дървета
 kind:вид
 yield:добивам
+yielded:добих
+yieldeth:доби
 yielding:добиващ
+yield up:въздобих
 after:след
 hereafter:тукслед
 itself:себеси
@@ -720,6 +723,8 @@ how:как/колко
 thousand:хиляда
 fire:огън
 art:си
+loud:гръмък/гръмко
+louder:по-гръмко
 voice:глас
 three:три
 thrice:триж
@@ -1228,6 +1233,10 @@ mock:подигравам
 mockest:подиграваш
 mocketh:подиграва
 mocked:подиграх
+mocker:подигравач
+mockers:подигравачи
+mocking:подигравайки/подигравка
+mockings:подигравки
 laugh:смея
 laugheth:смее
 laughed:смях
@@ -1436,6 +1445,9 @@ coats:дрехи
 cloak:покривало
 vail:воал
 vails:воали
+veil:вуал
+caul:було
+cauls:була
 mantle:мантия
 mantles:мантии
 robe:роба
@@ -2857,6 +2869,7 @@ resteth:почива
 rested:починах
 resting:почивно
 restingplace:почивномясто
+the rest:останалите
 moth:молец
 rust:ръжда
 thieves:грабители
@@ -3620,6 +3633,8 @@ shook:разклати
 shaken:разклатен
 shaketh:разклаща
 shaking:разклащайки/разклащане
+wag:поклащам
+wagging:поклащайки
 sodom:содом
 sodoma:содома
 sodomite:содомит
@@ -4831,3 +4846,7 @@ skull:череп
 gall:жлъчка
 lot:жребий
 lots:жребии
+eli:илий
+lama:лама
+sabachthani:савахтани
+spunge:гъба

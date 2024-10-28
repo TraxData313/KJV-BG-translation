@@ -11752,10 +11752,51 @@ lots:жребии
 
 
 
+shake:разклащам<<
+wag:поклащам
+wagging:поклащайки
 
 
-wagging
-mocking
+mock:подигравам<<
+mockest:подиграваш<<
+mocketh:подиграва<<
+mocked:подиграх<<
+mocker:подигравач
+mockers:подигравачи
+mocking:подигравайки/подигравка
+mockings:подигравки
+
+
+
+
+
+
+
+
+
+
+noise:шум<<
+voice:глас<<
+loud:гръмък/гръмко
+louder:по-гръмко
+
+eli:илий
+lama:лама
+sabachthani:савахтани
+
+spunge:гъба
+
+yield:добивам<<
+yielding:добиващ<<
+yielded:добих
+yieldeth:доби
+yield up:въздоби?
+
+cloak:покривало<<
+vail:воал<<
+veil:вуал (подобно но е разграничено)
+caul:було
+cauls:була
 
 
 
@@ -11769,7 +11810,26 @@ mocking
 
 
 
-...on the back of my mind...
+
+Magdalene
+Arimathaea
+wrapped
+rolled
+next
+preparation
+
+
+
+
+
+
+
+
+
+
+
+
+Отворени въпроси:
 -ТОДО: salute=greet
 -ТОДО: преглед гл 20:
 -ТОДО: suffer:допуснала->страдала? (40NT_Матей 27:19)
@@ -11779,7 +11839,7 @@ mocking
 -ТОДО: foes=adversaries=противници
 -ТОДО: тамот?
 -TODO: offended:провиних -> обидих/съблазних/оскърбя? (Mat13:57)
--TODO: save:+освен/с изключение на? (Mat13:57)
+-TODO: save:+освен/с изключение на? (Mat13:57) и дали да остане "запази" (40NT_Матей 27:42)
 -TODO: scholar=disciple=ученик (learn:уча, doctor:учен)
 -TODO: arm=hand
 -TODO: 45NT_Римляни
