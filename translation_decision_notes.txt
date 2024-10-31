@@ -11894,28 +11894,32 @@ stolen:откраднат
 
 careless:безгрижен<<
 sure:сигурен<<
-surely:сигурно<< -> съссигурност
+surely:сигурно<< -> съссигурност (готово)
 surety:сигурност<<
-secure:осигурен?
-securely:осигурено?
-security:осигуреност?
+secure:осигурен
+securely:осигурено
+security:осигуреност
 
-report:докладвам?
-reported
+report:доклад/докладвам
+reported:докладвах
 
-baptize:кръстя<<
+baptize:кръстя<< -> кръщавам (готово)
 baptist:кръстител<<
 baptism:кръщение<<
 baptized:кръстен<<
-baptisms
-baptizest
-baptizeth
-baptizing
+baptisms:кръщения
+baptizest:кръщаваш
+baptizeth:кръщава
+baptizing:кръщавайки
 
 
 
 
 
+
+
+2024.10.31: преглед за грешки в превода на Матей 
+до 5 гл вкл
 
 
 

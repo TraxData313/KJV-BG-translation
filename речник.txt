@@ -75,7 +75,7 @@ builder:строител
 builders:строители
 built:построих
 thou:ти
-thee:теб
+thee:тебе
 thine:твое
 you:вие
 ye:вий
@@ -630,7 +630,7 @@ it:то
 my:мой
 have:имам/минвр/получавам
 having:имащ/имайки
-me:мен
+me:мене
 as:като
 this:това/този
 out:от/вън
@@ -645,6 +645,9 @@ house:къща
 houses:къщи
 home:дом
 come:дойди/идвам/дойде
+comest:идваш
+cometh:идва
+coming:идване/идвайки
 came:дойде
 camest:дойде
 come out:излизам (ръчен превод)
@@ -654,6 +657,7 @@ going:отивайки
 goest:отиваш/отидеш
 goeth:отива
 went:отиде
+went out:излезе
 gone:отишъл
 go away:махамсе
 becometh:идвадабъде
@@ -811,6 +815,8 @@ commandeth:заповядва
 commandest:заповядваш
 new:нов
 news:новости
+report:доклад/докладвам
+reported:докладвах
 know:знам
 knowest:знаеш
 knoweth:знае
@@ -1378,10 +1384,14 @@ nazareth:назарет
 nazarene:назарей
 those:тези
 john:йоан
-baptize:кръстя
+baptize:кръщавам
+baptizest:кръщаваш
+baptizeth:кръщава
+baptized:кръстен
 baptist:кръстител
 baptism:кръщение
-baptized:кръстен
+baptisms:кръщения
+baptizing:кръщавайки
 preaching:проповядвайки
 wild:див
 wilderness:подивнина
@@ -1573,9 +1583,6 @@ lies:лъжи
 deed:деяние
 deeds:деяния
 indeed:вдеяние
-comest:идваш
-cometh:идва
-coming:идване/идвайки
 than:от
 shoe:обувка
 shoes:обувки
@@ -2894,6 +2901,8 @@ rebels:бунтовници
 steal:крада
 stealeth:краде
 stealing:крадейки
+stole:откраднах
+stolen:откраднат
 menstealers:човекокрадци
 stealth:скришно
 single:единно
@@ -4796,8 +4805,11 @@ palms:длани
 porch:преддверие
 porches:преддверия
 sure:сигурен
-surely:сигурно
+surely:съссигурност
 surety:сигурност
+secure:осигурен
+securely:осигурено
+security:осигуреност
 pontius:понтий
 pilate:пилат
 pot:гърне
