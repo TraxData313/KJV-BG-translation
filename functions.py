@@ -869,7 +869,7 @@ def count_lines(file_path):
 def get_translated_progress_by_book(bulgarian_file_path = "kjb-bg/compiled_text_by_books/01OT Битие.txt", english_file_path = "kjb-en/compiled_text_by_books/01OT Genesis.txt"):
     total_lines = count_lines(english_file_path)
     translated_lines = count_lines(bulgarian_file_path)
-    translated_perc = round(translated_lines*100/total_lines,1)
+    translated_perc = int(round(translated_lines*100/total_lines,0))
     transl_str = f'<tag style="color:lightblue">завършен на <b>{translated_perc}%</b> ({translated_lines} от {total_lines} стиха)<tag>'
     return transl_str
 
@@ -879,7 +879,7 @@ def generate_html_side_by_side_translations():
     bg_files = list(np.sort(os.listdir(bg_folder)))
     en_files = os.listdir(en_folder)
     unique_translated_words, unique_words, translated_words, total_words = get_translated_word_stats()
-    word_dict_progr_str = f'<tag style="color:lightblue">завършен на <b>{round(unique_translated_words*100/unique_words,1)}%</b> ({unique_translated_words} от {unique_words} думи)<tag>'
+    word_dict_progr_str = f'<tag style="color:lightblue">завършен на <b>{int(round(unique_translated_words*100/unique_words,0))}%</b> ({unique_translated_words} от {unique_words} думи)<tag>'
     generate_dict_page()
     book_tuples = []
     for bg_file in bg_files:
