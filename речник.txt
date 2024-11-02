@@ -1584,8 +1584,10 @@ deed:деяние
 deeds:деяния
 indeed:вдеяние
 than:от
+latchet:ремък
 shoe:обувка
 shoes:обувки
+shoelatchet:обувкоремък
 worth:стойност/настойност
 worthy:достоен
 fan:отвея/веяло
@@ -4889,3 +4891,9 @@ week:седмица
 weeks:седмици
 snow:сняг
 snowy:снежен
+river:река
+rivers:реки
+stoop:навеждамсе
+stoopeth:навеждасе
+stooped:навеждохсе
+stooping:навеждайкисе
