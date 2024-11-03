@@ -216,6 +216,10 @@ draweth:издърпвам
 drawn:издърпах
 wear:обличам
 drive:гоня
+driveth:гони
+driven:гонен
+driver:гонител
+drive out:изгонвам
 grass:трева
 herb:билка
 herbs:билки

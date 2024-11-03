@@ -11952,6 +11952,25 @@ stooping:навеждайкисе
 
 
 
+carry:карам<<
+drive:гоня<<
+driveth:гони
+driven:гонен
+driver:гонител
+drive out:изгонвам
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
