@@ -11967,6 +11967,22 @@ drive out:изгонвам
 
 
 
+tear:раздирам<<
+torn:раздран
+
+
+
+
+
+
+
+
+
+
+rising
+solitary
+
+
 
 
 

@@ -1806,6 +1806,7 @@ dasheth:разрязва
 tear:раздирам
 teareth:раздира
 tare:раздрах
+torn:раздран
 tears:сълзи
 rip:разпориш
 high:висш
@@ -2069,7 +2070,7 @@ palsies:парализи
 disciple:ученик
 disciples:ученици
 discipline:поучение
-set:сложи/сядам
+set:сложи/сядам/залязвам
 bless:благославям
 blessest:благославяш
 blesseth:благославя
