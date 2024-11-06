@@ -11979,8 +11979,37 @@ torn:раздран
 
 
 
-rising
-solitary
+rise:вдигам<
+rising:повдигане/повдигайки (като оток, като изгряване на слънце, като ставане сутрин)
+
+
+solitary:самотен
+solitarily:самотно
+
+
+
+
+
+
+
+
+
+
+
+publick:публичен<<
+publickly:публично<<
+publish:възпобликувам
+publisheth:възпобликува
+published:възпобликувах
+
+
+blaze:пламък/разпламвам
+
+corner:ъгъл<<
+quarter:четвърт
+quarters:четвърти
+
+
 
 
 

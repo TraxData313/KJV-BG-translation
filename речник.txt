@@ -146,7 +146,7 @@ answerable:отговаряща
 answeredst:отговари
 answerest:отговаряш
 answers:отговори
-let:нека
+let:нека/оставям
 light:светлина/лек
 lights:светлини
 lighted:светна
@@ -397,7 +397,6 @@ whom:когото
 who:кой
 is:е
 are:са
-fourteen:четиринадесет
 until:докато
 ghost:призрак
 presence:присъствие
@@ -526,6 +525,9 @@ passion:страст
 passions:страсти
 publick:публичен
 publickly:публично
+publish:възпобликувам
+publisheth:възпобликува
+published:възпобликувах
 example:пример
 examples:примери
 privy:лично
@@ -730,6 +732,7 @@ many:много/мнозина
 how:как/колко
 thousand:хиляда
 fire:огън
+blaze:пламък/разпламвам
 art:си
 loud:гръмък/гръмко
 louder:по-гръмко
@@ -2593,6 +2596,9 @@ third:трети
 thirdly:трето
 four:четири
 fourth:четвърти
+fourteen:четиринадесет
+quarter:четвърт
+quarters:четвърти
 five:пет
 fifth:пети
 six:шест
@@ -2690,6 +2696,7 @@ rise:вдигам
 risest:вдига
 riseth:вдигаш
 risen:вдигнат
+rising:повдигане/повдигайки
 arise:въздигам
 ariseth:въздига
 rose:вдигнах
@@ -4062,6 +4069,11 @@ afflicted:угнетих
 afflictest:угнетяваш
 affliction:угнетение
 afflictions:угнетения
+press:притискам/преса/притисканица
+presseth:притиска
+pressed:притиснах
+presses:преси
+winepress:винопреса
 oppress:потискам
 oppressed:потисках
 oppresseth:потискa
@@ -4578,11 +4590,6 @@ dig:копая
 diggeth:копае
 digged:изкопах
 diggedst:изкопа
-press:притискам/преса
-presseth:притиска
-pressed:притиснах
-presses:преси
-winepress:винопреса
 reverend:достопочтен
 reverence:достопочитам
 reverenced:достопочитах
@@ -4902,3 +4909,5 @@ stoop:навеждамсе
 stoopeth:навеждасе
 stooped:навеждохсе
 stooping:навеждайкисе
+solitary:самотен
+solitarily:самотно
