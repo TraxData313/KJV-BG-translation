@@ -664,6 +664,7 @@ goest:отиваш/отидеш
 goeth:отива
 went:отиде
 went out:излезе
+went forth:излезе
 gone:отишъл
 go away:махамсе
 becometh:идвадабъде
@@ -709,6 +710,7 @@ two:две
 twofold:двукратно
 pass:минавам
 passed:минах
+pass by:подминавам
 should:трябва
 must:требова
 nor:нито
@@ -2691,6 +2693,7 @@ usest:употребява
 useth:употребяваш
 used:употребих
 uses:употребления
+used to:притрябнал
 sun:слънце
 rise:вдигам
 risest:вдига
@@ -4189,7 +4192,6 @@ whereupon:къдетовръз
 nevertheless:въпрекитова
 desert:пустиня/пуст
 deserts:пустини
-went forth:излезе
 past:минало
 overpast:премине
 victual:насъщен/насъщнина
@@ -4911,3 +4913,14 @@ stooped:навеждохсе
 stooping:навеждайкисе
 solitary:самотен
 solitarily:самотно
+fashion:модел
+fashioneth:моделира
+fashioned:моделирах
+fashioning:моделирайки
+fashions:модели
+resort:прибягвам
+resorted:прибягнах
+levi:леви
+levite:левит
+levites:левити
+levitical:левитско

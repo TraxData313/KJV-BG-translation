@@ -12020,6 +12020,57 @@ quarters:четвърти
 
 
 
+
+
+wise:мъдър/начин<<
+form:форма<<
+kind:вид<<
+manner:поведение<<
+style,model(0)
+fashion:модел
+fashioneth:моделира
+fashioned:моделирах
+fashioning:моделирайки
+fashions:модели
+
+
+flee:бягам<<
+return:връщам<<
+went out:излезе<<
+escape:избавямсе<<
+resort:прибягвам
+resorted:прибягнах
+	late 14c., "that to which one has recourse for aid or assistance, source of comfort and solace," from Old French resort "resource, a help, an aid, a remedy," back-formation from resortir "to resort," literally "to go out again," from re- "again" (see re-) + sortir "go out" (see sortie).
+
+
+levi:леви
+levite:левит
+levites:левити
+levitical:левитско
+
+
+
+
+used:употребих<<
+wont:свикнал<<
+tradition:обичай<<
+custom:привично/привичка<<
+accustomed:привикнал<<
+used to(2): при - треб - кнал -> притрябнал
+	A wild ass used to the wilderness
+	the disciples of John and of the Pharisees used to fast
+
+
+
+
+
+
+
+
+
+
+
+
 Отворени въпроси:
 -ТОДО: salute=greet
 -ТОДО: преглед гл 20:
