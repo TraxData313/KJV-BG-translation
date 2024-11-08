@@ -548,7 +548,7 @@ hid:криех
 hiding:криене/криещ
 put away:оставям(ръчен превод)
 put forth:извеждам(ръчен превод)
-but:но
+but:но/освен
 while:докато
 these:тези
 thing:нещо
@@ -658,11 +658,11 @@ came:дойде
 camest:дойде
 come out:излизам (ръчен превод)
 came out:излезнах (ръчен превод)
-go:отивам
+go:отивам/ида
 going:отивайки
 goest:отиваш/отидеш
 goeth:отива
-went:отиде
+went:отиде/идох
 went out:излезе
 went forth:излезе
 gone:отишъл
@@ -1767,6 +1767,7 @@ tookest:взе
 taketh:взима
 taking:взимайки
 take in:прибирам
+take away:отнемам
 undertake:подвземи
 undertook:подвзеха
 untaken:подвзет
@@ -3516,6 +3517,16 @@ overflowed:залях
 overfloweth:залива
 overflowing:заливайки/заливащ/заливане
 overflown:залят
+pour:изливам
+poureth:излива
+poured:излях
+pouredst:изля
+pouring:излизване/изливайки
+shed:проливам
+sheddeth:пролива
+shedder:проливач
+shedding:проливане
+spilled:разлях/разлято
 twelve:дванадесет
 behind:отзад/зад
 herself:неяси
@@ -3582,6 +3593,8 @@ scatter:разпръсквам
 scattered:разпръснах/разпръснат
 scattereth:разпръска
 scattering:разпръскване
+burst:пръсвам
+bursting:пръсване
 shepherd:пастир
 shepherds:пастири
 harvest:жетва
@@ -3674,6 +3687,8 @@ gomorrah:гомор
 gomorrha:гомора
 harm:вреда/навреждам
 harmless:ненавреждащ
+mar:повреждам
+marred:повредих/повреден
 hurt:постради/постраждам/пострада
 hurtful:страдателен
 hurting:пострадайки
@@ -4699,10 +4714,6 @@ extortioners:изнудвачи
 excess:прекаляване
 bone:кост
 bones:кости
-shed:проливам
-sheddeth:пролива
-shedder:проливач
-shedding:проливане
 abel:авел
 zacharias:захария
 zachariah:захариах
@@ -4778,11 +4789,6 @@ palaces:палати
 passover:пасха
 alabaster:алабастров
 precious:скъпоценен
-pour:изливам
-poureth:излива
-poured:излях
-pouredst:изля
-pouring:излизване/изливайки
 purpose:предназначение
 purposed:предназначих
 purposeth:предназначи
@@ -4924,3 +4930,7 @@ levi:леви
 levite:левит
 levites:левити
 levitical:левитско
+sew:пришивам
+sewed:приших
+sewest:пришиваш
+seweth:пришива

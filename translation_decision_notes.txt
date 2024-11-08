@@ -12071,6 +12071,68 @@ used to(2): при - треб - кнал -> притрябнал
 
 
 
+sew:пришивам
+sewed:приших
+sewest:пришиваш
+seweth:пришива
+
+scatter:разпръсквам<<
+burst:пръсвам
+bursting:пръсване
+shatter(0)
+	else the new wine will burst the bottles
+	thy presses shall burst out with new wine
+	and will burst thy bonds
+	пръвам  /спуквам/избухвам/взривя/разцепвам?
+
+
+flow:тека<<
+overflow:заливам<<
+shed:проливам<<
+pour:изливам<<
+spilled:разлях/разлято
+
+
+disfigure:обезображават<<
+spoil:плячка/плячкосвам<<
+foul:развален/развалям<<
+harm:вреда/навреждам<<
+waste:прахосвам/прахосване<<
+desolate:опустошен<<
+mar:повреждам 
+marred:повредих/повреден
+flaw,defect(0)
+/дефектирам/развалям/разобликувам? (развалям+обезображавам)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Idumaea
+small
+throng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Отворени въпроси:
 -ТОДО: salute=greet
 -ТОДО: преглед гл 20:
