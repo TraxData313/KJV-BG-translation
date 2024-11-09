@@ -12116,9 +12116,26 @@ flaw,defect(0)
 
 
 
-Idumaea
-small
-throng
+
+esau:исав
+edom:едом
+edomite:едомец
+edomites:едомци
+idumea:идумеа
+idumaea:идумаеа
+
+
+less:по-малко<<
+least:най-малък<<
+little:малко<<
+small:дребен
+smallest:най-дребен
+
+
+press:притискам/преса/притисканица<<
+throng:тълпа/претъпквам
+thronged:претъпках
+thronging:претъпквайки
 
 
 

@@ -1064,7 +1064,6 @@ walls:стени
 castle:замък
 tower:кула
 writer:писец
-least:най-малък
 prince:принц
 princes:принцове
 princess:принцеса
@@ -2593,6 +2592,10 @@ greatly:велико
 greatness:величие
 less:по-малко
 lesser:по-малкото
+least:най-малък
+little:малко
+small:дребен
+smallest:най-дребен
 second:втори
 secondarily:второ
 third:трети
@@ -3006,7 +3009,6 @@ array:нареждам/редица
 arrayed:нареден
 morrow:утрин
 tomorrow:утре
-little:малко
 wherewithal:скакво
 sufficient:достатъчен
 sufficiently:достатъчно
@@ -4087,6 +4089,9 @@ afflicted:угнетих
 afflictest:угнетяваш
 affliction:угнетение
 afflictions:угнетения
+throng:тълпа/претъпквам
+thronged:претъпках
+thronging:претъпквайки
 press:притискам/преса/притисканица
 presseth:притиска
 pressed:притиснах
@@ -4934,3 +4939,9 @@ sew:пришивам
 sewed:приших
 sewest:пришиваш
 seweth:пришива
+esau:исав
+edom:едом
+edomite:едомец
+edomites:едомци
+idumea:идумеа
+idumaea:идумаеа
