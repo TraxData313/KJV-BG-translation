@@ -12149,6 +12149,41 @@ thronging:претъпквайки
 
 
 
+order:ред<<
+orderly:подредено<<
+mete:определям<<
+ordain:разпореждам
+ordained:разпоредих
+ordaineth:разпорежда
+foreordained:предразпореден
+
+boanerges:воанергес
+
+
+loud:гръмък/гръмко<<
+louder:по-гръмко<<
+hail:здравей/градушка<<
+lightning:светкавица<<
+thunder:гръм/гърмя
+thunders:гръмове
+thundereth:гърми
+thundered:гърмя
+thunderings:гръмотевици
+thunderbolts:мълнии
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Отворени въпроси:
 -ТОДО: salute=greet

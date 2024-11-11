@@ -418,6 +418,10 @@ reasons:последователства
 unreasonable:непоследователен
 order:ред
 orderly:подредено
+ordain:разпореждам
+ordained:разпоредих
+ordaineth:разпорежда
+foreordained:предразпореден
 smart:умен
 practise:практикува
 when:кога/когато
@@ -667,6 +671,7 @@ went out:излезе
 went forth:излезе
 gone:отишъл
 go away:махамсе
+go up:качвамсе
 becometh:идвадабъде
 become:идвадабъда/дойдедабъде
 became:дойдедабъде
@@ -738,6 +743,12 @@ blaze:пламък/разпламвам
 art:си
 loud:гръмък/гръмко
 louder:по-гръмко
+thunder:гръм/гърмя
+thunders:гръмове
+thundereth:гърми
+thundered:гърмя
+thunderings:гръмотевици
+thunderbolts:мълнии
 voice:глас
 three:три
 thrice:триж
@@ -4945,3 +4956,4 @@ edomite:едомец
 edomites:едомци
 idumea:идумеа
 idumaea:идумаеа
+boanerges:воанергес
