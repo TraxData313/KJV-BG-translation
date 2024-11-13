@@ -1977,6 +1977,7 @@ spring:извор/извирам
 springeth:извира
 springing:извиращ/извирайки
 springs:извори
+sprang:извря
 water:вода
 watersprings:водоизвори
 wellspring:кладенецоизвор
@@ -2601,6 +2602,13 @@ greater:по-велик
 greatest:най-велик
 greatly:велико
 greatness:величие
+increase:увелича/увеличение
+increased:увеличих
+increasest:увеличаваш
+increaseth:увеличи
+increasing:увеличавайки
+decrease:намаля
+decreased:намалих
 less:по-малко
 lesser:по-малкото
 least:най-малък

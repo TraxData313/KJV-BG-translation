@@ -12183,6 +12183,27 @@ thunderbolts:мълнии
 
 
 
+enlarge:уголемявам<<
+small:дребен<<
+least:най-малък<<
+increase:увелича/увеличение
+increased:увеличих
+increasest:увеличаваш
+increaseth:увеличи
+increasing:увеличавайки
+decrease:намаля
+decreased:намалих
+
+
+
+
+
+
+
+
+
+
+
 
 
 Отворени въпроси:
