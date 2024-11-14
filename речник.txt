@@ -244,7 +244,6 @@ hereafter:тукслед
 itself:себеси
 whose:чийто
 according:според
-brought forth:изкара(ръчен превод)
 season:сезон
 seasons:сезони
 year:година
@@ -374,6 +373,7 @@ brought:донесен
 bearest:носиш
 bearing:носейки
 beareth:носиш
+brought forth:изкара(ръчен превод)
 barren:неплодоносещ
 barrenness:неплодоносие
 dureth:търпи
@@ -522,6 +522,7 @@ asking:питайки
 asked:попита
 appetite:апетит
 lust:похот
+lusts:похоти
 want:нужда
 wanteth:нуждае
 wanting:нуждае
@@ -914,6 +915,7 @@ troubling:тревожно
 concern:засяга
 concerning:засягащ
 care:грижа
+cares:грижи
 careth:грижи
 carest:грижиш
 cared:погрижи
