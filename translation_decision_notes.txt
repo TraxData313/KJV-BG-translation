@@ -12216,6 +12216,57 @@ lusts:похоти
 
 
 
+
+
+sickle:сърп
+
+shoot:стрелям
+shooteth:стреля
+shooting:стреляйки
+shot:стрелях
+shooters:стрелци
+
+arrow:стрела
+arrows:стрели
+
+tell:обясни<<
+interpret:тълкува<<
+expound:излагам
+expounded:изложих
+explain(0)
+
+harm:вреда/навреждам<<
+stop:спрях<<
+hinder:удържам/удържан
+	буквално: keep back
+	преча/възпрепятствам/възпирам/въздържам/
+hindered:удържах
+hindereth:удържа
+hindermost:най-удържан
+
+pillow:възглавница
+pillows:възглавници
+
+
+
+
+equal:равен/равнява<<
+compare:сравня
+compared:сравних
+comparing:сравнявайки
+comparison:сравнение
+comparable:сравним
+
+
+
+
+
+
+
+
+
+
+
 Отворени въпроси:
 -ТОДО: salute=greet
 -ТОДО: преглед гл 20:

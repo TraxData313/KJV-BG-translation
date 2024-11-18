@@ -807,6 +807,8 @@ interpreted:тълкувано
 interpret:тълкува
 interpretation:тълкувание
 interpreter:тълкувател
+expound:излагам
+expounded:изложих
 raised:въздигна
 raise:въздига
 raiseth:въздига
@@ -2198,6 +2200,11 @@ equally:равно
 equals:равни
 unequal:неравен
 unequally:неравно
+compare:сравня
+compared:сравних
+comparing:сравнявайки
+comparison:сравнение
+comparable:сравним
 conduct:съпровеждам
 conducted:съпроведох
 guilt:вина
@@ -2914,6 +2921,10 @@ stop:спрях
 stoppeth:спира
 stopped:спрях
 unstopped:отспра
+hinder:удържам/удържан/заден
+hindered:удържах
+hindereth:удържа
+hindermost:най-заден
 host:войнство
 hosts:войнства
 hostages:заложници
@@ -4967,3 +4978,13 @@ edomites:едомци
 idumea:идумеа
 idumaea:идумаеа
 boanerges:воанергес
+sickle:сърп
+shoot:стрелям
+shooteth:стреля
+shooting:стреляйки
+shot:стрелях
+shooters:стрелци
+arrow:стрела
+arrows:стрели
+pillow:възглавница
+pillows:възглавници
