@@ -3400,7 +3400,8 @@ discover:разкри
 discovered:разкрих
 discovereth:разкрива
 discovering:разкривайки
-gergesenes:гаргесенци
+gergesenes:гергесен
+gadarenes:гадарин
 sepulchre:гробница
 sepulchres:гробници
 tomb:могила
@@ -4988,3 +4989,6 @@ arrow:стрела
 arrows:стрели
 pillow:възглавница
 pillows:възглавници
+fetters:окови
+tame:укротявам
+tamed:укротих

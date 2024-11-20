@@ -12266,6 +12266,33 @@ comparable:сравним
 
 
 
+gergesenes:гаргесенци<< -> гергесен
+gadarenes:гадарин
+
+fetters:окови
+shackles(0)
+
+
+
+
+meek:кротък<<
+tame:укротявам
+tamed:укротих
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Отворени въпроси:
 -ТОДО: salute=greet
