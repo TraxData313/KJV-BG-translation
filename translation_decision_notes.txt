@@ -12289,6 +12289,61 @@ tamed:укротих
 
 
 
+jair:яир
+jairite:яирец
+jairus:яирей
+
+
+tittle:точка<< -> точица
+dot(0)
+top:връх<<
+point:точка/точкувам
+pointed:наточен
+points:точки
+	на пунк/точка от смърт(та): at the point of death
+	изпунктираш/източкуваш: ye shall point out your border
+	изпунктираш/източкуваш: ye shall point out for you mount Hor
+	остро наточени неща: he spreadeth sharp pointed things upon the mire
+	с върха/точката на диамант: with the point of a diamond
+	върхът на меча: the point of the sword
+	в една точка/пункт: yet offend in one point, he is guilty of all
+	по всички точки: but was in all points tempted like as we are
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+spend:разходвам/харча?
+spendest:разходваш
+spendeth:разходва
+spent:изразходен
+
+expenses:разходи/разноски?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

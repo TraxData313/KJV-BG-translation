@@ -2325,7 +2325,10 @@ faithless:безвярно
 unfaithful:невярен
 unfaithfully:невярно
 jot:йота
-tittle:точка
+tittle:точица
+point:точка/точкувам
+pointed:наточен
+points:точки
 whosoever:койтоида
 break:чупя
 breaker:чупач
@@ -4992,3 +4995,6 @@ pillows:възглавници
 fetters:окови
 tame:укротявам
 tamed:укротих
+jair:яир
+jairite:яирец
+jairus:яирей
