@@ -35,6 +35,9 @@ basest:най-прост
 pillar:колона
 pillars:колони
 dry:сух
+drieth:суши
+dried:изсушен
+driedst:изсуши
 appear:яви
 appeareth:яви
 appeared:явих
@@ -553,7 +556,7 @@ hid:криех
 hiding:криене/криещ
 put away:оставям(ръчен превод)
 put forth:извеждам(ръчен превод)
-but:но/освен
+but:но/освен/само
 while:докато
 these:тези
 thing:нещо
@@ -1976,6 +1979,8 @@ shadows:сенки
 shadowing:засенчващ/сенчещ
 overshadow:засенчи
 overshadowed:засенчи
+fountain:източник
+fountains:източници
 sprung:извря
 spring:извор/извирам
 springeth:извира
@@ -4998,3 +5003,17 @@ tamed:укротих
 jair:яир
 jairite:яирец
 jairus:яирей
+spend:разходвам
+spendest:разходваш
+spendeth:разходва
+spent:изразходен
+expenses:разноски
+feel:усещам
+feeling:усещане
+felt:усетих
+sense:сетиво
+senses:сетива
+sensual:сетивен
+virtue:добродетел
+virtuous:добродетелен
+virtuously:добродетелно

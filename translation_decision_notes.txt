@@ -12323,17 +12323,51 @@ points:точки
 
 
 
-spend:разходвам/харча?
+spend:разходвам
 spendest:разходваш
 spendeth:разходва
 spent:изразходен
 
-expenses:разходи/разноски?
+expenses:разноски
 
 
 
 
 
+
+
+
+
+
+
+spring:извор/извирам<<
+flow:тека<<
+issue:изтичане<<
+fountain:източник
+fountains:източници
+
+dry:сух<<
+drieth:суши
+dried:изсушен
+driedst:изсуши
+
+
+flesh:плът<<
+feel:усещам
+feeling:усещане
+felt:усетих
+
+sense:сетиво
+senses:сетива
+sensual:сетивен
+
+emotion(0)
+
+
+worthy:достоен<<
+virtue:добродетел
+virtuous:добродетелен
+virtuously::добродетелно
 
 
 
