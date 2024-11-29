@@ -511,6 +511,14 @@ people:народ
 peoples:народи
 nation:нация
 nations:нации
+folk:люде
+folks:люди
+kin:род
+kinsman:родственик
+kinsmen:родственици
+kinswoman:родственица
+kinsfolk:родолюде
+kinsfolks:родолюди
 wish:искане
 wishing:искайки
 wished:поиска
@@ -560,6 +568,7 @@ but:но/освен/само
 while:докато
 these:тези
 thing:нещо
+something:нещо
 things:неща
 angel:ангел
 angels:ангели
@@ -1613,7 +1622,9 @@ than:от
 latchet:ремък
 shoe:обувка
 shoes:обувки
+shod:обут
 shoelatchet:обувкоремък
+sandals:сандали
 worth:стойност/настойност
 worthy:достоен
 fan:отвея/веяло
@@ -3720,6 +3731,7 @@ shook:разклати
 shaken:разклатен
 shaketh:разклаща
 shaking:разклащайки/разклащане
+shake off:изклатя
 wag:поклащам
 wagging:поклащайки
 sodom:содом
@@ -4905,6 +4917,7 @@ persuasion:убеждение
 tumult:суматоха
 tumults:суматохи
 tumultuous:суматошен
+ado:безпокойство
 band:дружина/лента
 bands:дружини/ленти
 strip:събличам
@@ -5017,3 +5030,5 @@ sensual:сетивен
 virtue:добродетел
 virtuous:добродетелен
 virtuously:добродетелно
+talitha:талита
+cumi:куми

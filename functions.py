@@ -308,8 +308,16 @@ def print_translated_word_stats(weighted=True):
     unique_translated_words, unique_words, translated_words, total_words = get_translated_word_stats()
     unique_words_eta = get_eta_date(target_col='уникални_думи_процент', weighted=weighted)
     total_words_eta = get_eta_date(target_col='общо_думи_процент', weighted=weighted)
-    progr_mes = f'- Думи в речника: [{round(unique_translated_words*100/unique_words,1)}%] или [{unique_translated_words} от {unique_words}], ETA: [{unique_words_eta}]\n'
-    progr_mes += f'- Думи в текста: [{round(translated_words*100/total_words,1)}%] или [{translated_words} от {total_words}], ETA: [{total_words_eta}]\n'
+    unique_translated_words_perc = round(unique_translated_words*100/unique_words,1)
+    translated_words_perc = round(translated_words*100/total_words,1)
+    # - 10000 -> 10 000 formatting:
+    unique_translated_words = f"{unique_translated_words:,}".replace(",", " ")
+    unique_words = f"{unique_words:,}".replace(",", " ")
+    translated_words = f"{translated_words:,}".replace(",", " ")
+    total_words = f"{total_words:,}".replace(",", " ")
+    # - Final message:
+    progr_mes = f'- Речник: [{unique_translated_words_perc}%] или [{unique_translated_words} от {unique_words}], ETA: [{unique_words_eta}]\n'
+    progr_mes += f'- Думи в текста: [{translated_words_perc}%] или [{translated_words} от {total_words}], ETA: [{total_words_eta}]\n'
     return progr_mes
 
 def estimate_letter_progress(df):
@@ -339,7 +347,10 @@ def estimate_revised_verses_progress(df=None, weighted=True):
     if df is None: df = load_translated_Bible() #easier to read the expected input and works ok by default
     revised_verses_count, total_verses_count = get_estimate_revised_verses_progress(df)
     eta = get_eta_date(target_col='стихове_процент', weighted=weighted)
-    progr_mes = f'- Стихове: [{round(revised_verses_count*100/total_verses_count, 1)}%] или [{revised_verses_count} от {total_verses_count}], ETA: [{eta}]\n'
+    revised_verses_perc = round(revised_verses_count*100/total_verses_count, 1)
+    revised_verses_count = f"{revised_verses_count:,}".replace(",", " ")
+    total_verses_count = f"{total_verses_count:,}".replace(",", " ")
+    progr_mes = f'- Стихове: [{revised_verses_perc}%] или [{revised_verses_count} от {total_verses_count}], ETA: [{eta}]\n'
     return progr_mes
 
 def compile_bg_books():
@@ -741,7 +752,7 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=0.8">
         {html_style}
-        <title>{bulgarian_file_name}</title>
+        <title>{bulgarian_file_name} KJV</title>
     </head>
     <div class="center">
     <body style="background-color: black;" id="top">
@@ -786,7 +797,6 @@ def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Gen
 def generate_dict_page():
     df = get_word_dict()
     df = df.sort_values('word').reset_index(drop=True)
-    bulgarian_file_name = 'EN:BG Речник'
     dict_filename = '00EN-BG dictionary'
 
     # Generate alphabet navigation
@@ -812,7 +822,7 @@ def generate_dict_page():
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=0.8">
         {html_style}
-        <title>{bulgarian_file_name}</title>
+        <title>Речник KJV</title>
     </head>
 
     <div class="center">
@@ -870,7 +880,12 @@ def get_translated_progress_by_book(bulgarian_file_path = "kjb-bg/compiled_text_
     total_lines = count_lines(english_file_path)
     translated_lines = count_lines(bulgarian_file_path)
     translated_perc = int(round(translated_lines*100/total_lines,0))
-    transl_str = f'<tag style="color:lightblue">завършен на <b>{translated_perc}%</b> ({translated_lines} от {total_lines} стиха)<tag>'
+    translated_lines = f"{translated_lines:,}".replace(",", " ")
+    total_lines = f"{total_lines:,}".replace(",", " ")
+    if translated_lines == total_lines:
+        transl_str = f'<tag style="color:lightblue">завършен на <b>{translated_perc}%</b> ({total_lines} стиха)<tag>'
+    else:
+        transl_str = f'<tag style="color:lightblue">завършен на <b>{translated_perc}%</b> ({translated_lines} от {total_lines} стиха)<tag>'
     return transl_str
 
 def generate_html_side_by_side_translations():
@@ -879,7 +894,10 @@ def generate_html_side_by_side_translations():
     bg_files = list(np.sort(os.listdir(bg_folder)))
     en_files = os.listdir(en_folder)
     unique_translated_words, unique_words, translated_words, total_words = get_translated_word_stats()
-    word_dict_progr_str = f'<tag style="color:lightblue">завършен на <b>{int(round(unique_translated_words*100/unique_words,0))}%</b> ({unique_translated_words} от {unique_words} думи)<tag>'
+    unique_translated_words_perc = int(round(unique_translated_words*100/unique_words,0))
+    unique_translated_words = f"{unique_translated_words:,}".replace(',', ' ')
+    unique_words = f"{unique_words:,}".replace(',', ' ')
+    word_dict_progr_str = f'<tag style="color:lightblue">завършен на <b>{unique_translated_words_perc}%</b> ({unique_translated_words} от {unique_words} думи)<tag>'
     generate_dict_page()
     book_tuples = []
     for bg_file in bg_files:
@@ -903,7 +921,7 @@ def generate_html_side_by_side_translations():
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style type="text/css">
         {html_style}
-        <title>BG KJV Книги</title>
+        <title>Библия KJV</title>
     </head>
 
     <div class="center">
