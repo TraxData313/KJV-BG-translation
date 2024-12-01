@@ -848,6 +848,8 @@ commandments:заповеди
 commanding:заповядвайки
 commandeth:заповядва
 commandest:заповядваш
+captain:командир
+captains:командири
 new:нов
 news:новости
 report:доклад/докладвам
@@ -1567,6 +1569,8 @@ adders:усойници
 meet:срещам/срещащ
 met:срещнах
 meeting:посрещане
+convenient:подходящ
+conveniently:подходящо
 think:мисля
 thinkest:мислиш
 thinketh:мисли
@@ -2552,6 +2556,7 @@ swear:кълна/кълни
 sweareth:кълне
 swearers:кълнячи
 swearing:кълнене
+sware:закълна
 forswear:закълна/закълням
 oath:обет
 oaths:обети
@@ -2645,6 +2650,7 @@ small:дребен
 smallest:най-дребен
 second:втори
 secondarily:второ
+half:половина
 third:трети
 thirdly:трето
 four:четири
@@ -4070,6 +4076,8 @@ garnish:украсявам
 garnished:украсих/украсен
 state:състояние
 stately:състоянo
+estate:състоятелство
+estates:състоятелства
 talk:приказвам
 talked:приказвах
 talkers:приказвачи
@@ -5032,3 +5040,5 @@ virtuous:добродетелен
 virtuously:добродетелно
 talitha:талита
 cumi:куми
+quarrel:раздор
+discord:кавга

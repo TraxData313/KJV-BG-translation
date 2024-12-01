@@ -12501,12 +12501,74 @@ sandals:сандали
 
 
 
-quarrel
-convenient
-captains
-estates
-sware
-half
+quarrel:раздор
+	that shall avenge the quarrel of my covenant
+discord:кавга
+
+meet:срещам/срещащ<<
+convenient:подходящ
+conveniently:подходящо
+
+chief:начален/началник<<
+command:заповядва<<
+captain:командир
+captains:командири
+
+state:състояние<<
+estate:състоятелство
+estates:състоятелства
+	in our low estate
+
+sware -> swear:кълна/кълни<<
+
+second:втори<<
+half:половина
+
+
+
+
+
+
+
+
+
+
+
+
+haste:бързина/пъргавина?
+hasted
+hasten
+hastened
+hasteneth
+hasteth
+
+soon:скоро<<
+speed:скорост?
+speedily
+speedy
+
+execute:осъщесвя<<
+executed:осъществи<<
+executedst:осъществяваш<<
+executeth:осъществява<<
+executest
+executing
+execution
+executioner
+
+free:свободен<<
+leisure(1):отдих, незаетост?
+	free time, time at one's disposal; lack of hurry
+	and they had no leisure so much as to eat
+	
+foot:крак<<
+afoot:накрак?
+
+out:от/вън<<
+went:отиде/идох<<
+went out:излезе<<
+outwent
+
 
 
 
