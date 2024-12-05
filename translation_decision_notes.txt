@@ -12535,39 +12535,44 @@ half:половина
 
 
 
-haste:бързина/пъргавина?
-hasted
-hasten
-hastened
-hasteneth
-hasteth
+haste:бързина/бързам
+hasteth:бърза
+hasted:побързах
+
+hasten:забързам
+hastened:забързах
+hasteneth:забързва
 
 soon:скоро<<
-speed:скорост?
-speedily
-speedy
+speed:скорост
+speedily:скоростно
+speedy:скоростен
 
 execute:осъщесвя<<
 executed:осъществи<<
-executedst:осъществяваш<<
+executedst:осъществяваш<< -> осъществи (готово)
 executeth:осъществява<<
-executest
-executing
-execution
-executioner
+executest:осъществяваш
+executing:осъществяващ
+execution:осъществяване
+executioner:осъществител
 
 free:свободен<<
-leisure(1):отдих, незаетост?
+allow:позволявам<<
+leisure(1):свободност
 	free time, time at one's disposal; lack of hurry
 	and they had no leisure so much as to eat
+	отдих, незаетост, отпуснатост?
 	
 foot:крак<<
-afoot:накрак?
+afoot:пеша
 
 out:от/вън<<
 went:отиде/идох<<
 went out:излезе<<
-outwent
+walk:ходя<<
+outwent(1):изпревари
+	And the people saw them departing, and many knew him, and ran afoot thither out of all cities, and outwent them, and came together unto him.
 
 
 

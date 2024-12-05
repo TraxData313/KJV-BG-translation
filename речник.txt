@@ -26,6 +26,7 @@ bottoms:дъна
 bottomless:бездъннен
 foot:крак
 feet:крака
+afoot:пеша
 footstool:кракоподложка
 simple:обикновен
 base:прост
@@ -643,6 +644,7 @@ free:свободен
 freely:свободно
 freed:освободи
 freedom:свобода
+leisure:свободност
 to:до/на/към
 i:аз
 be:бъда
@@ -682,6 +684,7 @@ goeth:отива
 went:отиде/идох
 went out:излезе
 went forth:излезе
+outwent:изпревари
 gone:отишъл
 go away:махамсе
 go up:качвамсе
@@ -788,8 +791,12 @@ mightiest:най-могъщ
 mightily:могъщо
 execute:осъщесвя
 executed:осъществи
-executedst:осъществяваш
+executedst:осъществи
 executeth:осъществява
+executest:осъществяваш
+executing:осъществяващ
+execution:осъществяване
+executioner:осъществител
 spoken:говорено
 prophet:пророк
 prophets:пророци
@@ -2441,6 +2448,15 @@ quicksands:живитепясъци
 as soon as:веднага щом
 soon:скоро
 sooner:по-скоро
+speed:скорост
+speedily:скоростно
+speedy:скоростен
+haste:бързина/бързам
+hasteth:бърза
+hasted:побързах
+hasten:забързам
+hastened:забързах
+hasteneth:забързва
 whiles:докато
 deliver:доставям/избавям
 deliverest:доставяш/избавяш
