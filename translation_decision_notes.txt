@@ -12582,6 +12582,58 @@ outwent(1):изпревари
 
 
 
+
+
+
+band:дружина/лента<< -> група/лента (готово)
+bands:дружини/ленти<< -> групи/ленти (готово)
+group(0)
+fellow:другар<<
+
+company:дружина
+companied:дружиха
+companies:дружини
+companion:съдружник
+companions:съдружници
+
+accompany:придружавам
+accompanied:придружих
+accompanying:придружаваща
+
+
+rank:чин/чинно
+ranks:чинове/чина
+
+row:ред
+rows:редове
+	And there were windows in three [rows], and light was against light in three [ranks].
+rowed:гребах
+rowers:гребачи
+rowing:гребане
+
+
+five:пет<<
+fifth:пети<<
+fifty:петдесет
+fifteen:петнадесет
+fifteenth:петнадесети
+fifties:петдесетици
+fiftieth:петдесети
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Отворени въпроси:
 -ТОДО: salute=greet
 -ТОДО: преглед гл 20:
