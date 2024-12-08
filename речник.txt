@@ -1079,7 +1079,12 @@ bondservant:крепостенослужител
 bondmaids:крепостнодомакиня
 strong:як
 hold:държа/държание
+holdest:държиш
+holdeth:държи
+holding:държане/държейки
+holds:държания
 held:държа
+holden:държан
 handle:хват
 handles:хватове
 laid hold:задържах
@@ -3708,6 +3713,7 @@ rather:по-скоро/отколкото
 silver:сребро
 silversmith:среброковач
 brass:бронз
+brasen:бронзов
 copper:мед
 coppersmith:медоковач
 purse:кесия
@@ -5078,3 +5084,4 @@ rows:редове
 rowed:гребах
 rowers:гребачи
 rowing:гребане
+corban:курбан
