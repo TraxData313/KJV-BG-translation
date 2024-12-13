@@ -12646,17 +12646,60 @@ brass:бронз<<
 brasen:бронзов
 
 
-
-
-
-
-
-
-
 corban:курбан
 
 
 
+
+
+
+
+
+
+desire:желание<<
+desired:пожела<<
+wish:искане<<
+wished:поиска<<
+want:нужда<<
+
+covet:копнея
+	to desire or wish for inordinately or without regard for the rights of others
+	к'обет -> [ко]пн[е]ж
+coveted:копнях
+coveteth:копнее
+covetous:копнящ
+covetousness:копнеж
+
+lust:похот<<
+lusts:похоти<<
+licentiousness(0):разпуснатост
+lascivious(0)
+	lustful, inclined to lust
+lasciviousness:разпуснатост
+
+
+pride:гордост
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+greece:гърция
+greek:грък
+greeks:гърци
+
+syrophenician:сирофиникианец
 
 
 

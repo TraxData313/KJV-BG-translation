@@ -520,6 +520,9 @@ kinsmen:родственици
 kinswoman:родственица
 kinsfolk:родолюде
 kinsfolks:родолюди
+want:нужда
+wanteth:нуждае
+wanting:нуждае
 wish:искане
 wishing:искайки
 wished:поиска
@@ -528,6 +531,11 @@ desired:пожела
 desireth:желаеш
 desiredst:пожела
 desiring:желаейки
+covet:копнея
+coveted:копнях
+coveteth:копнее
+covetous:копнящ
+covetousness:копнеж
 ask:питам
 asketh:пита
 asking:питайки
@@ -535,9 +543,7 @@ asked:попита
 appetite:апетит
 lust:похот
 lusts:похоти
-want:нужда
-wanteth:нуждае
-wanting:нуждае
+lasciviousness:разпуснатост
 passion:страст
 passions:страсти
 publick:публичен
@@ -5085,3 +5091,8 @@ rowed:гребах
 rowers:гребачи
 rowing:гребане
 corban:курбан
+pride:гордост
+greece:гърция
+greek:грък
+greeks:гърци
+syrophenician:сирофиникианец
