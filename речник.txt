@@ -137,6 +137,7 @@ speakest:говори
 speech:реч
 speeches:речи
 spake:изговори
+spoken:говорено
 tell:обясни
 telleth:обяснява
 tellest:обясняваш
@@ -803,7 +804,6 @@ executest:осъществяваш
 executing:осъществяващ
 execution:осъществяване
 executioner:осъществител
-spoken:говорено
 prophet:пророк
 prophets:пророци
 prophesy:пророчество
@@ -5096,3 +5096,16 @@ greece:гърция
 greek:грък
 greeks:гърци
 syrophenician:сирофиникианец
+impediment:пречка
+tongue:език
+tongues:езици
+language:язик
+languages:язици
+ephphatha:еффата
+string:струна
+strings:струни
+stringed:струнен
+plain:равнина
+plains:равнини
+plainly:равнинно
+plainness:равнинност

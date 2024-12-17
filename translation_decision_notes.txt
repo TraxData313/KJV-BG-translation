@@ -12713,6 +12713,105 @@ syrophenician:сирофиникианец
 
 
 
+
+
+
+hinder:удържам/удържан/заден<<
+impediment:пречка
+	from Latin impedimentum "hindrance," from impedire "impede," literally "to shackle the feet,"
+	had an impediment in his speech
+	
+tongue:език
+tongues:езици
+
+speech:реч<<
+speak:говоря<<
+utter:произнасям/краен<<
+utterance:изказване/изговор<<
+language:язик
+	оставям го язик, да се различава tongue, няма да измисям за сега нещо като разговоро-език
+	реч, говор, диалект, наречие, изказ, фраза
+languages:язици
+
+ephphatha:еффата
+
+rope:въже<<
+cord:връзка<<
+record:свръзка<<
+bundle:вързоп<<
+string:струна
+strings:струни
+stringed:струнен
+	stringed instruments and organs
+
+
+
+
+field:поле<<
+equal:равен/равнява<<
+compare:сравня<<
+cover:покривам<<
+uncover:откривам<<
+level(0)
+plain:равнина
+	1х and he spake plain
+plains:равнини
+plainly:равнинно
+plainness:равнинност
+	shall plainly say: ясно/открито, така че да се вижда ясно какво казваш, както се вижда ясно всичко в равнина
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+part:дял/поделям<<
+matter:дело<< -> тема? / topic,theme(0)
+matters:дела<<
+deal:дело/сдела -> от там идва сделка
+dealt
+dealer
+dealers
+dealest
+dealeth
+dealing
+dealings
+deals
+
+
+satisfy:удовлетворя?
+satisfaction
+satisfied
+satisfiest
+satisfieth
+satisfying
+
+
+Dalmanutha
+
+
+
+
+
+
+
+
+
+
 Отворени въпроси:
 -ТОДО: salute=greet
 -ТОДО: преглед гл 20:
