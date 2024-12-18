@@ -12780,28 +12780,56 @@ plainness:равнинност
 
 
 part:дял/поделям<<
-matter:дело<< -> тема? / topic,theme(0)
-matters:дела<<
-deal:дело/сдела -> от там идва сделка
-dealt
-dealer
-dealers
-dealest
-dealeth
-dealing
-dealings
-deals
+matter:дело<< -> тема
+matters:дела<< -> теми
+	topic,theme(0)
+deed:деяние<<
+deeds:деяния<<
+deal:дело/сделам -> от там идва сделка
+dealt:сделах
+dealer:деятел
+dealers:деятели
+dealest:сделаш
+dealeth:сдела
+dealing:сделание
+dealings:сделания
+deals:дела
 
 
-satisfy:удовлетворя?
-satisfaction
-satisfied
-satisfiest
-satisfieth
-satisfying
+pleased:доволен/задоволен<< -> задоволен?
+please:задоволявам<<
+pleaseth:задоволява<<
+pleasing:задоволяващ<<
+glad:удовлетворен<< -> доволен
+gladly:судоволствие<<
+gladness:удовлетвореност<< -> доволност
+satisfy:удовлетворя
+satisfaction:удовлетворение
+satisfied:удовлетворих/удовлетворен
+satisfiest:удовлетворяваш
+satisfieth:удовлетворява
+satisfying:удовлетворяйки
 
 
-Dalmanutha
+dalmanutha:далманута
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
