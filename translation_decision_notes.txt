@@ -12830,6 +12830,67 @@ dalmanutha:далманута
 
 
 
+face:лице<<
+shame:срам
+shameth:засрамва
+shameful:срамен
+shamefully:срамно
+shamelessly:безсрамно
+shamefacedness:срамоличие
+shamed:шамед/засрамих
+ashamed:засрамен
+shamer:шамер
+
+
+sin:грях/съгрехувам<<
+sinful:грешен
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+know:знам<<
+mind:ум<<
+minded:наумен<<
+see:виждам<<
+seen:видя<<
+wit:проумявам/разумявам/видя/провидя?
+	to wit:то ест
+wist
+
+
+suddenly:внезапно?
+sudden
+
+
+nothing:нищо<<
+nought:нищо?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -904,7 +904,6 @@ jews:юдеи
 hebrew:евреин/иврит
 hebrews:евреи
 hebrewess:еврейка
-seen:видя
 star:звезда
 stars:звезди
 worship:поклонение
@@ -3559,6 +3558,7 @@ sinners:грешници
 sinnest:съгрехуваш
 sinneth:съгрехува
 sinning:съгрехувайки/съгрехуване
+sinful:грешен
 err:греша/грешно
 erreth:греши
 erred:сгреших
@@ -5125,3 +5125,12 @@ plains:равнини
 plainly:равнинно
 plainness:равнинност
 dalmanutha:далманута
+shame:срам
+shameth:засрамва
+shameful:срамен
+shamefully:срамно
+shamelessly:безсрамно
+shamefacedness:срамоличие
+shamed:шамед/засрамих
+ashamed:засрамен
+shamer:шамер
