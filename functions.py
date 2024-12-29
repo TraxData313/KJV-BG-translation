@@ -708,90 +708,6 @@ chapter_names_dict = {
     }
 }
 
-def generate_html_file(english_file_path="kjb-en/compiled_text_by_books/01OT Genesis.txt", bulgarian_file_path="kjb-bg/compiled_text_by_books/01OT Битие.txt"):
-    # Extract file names without extensions
-    english_file_name = os.path.splitext(os.path.basename(english_file_path))[0]
-    bulgarian_file_name = os.path.splitext(os.path.basename(bulgarian_file_path))[0]
-    bg_github_txt_link = f"https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-bg/compiled_text_by_books/{bulgarian_file_name.replace(' ', '%20')}.txt"
-    en_github_txt_link = f"https://github.com/TraxData313/KJV-BG-translation/blob/main/kjb-en/compiled_text_by_books/{english_file_name.replace(' ', '%20')}.txt"
-    
-    # Read content from files
-    with open(english_file_path, 'r', encoding='utf-8') as english_file:
-        english_lines = [line.strip() for line in english_file]
-    with open(bulgarian_file_path, 'r', encoding='utf-8') as bulgarian_file:
-        bulgarian_lines = [line.strip() for line in bulgarian_file]
-
-    # Generate chapter links and content with chapter markers
-    chapter_links = []
-    chaptered_lines = []
-    current_chapter = None
-
-    for line_bulgarian, line_english in zip(bulgarian_lines, english_lines):
-        # Extract chapter number from the verse (assuming the format "Chapter:Verse")
-        bulgarian_chapter, _ = line_bulgarian.split(":", 1)
-        english_chapter, _ = line_english.split(":", 1)
-        
-        if bulgarian_chapter != current_chapter:
-            current_chapter = bulgarian_chapter
-            # Add chapter link to the TOC
-            chapter_links.append(f"<a href='#{current_chapter}'>{current_chapter}</a>")
-            # Add chapter marker in the text
-            chaptered_lines.append(f"<tr id='{current_chapter}'><td colspan='2' style='text-align: center;'><a href='#top'><strong>Глава {current_chapter}</strong></a></td></tr>")
-        
-        # Add verse line to the table
-        chaptered_lines.append(f"<tr><td>{line_bulgarian}</td><td>{line_english}</td></tr>")
-    
-    # Generate HTML content
-    toc = "<strong>Глави:</strong> " + ", ".join(chapter_links)
-    lines = "\n".join(chaptered_lines)
-    
-    html_content = f"""
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=0.8">
-        {html_style}
-        <title>{bulgarian_file_name} KJV</title>
-    </head>
-    <div class="center">
-    <body style="background-color: black;" id="top">
-        <div>
-            <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
-            <div style="text-align: center;">{toc}</div>
-            <br><br><br>
-            <div class="container">
-                <table>
-                    <thead>
-                        <tr>
-                            <th>{bulgarian_file_name}</th>
-                            <th>{english_file_name}</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {lines}
-                    </tbody>
-                </table>
-            </div>
-        </div>
-    <footer>
-        <p>{footer}</p>
-        Текст в обикновен txt формат: <a href='{bg_github_txt_link}'>БГ</a> | <a href='{en_github_txt_link}'>EN</a>
-        <br><a href='index.html'>Обратно към всички книги</a>
-    </footer>  
-    </body>
-    </div>
-    </html>
-    """
-    
-    # Write HTML content to a new file
-    output_folder = 'kjv-side-by-side'
-    if not os.path.exists(output_folder):
-        os.makedirs(output_folder)
-    output_file_path = f"{output_folder}/{bulgarian_file_name}.html"
-    with open(output_file_path, 'w', encoding='utf-8') as output_file:
-        output_file.write(html_content)
-    print(f"- HTML file '{output_file_path}' generated successfully.")
 
 
 def generate_dict_page():
@@ -888,7 +804,73 @@ def get_translated_progress_by_book(bulgarian_file_path = "kjb-bg/compiled_text_
         transl_str = f'<tag style="color:lightblue">завършен на <b>{translated_perc}%</b> ({translated_lines} от {total_lines} стиха)<tag>'
     return transl_str
 
-def generate_html_side_by_side_translations():
+def _generate_book_html_text_add(english_file_path="kjb-en/compiled_text_by_books/01OT Genesis.txt", bulgarian_file_path="kjb-bg/compiled_text_by_books/01OT Битие.txt", book_index=1000):
+    # Extract file names without extensions
+    english_file_name = os.path.splitext(os.path.basename(english_file_path))[0]
+    bulgarian_file_name = os.path.splitext(os.path.basename(bulgarian_file_path))[0]
+
+    # Read content from files
+    with open(english_file_path, 'r', encoding='utf-8') as english_file:
+        english_lines = [line.strip() for line in english_file]
+    with open(bulgarian_file_path, 'r', encoding='utf-8') as bulgarian_file:
+        bulgarian_lines = [line.strip() for line in bulgarian_file]
+
+    # Generate chapter links and content with chapter markers
+    chapter_links = []
+    chaptered_lines = []
+    current_chapter = None
+
+    for line_bulgarian, line_english in zip(bulgarian_lines, english_lines):
+        # Extract chapter number from the verse (assuming the format "Chapter:Verse")
+        bulgarian_chapter, _ = line_bulgarian.split(":", 1)
+        english_chapter, _ = line_english.split(":", 1)
+        
+        if bulgarian_chapter != current_chapter:
+            current_chapter = bulgarian_chapter
+            # Add chapter link to the TOC
+            chapter_links.append(f"<a href='#{book_index+int(current_chapter)}'>{current_chapter}</a>")
+            # Add chapter marker in the text
+            chaptered_lines.append(f"<tr id='{book_index+int(current_chapter)}'><td colspan='2' style='text-align: center;'><a href='#top'><strong>{bulgarian_file_name} {current_chapter}</strong></a></td></tr>")
+        
+        # Add verse line to the table
+        chaptered_lines.append(f"<tr><td>{line_bulgarian}</td><td>{line_english}</td></tr>")
+    
+    # Generate HTML content
+    toc = f"{bulgarian_file_name}: " + ", ".join(chapter_links)
+    lines = "\n".join(chaptered_lines)
+    book_chapters = f'{toc}'
+    html_content = f"""
+        <div class="container">
+            <table>
+
+                <tbody>
+                    {lines}
+                </tbody>
+            </table>
+        </div>
+        <br><br><br>
+    """
+    return book_chapters, html_content
+
+
+def generate_all_books_html_file():
+    # Heading:
+    html_content = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=0.8">
+        {html_style}
+        <title>Библия KJV</title>
+    </head>
+    <div class="center">
+    <body style="background-color: black;" id="top">
+        <div>
+            <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
+    """
+
+    # Books:
     bg_folder = "kjb-bg/compiled_text_by_books"
     en_folder = "kjb-en/compiled_text_by_books"
     bg_files = list(np.sort(os.listdir(bg_folder)))
@@ -898,44 +880,40 @@ def generate_html_side_by_side_translations():
     unique_translated_words = f"{unique_translated_words:,}".replace(',', ' ')
     unique_words = f"{unique_words:,}".replace(',', ' ')
     word_dict_progr_str = f'<tag style="color:lightblue">завършен на <b>{unique_translated_words_perc}%</b> ({unique_translated_words} от {unique_words} думи)<tag>'
-    generate_dict_page()
+
+    book_chapters_list = []
+    book_content_list = []
+    book_transl_progress_str_list = []
+
     book_tuples = []
-    for bg_file in bg_files:
+    for i, bg_file in enumerate(bg_files):
         # Extracting the common prefix (e.g., 01OT) from BG file
         common_prefix = bg_file.split(' ', 1)[0]
         # Finding corresponding EN file with the same prefix
         en_file = next((en for en in en_files if common_prefix in en), None)
         # If corresponding EN file is found, create a tuple and add it to the list
-        if en_file:
-            english_file_path = f"kjb-en/compiled_text_by_books/{en_file}"
-            bulgarian_file_path = f"kjb-bg/compiled_text_by_books/{bg_file}"
-            book_transl_progress_str = get_translated_progress_by_book(bulgarian_file_path, english_file_path)
-            book_tuples.append((bg_file, en_file, book_transl_progress_str))
-            generate_html_file(english_file_path, bulgarian_file_path)
-    # Generate links to the pages in a separate index.html file
-    index_content = f"""
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <style type="text/css">
-        {html_style}
-        <title>Библия KJV</title>
-    </head>
+        english_file_path = f"kjb-en/compiled_text_by_books/{en_file}"
+        bulgarian_file_path = f"kjb-bg/compiled_text_by_books/{bg_file}"
+        book_transl_progress_str = get_translated_progress_by_book(bulgarian_file_path, english_file_path)
+        book_tuples.append((bg_file, en_file, book_transl_progress_str))
+        book_transl_progress_str_list.append(book_transl_progress_str)
+        book_chapters, book_content = _generate_book_html_text_add(english_file_path=english_file_path, bulgarian_file_path=bulgarian_file_path, book_index=(i+1)*1000)
+        book_chapters_list.append(book_chapters)
+        book_content_list.append(book_content)
 
-    <div class="center">
-    <body style="background-color: black;">
-        <h1 style="text-align: center; color: blue"><a href='index.html'>{page_title}</a></h1>
-        {description}
-        <br><br><hr>
-        <h3>Съдържание:</h3>
-        <ul>
-            {"".join(f"<li><a href='{book_info[0].split('.')[0]}.html'>{book_info[0].split('.')[0]}</a> <i>{book_info[2]}</i></li>" for book_info in book_tuples)}
-            <li><a href='00EN-BG dictionary.html'>EN:BG Речник</a> <i>{word_dict_progr_str}</i></li>
-        </ul>
-        <i>OT/NT: Стар/Нов Завет</i>
-    <br><br><hr>
+    # The bookmarks and book progress:
+    html_content += "<h3>Съдържание:</h3><ul>"
+    for i, book_chapters in enumerate(book_chapters_list):
+        html_content += f"<li>{book_chapters} <i>{book_transl_progress_str_list[i]}</i></li>"
+    html_content += f"<li><a href='00EN-BG dictionary.html'>EN:BG Речник</a> <i>{word_dict_progr_str}</i></li>"
+    html_content += "</ul><i>OT/NT: Стар/Нов Завет</i><br><br><br>"
+    # The book contents:
+    for book_content in book_content_list:
+        html_content += book_content
+
+    # Footer:
+    footer_str = f"""
+        </div>
     <footer>
         <p>{footer}</p>
     </footer>  
@@ -943,13 +921,16 @@ def generate_html_side_by_side_translations():
     </div>
     </html>
     """
-    # Write index HTML content to a file
+    html_content += footer_str
+
+    # Write HTML content to a new file
     output_folder = 'kjv-side-by-side'
-    if not os.path.exists(output_folder): os.makedirs(output_folder)
-    index_file_path = f"{output_folder}/index.html"
-    with open(index_file_path, 'w', encoding='utf-8') as index_file:
-        index_file.write(index_content)
-    print(f"- Index file '{index_file_path}' generated successfully.")
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+    output_file_path = f"{output_folder}/index.html"
+    with open(output_file_path, 'w', encoding='utf-8') as output_file:
+        output_file.write(html_content)
+    print(f"- HTML file '{output_file_path}' generated successfully.")
 
 #####################################################
 # END Compile the HTML side-by-sides

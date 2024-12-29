@@ -12891,9 +12891,7 @@ equity
 
 
 
--TODO: compile all texts into one HTML for easier searching
--TODO: add logic to mark fully translated starting verses ready to be formed
-	eg: Psalms 17 verses fully in BG and ready to be formed
+
 
 
 

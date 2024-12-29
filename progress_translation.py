@@ -30,7 +30,8 @@ if __name__=='__main__':
     print('Компилирани на книги с преведен поне един стих:')
     f.compile_bg_books()
     print('Компилирани на книги в HTML side-by-side формат:')
-    f.generate_html_side_by_side_translations()
+    f.generate_all_books_html_file()
+    f.generate_dict_page()
 
     # Print the form-ready verses:
     print()
