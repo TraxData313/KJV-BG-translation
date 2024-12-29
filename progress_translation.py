@@ -31,3 +31,8 @@ if __name__=='__main__':
     f.compile_bg_books()
     print('Компилирани на книги в HTML side-by-side формат:')
     f.generate_html_side_by_side_translations()
+
+    # Print the form-ready verses:
+    print()
+    print()
+    f.mark_ready_to_translate_lines()

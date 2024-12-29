@@ -12866,8 +12866,9 @@ mind:ум<<
 minded:наумен<<
 see:виждам<<
 seen:видя<<
-wit:проумявам/разумявам/видя/провидя?
-	to wit:то ест
+witness:свидетел/свидетелствам<<
+wit:проумявам/разумявам/видя/провидя? -> свидя/то_ест?
+	to wit:то ест -> да свиди
 wist
 
 
@@ -12880,6 +12881,7 @@ nought:нищо?
 
 
 
+equity
 
 
 
@@ -12889,8 +12891,9 @@ nought:нищо?
 
 
 
-
-
+-TODO: compile all texts into one HTML for easier searching
+-TODO: add logic to mark fully translated starting verses ready to be formed
+	eg: Psalms 17 verses fully in BG and ready to be formed
 
 
 

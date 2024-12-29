@@ -954,3 +954,29 @@ def generate_html_side_by_side_translations():
 #####################################################
 # END Compile the HTML side-by-sides
 #####################################################
+
+
+
+def mark_ready_to_translate_lines():
+    df = load_translated_Bible()
+    # - remove the already translated lines
+    translated = df['verse'].str.split(' ',1).str[0].str.contains("_")
+    df = df.loc[~translated].copy()
+    # - extract the book name
+    df['book_name'] = df['verse'].str.split(' ',1).str[0].str.replace('\d+', '', regex=True).str.replace(':', '', regex=False)
+    df['verse'] = df['verse'].str.split(n=1).str[1]
+    # - mark the ready to translate lines
+    df['ready_to_transl'] = 1 #start as all verses as ready to translate
+    for latin_char in 'qwertyuiopasdfghjklzxcvbnm':
+        df['ready_to_transl'] = np.where(df['verse'].str.lower().str.contains(latin_char), 0, df['ready_to_transl']) #if the verse contains latin char - set it to not ready
+    # - print the ready counter:
+    print(f"Form-ready verses: [{df['ready_to_transl'].sum()}] or [{int(round(df['ready_to_transl'].mean()*100,0))}%] out of [{len(df)}] not yet translated")
+    for book_name in df['book_name'].unique():
+        book = df.loc[df['book_name']==book_name]
+        next_line_is_ready = book['ready_to_transl'].values[0]
+        total_starting_ready_lines = 0
+        while next_line_is_ready:
+            total_starting_ready_lines += 1
+            next_line_is_ready = book['ready_to_transl'].values[total_starting_ready_lines]
+        if total_starting_ready_lines>0:
+            print(f'- [{book_name}]: [{total_starting_ready_lines}] starting form-ready')

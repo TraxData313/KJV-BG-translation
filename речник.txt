@@ -492,6 +492,7 @@ justify:осправедли
 justifieth:осправедляваш
 justified:осправедливен
 justification:осправедливение
+justice:справедливост
 honour:чест/почитай
 honours:почести
 honourable:почтен
