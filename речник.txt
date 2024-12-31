@@ -1053,6 +1053,8 @@ chain:верига
 chains:вериги
 testimony:показание
 testify:показателствам
+wit:свидя/свиди
+wist:свидих
 witness:свидетел/свидетелствам
 witnesseth:свидетелстваш
 witnessed:свидетелствах
@@ -2331,6 +2333,7 @@ taste:вкус/вкусвам
 tasted:вкусих
 tasteth:вкуси
 nothing:нищо
+nought:нищо
 tread:стъпвам
 treadeth:стъпваш
 treader:стъпквач
@@ -5135,3 +5138,5 @@ shamefacedness:срамоличие
 shamed:шамед/засрамих
 ashamed:засрамен
 shamer:шамер
+sudden:внезапен
+suddenly:внезапно

@@ -12867,25 +12867,39 @@ minded:наумен<<
 see:виждам<<
 seen:видя<<
 witness:свидетел/свидетелствам<<
-wit:проумявам/разумявам/видя/провидя? -> свидя/то_ест?
+wit:проумявам/разумявам/видя/провидя? -> свидя/свиди
 	to wit:то ест -> да свиди
-wist
+
+wist:свидих
 
 
-suddenly:внезапно?
-sudden
+sudden:внезапен
+suddenly:внезапно
 
 
 nothing:нищо<<
-nought:нищо?
-
-
-
-equity
+nought:нищо
 
 
 
 
+
+
+
+
+
+
+
+
+
+бит: mist, watered
+
+екл: passeth
+
+марк:
+foameth
+pineth
+wallowed
 
 
 
