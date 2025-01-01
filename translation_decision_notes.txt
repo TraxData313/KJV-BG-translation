@@ -12892,19 +12892,82 @@ nought:нищо
 
 
 
-бит: mist, watered
+бит: 
+mist:мъгла
 
-екл: passeth
+pour:изливам<<
+shed:проливам<<
+drink:пия/напитка<<
+water:вода<<
+waters:води<<
+waterest:наводопояваш
+watereth:наводопоява
+watered:наводопоих
+wateredst:наводопои
+watering:водонапояване/водонапояващ
+waterpot:водогърне
+waterpots:водогрънци
+pot:гърне<<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+екл: 
+pass:минавам<<
+passed:минах<<
+passest:минаваш
+passeth:минава
+passedst:мина
+passing:минавайки/минаващ
+passengers:минавачи
+
+
+
+
+
+
+
+
+
 
 марк:
-foameth
+foam:пяна
+foameth:запеня
+foaming:запеняйки/запенящ
+
+thin:тънък<<
+pine:бор/боров/?
+	стопят: left of you shall pine away
+	чезнат/изтаяват : slain with hunger: for these pine away
 pineth
+
 wallowed
 
 
 
+бит:
+nostrils
+garden
+Eden
 
 
+
+екл: 
+north
+circuits
+whereof
 
 
 

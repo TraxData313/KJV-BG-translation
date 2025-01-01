@@ -106,6 +106,15 @@ face:лице
 faces:лица
 water:вода
 waters:води
+waterest:наводопояваш
+watereth:наводопоява
+watered:наводопоих
+wateredst:наводопои
+watering:водонапояване/водонапояващ
+waterpot:водогърне
+waterpots:водогрънци
+waterflood:водопотоп
+watersprings:водоизвори
 deep:дълбина
 deeper:по-дълбоко
 deeps:дълбини
@@ -571,8 +580,6 @@ hidest:криеш
 hidden:скрит
 hid:криех
 hiding:криене/криещ
-put away:оставям(ръчен превод)
-put forth:извеждам(ръчен превод)
 but:но/освен/само
 while:докато
 these:тези
@@ -728,6 +735,9 @@ put:постави
 putteth:поставя
 puttest:поставяш
 putting:поставяйки/поставящ
+put on:намятам (ръчен превод)
+put away:оставям(ръчен превод)
+put forth:извеждам(ръчен превод)
 any:койтоидае/някакъв
 neither:нито
 forth:напред/изясняваша
@@ -739,6 +749,12 @@ two:две
 twofold:двукратно
 pass:минавам
 passed:минах
+passest:минаваш
+passeth:минава
+passedst:мина
+passing:минавайки/минаващ
+passengers:минавачи
+passover:пасха
 pass by:подминавам
 should:трябва
 must:требова
@@ -2031,8 +2047,6 @@ springeth:извира
 springing:извиращ/извирайки
 springs:извори
 sprang:извря
-water:вода
-watersprings:водоизвори
 wellspring:кладенецоизвор
 dayspring:деноизвор
 began:започнах
@@ -3064,7 +3078,6 @@ drunkard:пияница
 drunkards:пияници
 drunken:пиян
 drunkenness:пиянство
-put on:намятам (ръчен превод)
 sow:сея
 sowest:сееш
 soweth:сее
@@ -3256,7 +3269,6 @@ rock:канара
 rocks:канари
 flood:потоп
 floods:потопи
-waterflood:водопотоп
 wind:вятър
 winds:ветрове
 windy:ветровит
@@ -4912,7 +4924,6 @@ subtilly:хитро
 subtilty:хитрост
 palace:палат
 palaces:палати
-passover:пасха
 alabaster:алабастров
 precious:скъпоценен
 purpose:предназначение
@@ -5140,3 +5151,4 @@ ashamed:засрамен
 shamer:шамер
 sudden:внезапен
 suddenly:внезапно
+mist:мъгла
