@@ -12948,19 +12948,41 @@ foameth:запеня
 foaming:запеняйки/запенящ
 
 thin:тънък<<
-pine:бор/боров/?
+pine:бор/боров/изтаявам
 	стопят: left of you shall pine away
 	чезнат/изтаяват : slain with hunger: for these pine away
-pineth
+pineth:изтаява
 
-wallowed
+roll:отвалям/привалям/свитък<<
+wallow:въргалям
+wallowed:въргалях
+wallowing:въргаляйки/въргалящ
+
+
 
 
 
 бит:
-nostrils
-garden
-Eden
+nose:нос
+noses:носове
+nostrils:ноздри
+garden:градина
+gardens:градини
+gardener:градинар
+eden:едем
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -12968,6 +12990,21 @@ Eden
 north
 circuits
 whereof
+
+
+
+мат:
+lightly
+belong
+worm
+
+
+
+бит:
+Pison
+Havilah
+bdellium
+onyx
 
 
 

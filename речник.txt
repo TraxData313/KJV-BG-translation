@@ -5037,6 +5037,9 @@ rolleth:отваля/приваля
 rolling:превалящ
 rolls:свитъци
 roller:превивник
+wallow:въргалям
+wallowed:въргалях
+wallowing:въргаляйки/въргалящ
 seal:печат/запечатвам
 sealed:запечатах
 sealest:запечаташ
@@ -5152,3 +5155,15 @@ shamer:шамер
 sudden:внезапен
 suddenly:внезапно
 mist:мъгла
+foam:пяна
+foameth:запеня
+foaming:запеняйки/запенящ
+pine:бор/боров/изтаявам
+pineth:изтаява
+nose:нос
+noses:носове
+nostrils:ноздри
+garden:градина
+gardens:градини
+gardener:градинар
+eden:едем
