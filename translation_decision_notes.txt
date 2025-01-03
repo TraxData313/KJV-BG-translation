@@ -12986,18 +12986,62 @@ eden:едем
 
 
 
-екл: 
-north
-circuits
-whereof
+
 
 
 
 мат:
-lightly
-belong
-worm
 
+enlighten:просветля<<
+enlightening:просветляващ<<
+enlightened:просветлен<<
+
+light:светлина/лек<<
+lights:светлини<<
+lighted:светна<<
+lightest:светваш<<
+lightning:светкавица<<
+lightnings:светкавици<<
+lighting:светкавица<< -> светейки (готово, да се добави)
+lightly:леко
+lighter:по-лек
+lighteth:светва/свети
+lightness:лекота
+lighten:осветя
+lightened:осветих
+lighteneth:освети
+
+
+long:дълъг<<
+along:надлъж<<
+belong:принадлежа
+belongest:принадлежиш
+belongeth:принадлежи
+belonged:принадлежах
+belonging:принадлежащ
+
+worm:червей
+worms:червеи
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+екл: 
+north
+circuits
+whereof
 
 
 бит:
@@ -13005,6 +13049,11 @@ Pison
 Havilah
 bdellium
 onyx
+
+
+mat:
+bill
+precept
 
 
 

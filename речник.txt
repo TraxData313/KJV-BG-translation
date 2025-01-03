@@ -167,6 +167,16 @@ lighted:светна
 lightest:светваш
 lightning:светкавица
 lightnings:светкавици
+lightly:леко
+lighter:по-лек
+lighteth:светва/свети
+lightness:лекота
+lighten:осветя
+lightened:осветих
+lighteneth:освети
+enlighten:просветля
+enlightening:просветляващ
+enlightened:просветлен
 lamp:светило
 lamps:светилници
 saw:видя
@@ -218,7 +228,6 @@ assembling:строяване
 assembly:строй
 assemblies:строеве
 together:заедно
-along:надлъж
 one:едно
 ones:поясняваОнес
 place:място
@@ -1752,10 +1761,6 @@ pigeon:гълъбче
 pigeons:гълъбчета
 hen:кокошка/хен_име
 chickens:пилета
-lighting:светкавица
-enlighten:просветля
-enlightening:просветляващ
-enlightened:просветлен
 love:любя/любов
 lovest:любиш
 loveth:люби
@@ -3609,6 +3614,12 @@ eunuchs:евнуси
 hall:зала
 long:дълъг
 as long as:докато (ръчен превод)
+along:надлъж
+belong:принадлежа
+belongest:принадлежиш
+belongeth:принадлежи
+belonged:принадлежах
+belonging:принадлежащ
 piece:парче
 pieces:парчета
 rent:съдирам
@@ -5167,3 +5178,5 @@ garden:градина
 gardens:градини
 gardener:градинар
 eden:едем
+worm:червей
+worms:червеи
