@@ -450,6 +450,8 @@ practise:практикува
 when:кога/когато
 mother:майка
 before:преди/пред
+afore:прежде
+aforetime:преждевреме
 she:тя
 found:намери
 find:намирам
@@ -481,6 +483,10 @@ promised:обеща
 pledge:залог
 pledges:залози
 holy:свещен
+holier:по-свещен
+holiest:най-свещен
+holily:свещено
+holiness:свещенност
 hallow:освещавам
 hallowed:освещи
 saint:светия
@@ -3735,6 +3741,7 @@ harvest:жетва
 harvestman:жетвар
 apostle:апостол
 apostles:апостоли
+apostleship:апостолство
 philip:филип
 bartholomew:вартоломей
 thomas:тома
@@ -5180,3 +5187,7 @@ gardener:градинар
 eden:едем
 worm:червей
 worms:червеи
+saul:савел
+paul:павел
+paulus:павлий
+rome:рим

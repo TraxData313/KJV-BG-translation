@@ -13034,6 +13034,41 @@ worms:червеи
 
 
 
+рим:
+saul:савел
+paul:павел
+paulus:павлий
+
+before:преди/пред<<
+afore:преди
+aforetime:предивреме
+
+holy:свещен<<
+holier:по-свещен
+holiest:най-свещен
+holily:свещено
+holiness:свещенност
+
+apostle:апостол<<
+apostleship:апостолство
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -13056,8 +13091,13 @@ bill
 precept
 
 
-
-
+45NT_Римляни
+mention
+length
+prosperous
+impart
+mutual
+ignorant
 
 
 
