@@ -743,6 +743,7 @@ fathers:отци
 hast:имаше/минвр
 o:о
 may:може
+mayest:можеш
 what:какво
 among:измежду
 between:между
@@ -5194,3 +5195,13 @@ saul:савел
 paul:павел
 paulus:павлий
 rome:рим
+pison:фисон
+havilah:евила
+bdellium:бделий
+onyx:оникс/ониксов
+gihon:гион
+ethiopia:етиопия
+hiddekel:хидекел
+assyria:асирия
+euphrates:ефрат
+adam:адам

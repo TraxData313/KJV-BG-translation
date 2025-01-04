@@ -13088,6 +13088,43 @@ precepts:предписания
 
 
 
+бит:
+pison:фисон
+havilah:евила
+bdellium:бделий
+onyx:оникс/ониксов
+
+
+
+
+
+
+
+
+
+
+
+
+01OT_Битие
+gihon:гион
+ethiopia:етиопия
+hiddekel:хидекел
+assyria:асирия
+euphrates:ефрат
+may:може<<
+mayest:можеш
+adam:адам
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -13098,13 +13135,6 @@ precepts:предписания
 north
 circuits
 whereof
-
-
-бит:
-Pison
-Havilah
-bdellium
-onyx
 
 
 45NT_Римляни
@@ -13120,11 +13150,6 @@ ignorant
 fraud:измама<<
 defraud
 defrauded
-
-
-
-
-
 
 
 
