@@ -13066,6 +13066,27 @@ apostleship:апостолство
 
 
 
+mat:
+note:бележка<<
+receipt:получателница<<
+bill:разписка
+
+writing:писание<<
+inscription:вписание<<
+scripture:постановление<<
+precept:предписание
+precepts:предписания
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -13086,11 +13107,6 @@ bdellium
 onyx
 
 
-mat:
-bill
-precept
-
-
 45NT_Римляни
 mention
 length
@@ -13098,6 +13114,20 @@ prosperous
 impart
 mutual
 ignorant
+
+
+41NT_Марк
+fraud:измама<<
+defraud
+defrauded
+
+
+
+
+
+
+
+
 
 
 

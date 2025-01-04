@@ -52,7 +52,7 @@ create:създава
 created:създаде
 creature:създание
 creator:създадел
-creation:създание
+creation:създаване
 establish:установя
 establisheth:установи
 established:установен
@@ -1057,6 +1057,8 @@ scribes:постанововеди
 superscription:надпис
 inscription:вписание
 description:описание
+precept:предписание
+precepts:предписания
 prophecy:пророкувание
 scholar:ученик
 write:пиша
@@ -1097,6 +1099,7 @@ letters:мисма
 note:бележка
 noted:бележа
 notable:бележит
+bill:разписка
 demand:настоявам
 demanded:настоя
 request:изисквам/изискване
