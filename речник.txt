@@ -4268,6 +4268,8 @@ deceitfully:заблуждаващо
 deceitfulness:заблуждавателност
 deceits:заблуди
 fraud:измама
+defraud:измамя
+defrauded:измамих
 rich:богат
 richer:по-богат
 riches:богатства

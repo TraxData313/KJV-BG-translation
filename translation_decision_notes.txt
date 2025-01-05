@@ -13132,7 +13132,15 @@ adam:адам
 
 
 екл: 
-north
+south:юг<<
+southward:южно<<
+north:север
+northern:северен
+northward:северно
+compass:обикалям<<
+round:кръгло<< -> обло?
+circle:кръг?
+circuit:окръг/окръжност?
 circuits
 whereof
 
@@ -13146,13 +13154,15 @@ mutual
 ignorant
 
 
-41NT_Марк
-fraud:измама<<
-defraud
-defrauded
+01OT_Битие
+dress
+ribs
+instead
 
 
-
+Mark10:30
+mothers
+withal
 
 
 
