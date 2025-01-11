@@ -13138,11 +13138,32 @@ north:север
 northern:северен
 northward:северно
 compass:обикалям<<
-round:кръгло<< -> обло?
-circle:кръг?
-circuit:окръг/окръжност?
-circuits
-whereof
+round:кръгло<< -> обло (готово)
+circle:кръг
+circuit:окръжност
+circuits:окръжности
+of:от/за<<
+whereof:откъдето/откоето
+
+Mark10:30
+mother:майка<<
+mothers:майки
+withal:свсички/снего/стях
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 45NT_Римляни
@@ -13160,9 +13181,21 @@ ribs
 instead
 
 
-Mark10:30
-mothers
-withal
+Марк
+case:случай<<
+happen:случи
+happened:случи
+happeneth:случва
+
+lord:господ<<
+lordship:господство
+
+
+
+
+
+
+
 
 
 

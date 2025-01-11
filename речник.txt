@@ -5,6 +5,7 @@ god:бог
 gods:богове
 lord:господ
 lords:господа
+lordship:господство
 king:цар
 kings:царе
 above:отгоре
@@ -449,6 +450,7 @@ smart:умен
 practise:практикува
 when:кога/когато
 mother:майка
+mothers:майки
 before:преди/пред
 afore:прежде
 aforetime:преждевреме
@@ -1605,7 +1607,10 @@ honey:мед
 honeycomb:меденапита
 region:регион
 regions:региони
-round:кръгло
+round:обло
+circle:кръг
+circuit:окръжност
+circuits:окръжности
 jordan:иордан
 confess:изповядвам
 confesseth:изповядваш
@@ -4163,6 +4168,9 @@ queen:царица
 queens:царици
 south:юг
 southward:южно
+north:север
+northern:северен
+northward:северно
 sweep:мета/измитам
 sweeping:измитащ
 swept:измитох
@@ -5207,3 +5215,8 @@ hiddekel:хидекел
 assyria:асирия
 euphrates:ефрат
 adam:адам
+withal:свсички/снего/стях
+happen:случи
+happened:случи
+happeneth:случва
+whereof:откъдето/откоето
