@@ -1167,6 +1167,7 @@ beg:скъдня
 begged:скъдни
 beggar:скъдник
 beggarly:скъднешки
+begging:скъднейки/скъднещ
 diligently:усърдно
 diligent:усърден
 search:издирвам
@@ -4548,6 +4549,7 @@ keys:ключове
 loose:пускам
 loosed:пуснах
 looseth:пуска
+loosing:пускайки
 unloose:разпусна
 release:отпускам
 released:отпуснах
@@ -5220,3 +5222,5 @@ happen:случи
 happened:случи
 happeneth:случва
 whereof:откъдето/откоето
+bartimaeus:вартимей
+timaeus:тимей

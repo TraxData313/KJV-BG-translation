@@ -13165,6 +13165,43 @@ withal:свсички/снего/стях
 
 
 
+Марк
+case:случай<<
+happen:случи
+happened:случи
+happeneth:случва
+
+lord:господ<<
+lordship:господство
+
+
+Mark
+bartimaeus:вартимей
+timaeus:тимей
+beg:скъдня<<
+begging:скъднейки/скъднещ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 45NT_Римляни
 mention
@@ -13181,14 +13218,7 @@ ribs
 instead
 
 
-Марк
-case:случай<<
-happen:случи
-happened:случи
-happeneth:случва
 
-lord:господ<<
-lordship:господство
 
 
 
