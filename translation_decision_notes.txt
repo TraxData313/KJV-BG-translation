@@ -13200,6 +13200,51 @@ begging:скъднейки/скъднещ
 
 
 
+Марк
+even:както/вечер/даже/също<<
+evening:свечеряване<<
+eventide:привечер
+	"evening" (archaic)
+	tide "time, season; recurring interval, space of time,"
+eveningtide:присвечеряване
+
+
+
+happen:случи<<
+happened:случи<<
+happeneth:случва<<
+hap:случ
+haply:случайно
+
+remember:спомням<<
+remembered:спомних<<
+rememberest:спомниш<<
+remembereth:спомни<<
+remembrance:спомен
+remembrances:спомени
+remembering:спомняйки
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Марк:
+praying
+winefat
+handled
 
 
 

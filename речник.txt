@@ -1085,6 +1085,9 @@ remember:спомням
 remembered:спомних
 rememberest:спомниш
 remembereth:спомни
+remembrance:спомен
+remembrances:спомени
+remembering:спомняйки
 chain:верига
 chains:вериги
 testimony:показание
@@ -2880,6 +2883,8 @@ otherwise:подругначин
 even:както/вечер/даже/също
 evening:свечеряване
 evenings:свечерявания
+eventide:привечер
+eveningtide:присвечеряване
 namely:именно
 name:име
 names:имена
@@ -5218,6 +5223,8 @@ assyria:асирия
 euphrates:ефрат
 adam:адам
 withal:свсички/снего/стях
+hap:случ
+haply:случайно
 happen:случи
 happened:случи
 happeneth:случва
