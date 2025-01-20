@@ -13242,9 +13242,27 @@ remembering:спомняйки
 
 
 Марк:
-praying
-winefat
-handled
+pray:моля<<
+praying:молейки/молене
+wine:вино<<
+fat:тлъст/тлъсто<<
+winefat:вонотлъстина
+handle:хват<<
+hand:ръка<<
+handled:държах
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -13263,10 +13281,21 @@ ribs
 instead
 
 
+1Jn1:8
+ourselves
+liar
+advocate
+propitiation
+hereby
 
 
 
 
+
+Form-ready verses: [9680] or [33%] out of [29488] not yet translated
+- [SSol]: [4] starting form-ready
+- [Mark]: [14] starting form-ready
+- [Jn]: [7] starting form-ready
 
 
 

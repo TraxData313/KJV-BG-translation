@@ -946,6 +946,8 @@ def mark_ready_to_translate_lines():
     # - extract the book name
     df['book_name'] = df['verse'].str.split(' ',1).str[0].str.replace('\d+', '', regex=True).str.replace(':', '', regex=False)
     df['verse'] = df['verse'].str.split(n=1).str[1]
+    # - Remove the 's (like from Бог's latin chars):
+    df['verse'] = df['verse'].str.replace("'s", '')
     # - mark the ready to translate lines
     df['ready_to_transl'] = 1 #start as all verses as ready to translate
     for latin_char in 'qwertyuiopasdfghjklzxcvbnm':

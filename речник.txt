@@ -100,6 +100,7 @@ christ:христос
 christs:христи
 amen:амин
 all:всички
+at all:въобще
 every:всеки
 everything:всичко
 upon:връз
@@ -1135,6 +1136,7 @@ held:държа
 holden:държан
 handle:хват
 handles:хватове
+handled:държах
 laid hold:задържах
 catch:улавям
 catcheth:улавя
@@ -1166,6 +1168,7 @@ prayeth:моли
 prayed:помоли
 prayer:молитва
 prayers:молитви
+praying:молейки/молене
 beg:скъдня
 begged:скъдни
 beggar:скъдник
@@ -3649,6 +3652,7 @@ worse:по-лош
 worst:най-лош
 wine:вино
 wines:вина
+winefat:вонотлъстина
 vine:лоза
 vines:лози
 vinegar:оцет
