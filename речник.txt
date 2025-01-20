@@ -1208,7 +1208,7 @@ youths:младежи
 youthful:младежки
 again:пак
 renewed:поднови
-leave:напускам
+leave:напускам/оставям
 leaveth:напуска
 left:напусна/ляво
 leaving:напускам
