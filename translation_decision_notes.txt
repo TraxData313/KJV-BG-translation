@@ -13255,6 +13255,29 @@ handled:държах
 
 
 
+Mark12:26
+bush:храст
+bushes:храсти
+
+perceive:възприемам<<
+perceivest:възприемаш<<
+perceiveth:възприема<<
+perceived:възприех<<
+perceiving:възприемайки
+
+discreet:разбран
+discreetly:разбрано
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -13290,17 +13313,16 @@ hereby
 
 
 
-Mark12:26
-bush
-perceiving
-discreetly
+Mark12:42
+mite:петаче/банче/лепта .. стотинка?
+mites
+	"the cutter," in reference to its bite, "little bit,"
 
 
 
-
-
-
-
+SSol1:5
+comely
+curtains
 
 
 

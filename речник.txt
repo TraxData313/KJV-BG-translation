@@ -791,6 +791,7 @@ likened:оподобен
 more:повече
 offer:предлагам
 offering:предложение
+offerings:предложения
 contribution:принос
 hundred:сто
 egypt:египет
@@ -3227,6 +3228,7 @@ perceive:възприемам
 perceivest:възприемаш
 perceiveth:възприема
 perceived:възприех
+perceiving:възприемайки
 accept:признавам
 acceptest:признаваш
 accepteth:признава
@@ -4235,6 +4237,8 @@ understandest:разбираш
 understandeth:разбира
 understanding:разбиране/разбирайки/разбиращ
 understood:разбрах
+discreet:разбран
+discreetly:разбрано
 wax:ставам
 waxed:станах
 waxen:станал
@@ -5235,3 +5239,5 @@ happeneth:случва
 whereof:откъдето/откоето
 bartimaeus:вартимей
 timaeus:тимей
+bush:храст
+bushes:храсти
