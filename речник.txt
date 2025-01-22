@@ -453,6 +453,7 @@ when:кога/когато
 mother:майка
 mothers:майки
 before:преди/пред
+beforehand:предръки
 afore:прежде
 aforetime:преждевреме
 she:тя
@@ -1765,7 +1766,7 @@ needed:нуждаех
 needest:нуждаеш
 needeth:нуждае
 needful:нужно
-needs:нужда
+needs:нужди
 needy:нуждаещ
 descending:слизайки/слизащ
 ascend:възлизам
@@ -1852,7 +1853,7 @@ lively:жизнен
 lives:животи
 livest:живееш
 liveth:живее
-living:живеещ
+living:живеещ/живеене
 alive:жив
 outlived:надживяха
 overlived:преживяха
@@ -5241,3 +5242,8 @@ bartimaeus:вартимей
 timaeus:тимей
 bush:храст
 bushes:храсти
+mite:стотинка
+mites:стотинки
+meditate:съзерцавам
+meditation:съзерцание
+premeditate:предсъзерцавам
