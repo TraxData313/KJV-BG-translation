@@ -13300,7 +13300,28 @@ mites:стотинки
 
 
 Mark
-foretold
+told:обясних<<
+foretold:предобясни
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+porter
+cockcrowing
+craft
+whensoever
 
 
 

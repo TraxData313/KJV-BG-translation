@@ -154,6 +154,7 @@ telleth:обяснява
 tellest:обясняваш
 telling:обяснявайки/обясвяващ/обяснение
 told:обясних
+foretold:предобясни
 answer:отговор
 answereth:отговаря
 answered:отговорих
