@@ -13310,17 +13310,52 @@ foretold:предобясни
 
 
 
+Бит
+tame:укротявам<<
+dress:обработвам/опитомявам?
+dressed
+dresser
+dressers
+dresseth
+undressed:неопитомен
+vinedressers:лозари<<
 
 
 
+Мат
+door:врата<< -> дверя 
+doors:врати<< -> двери
+doorkeeper:вратопазач<< -> дверпазач
+doorkeepers:вратопазачи<< -> дверпазачи
+	root *dhwer- "door, doorway." и на руски дверь
+
+gate:порта<< -> врата
+gates:порти<< -> врати
+
+port:порта
+porter:портиер
+porters:портиери
+
+portion:порция<<
+portions:порции<<
+proportion:пропорция<<
+importunity
+opportunity
 
 
-
-
-
-porter
+cock:петел<<
+crow:кукуригам<<
 cockcrowing
-craft
+
+craft:занаят?
+craftiness
+craftsman
+craftsmen
+crafty:сръчен?
+witchcraft
+witchcrafts
+
+soever:кое*_и_Х_да<<
 whensoever
 
 
