@@ -13282,7 +13282,22 @@ mites:стотинки
 
 
 
+door:врата<< -> дверя 
+doors:врати<< -> двери
+doorkeeper:вратопазач<< -> дверпазач
+doorkeepers:вратопазачи<< -> дверпазачи
+	root *dhwer- "door, doorway." и на руски дверь
 
+gate:порта<< -> врата
+gates:порти<< -> врати
+
+port:порта
+porter:портиер
+porters:портиери
+
+cock:петел<<
+crow:кукуригам<<
+cockcrowing:петелокукуригане
 
 
 
@@ -13306,6 +13321,70 @@ foretold:предобясни
 
 
 
+mention:споменавам
+mentioned:споменавах
+
+long:дълъг<<
+length:дължина
+lengthen:удължавам
+lengthened:удължих
+lengthening:удължавайки
+
+prosper:благоуспявам
+prospered:благоуспях
+prospereth:багоуспя
+prosperity:багоуспех
+prosperous:багоуспешен
+prosperously:багоуспешно
+	be successful, thrive, advance in any good thing
+	prosperus "favorable, fortunate, prosperous"
+	pro "for" (see pro-) + ablative of spes "hope" към-надежда/вяра/очакване
+
+success:успех
+thrive(0)
+favorable(0)
+fortun*(0)
+
+
+
+part:дял/поделям<<
+impart:вделя
+imparted:вделих
+
+mutual:взаимна
+
+
+
+long:дълъг<< + копнея
+longer:по-дълъг
+longeth:копнее
+longed:копнях
+longedst:копнях
+longing:копнеещ/копнеж
+crave(0):принуждавам/искам за твакива неща се използва
+craved:
+craveth
+yearn:това е за нещо като притеснение
+yearned
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -13323,30 +13402,6 @@ vinedressers:лозари<<
 
 
 Мат
-door:врата<< -> дверя 
-doors:врати<< -> двери
-doorkeeper:вратопазач<< -> дверпазач
-doorkeepers:вратопазачи<< -> дверпазачи
-	root *dhwer- "door, doorway." и на руски дверь
-
-gate:порта<< -> врата
-gates:порти<< -> врати
-
-port:порта
-porter:портиер
-porters:портиери
-
-portion:порция<<
-portions:порции<<
-proportion:пропорция<<
-importunity
-opportunity
-
-
-cock:петел<<
-crow:кукуригам<<
-cockcrowing
-
 craft:занаят?
 craftiness
 craftsman
@@ -13357,6 +13412,13 @@ witchcrafts
 
 soever:кое*_и_Х_да<<
 whensoever
+
+
+
+
+Rom
+ignorant
+hitherto
 
 
 
