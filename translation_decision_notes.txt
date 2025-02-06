@@ -13439,21 +13439,59 @@ vinedressers:лозари<< -> лозарооправячи
 
 
 
-- [Ge]: [6] starting form-ready
+
 
 
 Rom
-ignorant
-ignorance
-ignorantly
-hitherto
-Barbarians
-unwise
+know:знам<<
+ignorant:невеж
+ignorance:невежество
+ignorantly:поневежество
+
+hither:насам<<
+to:до/на/към<<
+now:сега<<
+until:докато<<
+hitherto:досега
+	"until now" or "up to this very moment."
+
+barbarian:варварин
+barbarians:варвари
+barbarous:варварски
+
+wise:мъдър/начин<<
+unwise:безмъдър
 
 
 Мат
-spikenard
-aforehand
+spikenard:нард
+beforehand:предръки<<
+afore:прежде<<
+aforetime:преждевреме<<
+aforehand:преждеръки
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- [Ge]: [6] starting form-ready
+- [Mark]: [10] starting form-ready
+- [Rom]: [5] starting form-ready
+
 
 
 

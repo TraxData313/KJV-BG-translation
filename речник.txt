@@ -436,6 +436,7 @@ wise:мъдър/начин
 wisely:мъдро
 wiser:по-мъдър
 wisdom:мъдрост
+unwise:безмъдър
 reason:последователство/последователствам
 reasonable:последователен
 reasoned:последователствах
@@ -457,6 +458,7 @@ before:преди/пред
 beforehand:предръки
 afore:прежде
 aforetime:преждевреме
+aforehand:преждеръки
 she:тя
 found:намери
 find:намирам
@@ -913,6 +915,9 @@ knowing:знаейки
 knew:позна
 knewest:познаеш
 known:позна
+ignorant:невеж
+ignorance:невежество
+ignorantly:поневежество
 till:докато/до/ора
 tillest:ореш
 tillage:оране
@@ -3547,6 +3552,7 @@ fierceness:свирепост
 fiercer:по-свиреп
 here:тук
 hither:насам
+hitherto:досега
 flock:овцегрупа
 flocks:овцегрупи
 herd:стадо
@@ -5285,3 +5291,7 @@ crafty:изкусен
 craftiness:изкустност
 craftsman:изкуствовед
 craftsmen:изкуствоведи
+barbarian:варварин
+barbarians:варвари
+barbarous:варварски
+spikenard:нард
