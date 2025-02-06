@@ -937,6 +937,7 @@ whereon:върхукоито/върхукаквото
 whereunto:накоито/накаквото
 wheresoever:къдетоида
 whatsoever:каквотоидае
+whensoever:когатоида
 soever:кое*_и_Х_да
 jew:юдей
 jews:юдеи
@@ -2111,8 +2112,8 @@ ship:кораб
 ships:кораби
 shipmen:корабници
 shipwreck:корабокрушение
-trimmed:оправих
-trimmest:оправяш
+trimmed:спретнах
+trimmest:спретна
 mend:поправям
 mending:поправящи/покравяйки
 immediately:непосредствено
@@ -3674,7 +3675,13 @@ vines:лози
 vinegar:оцет
 vineyard:лозе
 vineyards:лозя
-vinedressers:лозари
+vinedressers:лозарооправячи
+dress:оправям
+dresseth:оправя
+dressed:оправих
+dresser:оправяч
+dressers:оправячи
+undressed:неоправен
 bottle:бутилка
 bottles:бутилки
 both:двете/двамата
@@ -5273,3 +5280,8 @@ prosperous:багоуспешен
 prosperously:багоуспешно
 success:успех
 mutual:взаимна
+craft:изкуство
+crafty:изкусен
+craftiness:изкустност
+craftsman:изкуствовед
+craftsmen:изкуствоведи

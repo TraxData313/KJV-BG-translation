@@ -13371,6 +13371,24 @@ yearned
 
 
 
+Мат
+craft:изкуство
+craftsman:изкуствовед?
+craftsmen:изкуствоведи
+crafty:изкусен
+craftiness:изкустност
+	witch:вещица/чародейка?
+	witchcraft:вещоизкуство
+	witchcrafts
+	art(0):изкуство? (ползва се само за "ти")
+
+soever:кое*_и_Х_да<<
+whensoever:когатоида
+
+
+
+
+
 
 
 
@@ -13391,34 +13409,57 @@ yearned
 
 Бит
 tame:укротявам<<
-dress:обработвам/опитомявам?
-dressed
-dresser
-dressers
-dresseth
-undressed:неопитомен
-vinedressers:лозари<<
+ready:готов<<
+make ready:приготвям<<
+prune:подкастряш<<
+trimmed:оправих<< -> спретнах
+trimmest:оправяш<< -> спретна (готово)
+dress:оправям
+dresseth:оправя
+dressed:оправих
+dresser:оправяч
+dressers:оправячи
+undressed:неоправен
+vinedressers:лозари<< -> лозарооправячи
+	from Latin directus "direct, straight,"
 
 
 
-Мат
-craft:занаят?
-craftiness
-craftsman
-craftsmen
-crafty:сръчен?
-witchcraft
-witchcrafts
-
-soever:кое*_и_Х_да<<
-whensoever
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+- [Ge]: [6] starting form-ready
 
 
 Rom
 ignorant
+ignorance
+ignorantly
 hitherto
+Barbarians
+unwise
+
+
+Мат
+spikenard
+aforehand
+
+
+
+
+
+
 
 
 
