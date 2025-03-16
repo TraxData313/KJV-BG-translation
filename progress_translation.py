@@ -20,7 +20,7 @@ if __name__=='__main__':
     progr_mes += f.estimate_revised_verses_progress(df, weighted=weighted_eta_est)
     progr_mes += f"- С текущия темп цялостният груб превод ще завърши около [{f.get_the_final_eta_averaged_by_two_ways(weighted=weighted_eta_est)}]\n"
     print(progr_mes)
-    f.update_progress_in_the_readme_md(progr_mes)
+    #f.update_progress_in_the_readme_md(progr_mes)
 
     # Compile the books:
     print()

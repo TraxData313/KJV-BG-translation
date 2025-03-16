@@ -13498,11 +13498,32 @@ aforehand:преждеръки
 
 Бит
 rib
-instead
+
+place:място<<
+stead:место?
+steads
+steady
+	and his hands were steady until the going down of the sun.
+instead:вместо?
+bedstead
+bestead
+
+
+
 
 Мат
-pitcher
-upper
+pitch:смола?
+pitched
+pitcher:водонос/стомна?
+pitchers
+tar(0)
+	смола: and shalt pitch it within and without with pitch
+	разпъвам: pitched his tent toward Sodom
+	водонос: Let down thy pitcher, I pray thee, that I may drink
+
+upper:горен?
+drink:пия/напитка<<
+drunk:пих<<
 drank
 
 Римляни
